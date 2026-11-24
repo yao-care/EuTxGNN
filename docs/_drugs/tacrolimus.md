@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 581
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L1). Approved use: Prophylaxis of transplant rejection in adult kidney or liver allograf…"
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
@@ -99,7 +99,13 @@ Note: whether the Phase 3 trial was randomized or controlled cannot be confirmed
 
 <!-- licenses:end -->
 
-All five authorizations are listed as valid.
+The current status of each authorisation is shown in the table above.
+
+<!-- review:begin eu-lic-20261124-tacrolimus-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All five authorizations are listed as valid." Corrected: the EMA data list six EU marketing authorisations for tacrolimus, and Protopy (EMEA/H/C/000375) is withdrawn, so not all of them are valid; the table above shows each one's current status. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124-tacrolimus-1 -->
 
 ## Safety Considerations
 
@@ -118,7 +124,7 @@ Two completed trials (Phase 3 and Phase 4, 224 patients combined) test tacrolimu
 
 <!-- review:begin eu-lic-20261106-tacrolimus-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "However, results from the trials are not provided, the Phase 3 design is unconfirmed, and the only EU topical product (Protopic) is currently cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "However, results from the trials are not provided, the Phase 3 design is unconfirmed, and the only EU topical product (Protopic) is currently cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-tacrolimus-2 -->
 
@@ -130,7 +136,7 @@ Two completed trials (Phase 3 and Phase 4, 224 patients combined) test tacrolimu
 
 <!-- review:begin eu-lic-20261106-tacrolimus-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory status of topical tacrolimus products, since all five authorizations are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the EU regulatory status of topical tacrolimus products, since all five authorizations are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-tacrolimus-1 -->
 
@@ -142,9 +148,10 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "since all five authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "and the only EU topical product (Protopic) is currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "since all five authorizations are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "and the only EU topical product (Protopic) is currently cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data from DrugBank is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
+| 2026-11-24 | Replaced "All five authorizations are listed as valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

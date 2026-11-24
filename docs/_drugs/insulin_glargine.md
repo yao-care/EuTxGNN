@@ -83,7 +83,7 @@ None of these studies tests insulin glargine in pancreatic agenesis or in autoim
 
 <!-- review:begin eu-lic-20261106-insulin_glargine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All four authorizations are valid (4 valid licences of 4)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "All four authorizations are valid (4 valid licences of 4)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-insulin_glargine-1 -->
 
@@ -123,7 +123,7 @@ The prediction rests only on a model score, with no clinical trials or publicati
 
 <!-- review:begin eu-lic-20261106-insulin_glargine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The prediction rests only on a model score, with no clinical trials or publications and no plausible direct mechanism. The market status is also cancelled for all current EU licenses." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The prediction rests only on a model score, with no clinical trials or publications and no plausible direct mechanism. The market status is also cancelled for all current EU licenses." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-insulin_glargine-2 -->
 
@@ -135,7 +135,7 @@ The prediction rests only on a model score, with no clinical trials or publicati
 
 <!-- review:begin eu-lic-20261106-insulin_glargine-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU market status and of available routes and formulations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the cancelled EU market status and of available routes and formulations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-insulin_glargine-3 -->
 
@@ -147,9 +147,9 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "All four authorizations are valid (4 valid licences of 4)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "The market status is also cancelled for all current EU licenses" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "of the cancelled EU market status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All four authorizations are valid (4 valid licences of 4)" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The market status is also cancelled for all current EU licenses" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "of the cancelled EU market status and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810) |
 
 <!-- review:end log -->

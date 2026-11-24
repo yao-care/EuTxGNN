@@ -109,7 +109,7 @@ The prediction rests only on a model score. There are no clinical trials or publ
 
 <!-- review:begin eu-lic-20261031-alglucosidase_alfa-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications, and the biology argues against it: the enzyme acts in lysosomes, the disease defect is cytosolic, and brain penetration is poor. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "There are no clinical trials or publications, and the biology argues against it: the enzyme acts in lysosomes, the disease defect is cytosolic, and brain penetration is poor. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-alglucosidase_alfa-1 -->
 
@@ -121,7 +121,7 @@ The prediction rests only on a model score. There are no clinical trials or publ
 
 <!-- review:begin eu-lic-20261031-alglucosidase_alfa-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Review of the existing literature on enzyme replacement in glycogen branching enzyme deficiency / Clarification of the regulatory situation, given that the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Review of the existing literature on enzyme replacement in glycogen branching enzyme deficiency / Clarification of the regulatory situation, given that the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-alglucosidase_alfa-2 -->
 
@@ -133,8 +133,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-10-31 | Removed: "Clarification of the regulatory situation, given that the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorization is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of the regulatory situation, given that the only EU authorization is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lumizyme (alglucosidase alfa) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6bfbc45-2d34-439e-8aad-59ee2d53d4df) |
 
 <!-- review:end log -->

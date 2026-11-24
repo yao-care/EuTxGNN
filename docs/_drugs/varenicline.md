@@ -100,7 +100,7 @@ The prediction is supported only by a model score. No trials exist, and the sing
 
 <!-- review:begin eu-lic-20261106-varenicline-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Varenicline's EU authorization is cancelled, and the knowledge graph flags psychiatric and cardiovascular cautions, so there is no basis to advance." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Varenicline's EU authorization is cancelled, and the knowledge graph flags psychiatric and cardiovascular cautions, so there is no basis to advance." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-varenicline-2 -->
 
@@ -113,7 +113,7 @@ The prediction is supported only by a model score. No trials exist, and the sing
 
 <!-- review:begin eu-lic-20261106-varenicline-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorization was cancelled and of the regulatory pathway for any new use" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of why the EU authorization was cancelled and of the regulatory pathway for any new use" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-varenicline-1 -->
 
@@ -125,8 +125,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "of why the EU authorization was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Varenicline's EU authorization is cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "of why the EU authorization was cancelled and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Varenicline's EU authorization is cancelled, and t" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-20 | "The mechanism of action data compiled for this report is not available in structured form, so this description comes from the mechanistic rationale in the prediction data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Chantix (varenicline tartrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0ff4f27-5185-4881-a749-c6b7a0ca5696) |
 
 <!-- review:end log -->

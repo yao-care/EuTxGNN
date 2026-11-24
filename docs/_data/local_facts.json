@@ -21,11 +21,11 @@
   "items_current": 1234
  },
  "reviews": {
-  "records": 855,
+  "records": 862,
   "pages": 444,
   "public_pages_with_records": 433,
   "by_action": {
-   "correct": 448,
+   "correct": 455,
    "mechanism": 407
   }
  },
@@ -217,203 +217,203 @@
   "l": "L1",
   "lt": 6,
   "lv": 5,
-  "r": 3,
+  "r": 4,
   "i": "seborrheic dermatitis"
  },
  "recent_reviews": [
   {
-   "t": "Atosiban",
-   "u": "/drugs/atosiban/",
-   "s": "Removed: \"The product is also no longer authorized in the EU\"",
-   "d": "2026-11-12"
+   "t": "Tacrolimus",
+   "u": "/drugs/tacrolimus/",
+   "s": "Replaced \"All five authorizations are listed as valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Levodopa",
+   "u": "/drugs/levodopa/",
+   "s": "Replaced \"The data compiled for this report list one authorization, and it is currently recorded as valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ivabradine",
+   "u": "/drugs/ivabradine/",
+   "s": "Removed: \"since all five authorizations are listed as valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Empagliflozin",
+   "u": "/drugs/empagliflozin/",
+   "s": "Replaced \"The data compiled for this report list 1 authorization, a single-ingredient product with valid…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Doxorubicin",
+   "u": "/drugs/doxorubicin/",
+   "s": "Replaced \"Both authorisations\" with \"All the authorisations in the table above\"",
+   "d": "2026-11-24"
   },
   {
    "t": "Zonisamide",
    "u": "/drugs/zonisamide/",
    "s": "Removed: \"since both EU authorizations are cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Zidovudine",
    "u": "/drugs/zidovudine/",
    "s": "Removed: \"with 2 valid licences out of 2\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Ziconotide",
    "u": "/drugs/ziconotide/",
    "s": "Removed: \"he EU authorization has been cancelled, and t\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Zanubrutinib",
    "u": "/drugs/zanubrutinib/",
    "s": "Removed: \"Verification of the current EU marketing authorization status, since the data show it as cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Zanamivir",
    "u": "/drugs/zanamivir/",
    "s": "Removed: \"The EU authorization is also cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Voxilaprevir",
    "u": "/drugs/voxilaprevir/",
    "s": "Removed: \"The EU authorization is also cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Vortioxetine",
    "u": "/drugs/vortioxetine/",
    "s": "Removed: \"Clarification of the cancelled EU authorization status and its reasons\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Volanesorsen",
    "u": "/drugs/volanesorsen/",
    "s": "Removed: \"and the EU authorization has been cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Vildagliptin",
    "u": "/drugs/vildagliptin/",
    "s": "Removed: \"with 3 valid licences out of 3\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Vilanterol",
    "u": "/drugs/vilanterol/",
    "s": "Removed: \"and is also cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Vestronidase Alfa",
    "u": "/drugs/vestronidase-alfa/",
    "s": "Removed: \"since the EU authorization is cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Verteporfin",
    "u": "/drugs/verteporfin/",
    "s": "Removed: \"The EU authorization has also been cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Vernakalant",
    "u": "/drugs/vernakalant/",
    "s": "Removed: \"Clarification of why the EU authorization was cancelled and whether the drug is available in the EU\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Venetoclax",
    "u": "/drugs/venetoclax/",
    "s": "Removed: \"and the EU authorisation is recorded as cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Velpatasvir",
    "u": "/drugs/velpatasvir/",
    "s": "Removed: \"given that both authorizations are cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Varenicline",
    "u": "/drugs/varenicline/",
    "s": "Removed: \"Varenicline's EU authorization is cancelled, and t\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Valsartan",
    "u": "/drugs/valsartan/",
    "s": "Removed: \"and all EU authorizations for valsartan-containing products are cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Ustekinumab",
    "u": "/drugs/ustekinumab/",
    "s": "Removed: \"In addition, the drug is currently marketed, with 13 valid licences out of 13\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Upadacitinib",
    "u": "/drugs/upadacitinib/",
    "s": "Removed: \"The data compiled for this report list this single authorization as cancelled. Since the same…",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Tyrosine",
-   "u": "/drugs/tyrosine/",
-   "s": "Removed: \"of why the Maapliv authorisation was cancelled, and\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Turoctocog Alfa Pegol",
-   "u": "/drugs/turoctocog-alfa-pegol/",
-   "s": "Removed: \"and confirm the reason the EU authorisation was cancelled\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Turoctocog Alfa",
-   "u": "/drugs/turoctocog-alfa/",
-   "s": "Removed: \"The product's EU authorization is also cancelled\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Tryptophan",
-   "u": "/drugs/tryptophan/",
-   "s": "Removed: \"why the authorisation was cancelled and\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Atosiban",
-   "u": "/drugs/atosiban/",
-   "s": "Removed: \"The product is also no longer authorized in the EU\"",
-   "d": "2026-11-12"
+   "t": "Tacrolimus",
+   "u": "/drugs/tacrolimus/",
+   "s": "Replaced \"All five authorizations are listed as valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Levodopa",
+   "u": "/drugs/levodopa/",
+   "s": "Replaced \"The data compiled for this report list one authorization, and it is currently recorded as valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ivabradine",
+   "u": "/drugs/ivabradine/",
+   "s": "Removed: \"since all five authorizations are listed as valid\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Empagliflozin",
+   "u": "/drugs/empagliflozin/",
+   "s": "Replaced \"The data compiled for this report list 1 authorization, a single-ingredient product with valid…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Doxorubicin",
+   "u": "/drugs/doxorubicin/",
+   "s": "Replaced \"Both authorisations\" with \"All the authorisations in the table above\"",
+   "d": "2026-11-24"
   },
   {
    "t": "Zonisamide",
    "u": "/drugs/zonisamide/",
    "s": "Removed: \"since both EU authorizations are cancelled\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Zidovudine",
    "u": "/drugs/zidovudine/",
    "s": "Removed: \"with 2 valid licences out of 2\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Ziconotide",
    "u": "/drugs/ziconotide/",
    "s": "Removed: \"he EU authorization has been cancelled, and t\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zanubrutinib",
-   "u": "/drugs/zanubrutinib/",
-   "s": "Removed: \"Verification of the current EU marketing authorization status, since the data show it as cancelled\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zanamivir",
-   "u": "/drugs/zanamivir/",
-   "s": "Removed: \"The EU authorization is also cancelled\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Voxilaprevir",
-   "u": "/drugs/voxilaprevir/",
-   "s": "Removed: \"The EU authorization is also cancelled\"",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Vortioxetine",
-   "u": "/drugs/vortioxetine/",
-   "s": "Removed: \"Clarification of the cancelled EU authorization status and its reasons\"",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   }
  ],
  "files": {

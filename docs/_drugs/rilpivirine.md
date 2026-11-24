@@ -107,7 +107,7 @@ The prediction score is high, but the evidence is entirely preclinical (macaque 
 
 <!-- review:begin eu-lic-20261106-rilpivirine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Both EU authorizations are cancelled, and official safety label data are missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Both EU authorizations are cancelled, and official safety label data are missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-rilpivirine-1 -->
 
@@ -126,7 +126,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Both EU authorizations are cancelled, and o" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Both EU authorizations are cancelled, and o" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6) |
 
 <!-- review:end log -->

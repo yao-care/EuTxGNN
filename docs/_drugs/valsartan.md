@@ -88,7 +88,7 @@ The drug is marketed in this country. The five main ones are listed below.
 
 <!-- review:begin eu-lic-20261106-valsartan-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country: 9 of 9 licences are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 11 EU marketing authorisations for this drug, 9 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The drug is marketed in this country: 9 of 9 licences are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-valsartan-2 -->
 
@@ -131,7 +131,7 @@ The prediction score is high and the AT1-blockade mechanism is plausible. Howeve
 
 <!-- review:begin eu-lic-20261106-valsartan-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "However, there are no clinical trials, the only paper concerns a different drug, and all EU authorizations for valsartan-containing products are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 11 EU marketing authorisations for this drug, 9 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "However, there are no clinical trials, the only paper concerns a different drug, and all EU authorizations for valsartan-containing products are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-valsartan-3 -->
 
@@ -143,7 +143,7 @@ The prediction score is high and the AT1-blockade mechanism is plausible. Howeve
 
 <!-- review:begin eu-lic-20261106-valsartan-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Direct evidence for valsartan, or other AT1 receptor blockers, in malignant hypertensive renal disease (preclinical or clinical) / Review of the current regulatory status, given that all nine licences are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 11 EU marketing authorisations for this drug, 9 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Direct evidence for valsartan, or other AT1 receptor blockers, in malignant hypertensive renal disease (preclinical or clinical) / Review of the current regulatory status, given that all nine licences are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-valsartan-1 -->
 
@@ -155,9 +155,9 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Review of the current regulatory status, given that all nine licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: ": 9 of 9 licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "and all EU authorizations for valsartan-containing products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Review of the current regulatory status, given that all nine licences are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: ": 9 of 9 licences are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "and all EU authorizations for valsartan-containing products are cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
 
 <!-- review:end log -->

@@ -54,7 +54,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|------|------|
 | EMEA/H/C/004335 | Dzuveo | sufentanil citrate | Valid |
 | EMEA/H/C/002784 | Zalviso | sufentanil | Withdrawn |
-| EMEA/H/C/006395 | KemSu | ketamine hydrochloride; sufentanil citrate | Opinion under re-examination |
+| EMEA/H/C/006395 | KemSu | ketamine hydrochloride; sufentanil citrate | Refused |
 
 <!-- licenses:end -->
 

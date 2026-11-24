@@ -73,7 +73,7 @@ For reference, the only completed trial identified across the predicted indicati
 
 <!-- review:begin eu-lic-20261106-memantine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed; all 8 licences are currently valid (8 of 8)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The drug is marketed; all 8 licences are currently valid (8 of 8)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-memantine-1 -->
 
@@ -110,7 +110,7 @@ The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indic
 
 <!-- review:begin eu-lic-20261106-memantine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication and are also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication and are also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-memantine-2 -->
 
@@ -133,7 +133,7 @@ The pulmonary hypertension prediction rests on a very high model score alone. No
 
 <!-- review:begin eu-lic-20261106-memantine-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed, with 8 valid licences out of 8." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "In addition, the drug is marketed, with 8 valid licences out of 8." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-memantine-3 -->
 
@@ -151,9 +151,9 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The drug is marketed; all 8 licences are currently valid (8 of 8)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "and are also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "with 8 valid licences out of 8" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The drug is marketed; all 8 licences are currently valid (8 of 8)" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "and are also cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "with 8 valid licences out of 8" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e) |
 
 <!-- review:end log -->

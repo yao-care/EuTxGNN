@@ -115,7 +115,7 @@ The prediction score is high and a plausible trigeminovascular mechanism exists.
 
 <!-- review:begin eu-lic-20261106-parecoxib-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "However, the clinical evidence is a single pilot comparison of unconfirmed design, there are no registered trials, and the EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "However, the clinical evidence is a single pilot comparison of unconfirmed design, there are no registered trials, and the EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-parecoxib-1 -->
 
@@ -133,7 +133,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "and the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "and the EU authorisation is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1206690 (parecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1206690) |
 
 <!-- review:end log -->

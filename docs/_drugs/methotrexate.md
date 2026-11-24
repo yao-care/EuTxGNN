@@ -152,7 +152,7 @@ Label-based warnings and contraindications were not available in the data compil
 
 <!-- review:begin eu-lic-20261106-methotrexate-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "In addition, both EU authorizations are cancelled, and the label safety data are unavailable." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "In addition, both EU authorizations are cancelled, and the label safety data are unavailable." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-methotrexate-1 -->
 
@@ -171,7 +171,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "both EU authorizations are cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "both EU authorizations are cancelled, and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e) |
 
 <!-- review:end log -->

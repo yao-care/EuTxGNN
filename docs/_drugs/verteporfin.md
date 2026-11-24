@@ -98,7 +98,7 @@ The prediction rests only on a model score. No clinical trials or publications s
 
 <!-- review:begin eu-lic-20261106-verteporfin-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The photosensitizer's reactive oxygen species may even be harmful in mitochondrial disease. The EU authorization has also been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The photosensitizer's reactive oxygen species may even be harmful in mitochondrial disease. The EU authorization has also been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-verteporfin-2 -->
 
@@ -110,7 +110,7 @@ The prediction rests only on a model score. No clinical trials or publications s
 
 <!-- review:begin eu-lic-20261106-verteporfin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorization was cancelled and of the available routes of administration, including light delivery" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of why the EU authorization was cancelled and of the available routes of administration, including light delivery" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-verteporfin-1 -->
 
@@ -122,8 +122,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "of why the EU authorization was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "The EU authorization has also been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "of why the EU authorization was cancelled and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The EU authorization has also been cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL5314346 (verteporfin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5314346) |
 
 <!-- review:end log -->

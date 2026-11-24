@@ -111,7 +111,7 @@ For atopic eczema, the prediction is supported only by a model score and a plaus
 
 <!-- review:begin eu-lic-20261031-fluticasone_furoate-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "There are no trials, no efficacy literature, and no dermatologic formulation. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 11 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "There are no trials, no efficacy literature, and no dermatologic formulation. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-fluticasone_furoate-1 -->
 
@@ -125,7 +125,7 @@ For reference, the **obstructive lung disease** prediction (L1) is backed by sev
 
 <!-- review:begin eu-lic-20261031-fluticasone_furoate-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "A dermatologic formulation and route-compatibility assessment, followed by preclinical and early clinical studies in atopic eczema / Verification of current product availability, since the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 11 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "A dermatologic formulation and route-compatibility assessment, followed by preclinical and early clinical studies in atopic eczema / Verification of current product availability, since the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-fluticasone_furoate-2 -->
 
@@ -137,8 +137,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-10-31 | Removed: "Verification of current product availability, since the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorization is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Verification of current product availability, since the only EU authorization is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluticasone Furoate Ellipta (fluticasone furoate) prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3e797fc-2636-49a0-b89e-5246b18ee440) |
 
 <!-- review:end log -->

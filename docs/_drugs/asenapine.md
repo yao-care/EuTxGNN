@@ -113,7 +113,7 @@ The prediction has a high model score but no clinical, registered-trial or liter
 
 <!-- review:begin eu-lic-20261031-asenapine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The prediction has a high model score but no clinical, registered-trial or literature support, and no plausible mechanistic link between asenapine and inherited retinal dystrophy. The only authorization is cancelled, and the drug's safety profile (cardiovascular, metabolic and haematological signals, plus a heavy interaction burden) makes speculative use in a non-psychiatric population hard to justify." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The prediction has a high model score but no clinical, registered-trial or literature support, and no plausible mechanistic link between asenapine and inherited retinal dystrophy. The only authorization is cancelled, and the drug's safety profile (cardiovascular, metabolic and haematological signals, plus a heavy interaction burden) makes speculative use in a non-psychiatric population hard to justify." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-asenapine-1 -->
 
@@ -127,7 +127,7 @@ That prediction is essentially the already-approved indication rather than a tru
 
 <!-- review:begin eu-lic-20261031-asenapine-2 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Complete SmPC warnings and contraindications. / Verification of the current regulatory and availability status, since the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Complete SmPC warnings and contraindications. / Verification of the current regulatory and availability status, since the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-asenapine-2 -->
 
@@ -139,8 +139,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only authorization is cancelled, and the drug's safety profile (cardiovascular, metabolic and haematological signals, plus a heavy inter" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-10-31 | Removed: "Verification of the current regulatory and availability status, since the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only authorization is cancelled, and the drug's safety profile (cardiovascular, metabolic and haematological signals, plus a heavy inter" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Verification of the current regulatory and availability status, since the only EU authorization is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism-of-action data for asenapine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Saphris (asenapine maleate) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8) |
 
 <!-- review:end log -->

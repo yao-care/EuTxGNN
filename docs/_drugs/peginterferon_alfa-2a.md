@@ -134,7 +134,7 @@ Chronic hepatitis B is an already approved indication, and Phase 3/4 trials plus
 
 <!-- review:begin eu-lic-20261106-peginterferon_alfa-2a-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "This is label confirmation rather than new repurposing, and the EU authorisation is currently cancelled, so market availability needs clarification." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "This is label confirmation rather than new repurposing, and the EU authorisation is currently cancelled, so market availability needs clarification." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-peginterferon_alfa-2a-1 -->
 
@@ -148,7 +148,7 @@ The other predicted indications (hepatitis E, hepatitis A, animal viral hepatiti
 
 <!-- review:begin eu-lic-20261106-peginterferon_alfa-2a-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "**To proceed, the following is needed:** / Clarification of the reason for the cancelled EU authorisation and confirmation of current availability" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "**To proceed, the following is needed:** / Clarification of the reason for the cancelled EU authorisation and confirmation of current availability" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-peginterferon_alfa-2a-2 -->
 
@@ -160,8 +160,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "and the EU authorisation is currently cancelled, so market availability needs clarification" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of the reason for the cancelled EU authorisation and confirmation of current availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "and the EU authorisation is currently cancelled, so market availability needs clarification" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of the reason for the cancelled EU authorisation and confirmation of current availability" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pegasys (peginterferon alfa-2a) prescribing information, pharmaand GmbH](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9290e5b-6d40-2318-e053-2995a90a9916) |
 
 <!-- review:end log -->

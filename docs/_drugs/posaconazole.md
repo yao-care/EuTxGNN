@@ -65,7 +65,7 @@ Other predictions in the top 10 are similarly weak:
 
 <!-- review:begin eu-lic-20261106-posaconazole-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-posaconazole-1 -->
 
@@ -117,7 +117,7 @@ The pneumocystosis prediction has a high model score but no direct clinical evid
 
 <!-- review:begin eu-lic-20261106-posaconazole-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Posaconazole is marketed, with 3 of 3 licences valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Posaconazole is marketed, with 3 of 3 licences valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-posaconazole-2 -->
 
@@ -137,8 +137,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "with 3 of 3 licences valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "with 3 of 3 licences valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
 
 <!-- review:end log -->

@@ -115,7 +115,7 @@ The HIV prediction has a high model score but no clinical trials, and its only s
 
 <!-- review:begin eu-lic-20261106-deferasirox-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "A safety assessment for people living with HIV, given the liver, kidney and blood-cell disorder signals and the major interactions listed above / Clarification of why the EU authorizations were cancelled and whether this affects feasibility" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "A safety assessment for people living with HIV, given the liver, kidney and blood-cell disorder signals and the major interactions listed above / Clarification of why the EU authorizations were cancelled and whether this affects feasibility" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-deferasirox-1 -->
 
@@ -127,7 +127,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Clarification of why the EU authorizations were cancelled and whether this affects feasibility" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of why the EU authorizations were cancelled and whether this affects feasibility" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
 
 <!-- review:end log -->

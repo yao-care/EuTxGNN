@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Empagliflozin: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus Jardiance is indicated in adults and childre…"
 ---
 
@@ -83,7 +83,13 @@ For the third prediction, opsismodysplasia (a rare skeletal dysplasia linked to 
 
 <!-- licenses:end -->
 
-The data compiled for this report list 1 authorization, a single-ingredient product with valid status. The list is not partial.
+The table above lists the EMA authorisations: Jardiance is the single-ingredient product, and Synjardy and Glyxambi are combination products. The list is not partial.
+
+<!-- review:begin eu-lic-20261124-empagliflozin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report list 1 authorization, a single-ingredient product with valid status." Corrected: the EMA data list three authorisations containing empagliflozin, not one: Jardiance (empagliflozin alone) and the combination products Synjardy (with metformin) and Glyxambi (with linagliptin). Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124-empagliflozin-1 -->
 
 ---
 
@@ -114,11 +120,12 @@ The prediction rests only on a TxGNN score, with no clinical trials or publicati
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565) |
+| 2026-11-24 | Replaced "The data compiled for this report list 1 authorization, a single-ingredient product with valid status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

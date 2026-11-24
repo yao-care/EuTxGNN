@@ -106,7 +106,7 @@ The main ones are listed below (dosage forms are not recorded).
 
 <!-- review:begin eu-lic-20261106-clopidogrel-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 12 centralised authorisations in the data compiled are valid. The main ones are listed below (dosage forms are not recorded)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 32 EU marketing authorisations for this drug, 17 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "All 12 centralised authorisations in the data compiled are valid. The main ones are listed below (dosage forms are not recorded)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-clopidogrel-1 -->
 
@@ -171,7 +171,7 @@ Several randomised studies (CANOA, a pilot RCT, and a recently published multice
 
 <!-- review:begin eu-lic-20261106-clopidogrel-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the market situation, since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 32 EU marketing authorisations for this drug, 17 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the market situation, since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-clopidogrel-2 -->
 
@@ -183,8 +183,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "All 12 centralised authorisations in the data compiled are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All 12 centralised authorisations in the data compiled are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
 
 <!-- review:end log -->

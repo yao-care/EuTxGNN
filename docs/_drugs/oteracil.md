@@ -133,7 +133,7 @@ A completed Phase 3 RCT (NCT00660894, n=1535) and a large Phase 3 trial of unkno
 
 <!-- review:begin eu-lic-20261106-oteracil-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory pathway given the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the regulatory pathway given the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-oteracil-2 -->
 
@@ -146,7 +146,7 @@ Below is the review log for this page: statements checked against official Europ
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "However, the benefit comes from the S-1 combination rather than oteracil alone, the metastatic setting is already covered by the EU label, a" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "given the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "given the cancelled EU authorization" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

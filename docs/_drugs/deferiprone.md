@@ -103,7 +103,7 @@ The prediction score is high, and the biology of iron-driven porphyrin accumulat
 
 <!-- review:begin eu-lic-20261106-deferiprone-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "However, support is limited to two mouse studies in other porphyria subtypes, with no human data. The EU authorizations are also all cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "However, support is limited to two mouse studies in other porphyria subtypes, with no human data. The EU authorizations are also all cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-deferiprone-1 -->
 
@@ -115,7 +115,7 @@ The prediction score is high, and the biology of iron-driven porphyrin accumulat
 
 <!-- review:begin eu-lic-20261106-deferiprone-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Verification of the current EU regulatory status, since both authorizations are listed as cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Verification of the current EU regulatory status, since both authorizations are listed as cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-deferiprone-2 -->
 
@@ -127,8 +127,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The EU authorizations are also all cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "since both authorizations are listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The EU authorizations are also all cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "since both authorizations are listed as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86) |
 
 <!-- review:end log -->

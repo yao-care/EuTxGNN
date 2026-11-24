@@ -79,13 +79,13 @@ Dosage form is not available in the compiled data.
 
 <!-- review:begin eu-lic-20261106-rivastigmine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Rivastigmine is marketed in this country, with 6 valid licences out of 6. Dosage form is not available in the compiled data." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Rivastigmine is marketed in this country, with 6 valid licences out of 6. Dosage form is not available in the compiled data." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-rivastigmine-1 -->
 
 <!-- review:begin eu-lic-20261106-rivastigmine-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-rivastigmine-3 -->
 
@@ -131,7 +131,7 @@ The glaucoma prediction has a plausible mechanism and one animal study showing I
 
 <!-- review:begin eu-lic-20261106-rivastigmine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country with 6 valid licences out of 6, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The drug is marketed in this country with 6 valid licences out of 6, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-rivastigmine-2 -->
 
@@ -144,7 +144,7 @@ The glaucoma prediction has a plausible mechanism and one animal study showing I
 
 <!-- review:begin eu-lic-20261106-rivastigmine-4 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorizations were cancelled, and of the regulatory pathway for any new use" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of why the EU authorizations were cancelled, and of the regulatory pathway for any new use" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-rivastigmine-4 -->
 
@@ -156,10 +156,10 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Rivastigmine is marketed in this country, with 6 valid licences out of 6" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "with 6 valid licences out of 6" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "of why the EU authorizations were cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Rivastigmine is marketed in this country, with 6 valid licences out of 6" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "with 6 valid licences out of 6" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "of why the EU authorizations were cancelled, and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
 
 <!-- review:end log -->

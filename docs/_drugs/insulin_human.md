@@ -75,7 +75,7 @@ Currently no related literature available.
 
 <!-- review:begin eu-lic-20261106-insulin_human-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All five authorizations are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "All five authorizations are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-insulin_human-1 -->
 
@@ -122,7 +122,7 @@ The prediction rests only on a model score. No clinical trials or publications s
 
 <!-- review:begin eu-lic-20261106-insulin_human-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. In addition, the drug is marketed in this country, with 5 valid licences of 5." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. In addition, the drug is marketed in this country, with 5 valid licences of 5." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-insulin_human-2 -->
 
@@ -135,7 +135,7 @@ The prediction rests only on a model score. No clinical trials or publications s
 
 <!-- review:begin eu-lic-20261106-insulin_human-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current regulatory status, since 5 of 5 licences are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Confirmation of the current regulatory status, since 5 of 5 licences are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-insulin_human-3 -->
 
@@ -147,9 +147,9 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "All five authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "In addition, the drug is marketed in this country, with 5 valid licences of 5" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "since 5 of 5 licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All five authorizations are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "In addition, the drug is marketed in this country, with 5 valid licences of 5" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "since 5 of 5 licences are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Humulin R U-500 Kwikpen (insulin human) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60e8dd0-1d48-4dc9-87fd-e14675255e8c) |
 
 <!-- review:end log -->

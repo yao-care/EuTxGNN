@@ -121,7 +121,7 @@ The prediction rests only on a model score. There are no clinical trials or publ
 
 <!-- review:begin eu-lic-20261106-trastuzumab_deruxtecan-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The EU license is also cancelled, and the safety profile is substantial." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The EU license is also cancelled, and the safety profile is substantial." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-trastuzumab_deruxtecan-1 -->
 
@@ -133,7 +133,7 @@ The prediction rests only on a model score. There are no clinical trials or publ
 
 <!-- review:begin eu-lic-20261106-trastuzumab_deruxtecan-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Label warnings and contraindications (SmPC) for a formal safety screen / Clarification of the cancelled EU license status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Label warnings and contraindications (SmPC) for a formal safety screen / Clarification of the cancelled EU license status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-trastuzumab_deruxtecan-2 -->
 
@@ -145,8 +145,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "he EU license is also cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of the cancelled EU license status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "he EU license is also cancelled, and t" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of the cancelled EU license status" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6) |
 
 <!-- review:end log -->

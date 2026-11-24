@@ -103,7 +103,7 @@ The top-ranked prediction, neurotic disorder, is a historical umbrella term with
 
 <!-- review:begin eu-lic-20261106-vortioxetine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The top-ranked prediction, neurotic disorder, is a historical umbrella term with no vortioxetine-specific trials or literature, so it is not a distinct, testable repurposing opportunity. Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The top-ranked prediction, neurotic disorder, is a historical umbrella term with no vortioxetine-specific trials or literature, so it is not a distinct, testable repurposing opportunity. Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-vortioxetine-1 -->
 
@@ -114,7 +114,7 @@ The top-ranked prediction, neurotic disorder, is a historical umbrella term with
 
 <!-- review:begin eu-lic-20261106-vortioxetine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Re-mapping of "neurotic disorder" to current diagnoses (depressive, anxiety or dysthymic disorders), and prioritising better-supported candidates such as melancholia (post hoc subgroup analysis of existing MDD trials) and anxiety disorders (controlled trials). / Clarification of the cancelled EU authorization status and its reasons." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Re-mapping of "neurotic disorder" to current diagnoses (depressive, anxiety or dysthymic disorders), and prioritising better-supported candidates such as melancholia (post hoc subgroup analysis of existing MDD trials) and anxiety disorders (controlled trials). / Clarification of the cancelled EU authorization status and its reasons." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-vortioxetine-2 -->
 
@@ -126,8 +126,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status and its reasons" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of the cancelled EU authorization status and its reasons" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trintellix (vortioxetine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e) |
 
 <!-- review:end log -->

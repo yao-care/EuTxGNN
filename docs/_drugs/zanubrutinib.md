@@ -138,7 +138,7 @@ The TxGNN score is very high, but no zanubrutinib clinical data in myeloid leuke
 
 <!-- review:begin eu-lic-20261106-zanubrutinib-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The only linked trial studies a different agent, and all literature concerns B-cell malignancies. The compiled data also show the EU authorization as cancelled, which should be verified." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The only linked trial studies a different agent, and all literature concerns B-cell malignancies. The compiled data also show the EU authorization as cancelled, which should be verified." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-zanubrutinib-1 -->
 
@@ -151,7 +151,7 @@ For comparison, a different prediction in the same output, familial non-Hodgkin 
 
 <!-- review:begin eu-lic-20261106-zanubrutinib-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Warnings and contraindications from the SmPC / Verification of the current EU marketing authorization status, since the data show it as cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Warnings and contraindications from the SmPC / Verification of the current EU marketing authorization status, since the data show it as cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-zanubrutinib-2 -->
 
@@ -163,8 +163,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The compiled data also show the EU authorization as cancelled, which should be verified" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Verification of the current EU marketing authorization status, since the data show it as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The compiled data also show the EU authorization as cancelled, which should be verified" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Verification of the current EU marketing authorization status, since the data show it as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data for zanubrutinib is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
 
 <!-- review:end log -->

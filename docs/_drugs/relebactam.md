@@ -90,7 +90,7 @@ The predicted indication, hyperamylasemia, has no clinical trials, no literature
 
 <!-- review:begin eu-lic-20261031-relebactam-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The predicted indication, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanism, so the high score is most likely a TxGNN model (deep learning) artifact. The only EU authorization has been cancelled, which further limits practical feasibility." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The predicted indication, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanism, so the high score is most likely a TxGNN model (deep learning) artifact. The only EU authorization has been cancelled, which further limits practical feasibility." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-relebactam-1 -->
 
@@ -102,7 +102,7 @@ The predicted indication, hyperamylasemia, has no clinical trials, no literature
 
 <!-- review:begin eu-lic-20261106-relebactam-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the reason for the authorization cancellation and the current regulatory pathway" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the reason for the authorization cancellation and the current regulatory pathway" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-relebactam-2 -->
 
@@ -114,8 +114,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only EU authorization has been cancelled, which further limits practical feasibility" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "the reason for the authorization cancellation and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorization has been cancelled, which further limits practical feasibility" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "the reason for the authorization cancellation and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3301605 (relebactam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301605) |
 
 <!-- review:end log -->

@@ -67,7 +67,7 @@ For context, seven trials were retrieved for a lower-ranked prediction, platelet
 
 <!-- review:begin eu-lic-20261106-filgrastim-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed: all 7 of 7 EU authorisations are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The drug is marketed: all 7 of 7 EU authorisations are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-filgrastim-1 -->
 
@@ -127,7 +127,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The drug is marketed: all 7 of 7 EU authorisations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The drug is marketed: all 7 of 7 EU authorisations are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
 
 <!-- review:end log -->

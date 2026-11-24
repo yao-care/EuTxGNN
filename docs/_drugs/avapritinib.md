@@ -64,7 +64,7 @@ The high TxGNN score (0.9992) therefore reflects a computational prediction only
 
 <!-- review:begin eu-lic-20261031-avapritinib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The only authorization is listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The only authorization is listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-avapritinib-1 -->
 
@@ -103,7 +103,7 @@ The prediction rests only on the model score. There are no registered clinical t
 
 <!-- review:begin eu-lic-20261106-avapritinib-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "There are no registered clinical trials or publications, and no plausible mechanistic link between KIT/PDGFRA inhibition and this skeletal dysplasia. The EU authorization is also listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "There are no registered clinical trials or publications, and no plausible mechanistic link between KIT/PDGFRA inhibition and this skeletal dysplasia. The EU authorization is also listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-avapritinib-2 -->
 
@@ -121,8 +121,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only authorization is listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "The EU authorization is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only authorization is listed as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The EU authorization is also listed as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ayvakit (avapritinib) prescribing information, Blueprint Medicines Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=645c887c-8cd4-4623-8da9-ac223d71a8b9) |
 
 <!-- review:end log -->

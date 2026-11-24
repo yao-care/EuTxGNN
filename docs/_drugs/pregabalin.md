@@ -117,7 +117,7 @@ A sixth authorisation (EMEA/H/C/004078, Pregabalin Viatris, previously Pregabali
 
 <!-- review:begin eu-lic-20261106-pregabalin-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All six authorisations are valid; the drug is marketed." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "All six authorisations are valid; the drug is marketed." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-pregabalin-2 -->
 
@@ -146,7 +146,7 @@ Please refer to the SmPC for the official warnings and contraindications.
 
 <!-- review:begin eu-lic-20261106-pregabalin-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The literature retrieved does not address tendinitis treatment. / All six authorisations are valid, and the drug is marketed." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The literature retrieved does not address tendinitis treatment. / All six authorisations are valid, and the drug is marketed." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-pregabalin-3 -->
 
@@ -157,7 +157,7 @@ Please refer to the SmPC for the official warnings and contraindications.
 
 <!-- review:begin eu-lic-20261031-pregabalin-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Clinical studies of pregabalin specifically in tendinitis or tendinopathy pain, ideally in patients with a neuropathic or centrally sensitised component / Confirmation of current EU marketing status, since the data show only cancelled authorisations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 9 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clinical studies of pregabalin specifically in tendinitis or tendinopathy pain, ideally in patients with a neuropathic or centrally sensitised component / Confirmation of current EU marketing status, since the data show only cancelled authorisations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-pregabalin-1 -->
 
@@ -169,9 +169,9 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Confirmation of current EU marketing status, since the data show only cancelled authorisations" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "All six authorisations are valid; the drug is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "All six authorisations are valid, and the drug is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Confirmation of current EU marketing status, since the data show only cancelled authorisations" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All six authorisations are valid; the drug is marketed" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All six authorisations are valid, and the drug is marketed" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-20 | "Detailed mechanism of action data was not available in the data compiled for this report, so this description comes from the mechanistic rationale prepared for the predictions" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->

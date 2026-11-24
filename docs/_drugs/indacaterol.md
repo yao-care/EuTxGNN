@@ -123,7 +123,7 @@ The prediction rests on a computational score alone. There are no trials or publ
 
 <!-- review:begin eu-lic-20261106-indacaterol-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country, with 3 valid licences of 3." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The drug is marketed in this country, with 3 valid licences of 3." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-indacaterol-1 -->
 
@@ -137,7 +137,7 @@ Among the other top-10 predictions, only **bronchial disease** (rank 7) has subs
 
 <!-- review:begin eu-lic-20261106-indacaterol-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Verification of current regulatory and availability status, given that the drug is marketed in this country with 3 valid licences of 3" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Verification of current regulatory and availability status, given that the drug is marketed in this country with 3 valid licences of 3" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-indacaterol-2 -->
 
@@ -149,8 +149,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "with 3 valid licences of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "with 3 valid licences of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "with 3 valid licences of 3" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "with 3 valid licences of 3" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

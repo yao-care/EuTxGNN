@@ -84,7 +84,7 @@ Reference data note that an earlier EMA approval (as Removab) was withdrawn at t
 
 <!-- review:begin eu-lic-20261106-catumaxomab-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025. The compiled regulatory record, however, currently shows the license as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025. The compiled regulatory record, however, currently shows the license as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-catumaxomab-1 -->
 
@@ -114,7 +114,7 @@ The prediction rests on a model score alone. There are no trials or publications
 
 <!-- review:begin eu-lic-20261106-catumaxomab-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "There are no trials or publications, the mechanism (T-cell redirection against EpCAM-positive cells) does not match the biology of diabetic retinopathy, and the safety profile is unfavourable. The only EU authorisation on record is cancelled, which also limits practical access." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "There are no trials or publications, the mechanism (T-cell redirection against EpCAM-positive cells) does not match the biology of diabetic retinopathy, and the safety profile is unfavourable. The only EU authorisation on record is cancelled, which also limits practical access." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-catumaxomab-2 -->
 
@@ -133,8 +133,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The compiled regulatory record, however, currently shows the license as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "The only EU authorisation on record is cancelled, which also limits practical access" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The compiled regulatory record, however, currently shows the license as cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorisation on record is cancelled, which also limits practical access" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in a structured form" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108581 (catumaxomab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108581) |
 
 <!-- review:end log -->

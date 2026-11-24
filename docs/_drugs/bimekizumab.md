@@ -37,7 +37,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 <!-- review:begin eu-lic-20261106-bimekizumab-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "This status should be verified against the current EMA register before any planning." Removed: it conflicted with the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "This status should be verified against the current EMA register before any planning." Removed: it conflicted with the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-bimekizumab-1 -->
 
@@ -74,7 +74,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "This status should be verified against the current EMA register before any planning" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "This status should be verified against the current EMA register before any planning" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

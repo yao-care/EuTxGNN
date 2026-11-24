@@ -86,7 +86,7 @@ Currently no related literature available for simian immunodeficiency virus infe
 
 <!-- review:begin eu-lic-20261106-cobicistat-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-cobicistat-1 -->
 
@@ -142,7 +142,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1)" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tybost (cobicistat) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3784c35c-e87f-410c-900b-8fd6313c6010) |
 
 <!-- review:end log -->

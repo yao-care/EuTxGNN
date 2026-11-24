@@ -106,7 +106,7 @@ The prediction score is very high, but it comes from the TxGNN model (deep learn
 
 <!-- review:begin eu-lic-20261106-tobramycin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal. Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocular use." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal. Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocular use." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-tobramycin-1 -->
 
@@ -118,7 +118,7 @@ The prediction score is very high, but it comes from the TxGNN model (deep learn
 
 <!-- review:begin eu-lic-20261106-tobramycin-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the route of administration and available ophthalmic formulations in the EU, because the cancelled authorizations are inhalation products" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the route of administration and available ophthalmic formulations in the EU, because the cancelled authorizations are inhalation products" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-tobramycin-2 -->
 
@@ -130,8 +130,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocu" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocu" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
 
 <!-- review:end log -->

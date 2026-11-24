@@ -132,7 +132,7 @@ For label-based warnings and contraindications, please refer to the SmPC.
 
 <!-- review:begin eu-lic-20261106-aztreonam-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Its high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. / Both EU authorizations are cancelled, so there is no currently marketed product." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Its high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. / Both EU authorizations are cancelled, so there is no currently marketed product." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-aztreonam-1 -->
 
@@ -145,7 +145,7 @@ For label-based warnings and contraindications, please refer to the SmPC.
 
 <!-- review:begin eu-lic-20261106-aztreonam-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of why EU authorizations were cancelled and whether any alternative supply exists" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of why EU authorizations were cancelled and whether any alternative supply exists" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-aztreonam-2 -->
 
@@ -157,8 +157,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Both EU authorizations are cancelled, so there is no currently marketed product" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "why EU authorizations were cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Both EU authorizations are cancelled, so there is no currently marketed product" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "why EU authorizations were cancelled and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6) |
 
 <!-- review:end log -->

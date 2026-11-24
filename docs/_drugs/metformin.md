@@ -85,7 +85,7 @@ The five main entries are listed below.
 
 <!-- review:begin eu-lic-20261106-metformin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed: all 19 licences (19 of 19) are valid. The five main entries are listed below." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 23 EU marketing authorisations for this drug, 19 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The drug is marketed: all 19 licences (19 of 19) are valid. The five main entries are listed below." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-metformin-1 -->
 
@@ -137,7 +137,7 @@ The prediction rests only on a model score of 0.9945, with no clinical trials or
 
 <!-- review:begin eu-lic-20261106-metformin-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven. In addition, all EU authorizations for metformin-containing products are currently cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 23 EU marketing authorisations for this drug, 19 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven. In addition, all EU authorizations for metformin-containing products are currently cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-metformin-2 -->
 
@@ -156,8 +156,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The drug is marketed: all 19 licences (19 of 19) are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "In addition, all EU authorizations for metformin-containing products are currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The drug is marketed: all 19 licences (19 of 19) are valid" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "In addition, all EU authorizations for metformin-containing products are currently cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574) |
 
 <!-- review:end log -->

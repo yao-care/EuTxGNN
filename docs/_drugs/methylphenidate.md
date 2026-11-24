@@ -135,7 +135,7 @@ The top prediction, faciodigitogenital syndrome, has a very high model score but
 
 <!-- review:begin eu-lic-20261031-methylphenidate-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5). The only EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5). The only EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-methylphenidate-1 -->
 
@@ -153,7 +153,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorisation is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
 
 <!-- review:end log -->

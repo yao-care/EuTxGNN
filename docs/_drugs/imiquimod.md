@@ -113,7 +113,7 @@ The TxGNN score is very high and the mechanism is plausible. Pre-malignant lesio
 
 <!-- review:begin eu-lic-20261106-imiquimod-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "However, the direct trial evidence is thin: one small open-label Phase 3 study that is largely an approved-indication trial, and one randomized trial terminated at 9 patients. Both EU authorizations are cancelled, so any development would need a new regulatory pathway." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "However, the direct trial evidence is thin: one small open-label Phase 3 study that is largely an approved-indication trial, and one randomized trial terminated at 9 patients. Both EU authorizations are cancelled, so any development would need a new regulatory pathway." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-imiquimod-1 -->
 
@@ -126,7 +126,7 @@ The TxGNN score is very high and the mechanism is plausible. Pre-malignant lesio
 
 <!-- review:begin eu-lic-20261106-imiquimod-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory route, given the cancelled EU status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the regulatory route, given the cancelled EU status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-imiquimod-2 -->
 
@@ -138,8 +138,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Both EU authorizations are cancelled, so any development would need a new regulatory pathway" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "given the cancelled EU status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Both EU authorizations are cancelled, so any development would need a new regulatory pathway" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "given the cancelled EU status" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism-of-action data from DrugBank is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d) |
 
 <!-- review:end log -->

@@ -115,7 +115,7 @@ The only evidence for SIV infection is a single in vitro study, with no clinical
 
 <!-- review:begin eu-lic-20261106-abacavir-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "SIV is a non-human primate infection, so it is not a meaningful new indication for patients. The EU authorization for the reference product is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 4 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "SIV is a non-human primate infection, so it is not a meaningful new indication for patients. The EU authorization for the reference product is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-abacavir-2 -->
 
@@ -126,7 +126,7 @@ The only evidence for SIV infection is a single in vitro study, with no clinical
 
 <!-- review:begin eu-lic-20261031-abacavir-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "EU label warnings and contraindications from the SmPC. / Clarification of current EU availability of abacavir products, since the only record found is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 4 EU marketing authorisations for this drug, 4 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "EU label warnings and contraindications from the SmPC. / Clarification of current EU availability of abacavir products, since the only record found is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-abacavir-1 -->
 
@@ -140,8 +140,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Clarification of current EU availability of abacavir products, since the only record found is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "The EU authorization for the reference product is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of current EU availability of abacavir products, since the only record found is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The EU authorization for the reference product is also cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
 
 <!-- review:end log -->

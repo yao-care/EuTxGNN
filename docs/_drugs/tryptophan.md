@@ -118,7 +118,7 @@ The RLS prediction has a very high model score, but the supporting evidence is l
 
 <!-- review:begin eu-lic-20261106-tryptophan-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The RLS prediction has a very high model score, but the supporting evidence is limited to two small, dated clinical reports (1986–1987), with no registered trials. The product's EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The RLS prediction has a very high model score, but the supporting evidence is limited to two small, dated clinical reports (1986–1987), with no registered trials. The product's EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-tryptophan-1 -->
 
@@ -133,7 +133,7 @@ The RLS prediction has a very high model score, but the supporting evidence is l
 
 <!-- review:begin eu-lic-20261106-tryptophan-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the authorisation was cancelled and what formulation would be used for RLS (route and dosage form compatibility not yet assessed)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of why the authorisation was cancelled and what formulation would be used for RLS (route and dosage form compatibility not yet assessed)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-tryptophan-2 -->
 
@@ -145,8 +145,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The product's EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "why the authorisation was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The product's EU authorisation is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "why the authorisation was cancelled and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

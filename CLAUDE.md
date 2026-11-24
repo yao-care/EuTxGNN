@@ -679,3 +679,16 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 例：cilastatin「Approved use: Not recorded in the local data」→「In the EU: 1 EMA central authorisation (1 valid)」；2026-11-19 改了 8 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site EuTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 正文許可證張數由程式改寫（2026-11-24）
+
+用戶 2026-11-24 決定（各站「許可證張數與狀態不再每週過期」）：本站市場段落的許可證表早已由程式產生（scripts/sync_license_tables.py，2026-11-06／11-12），這次只補 B「正文張數自動改寫」，並把程式表接進每週排程。
+- `scripts/rewrite_license_counts.py`＋`src/eutxgnn/regulatory/count_prose.py`（照 CaTxGNN／KrTxGNN／MyTxGNN 移植，英文 EMA 句型：「N valid EU marketing authorisations」「X of Y authorisations are valid」「Of the N authorisations, M are valid」「N authorisations have been withdrawn」）依快照事實層改寫；
+  有保留、講證據包或查詢、相對數（further、remaining…）、劑型、複方、點名列舉（括號或冒號後列品名）、EMEA/H/C 號碼、國家許可／其他國家、過去式、講表格顯示筆數的句子不動；0／1 張的單複數、both、文字數詞跨 1、「all … valid」而有非有效的前提句不改、`--list` 列出（`--uncertain` 加進待查清單）。不寫查核框；gate 第 23 項擋「再跑一次會變」。
+- 誰會跑：`scripts/apply_drug_reviews.py`（非 --check）結尾先 `sync_license_tables.run()`（依 data/bundles 重排程式表，沒有 data/ 時不動）再改寫張數；`scripts/build_license_snapshot.py` 寫完快照後同樣兩步（`--no-rewrite` 不跑；不給 `--ws` 時不重建快照、只跑這兩步）——母目錄排程 3a' 在 checker 前就跑它。
+  `scripts/license_adapter.py` 另加 `sync_tables`（排程依證據包重排程式表）與 `PAGE_NOTE`（3b 放行程式區塊標記、SHOW 句、NONE_LINE、PART_NOTE）。以前排程只靠 license_labels（只有 Valid）改狀態格，Withdrawn／Refused 等變更進不了表（sufentanil KemSu 停在「Opinion under re-examination」，EMA 已 Refused，這次跟著重排）。
+- 2026-11-24 量測（公開藥物頁 560 頁、data-20261116-124723）：程式認得的張數句 49 句（39 頁），40 句與事實一致、4 句是表格顯示／點名子集；跟事實矛盾 5 頁 7 句以 `eu-lic-20261124-*` 更正
+  （ivabradine 3 句「All five … valid」「no EU authorization … is currently valid」→ 6 張中 Ivabradine JensonR Withdrawn；tacrolimus「All five」→ Protopy Withdrawn；empagliflozin「1 authorization, a single-ingredient product」→ Jardiance 單方、Synjardy／Glyxambi 複方；levodopa「one authorization」→ 7 張、單方只有 Inbrija；doxorubicin「Both」→ 4 張皆 liposomal），更正文字不寫張數、指向程式表。程式改寫 0 句（現有句子都已一致），待查 0 句。
+- 查核紀錄 note 裡 `reviews_from_edits.py` 寫死的「The EMA data list N EU marketing authorisations for this drug, M current; …」443 筆同 id 重發改成不寫數字（前版存 history；例 abacavir 寫 4 current，事實已是 4 張中 3 張有效）；`reviews_from_edits.figures()` 改成不寫數字。
+- 另寫的寬偵測（同句有許可字樣與數字／全稱／否定、跟事實層任一讀法不符）全量掃公開頁：改前 33 句、改後 30 句，剩下都是點名子集（aflibercept、amlodipine、memantine、olanzapine、trastuzumab 的「N further authorisations (…)」，數字＝列舉品名數）、作用機轉節錄或適應症句裡的其他數字、known-use 的「licence in another country」、lidocaine「the only authorised product」（2 張中 1 張有效，成立）。checker 全量前後都是非 0 7 頁（P1／P3，跟許可證無關）；gate exit 0。
+- 母目錄 `.claude/license_labels/EuTxGNN.json` 只有 Valid；程式表還會寫 Withdrawn、Lapsed、Expired、Revoked、Refused（EMA 原文），要加進 labels（對應 cancelled）才不會被排程列成 unsynced（本站不改母目錄，已回報）。

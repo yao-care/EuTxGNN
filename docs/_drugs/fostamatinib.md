@@ -106,7 +106,7 @@ The prediction has a high model score but no clinical trials or relevant literat
 
 <!-- review:begin eu-lic-20261106-fostamatinib-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Inherited thrombocytopenia is not driven by the immune-mediated platelet destruction that SYK inhibition addresses, so there is no clear mechanistic support. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Inherited thrombocytopenia is not driven by the immune-mediated platelet destruction that SYK inhibition addresses, so there is no clear mechanistic support. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-fostamatinib-1 -->
 
@@ -118,7 +118,7 @@ The prediction has a high model score but no clinical trials or relevant literat
 
 <!-- review:begin eu-lic-20261106-fostamatinib-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Warnings and contraindications from the EU product information, which are required before any safety screening / Clarification of why the EU authorization was cancelled and what that means for availability" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Warnings and contraindications from the EU product information, which are required before any safety screening / Clarification of why the EU authorization was cancelled and what that means for availability" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-fostamatinib-2 -->
 
@@ -130,8 +130,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled and what that means for availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The EU authorization is also cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of why the EU authorization was cancelled and what that means for availability" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-20 | "Detailed mechanism-of-action data was not available in the data compiled for this report, so this description relies on the known pharmacology of the drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Tavalisse (fostamatinib) prescribing information, Rigel Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21149cc3-049b-43e2-b141-c9499160556c) |
 
 <!-- review:end log -->

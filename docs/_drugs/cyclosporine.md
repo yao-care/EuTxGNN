@@ -116,7 +116,7 @@ The prediction rests on a computational score alone. There are no clinical trial
 
 <!-- review:begin eu-lic-20261106-cyclosporine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The EU authorizations are all cancelled, and the label safety data is unavailable." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The EU authorizations are all cancelled, and the label safety data is unavailable." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-cyclosporine-1 -->
 
@@ -128,7 +128,7 @@ The prediction rests on a computational score alone. There are no clinical trial
 
 <!-- review:begin eu-lic-20261106-cyclosporine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Assessment of route and formulation compatibility, since existing EU products are ophthalmic and CGD would likely need systemic exposure / Clarification of why the EU authorizations were cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Assessment of route and formulation compatibility, since existing EU products are ophthalmic and CGD would likely need systemic exposure / Clarification of why the EU authorizations were cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-cyclosporine-2 -->
 
@@ -153,8 +153,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "he EU authorizations are all cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of why the EU authorizations were cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "he EU authorizations are all cancelled, and t" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of why the EU authorizations were cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
 
 <!-- review:end log -->

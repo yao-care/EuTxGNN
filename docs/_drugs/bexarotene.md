@@ -147,7 +147,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only authorization is cancelled, and the label-level safety data were not available for review" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only authorization is cancelled, and the label-level safety data were not available for review" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected (revised 2026-11-24; earlier version kept in the record)) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc) |
 
 <!-- review:end log -->

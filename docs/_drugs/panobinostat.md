@@ -152,7 +152,7 @@ The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MD
 
 <!-- review:begin eu-lic-20261106-panobinostat-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The EU authorisation has been cancelled, so no marketed product is currently available." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The EU authorisation has been cancelled, so no marketed product is currently available." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-panobinostat-1 -->
 
@@ -165,7 +165,7 @@ The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MD
 
 <!-- review:begin eu-lic-20261106-panobinostat-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Confirm the regulatory pathway and product availability, given the cancelled EU authorisation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Confirm the regulatory pathway and product availability, given the cancelled EU authorisation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-panobinostat-2 -->
 
@@ -177,8 +177,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The EU authorisation has been cancelled, so no marketed product is currently available" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "given the cancelled EU authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The EU authorisation has been cancelled, so no marketed product is currently available" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "given the cancelled EU authorisation" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

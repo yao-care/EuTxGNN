@@ -121,7 +121,7 @@ Note that lower-ranked predictions have more evidence than the top-ranked one. U
 
 <!-- review:begin eu-lic-20261106-cabozantinib-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefact for a specific product and should be verified." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefact for a specific product and should be verified." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-cabozantinib-1 -->
 
@@ -148,7 +148,7 @@ The liposarcoma prediction has a high model score, but its supporting evidence i
 
 <!-- review:begin eu-lic-20261106-cabozantinib-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "EU safety information (warnings and contraindications) from the SmPC / Verification of the "Cancelled only" EU market status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "EU safety information (warnings and contraindications) from the SmPC / Verification of the "Cancelled only" EU market status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-cabozantinib-2 -->
 
@@ -160,8 +160,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefac" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Verification of the "Cancelled only" EU market status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefac" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Verification of the "Cancelled only" EU market status" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
 
 <!-- review:end log -->

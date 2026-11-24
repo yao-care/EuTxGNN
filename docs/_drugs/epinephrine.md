@@ -115,7 +115,7 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma, including adu
 
 <!-- review:begin eu-lic-20261106-epinephrine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "However, the cardiovascular risk signals are significant, the bronchiolitis evidence is inconsistent, and the only EU authorisation on record is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "However, the cardiovascular risk signals are significant, the bronchiolitis evidence is inconsistent, and the only EU authorisation on record is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-epinephrine-2 -->
 
@@ -131,7 +131,7 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma, including adu
 
 <!-- review:begin eu-lic-20261031-epinephrine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "Mechanism of action data from DrugBank. / Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Mechanism of action data from DrugBank. / Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-epinephrine-1 -->
 
@@ -143,8 +143,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "and the only EU authorisation on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "and the only EU authorisation on record is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
 
 <!-- review:end log -->

@@ -84,7 +84,7 @@ There is currently no related literature for leprosy. The literature below was r
 
 <!-- review:begin eu-lic-20261106-enfortumab_vedotin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "This authorization is listed as cancelled in the data compiled for this report." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "This authorization is listed as cancelled in the data compiled for this report." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-enfortumab_vedotin-1 -->
 
@@ -142,7 +142,7 @@ The leprosy prediction rests only on a model score of 0.9953, with no clinical t
 
 <!-- review:begin eu-lic-20261106-enfortumab_vedotin-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The leprosy prediction rests only on a model score of 0.9953, with no clinical trials, no literature and no plausible mechanistic link. The Padcev EU marketing authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The leprosy prediction rests only on a model score of 0.9953, with no clinical trials, no literature and no plausible mechanistic link. The Padcev EU marketing authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-enfortumab_vedotin-2 -->
 
@@ -155,7 +155,7 @@ The leprosy prediction rests only on a model score of 0.9953, with no clinical t
 
 <!-- review:begin eu-lic-20261106-enfortumab_vedotin-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "SmPC warnings and contraindications, and clarification of the reasons for and implications of the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "SmPC warnings and contraindications, and clarification of the reasons for and implications of the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-enfortumab_vedotin-3 -->
 
@@ -167,9 +167,9 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "This authorization is listed as cancelled in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "The Padcev EU marketing authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "and clarification of the reasons for and implications of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "This authorization is listed as cancelled in the data compiled for this report" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The Padcev EU marketing authorization is also cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "and clarification of the reasons for and implications of the cancelled EU authorization" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed) |
 
 <!-- review:end log -->

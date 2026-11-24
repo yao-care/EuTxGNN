@@ -99,7 +99,7 @@ This evidence pack is structurally incomplete — the `predicted_indications` ar
 
 <!-- review:begin eu-lic-20261106-amlodipine_as_amlodipine_besilate-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "**Re-run TxGNN prediction pipeline** after resolving the above gaps to generate predicted indications / **Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current "0 authorizations" result is inconsistent with known market reality and likely reflects a lookup failure" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "**Re-run TxGNN prediction pipeline** after resolving the above gaps to generate predicted indications / **Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current "0 authorizations" result is inconsistent with known market reality and likely reflects a lookup failure" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-amlodipine_as_amlodipine_besilate-2 -->
 
@@ -112,7 +112,7 @@ Below is the review log for this page: statements checked against official Europ
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "**[DG001 — Blocking]** Obtain TFDA package insert warnings and contraindications: download SmPC PDF from the TFDA official website and parse" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "**Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current "0 authorizations" result is" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "**Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current "0 authorizations" result is" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

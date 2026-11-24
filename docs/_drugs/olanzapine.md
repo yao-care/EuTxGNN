@@ -84,7 +84,7 @@ For reference, the strongest literature found for the more plausible alternative
 
 <!-- review:begin eu-lic-20261106-olanzapine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All nine EU authorizations for olanzapine are valid (9 valid licences of 9)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 13 EU marketing authorisations for this drug, 10 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "All nine EU authorizations for olanzapine are valid (9 valid licences of 9)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-olanzapine-1 -->
 
@@ -129,7 +129,7 @@ Four further authorizations are on record: Olazax Disperzi, Olazax, Olanzapine G
 
 <!-- review:begin eu-lic-20261106-olanzapine-4 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Four further cancelled authorizations are on record: Olazax Disperzi, Olazax, Olanzapine Glenmark and Olanzapine Glenmark Europe." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 13 EU marketing authorisations for this drug, 10 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Four further cancelled authorizations are on record: Olazax Disperzi, Olazax, Olanzapine Glenmark and Olanzapine Glenmark Europe." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-olanzapine-4 -->
 
@@ -162,7 +162,7 @@ The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only 
 
 <!-- review:begin eu-lic-20261106-olanzapine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "It has no trials, no literature, no plausible mechanism, and a serious paediatric safety concern. Olanzapine is currently marketed, with 9 valid licences of 9." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 13 EU marketing authorisations for this drug, 10 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "It has no trials, no literature, no plausible mechanism, and a serious paediatric safety concern. Olanzapine is currently marketed, with 9 valid licences of 9." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-olanzapine-2 -->
 
@@ -175,7 +175,7 @@ The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only 
 
 <!-- review:begin eu-lic-20261106-olanzapine-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status of olanzapine in the EU, which is currently marketed with 9 valid licences of 9." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 13 EU marketing authorisations for this drug, 10 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the regulatory status of olanzapine in the EU, which is currently marketed with 9 valid licences of 9." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-olanzapine-3 -->
 
@@ -187,10 +187,10 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "All nine EU authorizations for olanzapine are valid (9 valid licences of 9)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Olanzapine is currently marketed, with 9 valid licences of 9" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "with 9 valid licences of 9" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All nine EU authorizations for olanzapine are valid (9 valid licences of 9)" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Olanzapine is currently marketed, with 9 valid licences of 9" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "with 9 valid licences of 9" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->

@@ -71,7 +71,7 @@ Selected from the 19 publications retrieved. Evidence is mainly observational or
 
 <!-- review:begin eu-lic-20261106-treprostinil-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "This authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "This authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-treprostinil-2 -->
 
@@ -114,7 +114,7 @@ Safety review is also incomplete.
 
 <!-- review:begin eu-lic-20261031-treprostinil-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirect, and the only EU authorisation is cancelled. Safety review is also incomplete." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirect, and the only EU authorisation is cancelled. Safety review is also incomplete." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-treprostinil-1 -->
 
@@ -128,7 +128,7 @@ Safety review is also incomplete.
 
 <!-- review:begin eu-lic-20261106-treprostinil-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of current regulatory status, given the cancelled authorisation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of current regulatory status, given the cancelled authorisation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-treprostinil-3 -->
 
@@ -140,9 +140,9 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirec" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "This authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "given the cancelled authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirec" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "This authorisation is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "given the cancelled authorisation" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tyvaso (treprostinil) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbc31ab1-a80f-4b50-a3b1-39910b0fb609) |
 
 <!-- review:end log -->

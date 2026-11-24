@@ -133,7 +133,7 @@ Active peptic ulcer disease is a core acid-related indication. A completed Phase
 
 <!-- review:begin eu-lic-20261106-pantoprazole-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The guardrails reflect that all three EU centrally authorized products are cancelled, that the Phase 3 trial is a comparison of PPI-based H. pylori triple therapy rather than a pantoprazole-versus-placebo ulcer-healing study, and that safety label data are missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 5 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The guardrails reflect that all three EU centrally authorized products are cancelled, that the Phase 3 trial is a comparison of PPI-based H. pylori triple therapy rather than a pantoprazole-versus-placebo ulcer-healing study, and that safety label data are missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-pantoprazole-2 -->
 
@@ -152,7 +152,7 @@ Other predictions in the ranking vary widely:
 
 <!-- review:begin eu-lic-20261106-pantoprazole-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory route, since the EU centrally authorized licences are all cancelled (national authorizations should be checked)" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 5 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the regulatory route, since the EU centrally authorized licences are all cancelled (national authorizations should be checked)" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-pantoprazole-1 -->
 
@@ -164,8 +164,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "since the EU centrally authorized licences are all cancelled (national authorizations should be checked)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "that all three EU centrally authorized products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "since the EU centrally authorized licences are all cancelled (national authorizations should be checked)" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "that all three EU centrally authorized products are cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data was not available in the structured drug record, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
 
 <!-- review:end log -->

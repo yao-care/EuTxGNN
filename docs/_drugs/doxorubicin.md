@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L1). Approved use: Caelyx&nbsp"
 ---
 
@@ -103,7 +103,13 @@ The table lists the most relevant trials from those compiled. Several are multi-
 
 <!-- licenses:end -->
 
-Both authorisations are for liposomal formulations, so they do not describe the approval of conventional doxorubicin.
+All the authorisations in the table above are for liposomal formulations, so they do not describe the approval of conventional doxorubicin.
+
+<!-- review:begin eu-lic-20261124-doxorubicin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Both authorisations are for liposomal formulations, so they do not describe the approval of conventional doxorubicin." Corrected: the EMA data list four doxorubicin authorisations (Caelyx, Myocet, Zolsketil and Celdoxome), not two; all four are liposomal formulations. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124-doxorubicin-1 -->
 
 ## Cytotoxicity
 
@@ -142,11 +148,12 @@ Doxorubicin-containing regimens are the established standard for Ewing sarcoma, 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-20 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so this description draws on the drug's established pharmacology" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+| 2026-11-24 | Replaced "Both authorisations" with "All the authorisations in the table above" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

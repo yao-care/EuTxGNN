@@ -106,7 +106,7 @@ The prediction for rosacea conjunctivitis is supported only by the model score, 
 
 <!-- review:begin eu-lic-20261031-olopatadine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The mechanism of ocular rosacea (gland dysfunction, inflammation, microbial factors) is only partly addressed by antihistamine activity. The only EU authorization has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The mechanism of ocular rosacea (gland dysfunction, inflammation, microbial factors) is only partly addressed by antihistamine activity. The only EU authorization has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-olopatadine-1 -->
 
@@ -119,7 +119,7 @@ The prediction for rosacea conjunctivitis is supported only by the model score, 
 
 <!-- review:begin eu-lic-20261106-olopatadine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization status and of available formulations and routes" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the cancelled EU authorization status and of available formulations and routes" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-olopatadine-2 -->
 
@@ -131,8 +131,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "of the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorization has been cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "of the cancelled EU authorization status and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-20 | "Detailed mechanism of action data is not available in the data compiled for this report, so this description reflects general pharmacological knowledge about the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: olopatadine hydrochloride prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3aa27224-7b72-38eb-0c21-b8d73525ee85) |
 
 <!-- review:end log -->

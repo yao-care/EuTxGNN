@@ -117,7 +117,7 @@ The migraine prediction has a very high model score but rests only on indirect e
 
 <!-- review:begin eu-lic-20261031-parathyroid_hormone-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "No clinical trial tests PTH for migraine. The only EU authorisation is cancelled, and PTH's effect on serum calcium could worsen rather than relieve symptoms." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 2 EU marketing authorisations for this drug, 0 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "No clinical trial tests PTH for migraine. The only EU authorisation is cancelled, and PTH's effect on serum calcium could worsen rather than relieve symptoms." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-parathyroid_hormone-1 -->
 
@@ -135,7 +135,7 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only EU authorisation is cancelled, and PTH's effect on serum calcium could worsen rather than relieve symptoms" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorisation is cancelled, and PTH's effect on serum calcium could worsen rather than relieve symptoms" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108078 (parathyroid hormone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108078) |
 
 <!-- review:end log -->

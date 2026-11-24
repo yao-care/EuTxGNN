@@ -40,8 +40,8 @@
     "i": "Ewing sarcoma",
     "lt": 4,
     "lv": 3,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
+    "r": 2,
+    "rs": "Replaced \"Both authorisations\" with \"All the authorisations in the table above\"",
     "x": 0
    },
    {
@@ -84,8 +84,8 @@
     "i": "seborrheic dermatitis",
     "lt": 6,
     "lv": 5,
-    "r": 3,
-    "rs": "Removed: \"and the only EU topical product (Protopic) is currently cancelled\"",
+    "r": 4,
+    "rs": "Replaced \"All five authorizations are listed as valid\"",
     "x": 0
    },
    {
@@ -1144,8 +1144,8 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 7,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Replaced \"The data compiled for this report list one authorization, and it is currently recorded as valid\"",
     "x": 0
    },
    {
@@ -1254,8 +1254,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 6,
     "lv": 5,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data was not available in the data compiled for this report\" replaced with a…",
+    "r": 4,
+    "rs": "Removed: \"since all five authorizations are listed as valid\"",
     "x": 0
    },
    {
@@ -1518,8 +1518,8 @@
     "i": "focal stiff limb syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Replaced \"The data compiled for this report list 1 authorization, a single-ingredient product with valid…",
     "x": 0
    },
    {

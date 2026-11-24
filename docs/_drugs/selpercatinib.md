@@ -111,7 +111,7 @@ The prediction is supported only by the model score (evidence level L5). There a
 
 <!-- review:begin eu-lic-20261031-selpercatinib-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials, no relevant literature and no plausible mechanistic link between RET inhibition and pulmonary hypertension. The only EU authorization has been cancelled, and the interaction burden is substantial." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "There are no clinical trials, no relevant literature and no plausible mechanistic link between RET inhibition and pulmonary hypertension. The only EU authorization has been cancelled, and the interaction burden is substantial." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-selpercatinib-1 -->
 
@@ -122,7 +122,7 @@ The prediction is supported only by the model score (evidence level L5). There a
 
 <!-- review:begin eu-lic-20261106-selpercatinib-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Label warnings and contraindications from the SmPC, to assess safety in this population (especially hypertension) / Clarification of the cancelled EU authorization status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Label warnings and contraindications from the SmPC, to assess safety in this population (especially hypertension) / Clarification of the cancelled EU authorization status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-selpercatinib-2 -->
 
@@ -134,8 +134,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only EU authorization has been cancelled, and the interaction burden is substantial" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only EU authorization has been cancelled, and the interaction burden is substantial" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of the cancelled EU authorization status" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828) |
 
 <!-- review:end log -->

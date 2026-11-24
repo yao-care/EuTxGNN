@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ivabradine: predicted new indication hypertrichosis (disease) (evidence level L5). Approved use: Symptomatic treatment of chronic stable angina pectoris"
 monitor_inn: "Ivabradine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -80,7 +80,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
-All five authorizations are listed as valid. Dosage form was not specified in the data.
+The current status of each authorisation is shown in the table below. Dosage form was not specified in the data.
+
+<!-- review:begin eu-lic-20261124-ivabradine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All five authorizations are listed as valid." Corrected: the EMA data list six EU marketing authorisations for ivabradine, and Ivabradine JensonR (EMEA/H/C/004217) is withdrawn, so not all of them are valid; the table below shows each one's current status. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124-ivabradine-1 -->
 
 <!-- licenses:begin -->
 
@@ -111,7 +117,13 @@ Warnings and contraindications were not available in the compiled data. Please r
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no publications and no plausible mechanistic link to ivabradine's HCN-channel action. It is supported only by a model score, so the evidence level is L5. In addition, no EU authorization for ivabradine is currently valid.
+The prediction has no clinical trials, no publications and no plausible mechanistic link to ivabradine's HCN-channel action. It is supported only by a model score, so the evidence level is L5.
+
+<!-- review:begin eu-lic-20261124-ivabradine-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "It is supported only by a model score, so the evidence level is L5. In addition, no EU authorization for ivabradine is currently valid." Removed: according to the EMA data, five ivabradine authorisations (including Procoralan and Corlentor) are currently authorised. The evidence level and decision are unchanged. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124-ivabradine-2 -->
 
 **Other predictions from the same analysis:**
 
@@ -119,17 +131,26 @@ The prediction has no clinical trials, no publications and no plausible mechanis
 - Any mechanistic or biological evidence linking HCN-channel inhibition to hair growth, or a decision to deprioritize this prediction
 - Detailed mechanism-of-action data (MOA) from DrugBank
 - Warnings and contraindications from the EMA product information
-- Confirmation of the current EU regulatory status, since all five authorizations are listed as valid
+- Confirmation of the current EU regulatory status
+
+<!-- review:begin eu-lic-20261124-ivabradine-3 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Confirmation of the current EU regulatory status, since all five authorizations are listed as valid" Removed: the EMA data list six authorisations, one of them withdrawn; the table under EU Market Information shows the current status. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124-ivabradine-3 -->
 
 <!-- review:begin log -->
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Corlanor (ivabradine) prescribing information, Amgen Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92018a65-38f6-45f7-91d4-a34921b81d0d) |
+| 2026-11-24 | Replaced "All five authorizations are listed as valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "In addition, no EU authorization for ivabradine is currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "since all five authorizations are listed as valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

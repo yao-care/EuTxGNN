@@ -104,7 +104,7 @@ The prediction has only a model score, with no clinical trials, no publications,
 
 <!-- review:begin eu-lic-20261031-florbetapir_18f-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The prediction has only a model score, with no clinical trials, no publications, and no plausible mechanism. Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The prediction has only a model score, with no clinical trials, no publications, and no plausible mechanism. Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-florbetapir_18f-1 -->
 
@@ -116,7 +116,7 @@ The prediction has only a model score, with no clinical trials, no publications,
 
 <!-- review:begin eu-lic-20261106-florbetapir_18f-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization status and the available dosage forms and routes" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of the cancelled EU authorization status and the available dosage forms and routes" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-florbetapir_18f-2 -->
 
@@ -128,8 +128,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "the cancelled EU authorization status and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

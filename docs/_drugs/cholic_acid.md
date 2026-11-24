@@ -109,7 +109,7 @@ The prediction rests on a high model score, but there are no clinical trials, an
 
 <!-- review:begin eu-lic-20261106-cholic_acid-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The prediction rests on a high model score, but there are no clinical trials, and the literature consists of dated in vitro work, one study suggesting cholic acid derivatives may enhance HIV replication, and an unrelated bile acid association study. The product's EU authorisation is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The prediction rests on a high model score, but there are no clinical trials, and the literature consists of dated in vitro work, one study suggesting cholic acid derivatives may enhance HIV replication, and an unrelated bile acid association study. The product's EU authorisation is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-cholic_acid-1 -->
 
@@ -120,7 +120,7 @@ The prediction rests on a high model score, but there are no clinical trials, an
 
 <!-- review:begin eu-lic-20261106-cholic_acid-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Review of the interaction with tipranavir and other HIV protease inhibitors, including hepatotoxicity risk / Clarification of why the authorisation was cancelled and whether a valid marketed product exists" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Review of the interaction with tipranavir and other HIV protease inhibitors, including hepatotoxicity risk / Clarification of why the authorisation was cancelled and whether a valid marketed product exists" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-cholic_acid-2 -->
 
@@ -136,8 +136,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "The product's EU authorisation is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of why the authorisation was cancelled and whether a valid marketed product exists" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The product's EU authorisation is also cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of why the authorisation was cancelled and whether a valid marketed product exists" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723) |
 
 <!-- review:end log -->

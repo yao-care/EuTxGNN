@@ -104,13 +104,13 @@ For reference, the most relevant publications among the other predicted indicati
 
 <!-- review:begin eu-lic-20261106-telmisartan-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All six EU authorizations for telmisartan single-agent products are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 14 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "All six EU authorizations for telmisartan single-agent products are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-telmisartan-1 -->
 
 <!-- review:begin eu-lic-20261106-telmisartan-3 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 14 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-telmisartan-3 -->
 
@@ -179,7 +179,7 @@ The top prediction, Prinzmetal angina, rests on model score alone (L5) with no t
 
 <!-- review:begin eu-lic-20261106-telmisartan-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Telmisartan is marketed in this country, with 6 valid licences of 6, but label-based safety data is missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 14 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Telmisartan is marketed in this country, with 6 valid licences of 6, but label-based safety data is missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-telmisartan-2 -->
 
@@ -192,7 +192,7 @@ The top prediction, Prinzmetal angina, rests on model score alone (L5) with no t
 
 <!-- review:begin eu-lic-20261106-telmisartan-4 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "For intracerebral hemorrhage: TRIDENT results broken down by component, to isolate telmisartan's contribution, and a prospective-use plan given the cancelled EU authorizations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 14 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "For intracerebral hemorrhage: TRIDENT results broken down by component, to isolate telmisartan's contribution, and a prospective-use plan given the cancelled EU authorizations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-telmisartan-4 -->
 
@@ -204,10 +204,10 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "All six EU authorizations for telmisartan single-agent products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "with 6 valid licences of 6" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelle" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "given the cancelled EU authorizations" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "All six EU authorizations for telmisartan single-agent products are cancelled" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "with 6 valid licences of 6" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelle" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "given the cancelled EU authorizations" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
 
 <!-- review:end log -->

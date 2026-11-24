@@ -104,7 +104,7 @@ The stroke prediction rests on an indirect link through atrial fibrillation. The
 
 <!-- review:begin eu-lic-20261106-vernakalant-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "The only EU marketing authorization has been cancelled, and the cardioversion-related thromboembolic risk is an additional concern." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The only EU marketing authorization has been cancelled, and the cardioversion-related thromboembolic risk is an additional concern." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-vernakalant-1 -->
 
@@ -115,7 +115,7 @@ The stroke prediction rests on an indirect link through atrial fibrillation. The
 
 <!-- review:begin eu-lic-20261106-vernakalant-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clinical or observational evidence on whether vernakalant affects stroke or thromboembolic outcomes / Clarification of why the EU authorization was cancelled and whether the drug is available in the EU" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clinical or observational evidence on whether vernakalant affects stroke or thromboembolic outcomes / Clarification of why the EU authorization was cancelled and whether the drug is available in the EU" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-vernakalant-2 -->
 
@@ -127,8 +127,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "he only EU marketing authorization has been cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled and whether the drug is available in the EU" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "he only EU marketing authorization has been cancelled, and t" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Clarification of why the EU authorization was cancelled and whether the drug is available in the EU" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

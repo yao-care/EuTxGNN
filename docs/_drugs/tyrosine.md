@@ -118,7 +118,7 @@ The prediction for cauda equina syndrome rests only on a model score, with no tr
 
 <!-- review:begin eu-lic-20261031-tyrosine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The prediction for cauda equina syndrome rests only on a model score, with no trials, no literature and no plausible mechanism. The only authorisation is cancelled, and safety data are missing." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "The prediction for cauda equina syndrome rests only on a model score, with no trials, no literature and no plausible mechanism. The only authorisation is cancelled, and safety data are missing." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261031-tyrosine-1 -->
 
@@ -131,7 +131,7 @@ The prediction for cauda equina syndrome rests only on a model score, with no tr
 
 <!-- review:begin eu-lic-20261106-tyrosine-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the Maapliv authorisation was cancelled, and of the route of administration, since the product was intended for acute use in patients who cannot take enteral formulations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "Clarification of why the Maapliv authorisation was cancelled, and of the route of administration, since the product was intended for acute use in patients who cannot take enteral formulations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-tyrosine-2 -->
 
@@ -143,8 +143,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "The only authorisation is cancelled, and safety data are missing" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "of why the Maapliv authorisation was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "The only authorisation is cancelled, and safety data are missing" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "of why the Maapliv authorisation was cancelled, and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

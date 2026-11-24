@@ -85,7 +85,7 @@ Pharmacology records list the drug's targets as PPARα (PPARA) and PPARβ/δ (PP
 
 <!-- review:begin eu-lic-20261106-elafibranor-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "No specific drug-drug interactions were identified in the data compiled for this report. Because the EU authorization is recorded as cancelled, current label information should be verified directly." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "No specific drug-drug interactions were identified in the data compiled for this report. Because the EU authorization is recorded as cancelled, current label information should be verified directly." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-elafibranor-1 -->
 
@@ -98,7 +98,7 @@ The prediction rests solely on a model score. There are no trials, no literature
 
 <!-- review:begin eu-lic-20261106-elafibranor-2 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "There are no trials, no literature and no plausible mechanistic link to amenorrhea. In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+> **Review correction (2026-11-24)**: Originally stated: "There are no trials, no literature and no plausible mechanistic link to amenorrhea. In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
 
 <!-- review:end eu-lic-20261106-elafibranor-2 -->
 
@@ -117,8 +117,8 @@ Below is the review log for this page: statements checked against official Europ
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "Because the EU authorization is recorded as cancelled, current label information should be verified directly" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-06 | Removed: "In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "Because the EU authorization is recorded as cancelled, current label information should be verified directly" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-24 | Removed: "In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying" | Corrected (revised 2026-11-24; earlier version kept in the record) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-19 | "Detailed mechanism-of-action data from DrugBank were also not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iqirvo (elafibranor) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25) |
 
 <!-- review:end log -->

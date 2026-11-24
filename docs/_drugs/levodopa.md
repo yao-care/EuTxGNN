@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Inbrija is indicated for the intermittent treatment of episodic motor…"
 ---
 
@@ -82,7 +82,13 @@ Currently no related literature available.
 
 <!-- licenses:end -->
 
-The data compiled for this report list one authorization, and it is currently recorded as valid.
+The table above lists the EMA authorisations and their current status; Inbrija is the only single-ingredient levodopa product.
+
+<!-- review:begin eu-lic-20261124-levodopa-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report list one authorization, and it is currently recorded as valid." Corrected: the EMA data list seven authorisations containing levodopa, not one; Inbrija (EMEA/H/C/004786) is the only single-ingredient product, and the others are combinations with carbidopa (some also with entacapone). Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124-levodopa-1 -->
 
 ## Safety Considerations
 
@@ -107,11 +113,12 @@ The TxGNN score is high, but no clinical trial or publication addresses Rasmusse
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
+| 2026-11-24 | Replaced "The data compiled for this report list one authorization, and it is currently recorded as valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 
