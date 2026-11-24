@@ -29,6 +29,8 @@ SHOW = "Showing {n} of {m} EMA authorisations."
 SHOW_RX = re.compile(r"^Showing \d+ of \d+ EMA authorisations\.$")
 PART_NOTE = "Only part of the licence list is held in the data; the list may be incomplete."
 MAX_ROWS = 20
+# 每週排程 3b 自我檢查允許的非表格列（license_adapter.PAGE_NOTE；2026-11-24）：程式區塊標記、SHOW 句、NONE_LINE、PART_NOTE
+PAGE_NOTE = r"^(?:<!-- licenses:(?:begin|end) -->|Showing \d+ of \d+ EMA authorisations\.|" + re.escape(NONE_LINE) + "|" + re.escape(PART_NOTE) + ")$"
 BEGIN = "<!-- licenses:begin -->"
 END = "<!-- licenses:end -->"
 
@@ -168,6 +170,15 @@ def main(argv):
                     page.write_bytes((new.replace("\n", "\r\n") if crlf else new).encode("utf-8"))
         print(f"程式區塊標記：補上 {n} 頁")
         return
+    print(f"許可證表改 {len(run(only=only or None, dry=dry))} 頁")
+
+
+def run(only=None, dry=False):
+    """依 data/bundles 重排每頁的程式許可證表，回傳改到的頁檔名（xxx.md）。沒有 data/bundles 的環境（gate、只有快照）什麼都不做。
+    2026-11-24 起 scripts/build_license_snapshot.py、scripts/apply_drug_reviews.py（非 --check）結尾與 license_adapter.sync_tables 會呼叫；
+    only：頁名（stem 或 xxx.md）集合。"""
+    only = {x[:-3] if str(x).endswith(".md") else x for x in only} if only else None
+    out = []
     for page in sorted((ROOT / "docs/_drugs").glob("*.md")):
         if only and page.stem not in only:
             continue
@@ -185,10 +196,10 @@ def main(argv):
         new = process(raw.replace("\r\n", "\n"), recs, int(reg.get("total_matches") or 0) > len(recs))
         if new is None:
             continue
-        n += 1
+        out.append(page.name)
         if not dry:
             page.write_bytes((new.replace("\n", "\r\n") if crlf else new).encode("utf-8"))
-    print(f"許可證表改 {n} 頁")
+    return out
 
 
 if __name__ == "__main__":

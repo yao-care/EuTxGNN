@@ -84,3 +84,38 @@ def preprocess(bundle):
     if isinstance(tf.get("total_matches"), int):
         tf["total_matches"] = max(0, tf["total_matches"] - len(vet))
     return True
+
+
+# 2026-11-24（用戶決定「許可證張數與狀態不再每週過期」）：每週排程（license_refresh_20261029.py 的 sync_tables 掛鉤）在概覽表同步之後，
+# 依證據包把市場段落的程式許可證表重排（scripts/sync_license_tables.py run；所有有證據包的頁比對、只寫有變的）。
+# 以前本站沒有這個掛鉤，狀態格只靠 license_labels（只有 Valid）改寫，Withdrawn／Refused 等狀態變更會留在 unsynced（例 sufentanil KemSu）。
+# PAGE_NOTE：排程 3b 自我檢查允許的非表格列（程式區塊標記、SHOW 句、NONE_LINE、PART_NOTE）。
+def _slt(site_dir):
+    import importlib.util
+    from pathlib import Path
+    s = importlib.util.spec_from_file_location("eu_sync_license_tables", Path(site_dir) / "scripts" / "sync_license_tables.py")
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m
+
+
+def sync_tables(site_dir, bundles):
+    """回傳 [(頁, 欄位, 前值, 後值)]；所有有證據包的頁都比對（只寫內容有變的），不只 bundles 列出的藥"""
+    import difflib
+    from pathlib import Path
+    m = _slt(site_dir)
+    drugs = Path(site_dir) / "docs" / "_drugs"
+    before = {p.name: p.read_text(encoding="utf-8") for p in drugs.glob("*.md")}
+    out = []
+    for name in m.run():
+        new = (drugs / name).read_text(encoding="utf-8")
+        for l in difflib.unified_diff(before[name].split("\n"), new.split("\n"), lineterm="", n=0):
+            if l[:1] in "+-" and not l.startswith(("+++", "---")) and l[1:].startswith("|"):
+                out.append((name[:-3], "Licence table (programmatic)", l[1:] if l[0] == "-" else "", l[1:] if l[0] == "+" else ""))
+    return out
+
+
+try:
+    PAGE_NOTE = _slt(__import__("pathlib").Path(__file__).resolve().parents[1]).PAGE_NOTE
+except Exception:  # 被母目錄當模組載入時路徑一定在 scripts/ 下；這裡只防萬一
+    PAGE_NOTE = r"^<!-- licenses:(begin|end) -->$"

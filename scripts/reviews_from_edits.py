@@ -224,9 +224,8 @@ def classify(rm):
 def figures(fc):
     if not fc or fc.get("total") is None:
         return ""
-    t, v = fc["total"], fc.get("valid") or 0
-    return (f" The EMA data list {t} EU marketing authorisation{'' if t == 1 else 's'} for this drug, {v} current; "
-            "the Quick Overview and the table under EU Market Information show the current figures.")
+    # 2026-11-24（用戶決定）：不再寫當日張數（之後會過期、要同 id 重發），只指向概覽表與程式許可證表
+    return " The current number of EU marketing authorisations for this drug is shown in the Quick Overview and in the table under EU Market Information."
 
 
 def note_for(kind, date, fc):
