@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Guanfacine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Guanfacine: predicted new indication faciodigitogenital syndrome (evidence level L5). Approved use: Intuniv is indicated for the treatment of attention deficit hyperacti…"
 ---
 
@@ -66,6 +66,17 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003759 | Intuniv | guanfacine hydrochloride | Valid |
+| EMEA/H/C/006312 | Paxneury | guanfacine hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

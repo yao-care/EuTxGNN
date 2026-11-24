@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pegvaliase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Treatment of patients with phenylketonuria (PKU) aged 16 years and ol…"
 monitor_inn: "Pegvaliase"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
@@ -60,6 +60,16 @@ According to the Mechanism of Action section of the US FDA-approved prescribing 
 No mechanistic link to diabetic retinopathy is evident. The data compiled for this report show no pathway connecting phenylalanine depletion to diabetic microvascular damage. The high TxGNN score (0.9917) is a TxGNN model (deep learning) prediction only, and any proposed link would be speculative.
 
 The other top predictions are both eye conditions: severe nonproliferative diabetic retinopathy (0.9916) and diabetic cataract (0.9911). Their scores are nearly identical to that of the main prediction. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Neither has any supporting trial or publication, and severe nonproliferative diabetic retinopathy largely duplicates the main diabetic retinopathy prediction.
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004744 | Palynziq | pegvaliase | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

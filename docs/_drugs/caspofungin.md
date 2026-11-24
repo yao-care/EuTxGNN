@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Caspofungin: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Invasive candidiasis"
 monitor_inn: "Caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
@@ -58,6 +58,17 @@ The TxGNN model predicts it may be effective for **gastrin secretion abnormality
 According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for caspofungin: "Caspofungin is an echinocandin antifungal drug. […] Caspofungin, an echinocandin, inhibits the synthesis of beta (1,3)-D-glucan, an essential component of the cell wall of susceptible Aspergillus species and Candida species. Beta (1,3)-D-glucan is not present in mammalian cells." ([DailyMed: Cancidas (caspofungin acetate) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bad23a6-09a6-4194-9182-093ed61bc71c), label version 2024-10-11; accessed 2026-11-19.) Caspofungin belongs to the echinocandin class, which inhibits fungal beta-(1,3)-D-glucan synthase, an enzyme needed to build the fungal cell wall. Its efficacy in invasive fungal infections is established.
 
 This mechanism does not obviously extend to gastrin secretion abnormality. Mammalian cells have no beta-glucan synthase, so the drug has no known target in the pathways that regulate gastrin release. The high TxGNN score (0.9944) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Nothing in the data compiled for this report shows a biological, clinical, or literature link between caspofungin and gastrin regulation, so the prediction is best treated as a hypothesis-generating signal only.
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000379 | Cancidas | caspofungin (as acetate) | Valid |
+| EMEA/H/C/004134 | Caspofungin Accord | caspofungin acetate | Expired |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Lomitapide"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "platelet storage pool deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lomitapide: predicted new indication marcothrombocytopenia with mitral valve insufficiency (evidence level L5). Approved use: Lojuxta is indicated as an adjunct to a low?fat diet and other lipid?…"
 ---
 
@@ -66,6 +66,16 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002578 | Lojuxta | Lomitapide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Lonoctocog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lonoctocog Alfa: predicted new indication pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 ---
 
@@ -68,6 +68,16 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004075 | Afstyla | lonoctocog alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

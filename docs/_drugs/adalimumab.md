@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adalimumab: predicted new indication hypermobility of coccyx (evidence level L5). Approved use: Rheumatoid arthritis Amsparity in combination with methotrexate…"
 ---
 
@@ -66,6 +66,31 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000481 | Humira | adalimumab | Valid |
+| EMEA/H/C/004212 | Amgevita | adalimumab | Valid |
+| EMEA/H/C/004279 | Imraldi | adalimumab | Valid |
+| EMEA/H/C/004320 | Hyrimoz | adalimumab | Valid |
+| EMEA/H/C/004429 | Hulio | adalimumab | Valid |
+| EMEA/H/C/004475 | Idacio | adalimumab | Valid |
+| EMEA/H/C/004865 | Hefiya | adalimumab | Valid |
+| EMEA/H/C/004879 | Amsparity | adalimumab | Valid |
+| EMEA/H/C/005188 | Yuflyma | adalimumab | Valid |
+| EMEA/H/C/005548 | Hukyndra | adalimumab | Valid |
+| EMEA/H/C/005947 | Libmyris | adalimumab | Valid |
+| EMEA/H/C/000482 | Trudexa | adalimumab | Withdrawn |
+| EMEA/H/C/004319 | Cyltezo | adalimumab | Withdrawn |
+| EMEA/H/C/004373 | Solymbic | adalimumab | Withdrawn |
+| EMEA/H/C/004866 | Halimatoz | adalimumab | Withdrawn |
+| EMEA/H/C/005158 | Kromeya | adalimumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

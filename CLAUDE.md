@@ -692,3 +692,11 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - 查核紀錄 note 裡 `reviews_from_edits.py` 寫死的「The EMA data list N EU marketing authorisations for this drug, M current; …」443 筆同 id 重發改成不寫數字（前版存 history；例 abacavir 寫 4 current，事實已是 4 張中 3 張有效）；`reviews_from_edits.figures()` 改成不寫數字。
 - 另寫的寬偵測（同句有許可字樣與數字／全稱／否定、跟事實層任一讀法不符）全量掃公開頁：改前 33 句、改後 30 句，剩下都是點名子集（aflibercept、amlodipine、memantine、olanzapine、trastuzumab 的「N further authorisations (…)」，數字＝列舉品名數）、作用機轉節錄或適應症句裡的其他數字、known-use 的「licence in another country」、lidocaine「the only authorised product」（2 張中 1 張有效，成立）。checker 全量前後都是非 0 7 頁（P1／P3，跟許可證無關）；gate exit 0。
 - 母目錄 `.claude/license_labels/EuTxGNN.json` 只有 Valid；程式表還會寫 Withdrawn、Lapsed、Expired、Revoked、Refused（EMA 原文），要加進 labels（對應 cancelled）才不會被排程列成 unsynced（本站不改母目錄，已回報）。
+
+## 缺市場段落／段落沒有表的公開頁補程式表（2026-11-24 第三輪）
+
+用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）證據包有 EMA 集中許可，卻整頁沒有「## EU Market Information」、或段落在而表不在的，由 `scripts/sync_license_tables.py` 補程式表：
+整頁沒有段落的，`add_section` 在「## Safety Considerations」之前（沒有就結論、查核紀錄、免責聲明段之前；查核紀錄段標題在 review log 區塊裡時放在區塊之前）補段落；段落沒有表的，程式區塊放在段落開頭。noindex 頁、沒有紀錄的頁照舊不補。
+gate（`src/eutxgnn/regulatory/licenses.py` 第 5 項）擋「公開頁快照有程式表列，卻沒有市場段落或段落沒有程式表」；`PAGE_NOTE`（adapter 用同一份）放行新標題行。
+2026-11-24 全量量測：整頁沒有段落 11 頁（acetylsalicylic_acid、adalimumab、caspofungin、ganirelix、guanfacine、insulin_glulisine、lasmiditan、lomitapide、lonoctocog_alfa、loxapine、pegvaliase）、段落沒有表 2 頁（dantrolene、galcanezumab），共 13 頁補上；
+正文「表另由程式補上」的說明句 2 句以 `eu-lic-20261124c-*` 刪除；其他頁正文沒有跟新表矛盾的句子。checker 前後都是 0、gate exit 0。

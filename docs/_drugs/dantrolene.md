@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dantrolene: predicted new indication moderate multiminicore disease with hand involvement (evidence level L5). Approved use: In combination with adequate support measures…"
 ---
 
@@ -70,7 +70,21 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Dantrolene currently has a marketed status in the European Union, based on the local regulatory records. The authorization details are provided separately by the site program.
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006009 | Agilus | dantrolene sodium, hemiheptahydrate | Valid |
+
+<!-- licenses:end -->
+
+Dantrolene currently has a marketed status in the European Union, based on the local regulatory records.
+
+<!-- review:begin eu-lic-20261124c-dantrolene-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The authorization details are provided separately by the site program." Removed: the sentence said the authorisation table would be added separately by the site program; the table generated from the EMA data now appears directly in this section. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261124c-dantrolene-1 -->
 
 ## Safety Considerations
 
@@ -97,11 +111,12 @@ The prediction score is high, and a link through RYR1 is biologically plausible.
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698) |
+| 2026-11-24 | Removed: "The authorization details are provided separately by the site program." | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 
 <!-- review:end log -->
 

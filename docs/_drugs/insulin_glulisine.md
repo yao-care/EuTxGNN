@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Glulisine: predicted new indication thiamine-responsive dysfunction syndrome (evidence level L5). Approved use: Treatment of adults, adolescents and children…"
 ---
 
@@ -66,6 +66,16 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000557 | Apidra | insulin glulisine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

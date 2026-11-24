@@ -30,7 +30,7 @@ SHOW_RX = re.compile(r"^Showing \d+ of \d+ EMA authorisations\.$")
 PART_NOTE = "Only part of the licence list is held in the data; the list may be incomplete."
 MAX_ROWS = 20
 # 每週排程 3b 自我檢查允許的非表格列（license_adapter.PAGE_NOTE；2026-11-24）：程式區塊標記、SHOW 句、NONE_LINE、PART_NOTE
-PAGE_NOTE = r"^(?:<!-- licenses:(?:begin|end) -->|Showing \d+ of \d+ EMA authorisations\.|" + re.escape(NONE_LINE) + "|" + re.escape(PART_NOTE) + ")$"
+PAGE_NOTE = r"^(?:## EU Market Information|<!-- licenses:(?:begin|end) -->|Showing \d+ of \d+ EMA authorisations\.|" + re.escape(NONE_LINE) + "|" + re.escape(PART_NOTE) + ")$"
 BEGIN = "<!-- licenses:begin -->"
 END = "<!-- licenses:end -->"
 
@@ -128,15 +128,20 @@ def carry_block(old_text, new_text):
 def process(text, recs, partial=False):
     lines = strip_marks(text.split("\n"))
     if SEC not in lines:
-        return None
+        t2 = add_section("\n".join(lines), recs)
+        return t2 if t2 and t2 != text else None
     a = lines.index(SEC) + 1
     b = next((k for k in range(a, len(lines)) if lines[k].startswith("## ")), len(lines))
     tb = [k for k in range(a, b) if lines[k].startswith("|")]
     if not tb:
-        return None
-    x, y = tb[0], tb[0]
-    while y + 1 < b and lines[y + 1].startswith("|"):
-        y += 1
+        # 2026-11-24 第三輪：段落在、表不在的公開頁（證據包有許可紀錄）在段落開頭補程式區塊；其他照舊不動
+        if not (table_rows(recs) and is_public(text)):
+            return None
+        x, y = a, a - 1
+    else:
+        x, y = tb[0], tb[0]
+        while y + 1 < b and lines[y + 1].startswith("|"):
+            y += 1
     rest = [l for l in lines[y + 1:b] if not SHOW_RX.match(l.strip()) and (partial or l.strip() != PART_NOTE)]
     rows = table_rows(recs)
     if rows:
@@ -150,6 +155,35 @@ def process(text, recs, partial=False):
         out.insert(x, "")
     t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(out))
     return t2 if t2 != text else None
+
+
+# 2026-11-24 第三輪（用戶決定，比照 JpTxGNN 第二輪）：公開頁沒有「## EU Market Information」段落、但證據包有 EMA 集中許可的，
+# 補一個段落放程式表。位置：「## Safety Considerations」之前；沒有就「## Conclusion and Next Steps」「## Review Log」「## Disclaimer」之前
+# （查核紀錄段標題在 review log 區塊裡時放在區塊之前）。noindex 頁與證據包沒有紀錄的頁不補。
+ADD_BEFORE = ("Safety Considerations", "Conclusion and Next Steps", "Review Log", "Disclaimer")
+
+
+def is_public(text):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    return not re.search(r"^noindex:\s*true", fm, re.M)
+
+
+def add_section(text, recs):
+    rows = table_rows(recs)
+    if not rows or not is_public(text):
+        return None
+    lines = text.split("\n")
+    heads = {m.group(1): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    k = at - 1
+    while k > 0 and not lines[k].strip():
+        k -= 1
+    if lines[k].strip() == "<!-- review:begin log -->":
+        at = k
+    block = HEAD + rows[:MAX_ROWS] + (["", SHOW.format(n=MAX_ROWS, m=len(rows))] if len(rows) > MAX_ROWS else [])
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:at] + [SEC, ""] + wrap(block) + [""] + lines[at:]))
 
 
 def main(argv):

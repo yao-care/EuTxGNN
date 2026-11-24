@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Lasmiditan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lasmiditan: predicted new indication atrophoderma vermiculata (evidence level L5). Approved use: RAYVOW is indicated for the acute treatment of the headache phase of…"
 ---
 
@@ -79,6 +79,16 @@ Currently no related clinical trials registered.
 Currently no related literature available.
 
 ---
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005332 | Rayvow | lasmiditan succinate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

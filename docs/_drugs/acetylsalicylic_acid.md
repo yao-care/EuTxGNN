@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Acetylsalicylic acid"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylsalicylic Acid: predicted new indication atrophoderma vermiculata (evidence level L5). Approved use: &nbsp"
 ---
 
@@ -75,6 +75,19 @@ Currently no related clinical trials registered.
 Currently no related literature available.
 
 ---
+
+## EU Market Information
+
+<!-- licenses:begin -->
+
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001143 | DuoPlavin | clopidogrel; acetylsalicylic acid | Valid |
+| EMEA/H/C/001144 | Clopidogrel/Acetylsalicylic acid Zentiva | clopidogrel; acetylsalicylic acid | Valid |
+| EMEA/H/C/004996 | Clopidogrel / Acetylsalicylic acid Viatris | acetylsalicylic acid; clopidogrel hydrogen sulfate | Valid |
+| EMEA/H/C/002272 | Clopidogrel/Acetylsalicylic acid Teva | clopidogrel; acetylsalicylic acid | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
