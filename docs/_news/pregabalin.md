@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>30 news articles</strong>, with 6 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>31 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (30)
+## Related News (31)
 
 ### [Psoriasis-Arthritis bei Übergewicht: Ixekizumab plus Tirzepatid offenbar effizienter als Ixekizumab allein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
 
@@ -53,6 +53,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV9
 2026-11-23 <span class="news-indication-tag">artritis</span>
 
 Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+---
+
+### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">migraña</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
 
 ---
 

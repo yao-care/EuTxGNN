@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>144 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>147 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (144)
+## Related News (147)
+
+### [Glicemia alta, effetti benefici da camminate brevi e frequenti. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZW9hTnEyM01BalRnUmlwVHdCWmRVOVB0MjAzMTVDSV9WbTl6Z2lfUzVLMV9PVWR0aUE3SXZZdEJZMmJ1MUJyQTNBU0h5WXFyWUtTenFPT0RWWC1IUHpMbFc1S1AxdXkzNldJcnp1bmJ6bzVEd0RZeG9hVnQ4Nm8yTm9mNnlPaVl1YjUyMUYwY1V2QzJF?oc=5)
+
+2026-11-24 <span class="news-indication-tag">obesità</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZW9hTnEyM01BalRnUmlwVHdCWmRVOVB0MjAzMTVDSV9WbTl6Z2lfUzVLMV9PVWR0aUE3SXZZdEJZMmJ1MUJyQTNBU0h5WXFyWUtTenFPT0RWWC1IUHpMbFc1S1AxdXkzNldJcnp1bmJ6bzVEd0RZeG9hVnQ4Nm8yTm9mNnlPaVl1YjUyMUYwY1V2QzJF?oc=5)
+
+---
 
 ### [L’alerte des pharmacologues sur les médicaments anti-obésité GLP-1 détournés : "Il est extrêmement imprudent d’en acheter sur Internet" - Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
 
 2026-11-23 <span class="news-indication-tag">obésité</span>
 
 Source: [Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
+
+---
+
+### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">migraña</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
+
+---
+
+### [Novo presenta nuevos datos sobre el abordaje de la obesidad en adultos y niños - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
 
 ---
 
@@ -112,11 +136,11 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9w
 
 ---
 
-### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20 <span class="news-indication-tag">Adipositas</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 ---
 

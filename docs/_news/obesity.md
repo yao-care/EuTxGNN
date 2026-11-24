@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obésité (obesity) News"
+title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 132 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 134 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-24
 ---
 
-# obésité (obesity) News
+# obesità (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>132 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesità (obesity)?">
+<strong>obesità (obesity)</strong> currently has <strong>134 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,13 +37,29 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (132)
+## Related News (134)
+
+### [Glicemia alta, effetti benefici da camminate brevi e frequenti. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZW9hTnEyM01BalRnUmlwVHdCWmRVOVB0MjAzMTVDSV9WbTl6Z2lfUzVLMV9PVWR0aUE3SXZZdEJZMmJ1MUJyQTNBU0h5WXFyWUtTenFPT0RWWC1IUHpMbFc1S1AxdXkzNldJcnp1bmJ6bzVEd0RZeG9hVnQ4Nm8yTm9mNnlPaVl1YjUyMUYwY1V2QzJF?oc=5)
+
+2026-11-24
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZW9hTnEyM01BalRnUmlwVHdCWmRVOVB0MjAzMTVDSV9WbTl6Z2lfUzVLMV9PVWR0aUE3SXZZdEJZMmJ1MUJyQTNBU0h5WXFyWUtTenFPT0RWWC1IUHpMbFc1S1AxdXkzNldJcnp1bmJ6bzVEd0RZeG9hVnQ4Nm8yTm9mNnlPaVl1YjUyMUYwY1V2QzJF?oc=5)
+
+---
 
 ### [L’alerte des pharmacologues sur les médicaments anti-obésité GLP-1 détournés : "Il est extrêmement imprudent d’en acheter sur Internet" - Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
 
 2026-11-23
 
 Source: [Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
+
+---
+
+### [Novo presenta nuevos datos sobre el abordaje de la obesidad en adultos y niños - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
+
+2026-11-23
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
 
 ---
 
@@ -103,11 +119,11 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9w
 
 ---
 
-### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 ---
 

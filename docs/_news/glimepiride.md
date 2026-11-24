@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Glimepiride?">
-<strong>Glimepiride</strong> currently has <strong>295 news articles</strong>, with 9 predicted indications.
+<strong>Glimepiride</strong> currently has <strong>300 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ This page combines the AI-predicted indications for Glimepiride with the latest 
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (295)
+## Related News (300)
+
+### [Luftverschmutzung verschlechtert bei Diabetes die Langzeitblutzuckerwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEg1dm5sdXFEQ3hXTGpWNTlZNE93TjdTRzUweXdvelFoTGZYZGxKNzVwX3pBSlZRN1c1dGxWX2t0T3ZsRXhOa2p1VF82bkdaVXNYYzI0Vmw0Y0dLZ01rWXN1bnp3NEZJWnJobUdaQzQyUlRzUUk5RmE5UHlHSERwdEliemxuYWFkRVlSR04xNXBtaExJMUZSQWdVaHVZOWpFejRQVnNmcEFna2h5S2tj?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEg1dm5sdXFEQ3hXTGpWNTlZNE93TjdTRzUweXdvelFoTGZYZGxKNzVwX3pBSlZRN1c1dGxWX2t0T3ZsRXhOa2p1VF82bkdaVXNYYzI0Vmw0Y0dLZ01rWXN1bnp3NEZJWnJobUdaQzQyUlRzUUk5RmE5UHlHSERwdEliemxuYWFkRVlSR04xNXBtaExJMUZSQWdVaHVZOWpFejRQVnNmcEFna2h5S2tj?oc=5)
+
+---
+
+### [Diabetes betrifft ganzen Körper: Kreisklinik Roth setzt auf Früherkennung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDFMNlVsX2FjQ1M1dERSU21ucks3V0xETWdfQnBfUEczRFh5Tkt4ZzdockQ5Y3RzcGNJSlRTOHljbzdNTHRJZWdlR1B4cEQ2Zmo5VVA0eW5vQXVkN0VnekU0ejRWRzBoM2ZUcFVINlZmaHNjMGNlMnpId1dhbm9VaHdSQ3hwRmVGcWdsSUZQUy0zM0ZWTHBvRFZjblJNQnhLRTV0UjUtTmN5UDB6UUJFbVJkMzVWOWs1UUJoMF93RUFHY1VlTmh6cVNtOFRwQQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [Donaukurier](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDFMNlVsX2FjQ1M1dERSU21ucks3V0xETWdfQnBfUEczRFh5Tkt4ZzdockQ5Y3RzcGNJSlRTOHljbzdNTHRJZWdlR1B4cEQ2Zmo5VVA0eW5vQXVkN0VnekU0ejRWRzBoM2ZUcFVINlZmaHNjMGNlMnpId1dhbm9VaHdSQ3hwRmVGcWdsSUZQUy0zM0ZWTHBvRFZjblJNQnhLRTV0UjUtTmN5UDB6UUJFbVJkMzVWOWs1UUJoMF93RUFHY1VlTmh6cVNtOFRwQQ?oc=5)
+
+---
+
+### [AstraZeneca impulsa el proyecto Diabetic@ para usar la IA y adelantarse a las complicaciones de la diabetes](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlNpSE1qdTN1emtCMjBrY19JTzVWUHQ3c20tdnIxckpoRVpmNXBuc2trTzROb2twNFBrR1ZveUFsbFkzYTNLX3RINV95Z05nR0JNZDBVZHFVdG5Nb0VJcjh0TWZOblZQZTVGdGtla0NucmVpTWUyaGppMGE4bm8zZWJXQ1k1UlR6WER2ZkF2ckluNWFQSUFpMU96TDR5QU5UblFiZ3pncmd5dG5Rd3NWZjBYeFBNVjRkWThTeTBrRlhVQ1k1d0pPZEFyOUlfLXJ0X2pV?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [EntreMayores](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlNpSE1qdTN1emtCMjBrY19JTzVWUHQ3c20tdnIxckpoRVpmNXBuc2trTzROb2twNFBrR1ZveUFsbFkzYTNLX3RINV95Z05nR0JNZDBVZHFVdG5Nb0VJcjh0TWZOblZQZTVGdGtla0NucmVpTWUyaGppMGE4bm8zZWJXQ1k1UlR6WER2ZkF2ckluNWFQSUFpMU96TDR5QU5UblFiZ3pncmd5dG5Rd3NWZjBYeFBNVjRkWThTeTBrRlhVQ1k1d0pPZEFyOUlfLXJ0X2pV?oc=5)
+
+---
 
 ### [Neue Leitlinie zur Behandlung von Schwangerschaftsdiabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxNb2NpeHBXYkhIUW5QUF84ZzBvdG1pc0NNcTlZM3k1X0M5NWxCVDIzQU1XZzROLUVDWDgxMS1YOXdiVmtXSU9hdzhmbEZsSjg4bFJocXdiOHJYVWNjendyX3RrYjlTdFBRcEJkYmwwSThzelFEQmlkbUh1Mzl5V1g0OTlULWFMSFRzZVlKTTA3UkZJRFlLb3pEUEM1ekhfZw?oc=5)
 
@@ -56,6 +80,14 @@ Source: [Journalmed.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNb2N
 2026-11-23 <span class="news-indication-tag">diabetes</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzd6VEhsVV9xOVNpWlNHNE1tOHRlLURBM0N1Q2h5bk5Qc0RHSlhaUHJjYl9nT0R0eDdXSnhsTlRxcEZROVVKaFJSQzdySUwtellQRXZnSUUyczdTMFU0cGJ6Tk5nNzJrZmRzcTM3ZkplMlZTbzFaVUp3VHJQT0NrejhyZnh0VWlNNDN6S3U1WFpqMFNleHA3TW5qQ3JjSENxWkZ6V1c4VTNVc00wWkhRUEFmbw?oc=5)
+
+---
+
+### [Ses brûlures d'estomac ont été ignorées pendant quatre ans : elle meurt deux heures après avoir reçu un diagnostic de cancer du pancréas](https://news.google.com/rss/articles/CBMijwJBVV95cUxOWE9tR3V0V2xvckx5SGpQckZTQXRKZmQ1M0Q3c0hkWmd0U1NMRUdEVllwTEpNOHRMaXdxMnZtU2ZHLTNIenVlLWFKTE1nMkdGaWt6UzZjZnRnQmIyak1Zb0JETjg0ekJsT2dnc1FYT1c0Q0VqZVpkVGt6OGZMSVBqRk42ZEt1aTNTYkRyX3I4cWFEd0ZvcTdjT3JlQWZ3QUw4ZlZjcjF6RlBSWWlLSUxRczJyc2J5VGhnWXMyd0xPUXZQX3p0bTJNazdXdjk5OTNkeE1WVXVFNllaZFpVTWRTTnUyZGJpc3BjUU9DN1Q2QUVzZy1VRm5JVkV6ZDFmNHA4OGZBWFhPMUJoYi1mYVQw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMijwJBVV95cUxOWE9tR3V0V2xvckx5SGpQckZTQXRKZmQ1M0Q3c0hkWmd0U1NMRUdEVllwTEpNOHRMaXdxMnZtU2ZHLTNIenVlLWFKTE1nMkdGaWt6UzZjZnRnQmIyak1Zb0JETjg0ekJsT2dnc1FYT1c0Q0VqZVpkVGt6OGZMSVBqRk42ZEt1aTNTYkRyX3I4cWFEd0ZvcTdjT3JlQWZ3QUw4ZlZjcjF6RlBSWWlLSUxRczJyc2J5VGhnWXMyd0xPUXZQX3p0bTJNazdXdjk5OTNkeE1WVXVFNllaZFpVTWRTTnUyZGJpc3BjUU9DN1Q2QUVzZy1VRm5JVkV6ZDFmNHA4OGZBWFhPMUJoYi1mYVQw?oc=5)
 
 ---
 
@@ -93,7 +125,7 @@ Source: [TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFH
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
@@ -304,6 +336,14 @@ Source: [ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1N
 2026-11-18 <span class="news-indication-tag">diabetes</span>
 
 Source: [Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd4UEx6VElaMmhCTTZESExkUHJValhQNmtmTmRJbUhLcXk2a3lxanlxM0dNNVFPOUVNT3FqMXZjWVZMbmNxSEZlcjdRSDgxY2ppdW11cVB6dEExa1Q4MWgzS2UycnF0Y3ZETjJ0cWdsUjM1UEhDTFpxMWpVbjZJdVR3VERpb1pEUW9QMmJIWUR3WHhIcmlQSFZGdFB3Wms4RkI2ekVHSGZMQnRzc01sMkZkcmtGOHZqQ2oxMWtTbVpVUkNYNkY0WkV0YVVlZXJNYkl1VmdVdWs4TVZGM0dpUE1IOVdzSVZBYl85cmRGMV9yRzlEUnpOeXh3WjdlOXJOTGpqNA?oc=5)
+
+---
+
+### [Diabetes in Deutschland: Wer gefährdet ist, wie man sein Risiko senken kann und wann ein Check sinnvoll ist - Rheinischer Spiegel](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KdV9rSTlyUzNJYkNCdkNSZXYxbmg1Zy1qX1czOFRYaElIWTBLVXgwOWpjR1BOSXpZcEhLWVFRX3RocDlaWWpQQ1ZrVXQzakg2c0U0LWxwTjJKNk5ya0JtdkVERWZ1Zw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [Rheinischer Spiegel](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KdV9rSTlyUzNJYkNCdkNSZXYxbmg1Zy1qX1czOFRYaElIWTBLVXgwOWpjR1BOSXpZcEhLWVFRX3RocDlaWWpQQ1ZrVXQzakg2c0U0LWxwTjJKNk5ya0JtdkVERWZ1Zw?oc=5)
 
 ---
 

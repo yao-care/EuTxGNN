@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>115 news articles</strong>, with 0 predicted indications.
+<strong>Apremilast</strong> currently has <strong>117 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (115)
+## Related News (117)
+
+### [Bluthochdruck: Diese Ursache wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+2026-11-24 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+---
 
 ### [Psoriasis-Arthritis bei Übergewicht: Ixekizumab plus Tirzepatid offenbar effizienter als Ixekizumab allein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
 
@@ -53,6 +61,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2
 2026-11-23 <span class="news-indication-tag">artritis</span>
 
 Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+---
+
+### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">migraña</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
 
 ---
 
@@ -106,7 +122,7 @@ Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 

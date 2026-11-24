@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>63 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>64 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (63)
+## Related News (64)
+
+### [Hochfunktionale Depression: Warum sie lange unentdeckt bleibt](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUGdjTWpRYThzLUNmRG13c19aUU51dmJvU25sTTVjX3hEN2NqN2NNZ0xuaG84ZlF4c1NFd3NSNzdkaUF2Um1STnROekFlWE1SZ21VRjFrbU9laEpWMVM4VTlpZzNIRGxxdEJfMWd1VzF4WDVhNEJRS3JEVFhHWEhkNDJycjg2WjNVZTV2cllkY0hhMENB?oc=5)
+
+2026-11-24 <span class="news-indication-tag">depression</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUGdjTWpRYThzLUNmRG13c19aUU51dmJvU25sTTVjX3hEN2NqN2NNZ0xuaG84ZlF4c1NFd3NSNzdkaUF2Um1STnROekFlWE1SZ21VRjFrbU9laEpWMVM4VTlpZzNIRGxxdEJfMWd1VzF4WDVhNEJRS3JEVFhHWEhkNDJycjg2WjNVZTV2cllkY0hhMENB?oc=5)
+
+---
 
 ### [DAK-Umfrage: Angst vor Krebs und Demenz sowie Herzinfarkt nimmt zu](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaW9QMlU5dTgxSjVmOHdTbWxOSThWb29ES2J1RWo3TENDUlgyRWZzY1F2YlUyTWhQZ3cxM3J5TTFwSjlQSnZzWnFJeXZXWGJMcEYzUkNtYkhnQ1BIYm5TMHhneExqNl9sNUpjOS11bjVXWmJldWZiQ2tpbjYyVVgwZFA2MzJZV0l5bE1EZWhUWTlsMVlabm9VZU94Uko0SFNtTG4xTE54N1o4QQ?oc=5)
 

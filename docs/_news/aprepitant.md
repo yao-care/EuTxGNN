@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>108 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>109 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (108)
+## Related News (109)
+
+### [Bluthochdruck: Diese Ursache wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+2026-11-24 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+---
 
 ### [Hipertensión pulmonar y cerebro: un vínculo inflamatorio](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2RWJ0M3I4VkhxSVhBVFU0VXp0UU40N3ZrSGtHb05YY050LVREVVhyVzNQcXVqcDdNbzZwZ0ludWVfSDZUbEw0czlsaWdRQ3ZtMnZyLXR3Tk00N3M0alRqSjhVeHdKVlJxbTRIUjF0X1hFc2N1RlhPMW53X1piNUdnVW0zdVhsNUdjbXJIN3pzb3dTcTluaHRjMnhLcTdrY1NTUUhiekVh?oc=5)
 
@@ -86,7 +94,7 @@ Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 

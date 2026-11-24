@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>61 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>62 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (61)
+## Related News (62)
+
+### [The snack mistake putting millions of teens at risk of stomach issue linked to bowel cancer - the 11 swaps to make now - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzhvTUUwQ3NES3NBUWF5cGFLckxxZGZzV3AwQUJVbjU5TDdYOS15eVZmal9KUFBKZzExOWc0WmVpXzRvOVVhQV9RelloNEtyTnVRZkZSbWl4U1BGTElzWHZLblRJd3BBcm1nRlhwc3RtS2JBUVZsdXZfT2JNbHpQNFVHbVpBdm1fS0E?oc=5)
+
+2026-11-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Crohn's disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzhvTUUwQ3NES3NBUWF5cGFLckxxZGZzV3AwQUJVbjU5TDdYOS15eVZmal9KUFBKZzExOWc0WmVpXzRvOVVhQV9RelloNEtyTnVRZkZSbWl4U1BGTElzWHZLblRJd3BBcm1nRlhwc3RtS2JBUVZsdXZfT2JNbHpQNFVHbVpBdm1fS0E?oc=5)
+
+---
 
 ### [Tres de cada cuatro argentinos que tienen EPOC desconocen su diagnóstico: por qué la consulta a partir de los 40 años es clave](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM0dLVkJOQXVTeTN4UmVPVWZzSG55ZHd5TFJDc3BmZWFKNWs4SW5CS0dKS19lSy1NTzdwRktmLUNjRkJOa2o3RGNGb0NoVmhUQmItWUxNRnVqeFRVMXJzNlAyY1NVS2dvVDAzcTVCdi1rbFQtWUVKZi1lVUhILWZHdldDY2dHdXZhemVCaUc2VDkyU0RuNkNnczY3el9IVVlWTTVObmlsVTU5WWFuQm5oSDcydm1faTVvam85RVh4QTdQcHdkRG9rUU1zR29Hd0FiUElhV1pSMDNQNHd4bktGN3FOSXF5U2lfYzBSaE0tOUNQZFA5VkVReHZLNNIBlgJBVV95cUxNeUV6SFhuRjdRckRzSE43eVVBNzhVUDNaMHZ3MW9HaEE2TTVwMlo5UkpERkFPQVhZTjNkeVVRYy1GTWZFLWtoUHZRcVkxVVg4eU1oaHdtMnduZ283QjIyRVIwQ2hZbUhZMmN6R2h4UGZ2bzhFNG1fMTBHclE3VTc0THVnQ0lpcFd1R3J2SWFzQWFhSGhWSkNXVW5MVUVfRzVLTVBCQWczUVpGNTZYbTBPbDVQMVVKOU1vdzVzV1h3anlhc0s1R2VNamh2TTZFRlVzbEtOWVdlano2MHdUUFNVakVRWHU5aGkycVItWGZ0WU9YSWJlVUVsZnBaZzN6OGZsVjE3UmxCX2lRZkZ4UENoNVVYcDJYdw?oc=5)
 

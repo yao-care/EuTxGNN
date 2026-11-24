@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>159 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>166 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,63 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (159)
+## Related News (166)
+
+### [Erythrit unter Verdacht: Beliebter Zuckerersatz könnte Schlaganfallrisiko erhöhen](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYcEtxWktTX2xucDZRM05IbFFZZUxoalpFaDNZcVVDclpfalJvUHVFdW54aGI4aDhNNVlfR1Z0NUN2NDVLZnE0TWZHRHZ0VHowZlZybmI1VGlSSzB3ZUJqTGRNNjNVMzZxWVhtMkhOdE5GR2hSVEwzQ2xqcEo2czJnM051SHItNVp5Ulh0QWpGb1VmaWlIQUhWUW9DV3Nj?oc=5)
+
+2026-11-24 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [n-tv.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYcEtxWktTX2xucDZRM05IbFFZZUxoalpFaDNZcVVDclpfalJvUHVFdW54aGI4aDhNNVlfR1Z0NUN2NDVLZnE0TWZHRHZ0VHowZlZybmI1VGlSSzB3ZUJqTGRNNjNVMzZxWVhtMkhOdE5GR2hSVEwzQ2xqcEo2czJnM051SHItNVp5Ulh0QWpGb1VmaWlIQUhWUW9DV3Nj?oc=5)
+
+---
+
+### ["Il faut se battre contre la banalisation des douleurs des femmes", exige Salomé Saqué](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
+
+2026-11-24 <span class="news-indication-tag">AVC</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
+
+---
+
+### [Descubren que un edulcorante común puede dañar el cerebro y aumentar el riesgo de derrame: la probabilidad de ictus sube casi un 25%](https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWNwaDJFeWozbmJlWWVxZHkyNENKT1ZUUnZ3dlNFWWJpMERkMGpJQkVBUlZENmdOUFoyV1NXNjFTVThHTU9JdTBXdzZmd3lsdG5NcVlrLUh1bHhpNXQ1R0g2cmUzXzJQZjRVWlBqQUVrMUZGdFVPdlotQTc5aHQ5YklleFN2MzB4TnpDWEt4NklOa3dsX1ZjN3dyc1pWRDhOV1ptTGFzMTR5eTBBWXNTSzVxcGRTQ1M4UUtDUzl3dUN5T3JDZmdjWkVPd203TDBBQllQTjA4UkdOZkEwV2tSQm9pSzNGaFRNWWZSTGNISndoWXRJXzJaMWdVZFhkTE03Q08w0gGeAkFVX3lxTE80Q2FTLUJBWmxnaFRwSzM4aWR2OFR4UUdhOERSZnh3Q09DeTlLT1dpYng2QWtPQ2VSZzF0a1d6UURPWHRyWTNMX2xOXy1rTzdSd0xBeDZCRWhJLUg2TVllcjdaZ2M0QlJZaGhySzVUUzBHRVJEZ2ZnalppUzB2cE80WHVMT1B3dmduODdSejM1R1N2YkZ5QW43c0Q4WDdidXNzNXdURGhzb0xlWVpwQmUyc2pKYlNGVkREckMzRjlNdnRLcFpkU0Y2eEV1T05DODRMbjRKdk5aSWZlUXR0d2ViQmp1MTVyT2dEclNyZ29MNEwydi1BNEpvY0RvdGlMcXFDZENTZFpwYU9GbWtYYUpNcnZqM3BIZHBaZXhFcFE?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Infobae](https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWNwaDJFeWozbmJlWWVxZHkyNENKT1ZUUnZ3dlNFWWJpMERkMGpJQkVBUlZENmdOUFoyV1NXNjFTVThHTU9JdTBXdzZmd3lsdG5NcVlrLUh1bHhpNXQ1R0g2cmUzXzJQZjRVWlBqQUVrMUZGdFVPdlotQTc5aHQ5YklleFN2MzB4TnpDWEt4NklOa3dsX1ZjN3dyc1pWRDhOV1ptTGFzMTR5eTBBWXNTSzVxcGRTQ1M4UUtDUzl3dUN5T3JDZmdjWkVPd203TDBBQllQTjA4UkdOZkEwV2tSQm9pSzNGaFRNWWZSTGNISndoWXRJXzJaMWdVZFhkTE03Q08w0gGeAkFVX3lxTE80Q2FTLUJBWmxnaFRwSzM4aWR2OFR4UUdhOERSZnh3Q09DeTlLT1dpYng2QWtPQ2VSZzF0a1d6UURPWHRyWTNMX2xOXy1rTzdSd0xBeDZCRWhJLUg2TVllcjdaZ2M0QlJZaGhySzVUUzBHRVJEZ2ZnalppUzB2cE80WHVMT1B3dmduODdSejM1R1N2YkZ5QW43c0Q4WDdidXNzNXdURGhzb0xlWVpwQmUyc2pKYlNGVkREckMzRjlNdnRLcFpkU0Y2eEV1T05DODRMbjRKdk5aSWZlUXR0d2ViQmp1MTVyT2dEclNyZ29MNEwydi1BNEpvY0RvdGlMcXFDZENTZFpwYU9GbWtYYUpNcnZqM3BIZHBaZXhFcFE?oc=5)
+
+---
+
+### [Infarto e ictus, il rischio si costruisce 30 anni prima? Cosa rivela uno studio su 113mila persone](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
+
+---
+
+### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+2026-11-24 <span class="news-indication-tag">stroke</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+---
+
+### [Studie: Warnzeichen für Herzinfarkt und Schlaganfall Jahrzehnte früher erkennbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3c01NaWx0VnRZdjdYMnZaSkVNczdTVVhiNjNFbTlLV0VObHRxaXh4eTN2Y243Mm8wcy1sdmt4R1BiZTYzbkxXTzFQOUgwMGFvLUhwdjB0NW5icktBRVJtX0VlbVN5SV93d3JjZWlxdGs3SGw2SlBhZjNxbDhiMmlXNm9idm5qS0doUWhCOHZlMjI5MEhxcjg2NnNYY0NTR1NybHNGZWJLcmNKTk9PVzdPVWI?oc=5)
+
+2026-11-24 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3c01NaWx0VnRZdjdYMnZaSkVNczdTVVhiNjNFbTlLV0VObHRxaXh4eTN2Y243Mm8wcy1sdmt4R1BiZTYzbkxXTzFQOUgwMGFvLUhwdjB0NW5icktBRVJtX0VlbVN5SV93d3JjZWlxdGs3SGw2SlBhZjNxbDhiMmlXNm9idm5qS0doUWhCOHZlMjI5MEhxcjg2NnNYY0NTR1NybHNGZWJLcmNKTk9PVzdPVWI?oc=5)
+
+---
+
+### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+2026-11-24 <span class="news-indication-tag">AVC</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+---
 
 ### [Colesterolo e stili di vita: approccio integrato per abbattere il rischio di ictus e infarto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Morbus Crohn (crohn disease) News"
+title: "Crohn's disease (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Morbus Crohn (crohn disease). 9 articles, 1 related drugs."
+description: "Health news about Crohn's disease (crohn disease). 10 articles, 1 related drugs."
 permalink: /news/crohn-disease/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 ---
 
-# Morbus Crohn (crohn disease) News
+# Crohn's disease (crohn disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Morbus Crohn (crohn disease)?">
-<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about Crohn's disease (crohn disease)?">
+<strong>Crohn's disease (crohn disease)</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Morbus Crohn” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Crohn's disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “Morbus Crohn” and li
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [The snack mistake putting millions of teens at risk of stomach issue linked to bowel cancer - the 11 swaps to make now - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzhvTUUwQ3NES3NBUWF5cGFLckxxZGZzV3AwQUJVbjU5TDdYOS15eVZmal9KUFBKZzExOWc0WmVpXzRvOVVhQV9RelloNEtyTnVRZkZSbWl4U1BGTElzWHZLblRJd3BBcm1nRlhwc3RtS2JBUVZsdXZfT2JNbHpQNFVHbVpBdm1fS0E?oc=5)
+
+2026-11-23
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzhvTUUwQ3NES3NBUWF5cGFLckxxZGZzV3AwQUJVbjU5TDdYOS15eVZmal9KUFBKZzExOWc0WmVpXzRvOVVhQV9RelloNEtyTnVRZkZSbWl4U1BGTElzWHZLblRJd3BBcm1nRlhwc3RtS2JBUVZsdXZfT2JNbHpQNFVHbVpBdm1fS0E?oc=5)
+
+---
 
 ### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVdwdmVsdjE5cW1MTzJUUjhPLWFHbWl6aUgxTVdjTEdlS011bFlabWp4T2N1ZThpMGVPTVk2MUR0eXo2RG1oaEozLXhkQVpxckVWU2ZFdnpyV0poRXBXTUtXbkdBSGR2NXU3Wmg5YUJTd0p2WkFwbDZXTHZLLXRqSFU1eWpocnQ0VzZCYXVicDcwUHFRbFFzMkp0MldMb1NqWm85d1pGT2hpbmV6MDl2N1piZ1ZwWjlmLTlGVHNuSkN0b3RDcWF6TDluTEpwV2JCdEFndThMOFEyMHVVSFpxZFdZR291UFMtRGZwQQ?oc=5)
 

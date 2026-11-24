@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 44 articles, 7 related drugs."
+description: "Health news about dépression (depression). 45 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>44 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>45 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (44)
+## Related News (45)
+
+### [Hochfunktionale Depression: Warum sie lange unentdeckt bleibt](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUGdjTWpRYThzLUNmRG13c19aUU51dmJvU25sTTVjX3hEN2NqN2NNZ0xuaG84ZlF4c1NFd3NSNzdkaUF2Um1STnROekFlWE1SZ21VRjFrbU9laEpWMVM4VTlpZzNIRGxxdEJfMWd1VzF4WDVhNEJRS3JEVFhHWEhkNDJycjg2WjNVZTV2cllkY0hhMENB?oc=5)
+
+2026-11-24
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUGdjTWpRYThzLUNmRG13c19aUU51dmJvU25sTTVjX3hEN2NqN2NNZ0xuaG84ZlF4c1NFd3NSNzdkaUF2Um1STnROekFlWE1SZ21VRjFrbU9laEpWMVM4VTlpZzNIRGxxdEJfMWd1VzF4WDVhNEJRS3JEVFhHWEhkNDJycjg2WjNVZTV2cllkY0hhMENB?oc=5)
+
+---
 
 ### [DAK-Umfrage: Angst vor Krebs und Demenz sowie Herzinfarkt nimmt zu](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaW9QMlU5dTgxSjVmOHdTbWxOSThWb29ES2J1RWo3TENDUlgyRWZzY1F2YlUyTWhQZ3cxM3J5TTFwSjlQSnZzWnFJeXZXWGJMcEYzUkNtYkhnQ1BIYm5TMHhneExqNl9sNUpjOS11bjVXWmJldWZiQ2tpbjYyVVgwZFA2MzJZV0l5bE1EZWhUWTlsMVlabm9VZU94Uko0SFNtTG4xTE54N1o4QQ?oc=5)
 

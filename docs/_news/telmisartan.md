@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>216 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>224 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,71 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (216)
+## Related News (224)
+
+### [Erythrit unter Verdacht: Beliebter Zuckerersatz könnte Schlaganfallrisiko erhöhen](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYcEtxWktTX2xucDZRM05IbFFZZUxoalpFaDNZcVVDclpfalJvUHVFdW54aGI4aDhNNVlfR1Z0NUN2NDVLZnE0TWZHRHZ0VHowZlZybmI1VGlSSzB3ZUJqTGRNNjNVMzZxWVhtMkhOdE5GR2hSVEwzQ2xqcEo2czJnM051SHItNVp5Ulh0QWpGb1VmaWlIQUhWUW9DV3Nj?oc=5)
+
+2026-11-24 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [n-tv.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYcEtxWktTX2xucDZRM05IbFFZZUxoalpFaDNZcVVDclpfalJvUHVFdW54aGI4aDhNNVlfR1Z0NUN2NDVLZnE0TWZHRHZ0VHowZlZybmI1VGlSSzB3ZUJqTGRNNjNVMzZxWVhtMkhOdE5GR2hSVEwzQ2xqcEo2czJnM051SHItNVp5Ulh0QWpGb1VmaWlIQUhWUW9DV3Nj?oc=5)
+
+---
+
+### [Bluthochdruck: Diese Ursache wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+2026-11-24 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+---
+
+### ["Il faut se battre contre la banalisation des douleurs des femmes", exige Salomé Saqué](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
+
+2026-11-24 <span class="news-indication-tag">AVC</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
+
+---
+
+### [Descubren que un edulcorante común puede dañar el cerebro y aumentar el riesgo de derrame: la probabilidad de ictus sube casi un 25%](https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWNwaDJFeWozbmJlWWVxZHkyNENKT1ZUUnZ3dlNFWWJpMERkMGpJQkVBUlZENmdOUFoyV1NXNjFTVThHTU9JdTBXdzZmd3lsdG5NcVlrLUh1bHhpNXQ1R0g2cmUzXzJQZjRVWlBqQUVrMUZGdFVPdlotQTc5aHQ5YklleFN2MzB4TnpDWEt4NklOa3dsX1ZjN3dyc1pWRDhOV1ptTGFzMTR5eTBBWXNTSzVxcGRTQ1M4UUtDUzl3dUN5T3JDZmdjWkVPd203TDBBQllQTjA4UkdOZkEwV2tSQm9pSzNGaFRNWWZSTGNISndoWXRJXzJaMWdVZFhkTE03Q08w0gGeAkFVX3lxTE80Q2FTLUJBWmxnaFRwSzM4aWR2OFR4UUdhOERSZnh3Q09DeTlLT1dpYng2QWtPQ2VSZzF0a1d6UURPWHRyWTNMX2xOXy1rTzdSd0xBeDZCRWhJLUg2TVllcjdaZ2M0QlJZaGhySzVUUzBHRVJEZ2ZnalppUzB2cE80WHVMT1B3dmduODdSejM1R1N2YkZ5QW43c0Q4WDdidXNzNXdURGhzb0xlWVpwQmUyc2pKYlNGVkREckMzRjlNdnRLcFpkU0Y2eEV1T05DODRMbjRKdk5aSWZlUXR0d2ViQmp1MTVyT2dEclNyZ29MNEwydi1BNEpvY0RvdGlMcXFDZENTZFpwYU9GbWtYYUpNcnZqM3BIZHBaZXhFcFE?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Infobae](https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWNwaDJFeWozbmJlWWVxZHkyNENKT1ZUUnZ3dlNFWWJpMERkMGpJQkVBUlZENmdOUFoyV1NXNjFTVThHTU9JdTBXdzZmd3lsdG5NcVlrLUh1bHhpNXQ1R0g2cmUzXzJQZjRVWlBqQUVrMUZGdFVPdlotQTc5aHQ5YklleFN2MzB4TnpDWEt4NklOa3dsX1ZjN3dyc1pWRDhOV1ptTGFzMTR5eTBBWXNTSzVxcGRTQ1M4UUtDUzl3dUN5T3JDZmdjWkVPd203TDBBQllQTjA4UkdOZkEwV2tSQm9pSzNGaFRNWWZSTGNISndoWXRJXzJaMWdVZFhkTE03Q08w0gGeAkFVX3lxTE80Q2FTLUJBWmxnaFRwSzM4aWR2OFR4UUdhOERSZnh3Q09DeTlLT1dpYng2QWtPQ2VSZzF0a1d6UURPWHRyWTNMX2xOXy1rTzdSd0xBeDZCRWhJLUg2TVllcjdaZ2M0QlJZaGhySzVUUzBHRVJEZ2ZnalppUzB2cE80WHVMT1B3dmduODdSejM1R1N2YkZ5QW43c0Q4WDdidXNzNXdURGhzb0xlWVpwQmUyc2pKYlNGVkREckMzRjlNdnRLcFpkU0Y2eEV1T05DODRMbjRKdk5aSWZlUXR0d2ViQmp1MTVyT2dEclNyZ29MNEwydi1BNEpvY0RvdGlMcXFDZENTZFpwYU9GbWtYYUpNcnZqM3BIZHBaZXhFcFE?oc=5)
+
+---
+
+### [Infarto e ictus, il rischio si costruisce 30 anni prima? Cosa rivela uno studio su 113mila persone](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
+
+---
+
+### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+2026-11-24 <span class="news-indication-tag">stroke</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+---
+
+### [Studie: Warnzeichen für Herzinfarkt und Schlaganfall Jahrzehnte früher erkennbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3c01NaWx0VnRZdjdYMnZaSkVNczdTVVhiNjNFbTlLV0VObHRxaXh4eTN2Y243Mm8wcy1sdmt4R1BiZTYzbkxXTzFQOUgwMGFvLUhwdjB0NW5icktBRVJtX0VlbVN5SV93d3JjZWlxdGs3SGw2SlBhZjNxbDhiMmlXNm9idm5qS0doUWhCOHZlMjI5MEhxcjg2NnNYY0NTR1NybHNGZWJLcmNKTk9PVzdPVWI?oc=5)
+
+2026-11-24 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3c01NaWx0VnRZdjdYMnZaSkVNczdTVVhiNjNFbTlLV0VObHRxaXh4eTN2Y243Mm8wcy1sdmt4R1BiZTYzbkxXTzFQOUgwMGFvLUhwdjB0NW5icktBRVJtX0VlbVN5SV93d3JjZWlxdGs3SGw2SlBhZjNxbDhiMmlXNm9idm5qS0doUWhCOHZlMjI5MEhxcjg2NnNYY0NTR1NybHNGZWJLcmNKTk9PVzdPVWI?oc=5)
+
+---
+
+### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+2026-11-24 <span class="news-indication-tag">AVC</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+---
 
 ### [Hipertensión pulmonar y cerebro: un vínculo inflamatorio](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2RWJ0M3I4VkhxSVhBVFU0VXp0UU40N3ZrSGtHb05YY050LVREVVhyVzNQcXVqcDdNbzZwZ0ludWVfSDZUbEw0czlsaWdRQ3ZtMnZyLXR3Tk00N3M0alRqSjhVeHdKVlJxbTRIUjF0X1hFc2N1RlhPMW53X1piNUdnVW0zdVhsNUdjbXJIN3pzb3dTcTluaHRjMnhLcTdrY1NTUUhiekVh?oc=5)
 
@@ -141,7 +205,7 @@ Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 

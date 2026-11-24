@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>67 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>68 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (67)
+## Related News (68)
+
+### [Novo presenta nuevos datos sobre el abordaje de la obesidad en adultos y niños - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
+
+---
 
 ### ["Un blockbuster comme le viagra il y a 20 ans": les pharmacies font comme les supermarchés avec les pilules anti-obésité, elles bradent le Wegovy à prix coûtant (149 euros la boîte)](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
 

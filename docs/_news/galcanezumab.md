@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Galcanezumab. 3 predicted indications."
 permalink: /news/galcanezumab/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Galcanezumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Galcanezumab?">
-<strong>Galcanezumab</strong> currently has <strong>11 news articles</strong>, with 3 predicted indications.
+<strong>Galcanezumab</strong> currently has <strong>12 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Galcanezumab with the latest
 <p><a href="{{ '/drugs/galcanezumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">migraña</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
+
+---
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 
