@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Budesonide. 10 predicted indications."
 permalink: /news/budesonide/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Budesonide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>33 news articles</strong>, with 10 predicted indications.
+<strong>Budesonide</strong> currently has <strong>34 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (34)
+
+### [I blamed my squeaky breathing, husky voice and dry cough on Covid but it was a death sentence at 48 - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
+
+---
 
 ### [Tres de cada cuatro argentinos que tienen EPOC desconocen su diagnóstico: por qué la consulta a partir de los 40 años es clave](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM0dLVkJOQXVTeTN4UmVPVWZzSG55ZHd5TFJDc3BmZWFKNWs4SW5CS0dKS19lSy1NTzdwRktmLUNjRkJOa2o3RGNGb0NoVmhUQmItWUxNRnVqeFRVMXJzNlAyY1NVS2dvVDAzcTVCdi1rbFQtWUVKZi1lVUhILWZHdldDY2dHdXZhemVCaUc2VDkyU0RuNkNnczY3el9IVVlWTTVObmlsVTU5WWFuQm5oSDcydm1faTVvam85RVh4QTdQcHdkRG9rUU1zR29Hd0FiUElhV1pSMDNQNHd4bktGN3FOSXF5U2lfYzBSaE0tOUNQZFA5VkVReHZLNNIBlgJBVV95cUxNeUV6SFhuRjdRckRzSE43eVVBNzhVUDNaMHZ3MW9HaEE2TTVwMlo5UkpERkFPQVhZTjNkeVVRYy1GTWZFLWtoUHZRcVkxVVg4eU1oaHdtMnduZ283QjIyRVIwQ2hZbUhZMmN6R2h4UGZ2bzhFNG1fMTBHclE3VTc0THVnQ0lpcFd1R3J2SWFzQWFhSGhWSkNXVW5MVUVfRzVLTVBCQWczUVpGNTZYbTBPbDVQMVVKOU1vdzVzV1h3anlhc0s1R2VNamh2TTZFRlVzbEtOWVdlano2MHdUUFNVakVRWHU5aGkycVItWGZ0WU9YSWJlVUVsZnBaZzN6OGZsVjE3UmxCX2lRZkZ4UENoNVVYcDJYdw?oc=5)
 

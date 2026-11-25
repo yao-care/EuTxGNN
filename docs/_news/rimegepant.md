@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rimegepant. 5 predicted indications."
 permalink: /news/rimegepant/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Rimegepant News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>38 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>37 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (37)
 
 ### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
 
@@ -65,7 +65,7 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cU
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
@@ -92,14 +92,6 @@ Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
-
----
-
-### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
 
 ---
 

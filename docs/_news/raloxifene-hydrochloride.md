@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Raloxifene Hydrochloride. 0 predicted indications."
 permalink: /news/raloxifene-hydrochloride/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Raloxifene Hydrochloride News
@@ -43,7 +43,7 @@ Source: [n-tv.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYc
 
 2026-11-24 <span class="news-indication-tag">AVC</span>
 
-Source: [franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
+Source: [Franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
 
 ---
 
@@ -65,9 +65,17 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5H
 
 ### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
 
-2026-11-24 <span class="news-indication-tag">stroke</span>
+2026-11-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+---
+
+### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+2026-11-24 <span class="news-indication-tag">AVC</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
 
 ---
 
@@ -79,11 +87,11 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3
 
 ---
 
-### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+### [Studie: Warnzeichen für Herzinfarkt und Schlaganfall Jahrzehnte früher erkennbar](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VVhTaGtvak1sUkRkT2tLMm9QSmNBblJyVnJkZFBLVTdWS3pvYzdGY2h3YWxUMXF2ZThoQVQwR0VhYTdKMzQ5NlhCa1dQcVVmdlVBaUY1UjVpTURRY05YdHo4X05VYjI4WVlrcmozcWNoUXF5ZThHLVVwTzRmTWxGckxBNkQ1VjBvS1g1MXc0aHFOSURTbWFZdw?oc=5)
 
-2026-11-24 <span class="news-indication-tag">AVC</span>
+2026-11-24 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VVhTaGtvak1sUkRkT2tLMm9QSmNBblJyVnJkZFBLVTdWS3pvYzdGY2h3YWxUMXF2ZThoQVQwR0VhYTdKMzQ5NlhCa1dQcVVmdlVBaUY1UjVpTURRY05YdHo4X05VYjI4WVlrcmozcWNoUXF5ZThHLVVwTzRmTWxGckxBNkQ1VjBvS1g1MXc0aHFOSURTbWFZdw?oc=5)
 
 ---
 
@@ -255,14 +263,6 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2Jh
 
 ---
 
-### [GLP-1-RA: Trennungsschmerz fürs Herz - DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
-
-2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
-
----
-
 ### [Reunión Anual SEN: La obesidad aumenta el riesgo de ictus y plantea nuevos desafíos en la rehabilitación - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQzkwTHJBM0dtQUVNN0NVbWZfMFVuT2l0Ni1CX0dYU0w3LXdib3VRbDRBVmFjSjlrNURyMDYyZWdvMVA3cDJib2wzMnVhVy0wU1pDRk9OekxjbldTUlRNSkZzaFFmZVdmeTZjNjNfRVh2V2hweG5YaU90VERqLUVmM2pMUHJBY2oxUUpRc05jQjAzM1JHVlZYZGtEZTVyR3lLT3ktLWNHM2JBSy00V1F4WjNmZUFqVmRsNNIBtwFBVV95cUxNMFdlX1J6cVEwcWpVZUo1WGtZRE9JakNtMzMtTmhuRVZRR0FGNEwta3RkNENZWWhzaEhxaUt3bmp4azYwcTcwTHA1M1k1bjJGY1VDWW1kanNLWTdVZHptSEtFbElIZjdJdU9iVF9nOUY1VjY4Rng4Qm1haHQ5cUVfN2stQVpzOFp1UUl1cDhPQTlZeE5LZFRnNnA4bXZLNjdsYU80aS1SbTA4MWV2RVF0X0RGSWNteUk?oc=5)
 
 2026-11-19 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
@@ -313,7 +313,7 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVG
 
 ### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
-2026-11-18 <span class="news-indication-tag">AVC</span>
+2026-11-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 

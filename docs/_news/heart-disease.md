@@ -3,9 +3,9 @@ layout: default
 title: "heart failure (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart failure (heart disease). 26 articles, 57 related drugs."
+description: "Health news about heart failure (heart disease). 25 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # heart failure (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about heart failure (heart disease)?">
-<strong>heart failure (heart disease)</strong> currently has <strong>26 news articles</strong> and 57 related drugs.
+<strong>heart failure (heart disease)</strong> currently has <strong>25 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,7 @@ This page brings together the latest health news about “heart failure” and l
 </ul>
 </div>
 
-## Related News (26)
+## Related News (25)
 
 ### [​6 hidden signs of heart trouble you should never ignore, US-based cardiologist warns: One of them starts in your legs​ - The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkRBZl9rcGU3OW9GTWZqY19JRFhWd1l3cndZLXBEYTZVU1NpeXdfQm04M2pzQm1ydUVzc1pTOWEtWnkyY0dBd0FPMHhPcTRVbEVuVVpId3EyQjFDYzFiOG9wUk80bkJuUktEMy1CcjU4c1B1aG9SQWdmdTRtTC05T2ZHYXhTVlNmZzVIMkNVOTAzcVQtdDFrZUxNNWdlaE5NZTl6eE82QS1lQXp2UUs4NXJQWjN5eWw3SjhEMDJpdUlGc1pfZTFaYzNpZzRTR3pkd0d6VVd0MTdPVGtfd2lDZFhwcE1Zekl1aEVZcGxKV3hYRDA3NTNDMXJrSzc3QkJYMWE5QUNtaF9ja0ZPYjZyWnEyT0IwSHQ0Y1R0VdIBpAJBVV95cUxOZGhGT1hMa05IVW9OTlRoeEhiTkFCNVlMbHVSWTRFT1ltQ0JGTnN3ZEJVSERaa0RWSThJbTh0YzRsY3dHZlJMd2ZCRUViX1lPRGQ5N05KUWppY25iR0lCZ0FDVHFRcXNoYUJJTnBXTHlJMWItbDFoRGZvd3FKMlRSSVp4UUNISUVfYzFVbWlzSW5HQm1BVkJ2MVJnU21uRWZhbnVhSXozS1ppYlp4TnZIZXU2UmdmTUliX0lFNkxlM21rRGVzTkZTX3pfOVotYVh0QS1NZEoyOUxPMU1NRXd2WlpIeFRyTnFaWlF5MUNVT2pWV0E1dVdEUzM4dmR3dXNnN0dTQUJhaTdrZ0l0UG40VmczQnZTSkF2TEJpaFYzT2dHU1Yx?oc=5)
 
@@ -98,14 +98,6 @@ Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ
 2026-11-19
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
-
----
-
-### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
-2026-11-19
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
 
 ---
 

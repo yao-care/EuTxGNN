@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>45 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>44 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (44)
 
 ### [Psoriasis-Arthritis bei Übergewicht: Ixekizumab plus Tirzepatid offenbar effizienter als Ixekizumab allein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
 
@@ -66,7 +66,7 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0tI
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
@@ -101,14 +101,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1R
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
-
----
-
-### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
 
 ---
 

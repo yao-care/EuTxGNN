@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "AVC (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 150 articles, 11 related drugs."
+description: "Health news about AVC (stroke). 150 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
-# Schlaganfall (stroke) News
+# AVC (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>150 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about AVC (stroke)?">
+<strong>AVC (stroke)</strong> currently has <strong>150 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “AVC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -51,7 +51,7 @@ Source: [n-tv.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYc
 
 2026-11-24
 
-Source: [franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
+Source: [Franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
 
 ---
 
@@ -79,6 +79,14 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNf
 
 ---
 
+### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+2026-11-24
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+---
+
 ### [Studie: Warnzeichen für Herzinfarkt und Schlaganfall Jahrzehnte früher erkennbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3c01NaWx0VnRZdjdYMnZaSkVNczdTVVhiNjNFbTlLV0VObHRxaXh4eTN2Y243Mm8wcy1sdmt4R1BiZTYzbkxXTzFQOUgwMGFvLUhwdjB0NW5icktBRVJtX0VlbVN5SV93d3JjZWlxdGs3SGw2SlBhZjNxbDhiMmlXNm9idm5qS0doUWhCOHZlMjI5MEhxcjg2NnNYY0NTR1NybHNGZWJLcmNKTk9PVzdPVWI?oc=5)
 
 2026-11-24
@@ -87,11 +95,11 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3
 
 ---
 
-### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+### [Studie: Warnzeichen für Herzinfarkt und Schlaganfall Jahrzehnte früher erkennbar](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VVhTaGtvak1sUkRkT2tLMm9QSmNBblJyVnJkZFBLVTdWS3pvYzdGY2h3YWxUMXF2ZThoQVQwR0VhYTdKMzQ5NlhCa1dQcVVmdlVBaUY1UjVpTURRY05YdHo4X05VYjI4WVlrcmozcWNoUXF5ZThHLVVwTzRmTWxGckxBNkQ1VjBvS1g1MXc0aHFOSURTbWFZdw?oc=5)
 
 2026-11-24
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VVhTaGtvak1sUkRkT2tLMm9QSmNBblJyVnJkZFBLVTdWS3pvYzdGY2h3YWxUMXF2ZThoQVQwR0VhYTdKMzQ5NlhCa1dQcVVmdlVBaUY1UjVpTURRY05YdHo4X05VYjI4WVlrcmozcWNoUXF5ZThHLVVwTzRmTWxGckxBNkQ1VjBvS1g1MXc0aHFOSURTbWFZdw?oc=5)
 
 ---
 
@@ -260,14 +268,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpC
 2026-11-19
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
-
----
-
-### [GLP-1-RA: Trennungsschmerz fürs Herz - DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
-
-2026-11-19
-
-Source: [DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
 
 ---
 

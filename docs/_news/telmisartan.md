@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>224 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>223 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (224)
+## Related News (223)
 
 ### [Erythrit unter Verdacht: Beliebter Zuckerersatz könnte Schlaganfallrisiko erhöhen](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYcEtxWktTX2xucDZRM05IbFFZZUxoalpFaDNZcVVDclpfalJvUHVFdW54aGI4aDhNNVlfR1Z0NUN2NDVLZnE0TWZHRHZ0VHowZlZybmI1VGlSSzB3ZUJqTGRNNjNVMzZxWVhtMkhOdE5GR2hSVEwzQ2xqcEo2czJnM051SHItNVp5Ulh0QWpGb1VmaWlIQUhWUW9DV3Nj?oc=5)
 
@@ -51,7 +51,7 @@ Source: [n-tv.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYc
 
 ---
 
-### [Bluthochdruck: Diese Ursache wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+### [Diese Ursache für Bluthochdruck wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
 
 2026-11-24 <span class="news-indication-tag">Bluthochdruck</span>
 
@@ -63,7 +63,7 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZ
 
 2026-11-24 <span class="news-indication-tag">AVC</span>
 
-Source: [franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
+Source: [Franceinfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9JN3I1cFVBWGhTTjhBcHVGOEl0LTdweFd3ZW5ZTGNlTTRmTDhRQ1RSY1BQeDB0WXlxeDh1WWxzWW1jT2Zkd1dZWHMxM0JiM18tNGtHdTE2MV8zQzRXTnNYQkI0UTgzVjd2RDNnWENyVUJETHROVXh0c0hGMndXSzVJVGhxWE5BWms3OHNVMWs1bFNGQjREVk9vWi1YNDh4bzZ5ZXdlQVJjckszYkZQbmJNMHhjQmZXZXJqZVlzZktrYWxienZz?oc=5)
 
 ---
 
@@ -85,9 +85,17 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5H
 
 ### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
 
-2026-11-24 <span class="news-indication-tag">stroke</span>
+2026-11-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+---
+
+### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+2026-11-24 <span class="news-indication-tag">AVC</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
 
 ---
 
@@ -99,11 +107,11 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNckw3
 
 ---
 
-### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+### [Studie: Warnzeichen für Herzinfarkt und Schlaganfall Jahrzehnte früher erkennbar](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VVhTaGtvak1sUkRkT2tLMm9QSmNBblJyVnJkZFBLVTdWS3pvYzdGY2h3YWxUMXF2ZThoQVQwR0VhYTdKMzQ5NlhCa1dQcVVmdlVBaUY1UjVpTURRY05YdHo4X05VYjI4WVlrcmozcWNoUXF5ZThHLVVwTzRmTWxGckxBNkQ1VjBvS1g1MXc0aHFOSURTbWFZdw?oc=5)
 
-2026-11-24 <span class="news-indication-tag">AVC</span>
+2026-11-24 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VVhTaGtvak1sUkRkT2tLMm9QSmNBblJyVnJkZFBLVTdWS3pvYzdGY2h3YWxUMXF2ZThoQVQwR0VhYTdKMzQ5NlhCa1dQcVVmdlVBaUY1UjVpTURRY05YdHo4X05VYjI4WVlrcmozcWNoUXF5ZThHLVVwTzRmTWxGckxBNkQ1VjBvS1g1MXc0aHFOSURTbWFZdw?oc=5)
 
 ---
 
@@ -205,7 +213,7 @@ Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
@@ -363,14 +371,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 
 ---
 
-### [GLP-1-RA: Trennungsschmerz fürs Herz - DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
-
-2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
-
----
-
 ### [Reunión Anual SEN: La obesidad aumenta el riesgo de ictus y plantea nuevos desafíos en la rehabilitación - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQzkwTHJBM0dtQUVNN0NVbWZfMFVuT2l0Ni1CX0dYU0w3LXdib3VRbDRBVmFjSjlrNURyMDYyZWdvMVA3cDJib2wzMnVhVy0wU1pDRk9OekxjbldTUlRNSkZzaFFmZVdmeTZjNjNfRVh2V2hweG5YaU90VERqLUVmM2pMUHJBY2oxUUpRc05jQjAzM1JHVlZYZGtEZTVyR3lLT3ktLWNHM2JBSy00V1F4WjNmZUFqVmRsNNIBtwFBVV95cUxNMFdlX1J6cVEwcWpVZUo1WGtZRE9JakNtMzMtTmhuRVZRR0FGNEwta3RkNENZWWhzaEhxaUt3bmp4azYwcTcwTHA1M1k1bjJGY1VDWW1kanNLWTdVZHptSEtFbElIZjdJdU9iVF9nOUY1VjY4Rng4Qm1haHQ5cUVfN2stQVpzOFp1UUl1cDhPQTlZeE5LZFRnNnA4bXZLNjdsYU80aS1SbTA4MWV2RVF0X0RGSWNteUk?oc=5)
 
 2026-11-19 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
@@ -384,14 +384,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQz
 2026-11-19 <span class="news-indication-tag">ictus</span>
 
 Source: [Mercacei](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM1NRU0ExbWg0WjFWbWFsck9oMFpBUFJ2OE9lWlJHOFRYT2ZRS2pyRmlUV0hxd0lEM0Q0ZlNlS3M1RHRwbWM0a2c2eG1MYTVRelNicGtodFVLdGZlMmJENk9JVGxBMXhTdmNoYmVQS05QVDZJWW0yeHhPSTE5SU5mV04zNTlVVGRLUjVmdEl6UHRFdVlQLURaM0RJcUhZX2VrbzBsZG9oeF8tUmJnYjJia2dlTkNEZVJlVEhRLUxvdTI2VmFRSWw0QlFCcER5OUJGODd0NG9HdHM1a2owTTN0MTNKalNfVko5WlBpOHZabV9jUQ?oc=5)
-
----
-
-### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
 
 ---
 
@@ -429,7 +421,7 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVG
 
 ### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
-2026-11-18 <span class="news-indication-tag">AVC</span>
+2026-11-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 

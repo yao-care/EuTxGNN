@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Regadenoson. 4 predicted indications."
 permalink: /news/regadenoson/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Regadenoson News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>17 news articles</strong>, with 4 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>18 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [I blamed my squeaky breathing, husky voice and dry cough on Covid but it was a death sentence at 48 - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
+
+---
 
 ### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
 

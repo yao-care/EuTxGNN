@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Drospirenone. 0 predicted indications."
 permalink: /news/drospirenone/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Drospirenone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Drospirenone?">
-<strong>Drospirenone</strong> currently has <strong>24 news articles</strong>, with 0 predicted indications.
+<strong>Drospirenone</strong> currently has <strong>25 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Drospirenone with the latest
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (25)
+
+### [I blamed my squeaky breathing, husky voice and dry cough on Covid but it was a death sentence at 48 - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
+
+---
 
 ### [Psoriasis-Arthritis bei Übergewicht: Ixekizumab plus Tirzepatid offenbar effizienter als Ixekizumab allein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
 
