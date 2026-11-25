@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Anifrolumab?">
-<strong>Anifrolumab</strong> currently has <strong>303 news articles</strong>, with 0 predicted indications.
+<strong>Anifrolumab</strong> currently has <strong>307 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Anifrolumab with the latest 
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (303)
+## Related News (307)
+
+### [Diabetes und Luftverschmutzung: Wie Feinstaub den Stoffwechsel beeinflusst - Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxORUtkdXRNTDhsanB1Wm11YWU4N09RdzVNVjdoMVBwd2NTa3dZU3BYakNSeFM2YVprd1NQMGszQ0tDcy1ZVlpvWFBBR0NaLVduY0VudGFvTEdkLUhRMGZlSzBhQXhMUERIMmhPOUVsbmczTVlfWFFiRmJ6Y1prMlVycmlqY2ZpUUg3Um1TaDZZbWdOZjN3QzJCLXpBUkRNTzFKcmZSQQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxORUtkdXRNTDhsanB1Wm11YWU4N09RdzVNVjdoMVBwd2NTa3dZU3BYakNSeFM2YVprd1NQMGszQ0tDcy1ZVlpvWFBBR0NaLVduY0VudGFvTEdkLUhRMGZlSzBhQXhMUERIMmhPOUVsbmczTVlfWFFiRmJ6Y1prMlVycmlqY2ZpUUg3Um1TaDZZbWdOZjN3QzJCLXpBUkRNTzFKcmZSQQ?oc=5)
+
+---
+
+### [Autolärm schadet Herz und Kreislauf, zeigt Studie der Uni Mainz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQlZIOF9ybkF6eFJIbHlfNDZURDRNc1NTam8xSTNiQWExaUt3bjJvUUZHY2ZQaHN6N2tmWld1YXBENEpKVXF1ZEV0RndDMzRpeFB5Wlh1N2hhVjJNQ184TVBqVWZDLVVja2h2U3dzb09qWUhaZnp5X1pHd2loMTQxVXdOLWpuaHVCcHRwREVZZm40UDZXS3BjVE1ZNGt1V3ZkZ1JXa0F0b0dYb0NZb24xWWxfYXR3Y0NqdE5rN19scmxHN29iS2RSR1UxcXlsVQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQlZIOF9ybkF6eFJIbHlfNDZURDRNc1NTam8xSTNiQWExaUt3bjJvUUZHY2ZQaHN6N2tmWld1YXBENEpKVXF1ZEV0RndDMzRpeFB5Wlh1N2hhVjJNQ184TVBqVWZDLVVja2h2U3dzb09qWUhaZnp5X1pHd2loMTQxVXdOLWpuaHVCcHRwREVZZm40UDZXS3BjVE1ZNGt1V3ZkZ1JXa0F0b0dYb0NZb24xWWxfYXR3Y0NqdE5rN19scmxHN29iS2RSR1UxcXlsVQ?oc=5)
+
+---
+
+### [So früh wie möglich Organprotektion bei Typ-2-Diabetes angehen](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE1HNWRNYmhFdzBIMW5MZEdpRFA0bzNoNkVzZFZyR3RxNkRXVGxQZmkwX0J3RlFyZ2x3cU9neld5a3V0OExsTDhEbVR3a0k2SnZsM0ZrNkJxMmRoSHdfTGtkM3pscUFGVlBETEtpY0NqWmpvZm9NbU1sMEJjUDNoallQeXprb1ZIODJEaDBMbTZqMDF3MEo1VGRTY0U5cUJJN1hkdHpiUTA0M3hWcFl4OHpEX1pOUEVscEE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE1HNWRNYmhFdzBIMW5MZEdpRFA0bzNoNkVzZFZyR3RxNkRXVGxQZmkwX0J3RlFyZ2x3cU9neld5a3V0OExsTDhEbVR3a0k2SnZsM0ZrNkJxMmRoSHdfTGtkM3pscUFGVlBETEtpY0NqWmpvZm9NbU1sMEJjUDNoallQeXprb1ZIODJEaDBMbTZqMDF3MEo1VGRTY0U5cUJJN1hkdHpiUTA0M3hWcFl4OHpEX1pOUEVscEE?oc=5)
+
+---
 
 ### [Adventskalender: Weniger Süßigkeiten für Kinder mit und ohne Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXZxTDVxc3E3ckZpRVZ1UlV4ejlVYW00anZQNlhuS2g0UllBaXlRMlFQa0xpaXExWmQ1eGk1UXFHdVhUQXF3aU16OHBFaFo3djBrb1J1cmpsUjlkMGdDdUVOcEZmNjJpa25KU0JCaTlvMmdzeUdhc21Qem95Wk1scUdGV1lvcm85dS1hczFrTnhLbWtFazNDUFJsR0lEU0N5ekg4eEVIcWtOSFNs?oc=5)
 
@@ -56,11 +80,27 @@ Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/arti
 
 ---
 
+### [Helfen Abnehmspritzen besser als ein gängiges Diabetesmittel?](https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3hJTUNiaklNN1FNdnVGVTFmSFBpN0NMWE9OaDUxR1A3dGwyeFBxUi1RY3RGTW9xOXI1WjZZM25xdHFDVm1MYjV6Y3lhWlY1SXpBZWdpS29CYXdGa2F4Z2VpOXI0TzBaTlRiZnpXVEFsOXhZUkZobmRjaHNBR3p6YmhuckpoYkNLZ1hSV05vSGlHd3AwZnJMakY4emRUZi16dEFnOXBlMl9kNmVmQkYycUVoNVJzZkRBdmV1czEyWHhURDlnYnc?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [T-Online](https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3hJTUNiaklNN1FNdnVGVTFmSFBpN0NMWE9OaDUxR1A3dGwyeFBxUi1RY3RGTW9xOXI1WjZZM25xdHFDVm1MYjV6Y3lhWlY1SXpBZWdpS29CYXdGa2F4Z2VpOXI0TzBaTlRiZnpXVEFsOXhZUkZobmRjaHNBR3p6YmhuckpoYkNLZ1hSV05vSGlHd3AwZnJMakY4emRUZi16dEFnOXBlMl9kNmVmQkYycUVoNVJzZkRBdmV1czEyWHhURDlnYnc?oc=5)
+
+---
+
 ### [Attribués à son diabète, ses symptômes cachaient un cancer du pancréas : Lynda, une Britannique, est morte deux heures seulement après son diagnostic - Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOVBLVVZLYTVHUlYxTzFWTmFhei1aNVRFQTBHV3dUSnRueVc2MFUtQU1pS2ZOaHhBekpnSVIxUXhFb2lVdE5MQ2lldUZsdzNoTXhaTTBkYXpCeU9rcmd5cFBjRGpTMkxjQWRyanlPRXE1NXd0WjNyTllEbG1HTk5LNjRPdEZRa3hEZlZuc0QxNkxkMDcxeDhVd3dVU3FoM2kwMDZ1YjQ1cmdCWlJTWW9SVlJZVU1fR3VWaGo5VVpZTzAtelE4TzJJU1R1LVpCV1psb0Z6VnR6R0otOWxNMVV2Ul9Kdml5OE9Gc08zbWMxUlBEbW45dnRwS2ZLTk8zUjRFR3NrZ2VLMmVrUUhuR0R4Yw?oc=5)
 
 2026-11-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 Source: [Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOVBLVVZLYTVHUlYxTzFWTmFhei1aNVRFQTBHV3dUSnRueVc2MFUtQU1pS2ZOaHhBekpnSVIxUXhFb2lVdE5MQ2lldUZsdzNoTXhaTTBkYXpCeU9rcmd5cFBjRGpTMkxjQWRyanlPRXE1NXd0WjNyTllEbG1HTk5LNjRPdEZRa3hEZlZuc0QxNkxkMDcxeDhVd3dVU3FoM2kwMDZ1YjQ1cmdCWlJTWW9SVlJZVU1fR3VWaGo5VVpZTzAtelE4TzJJU1R1LVpCV1psb0Z6VnR6R0otOWxNMVV2Ul9Kdml5OE9Gc08zbWMxUlBEbW45dnRwS2ZLTk8zUjRFR3NrZ2VLMmVrUUhuR0R4Yw?oc=5)
+
+---
+
+### [¿Cuántas horas de sueño son demasiadas? - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
 
 ---
 
@@ -2445,14 +2485,6 @@ Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXl
 2026-10-27 <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTlCa3MtcmhUWWdkbkxYWVRzMEprRE50VDBPLW5QcWs4QTFGV0RKbzZQdS0zUFJ3NzBqMFJjTjNmeERsc255OGVLRXJZVllYWWtLMHZraUxfU3hIOFFKaG8zamRDQWd5OHR5NFdLV2pHQUNIaTBTX1VfTFdrdzRjeVlyM3Awam94V0JyYTZ1YXlVNVVqR1E?oc=5)
-
----
-
-### [Prediabetes: los tres hábitos que recomienda una cardióloga para mejorar la salud metabólica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmRvZ3lXWTl4S2lFYXRTVEgxckY3Y2FDdWRwcTBfMkQ3QzhZSXA4V3FuLTBSNkZ4bGFUMnExT3FKVWZVYWVzQWQxQ2FTMXlObnNjc19BYThHMHNUc3FaR2JHdi1UZFVURHhKRGxSRjY1QUd6M3JMeWZrOFpuT1Vjenc4LWFta0ViU0hNSnNYZXVtbFIyV0d4ZUQ5eFhKSkZSZ1pDczRjSkRXRkJMQWR5aVR30gG3AUFVX3lxTFBIVGFwQ3pTU1o4eEZ5aFUxbmtVQlFWY2p0bVRwSlNQazBQWHpLSWt5S1I1bk5sZEV6SDhlYnRmay1LRHpwdUY0S3JlNVF0ZDFzWDc0LVliRlYxMHBGdy01TVBubmdZdC1rOEpJOTJKeVFYNFg3US1kQWtCdTFEN1dMUjV1ejQ3N3lHb2VteG1aN3EtNHh1ZERSQl9xQ0V5Tm1aUi1kUGFlNGowaGxzMG83LS05UVNBYw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmRvZ3lXWTl4S2lFYXRTVEgxckY3Y2FDdWRwcTBfMkQ3QzhZSXA4V3FuLTBSNkZ4bGFUMnExT3FKVWZVYWVzQWQxQ2FTMXlObnNjc19BYThHMHNUc3FaR2JHdi1UZFVURHhKRGxSRjY1QUd6M3JMeWZrOFpuT1Vjenc4LWFta0ViU0hNSnNYZXVtbFIyV0d4ZUQ5eFhKSkZSZ1pDczRjSkRXRkJMQWR5aVR30gG3AUFVX3lxTFBIVGFwQ3pTU1o4eEZ5aFUxbmtVQlFWY2p0bVRwSlNQazBQWHpLSWt5S1I1bk5sZEV6SDhlYnRmay1LRHpwdUY0S3JlNVF0ZDFzWDc0LVliRlYxMHBGdy01TVBubmdZdC1rOEpJOTJKeVFYNFg3US1kQWtCdTFEN1dMUjV1ejQ3N3lHb2VteG1aN3EtNHh1ZERSQl9xQ0V5Tm1aUi1kUGFlNGowaGxzMG83LS05UVNBYw?oc=5)
 
 ---
 

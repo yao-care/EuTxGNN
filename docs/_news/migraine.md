@@ -3,9 +3,9 @@ layout: default
 title: "migraña (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraña (migraine). 12 articles, 49 related drugs."
+description: "Health news about migraña (migraine). 13 articles, 49 related drugs."
 permalink: /news/migraine/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # migraña (migraine) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about migraña (migraine)?">
-<strong>migraña (migraine)</strong> currently has <strong>12 news articles</strong> and 49 related drugs.
+<strong>migraña (migraine)</strong> currently has <strong>13 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -57,7 +57,15 @@ This page brings together the latest health news about “migraña” and lists 
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Menopausia y pérdida de materia gris cerebral](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
+
+2026-11-24
+
+Source: [diarioeuskadi.eus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
+
+---
 
 ### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
 

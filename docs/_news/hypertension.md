@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 64 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 66 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-25
 ---
 
-# Bluthochdruck (hypertension) News
+# hipertensión (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>64 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
+<strong>hipertensión (hypertension)</strong> currently has <strong>66 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,13 +64,29 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (64)
+## Related News (66)
 
 ### [Diese Ursache für Bluthochdruck wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
 
 2026-11-24
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+---
+
+### [¿Cuántas horas de sueño son demasiadas? - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+2026-11-24
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+---
+
+### [TWO common blood pressure tablets are discontinued in UK as DHSC issues urgent supply statement - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQekRhWEhadDQ4a3lTWC05cHpab0NaWmxxWDF4cE1Xby14Z1pqaXJpY25scDBtREFHUU9TWG1SZlp4aHdBOUd6ZXFqaTBXcWpfTGdFUEVOYlVmSlJWVXNEcUl2SWFRNmNjcXFzdEUtWThOOURiQzlMckw2WF9JZC0xcWoyOHhZeWs?oc=5)
+
+2026-11-24
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQekRhWEhadDQ4a3lTWC05cHpab0NaWmxxWDF4cE1Xby14Z1pqaXJpY25scDBtREFHUU9TWG1SZlp4aHdBOUd6ZXFqaTBXcWpfTGdFUEVOYlVmSlJWVXNEcUl2SWFRNmNjcXFzdEUtWThOOURiQzlMckw2WF9JZC0xcWoyOHhZeWs?oc=5)
 
 ---
 

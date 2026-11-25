@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Granisetron. 10 predicted indications."
 permalink: /news/granisetron/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Granisetron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>47 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>48 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (47)
+## Related News (48)
+
+### [Chronisch-obstruktive Lungenerkrankung: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen einer COPD vermeiden helfen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ1l6WXhfbFZ5b0psLUVud3F6anh1cHNJRkxmdFdNOFBUbEswRlZodklPSlk0anBTeDBSSU1tWVJqYXVXVG82TWE0UnhTUzFSLWRrZEVnbFB1cktacjNDcWxjcXZMNEF5V1Y3eS1sSk5zaUVaZGVsUGE4dTdmQ0FHS0xWVlV3THF2cks2OVEtYUNMT0E5a0ozanE3MDJZMDNOZ3RxampkVkxGLS15XzNTUGpTRGZPZFdpeVJvSW9nTkItZkZUbUNTUHFGaVQ0TXp5UEpKWDRHOU1WcFB0R0VoeVI0MlRRNzJ0VW9IZEo1akFSRDFkVmZILVdaY3FWdlJmcHpnV09nZzVsYkN2M2FpM29DYmZoQ2E5NjlkVEhpQkY4eHcwcHhLWWJrUnZCOUloMWc?oc=5)
+
+2026-11-25 <span class="news-indication-tag">copd</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ1l6WXhfbFZ5b0psLUVud3F6anh1cHNJRkxmdFdNOFBUbEswRlZodklPSlk0anBTeDBSSU1tWVJqYXVXVG82TWE0UnhTUzFSLWRrZEVnbFB1cktacjNDcWxjcXZMNEF5V1Y3eS1sSk5zaUVaZGVsUGE4dTdmQ0FHS0xWVlV3THF2cks2OVEtYUNMT0E5a0ozanE3MDJZMDNOZ3RxampkVkxGLS15XzNTUGpTRGZPZFdpeVJvSW9nTkItZkZUbUNTUHFGaVQ0TXp5UEpKWDRHOU1WcFB0R0VoeVI0MlRRNzJ0VW9IZEo1akFSRDFkVmZILVdaY3FWdlJmcHpnV09nZzVsYkN2M2FpM29DYmZoQ2E5NjlkVEhpQkY4eHcwcHhLWWJrUnZCOUloMWc?oc=5)
+
+---
 
 ### [Tres de cada cuatro argentinos que tienen EPOC desconocen su diagnóstico: por qué la consulta a partir de los 40 años es clave](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM0dLVkJOQXVTeTN4UmVPVWZzSG55ZHd5TFJDc3BmZWFKNWs4SW5CS0dKS19lSy1NTzdwRktmLUNjRkJOa2o3RGNGb0NoVmhUQmItWUxNRnVqeFRVMXJzNlAyY1NVS2dvVDAzcTVCdi1rbFQtWUVKZi1lVUhILWZHdldDY2dHdXZhemVCaUc2VDkyU0RuNkNnczY3el9IVVlWTTVObmlsVTU5WWFuQm5oSDcydm1faTVvam85RVh4QTdQcHdkRG9rUU1zR29Hd0FiUElhV1pSMDNQNHd4bktGN3FOSXF5U2lfYzBSaE0tOUNQZFA5VkVReHZLNNIBlgJBVV95cUxNeUV6SFhuRjdRckRzSE43eVVBNzhVUDNaMHZ3MW9HaEE2TTVwMlo5UkpERkFPQVhZTjNkeVVRYy1GTWZFLWtoUHZRcVkxVVg4eU1oaHdtMnduZ283QjIyRVIwQ2hZbUhZMmN6R2h4UGZ2bzhFNG1fMTBHclE3VTc0THVnQ0lpcFd1R3J2SWFzQWFhSGhWSkNXVW5MVUVfRzVLTVBCQWczUVpGNTZYbTBPbDVQMVVKOU1vdzVzV1h3anlhc0s1R2VNamh2TTZFRlVzbEtOWVdlano2MHdUUFNVakVRWHU5aGkycVItWGZ0WU9YSWJlVUVsZnBaZzN6OGZsVjE3UmxCX2lRZkZ4UENoNVVYcDJYdw?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>76 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>79 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (76)
+## Related News (79)
 
 ### [Diese Ursache für Bluthochdruck wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
 
 2026-11-24 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+
+---
+
+### [¿Cuántas horas de sueño son demasiadas? - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+---
+
+### [TWO common blood pressure tablets are discontinued in UK as DHSC issues urgent supply statement - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQekRhWEhadDQ4a3lTWC05cHpab0NaWmxxWDF4cE1Xby14Z1pqaXJpY25scDBtREFHUU9TWG1SZlp4aHdBOUd6ZXFqaTBXcWpfTGdFUEVOYlVmSlJWVXNEcUl2SWFRNmNjcXFzdEUtWThOOURiQzlMckw2WF9JZC0xcWoyOHhZeWs?oc=5)
+
+2026-11-24 <span class="news-indication-tag">hypertension</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQekRhWEhadDQ4a3lTWC05cHpab0NaWmxxWDF4cE1Xby14Z1pqaXJpY25scDBtREFHUU9TWG1SZlp4aHdBOUd6ZXFqaTBXcWpfTGdFUEVOYlVmSlJWVXNEcUl2SWFRNmNjcXFzdEUtWThOOURiQzlMckw2WF9JZC0xcWoyOHhZeWs?oc=5)
+
+---
+
+### [Menopausia y pérdida de materia gris cerebral](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [diarioeuskadi.eus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
 
 ---
 
@@ -126,7 +150,7 @@ Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhx
 
 ### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
 
-2026-11-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-11-20 <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
 

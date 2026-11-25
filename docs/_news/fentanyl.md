@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Fentanyl. 2 predicted indications."
 permalink: /news/fentanyl/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Fentanyl News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>31 news articles</strong>, with 2 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>32 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (32)
+
+### [Menopausia y pérdida de materia gris cerebral](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [diarioeuskadi.eus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
+
+---
 
 ### [Reunión Anual SEN-Migraña en la transición menopáusica: entre la tormenta hormonal y el reto terapéutico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjJjYUpVUGpEUmFsYlNPVUIxRmJvSWUzSl9ja2RRbXBOUE1vR1MzRENhOWg0YU1HWVB6bDVvLUZoUEJaVElMY0hjVmszWFJVOUhKZVRWTkVqMGY5OWhKU1RSMlBBQm1MV2NvbVcwdEE1UzBoSnIyMGljNm5hNXp5VUNoNkpvQlNkTW5Gd1pGYU9mMjFWMW5SMl9QRm5tOWgyckE?oc=5)
 

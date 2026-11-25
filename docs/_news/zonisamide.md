@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>51 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>50 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (51)
+## Related News (50)
 
 ### [Un hallazgo sobre la proteína CDKL5 arroja luz sobre una forma rara de epilepsia infantil](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUtyU0sxdC1tTlh2SDdoc3dON0xZbUsxMzdpMkgwRmp0eWQ5dWVZUmhBajZ4WVppSk13djMtdE5SMTJvNllnT1pFbm1ObHpxV2lmeUt2U3dYSHd1WDJtREExVC1oZUtlWG1BMjJJcjctei02S0dReUF1VGxjLWJuWG1ORXp4ZExsVzkwTEdVYlY1TnNiaWZrWUxUSTJYSXMyclIyZFdnVFdLc2Z2TGRtSlBPby1ma1NLVmEyX1dhWFd5YmNYaV9yUkpVMThuZ2JLYXM0MA?oc=5)
 
@@ -64,14 +64,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cU
 2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
-
----
-
-### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
-
-2026-11-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
 
 ---
 

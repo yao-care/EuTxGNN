@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>150 news articles</strong>, with 0 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>155 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,45 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (150)
+## Related News (155)
+
+### [Infarctus, AVC : comment savoir si vous êtes à risque ?](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTFPNDBVaGM1Y25aT1l0Y3pHb282ZE42X19NVlpvUTZBc2t3ajJmMUxuQldZbzdLYTJBNjVNb3ZQZUNWdU56ZWVRc1lrV2FsOHlrNi01OHlacFFuSHQxY3dRYlk3YjJVTzJKU2lXckI5VUM1dVNCTGkyYzItVG5yMGM5UQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">AVC</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTFPNDBVaGM1Y25aT1l0Y3pHb282ZE42X19NVlpvUTZBc2t3ajJmMUxuQldZbzdLYTJBNjVNb3ZQZUNWdU56ZWVRc1lrV2FsOHlrNi01OHlacFFuSHQxY3dRYlk3YjJVTzJKU2lXckI5VUM1dVNCTGkyYzItVG5yMGM5UQ?oc=5)
+
+---
+
+### [Colesterolo, perché secondo gli esperti non basta abbassare i valori - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
+
+2026-11-25 <span class="news-indication-tag">ictus</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
+
+---
+
+### [Ictus mentre si è soli: come capire che si tratta di quello per allertare subito i soccorsi](https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3B4VV9MUVpMM0JBeENfcThka0ZMWFNadVJvTDhFVGNoOGlWcmI1WTVqNGp6bXRMSEFfbGoydTNjMWh2Z1plZ05RLThPZXdaaWFtMXdMZ2h5eXI2eHhGc1dIcFJZU0lYVzhkamJoVHhWQ05GTnVtZ3FvVURHc2ExSzVDVWhCeDRkRU9fZUtXZ1cxS0g4VkRkQlRwQk5fMTQ4TGxwS0FCRV9OOEtSN0ZVN3FJcw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3B4VV9MUVpMM0JBeENfcThka0ZMWFNadVJvTDhFVGNoOGlWcmI1WTVqNGp6bXRMSEFfbGoydTNjMWh2Z1plZ05RLThPZXdaaWFtMXdMZ2h5eXI2eHhGc1dIcFJZU0lYVzhkamJoVHhWQ05GTnVtZ3FvVURHc2ExSzVDVWhCeDRkRU9fZUtXZ1cxS0g4VkRkQlRwQk5fMTQ4TGxwS0FCRV9OOEtSN0ZVN3FJcw?oc=5)
+
+---
 
 ### [Erythrit unter Verdacht: Beliebter Zuckerersatz könnte Schlaganfallrisiko erhöhen](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYcEtxWktTX2xucDZRM05IbFFZZUxoalpFaDNZcVVDclpfalJvUHVFdW54aGI4aDhNNVlfR1Z0NUN2NDVLZnE0TWZHRHZ0VHowZlZybmI1VGlSSzB3ZUJqTGRNNjNVMzZxWVhtMkhOdE5GR2hSVEwzQ2xqcEo2czJnM051SHItNVp5Ulh0QWpGb1VmaWlIQUhWUW9DV3Nj?oc=5)
 
 2026-11-24 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [n-tv.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hfcGxYcEtxWktTX2xucDZRM05IbFFZZUxoalpFaDNZcVVDclpfalJvUHVFdW54aGI4aDhNNVlfR1Z0NUN2NDVLZnE0TWZHRHZ0VHowZlZybmI1VGlSSzB3ZUJqTGRNNjNVMzZxWVhtMkhOdE5GR2hSVEwzQ2xqcEo2czJnM051SHItNVp5Ulh0QWpGb1VmaWlIQUhWUW9DV3Nj?oc=5)
+
+---
+
+### [Menopausia y pérdida de materia gris cerebral](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [diarioeuskadi.eus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
 
 ---
 
@@ -292,6 +324,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1oxNlJu
 2026-11-19 <span class="news-indication-tag">stroke</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucWdHdXozajFDSmtXUlRoUzlaOEZidGZ0SFFjSnJNQkpmOTZKY2todTZrNm5jVUhOU1NtTGQxb0hJUEpLV1FXbk9GNm95MTcxYlBYWmdpZ05LYUZmZ0ZGOUo1b0tKX0E5RnFkalEzX0xXTEHSAXhBVV95cUxNZjdaTWZjUUUzeERNLUFVN3dHUTJFVW1PeU92bEFKVjUtRjV3LWt2bzh4Ty1JN2V5ZjhoS3ZKdXhRa0F4bEVpeHI1b2VIVHZUa0tVd3F3cUVPSzMyd1hXZmFSUFNxMlRIaEtKb1NiNGFYS29XMmRMU2w?oc=5)
+
+---
+
+### [Evitare problemi cardiaci è possibile: le regole d'oro dei cardiologi - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV19uREcxSVhmcHBKem13VlZHRXpnM0xUWjFnYmNjTmFRRjVBbC1OOG5ZNy1NZEdNbWpHVFhzOHBOcDFBUk55Wm1qRHE5ZHdIVktRSll6V0NpcUl1S0V2MkpwZlBsWHhpcnZlNVRJWlAzNUpqSHZjSzVrd1BFVllIcmFRbXliVWpDZ2dKclRhWjQyWjJaUTExRU5KVTdYMnVacHRReW5IbS1rUWNoNVE3dUpPTU1mWVZZRkI0QnZrM0dkVDZwT195cFdIbTRhMU1mYVZYcUo4S1VaNHIwcXdKRzNadDBiNkJBNnZ4c1htWnJHTkxHMXU3U9IBxgFBVV95cUxNeHdlc2JJMjBOLTRZeVFHZEU0SkpVdkVnNnNucTlQQlNvTFpNMjJQVENkZHRoSHp4RHlWUUt5TzRaWllxTTEwOGhWZXd1RUswZnRyYXVJX0hTUjFJQzJxNWRkVkw0NEwwblNHVlhicFd2N1pSLWZnNGpwREtTM0hSZFdYSHRoaW1OQ285eGtlZmdnNGdPMFFCV2E4XzBUVXJ1UzJxR3V2OW0ydm41enh0MTRKWTBlVnFBZ1BsVUZ0SkxQN2lMSUE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">ictus</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV19uREcxSVhmcHBKem13VlZHRXpnM0xUWjFnYmNjTmFRRjVBbC1OOG5ZNy1NZEdNbWpHVFhzOHBOcDFBUk55Wm1qRHE5ZHdIVktRSll6V0NpcUl1S0V2MkpwZlBsWHhpcnZlNVRJWlAzNUpqSHZjSzVrd1BFVllIcmFRbXliVWpDZ2dKclRhWjQyWjJaUTExRU5KVTdYMnVacHRReW5IbS1rUWNoNVE3dUpPTU1mWVZZRkI0QnZrM0dkVDZwT195cFdIbTRhMU1mYVZYcUo4S1VaNHIwcXdKRzNadDBiNkJBNnZ4c1htWnJHTkxHMXU3U9IBxgFBVV95cUxNeHdlc2JJMjBOLTRZeVFHZEU0SkpVdkVnNnNucTlQQlNvTFpNMjJQVENkZHRoSHp4RHlWUUt5TzRaWllxTTEwOGhWZXd1RUswZnRyYXVJX0hTUjFJQzJxNWRkVkw0NEwwblNHVlhicFd2N1pSLWZnNGpwREtTM0hSZFdYSHRoaW1OQ285eGtlZmdnNGdPMFFCV2E4XzBUVXJ1UzJxR3V2OW0ydm41enh0MTRKWTBlVnFBZ1BsVUZ0SkxQN2lMSUE?oc=5)
 
 ---
 

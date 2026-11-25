@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>45 news articles</strong>, with 2 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>46 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (46)
 
 ### [Hochfunktionale Depression: Warum sie lange unentdeckt bleibt](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUGdjTWpRYThzLUNmRG13c19aUU51dmJvU25sTTVjX3hEN2NqN2NNZ0xuaG84ZlF4c1NFd3NSNzdkaUF2Um1STnROekFlWE1SZ21VRjFrbU9laEpWMVM4VTlpZzNIRGxxdEJfMWd1VzF4WDVhNEJRS3JEVFhHWEhkNDJycjg2WjNVZTV2cllkY0hhMENB?oc=5)
 
@@ -44,11 +44,27 @@ Source: [WEB.DE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUG
 
 ---
 
+### [Scientists discover a new type of depression that common antidepressants struggle to treat](https://news.google.com/rss/articles/CBMib0FVX3lxTE9xaTBnMVRZTHhvNy0xREtKQlU1ajJVaVhJSHkxZDNKWnhaS3VYa0pQb01vMlJXczJ1aHhmeFY5clRCWmVXZ2dmNWVWWUhNdlo2SUFjZFRiM0FpS0VYdkZoZXpvMnE4cncxSHNPeHpGaw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">depression</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9xaTBnMVRZTHhvNy0xREtKQlU1ajJVaVhJSHkxZDNKWnhaS3VYa0pQb01vMlJXczJ1aHhmeFY5clRCWmVXZ2dmNWVWWUhNdlo2SUFjZFRiM0FpS0VYdkZoZXpvMnE4cncxSHNPeHpGaw?oc=5)
+
+---
+
 ### [Neue Forschungsergebnisse könnten zirkadianen Subtyp der Depression stützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW5qeTAtM3lMWGdqWEtUdnlHeGFUOFQxeTVsSFdlTXAwOHdGZTlSdmh5MGtsb3UtZ2xyVE5UVzh0T3ZUQU1LQ2o3c19PZFl3NjByVmdqcEhUOGlLbWRLM2I2Qk9sUFlvblVNSmV6YzdQcjFxLTBVWklaY0tuSkxjcWh2c2tmZzFPNWk5STM1SW9ZWmlWd1JXZjFwWXJfRDBHUGt5RDFWTy1OVHhTZk1FNDBNZ3lKSEt0YXVGSUJkRWNJdFBhV29jcHJ5UDZWQUQwb0Fmc29rOF9Pb3FB?oc=5)
 
 2026-11-24 <span class="news-indication-tag">depression</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW5qeTAtM3lMWGdqWEtUdnlHeGFUOFQxeTVsSFdlTXAwOHdGZTlSdmh5MGtsb3UtZ2xyVE5UVzh0T3ZUQU1LQ2o3c19PZFl3NjByVmdqcEhUOGlLbWRLM2I2Qk9sUFlvblVNSmV6YzdQcjFxLTBVWklaY0tuSkxjcWh2c2tmZzFPNWk5STM1SW9ZWmlWd1JXZjFwWXJfRDBHUGt5RDFWTy1OVHhTZk1FNDBNZ3lKSEt0YXVGSUJkRWNJdFBhV29jcHJ5UDZWQUQwb0Fmc29rOF9Pb3FB?oc=5)
+
+---
+
+### [Mehr Menschen fürchten sich vor Krebs, Demenz und Unfall - Yahoo Nachrichten](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFJFcUdlTExRVXdBMjFOV3p2dnRuLXBCTVdTMTBVWDNQQ2lXZUpaYkhLQl9EeGdWSVhtSFVnYlR2MFZvZGY1WE9pZzlQM1Q5aEs1Yzd3aGdjQ0g1V01fUklHM01STlFKQmFqMVR2QmlLdE9zTVJfSTRQU09SRE45UGtnMWxTSEkwRExpSXRmMXhVdw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span>
+
+Source: [Yahoo Nachrichten](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFJFcUdlTExRVXdBMjFOV3p2dnRuLXBCTVdTMTBVWDNQQ2lXZUpaYkhLQl9EeGdWSVhtSFVnYlR2MFZvZGY1WE9pZzlQM1Q5aEs1Yzd3aGdjQ0g1V01fUklHM01STlFKQmFqMVR2QmlLdE9zTVJfSTRQU09SRE45UGtnMWxTSEkwRExpSXRmMXhVdw?oc=5)
 
 ---
 
@@ -385,14 +401,6 @@ Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV9
 2026-10-27 <span class="news-indication-tag">depresión</span>
 
 Source: [La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjlYbEtXLUNxN1JldC0wdjB1Z3lCcFZvODFDVW93VDI1RVpkemNwVThNUEdtRzFXcHdzdTM2WmEya1V4V1B0alNqSi0wQWJVWjRZUXZGUlZEMFFwaWJYdXh6R081OWxJcS1nX25YdTdmX244b25PRTRPR0RtblR0bFhzLXQtTU5YSGl2MWI2Zm10TWJTYldjeThSZ2t6M2dRR2xtaHpoMkNRSjZ2MUpUVXh0bkxJUkViZGRDOTVhN1_SAdQBQVVfeXFMTWZFbHhMeEhxSUFmMGdHUDR4QVMxWFZDQm5qb3RzdndDTG5RWUFGY1ZvY1FmMzc0RHVJbVFXTFBBNXNmWEFuZXpuR21NbDI5TXVpdDZYcjhzZ1R3aE9fb19nUlVLcEJCNzVLVnJKZWxFRFZNQUZPYXRHWVpjNGVrLUV4eG82WWh5XzVHTkdxRjdXV0VuVlp0c0pSSGZEd0o3dXZ3ZUxMblBUS202d1VjeEo3Rk9iOTNKQ2NFdkd3dElYQk1vMHUyWW45MVcyVjNOYnM1Mk4?oc=5)
-
----
-
-### [Zirkadiane Depression: Studie findet Hinweise auf neue Depressionsform](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdUMVNVYnAwMU54Rkt1QzVmMU9kX245TG9tR1BtTEdFYWJneXJkb2haSGc0UV91bjJweGl4SGVGZjZFWDdQaU4zMVZaSW9od2tCdlNhOFFQb2ZLWHJUR1cwR1BCNjFxYTlRclNLRVhQcnN6aDVxVTlOQjFIckNwVmE5Zk9DTmhmMW01TjZsSWZFbDNlT0JnLVBnUElZa0loNkFNdFBaXzgxSGNnSEIyeF9B?oc=5)
-
-2026-10-26 <span class="news-indication-tag">depression</span>
-
-Source: [L'essentiel](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdUMVNVYnAwMU54Rkt1QzVmMU9kX245TG9tR1BtTEdFYWJneXJkb2haSGc0UV91bjJweGl4SGVGZjZFWDdQaU4zMVZaSW9od2tCdlNhOFFQb2ZLWHJUR1cwR1BCNjFxYTlRclNLRVhQcnN6aDVxVTlOQjFIckNwVmE5Zk9DTmhmMW01TjZsSWZFbDNlT0JnLVBnUElZa0loNkFNdFBaXzgxSGNnSEIyeF9B?oc=5)
 
 ---
 

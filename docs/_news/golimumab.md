@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Golimumab. 2 predicted indications."
 permalink: /news/golimumab/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Golimumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Golimumab?">
-<strong>Golimumab</strong> currently has <strong>20 news articles</strong>, with 2 predicted indications.
+<strong>Golimumab</strong> currently has <strong>22 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page combines the AI-predicted indications for Golimumab with the latest he
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (22)
+
+### [Espondiloartritis, la enfermedad inflamatoria que aparece a los 24 años y tarda años en diagnosticarse - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
+
+2026-11-25 <span class="news-indication-tag">artritis</span>
+
+Source: [El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
+
+---
+
+### [Colitis ulcerosa: identifican que las células del intestino guardan memoria de la inflamación, aun después de un brote](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVURfNXd6MGFxYjNKckZUamYyZV9yaWNVV1Vmdi15M1htS2hyRGlhQ1R2cldkbFR5OUsxN0E4cl9UWlpzRHBpYTZfb1N3MnhlTEhYS0lObFlsMHNRMjBXSjNXcmgxQldvSEFZTWVrSlhSOGszelJkelNEZHVUb3htcHdfOExpV0l2VnNHbnM2UWpkcGRTcEhSOFRrdkRQcFV2dWxOT2lqVFgzbnF5UW1JMmNYM1JiODM1VTJNSWo1VEhveVd6dU00cnRJQ2lwUE54VVJLY09RVkpBckdQS3NsSUktelJGa0xpTlZOU1NaRkRQclo2T2RhOHJR0gGUAkFVX3lxTE5fVHZ2dElXUVNsOF9JMEdxclE4a2V5OFpDWE83c0ozd0Fxa3hzUVZYNGliTWlUQUs0dHFHZUwtejhyNVpqNlFaaXFCZmEzMS0wbHI1UmM1cnN4NGxrUTczRDVydWxJdmdpLTNTMEJmdmJCRUJ0TVZfQnNtU0lKcW0yeE1LRUNEVGliWWYzUS1MeU5hZzFIMTBMb3BLb2JmU0hLWk5JTjNENE1Bd29oM2JHV3REQ1hTV2IxZlJvclR3YkZtZllNdzVTb1ZrZThDSzIxN1hqVVZ1RW9yQU5wWTdWV3N5THJyZUUwZFJjTDBTZm0xcnRvOHlOWFY0UmNVZ1VyVXZMLWs5Q2hVeHBLZWRDaVMyVA?oc=5)
+
+2026-11-25 <span class="news-indication-tag">colitis ulcerosa</span>
+
+Source: [Infobae](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVURfNXd6MGFxYjNKckZUamYyZV9yaWNVV1Vmdi15M1htS2hyRGlhQ1R2cldkbFR5OUsxN0E4cl9UWlpzRHBpYTZfb1N3MnhlTEhYS0lObFlsMHNRMjBXSjNXcmgxQldvSEFZTWVrSlhSOGszelJkelNEZHVUb3htcHdfOExpV0l2VnNHbnM2UWpkcGRTcEhSOFRrdkRQcFV2dWxOT2lqVFgzbnF5UW1JMmNYM1JiODM1VTJNSWo1VEhveVd6dU00cnRJQ2lwUE54VVJLY09RVkpBckdQS3NsSUktelJGa0xpTlZOU1NaRkRQclo2T2RhOHJR0gGUAkFVX3lxTE5fVHZ2dElXUVNsOF9JMEdxclE4a2V5OFpDWE83c0ozd0Fxa3hzUVZYNGliTWlUQUs0dHFHZUwtejhyNVpqNlFaaXFCZmEzMS0wbHI1UmM1cnN4NGxrUTczRDVydWxJdmdpLTNTMEJmdmJCRUJ0TVZfQnNtU0lKcW0yeE1LRUNEVGliWWYzUS1MeU5hZzFIMTBMb3BLb2JmU0hLWk5JTjNENE1Bd29oM2JHV3REQ1hTV2IxZlJvclR3YkZtZllNdzVTb1ZrZThDSzIxN1hqVVZ1RW9yQU5wWTdWV3N5THJyZUUwZFJjTDBTZm0xcnRvOHlOWFY0UmNVZ1VyVXZMLWs5Q2hVeHBLZWRDaVMyVA?oc=5)
+
+---
 
 ### [Colitis ulcerosa: Mirikizumab als Joker bei therapieresistenten Verläufen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcDY3US0yanlPNUxFWTF4YVFUMDRQZzZ6S3pDaWwwam8yUHY2SlFSWUNZRURMOWRjVGhqSTBkTEhiUVprLUlmVXFuZm5qRi05VkVIZS1BYlg2VW93UUExamFiNXZsTHB4RkJxMU1OcVdRY3NjaEpVRXZleGZWY0VQdTd5WkczUjA2UlRpb1FwU0xhRllSa3JfdGN5Nl9GeUpQTkl2WTFjTWx3dURJRkFlOFZhakpsTWFMZVhaczE4ZnBmTVlFVDNvM0E5amtZWGZtemtiODZ2RGMyYjdTb1ZNbFMza1hFZmxBcjFfVW1EaGlzdmM?oc=5)
 
