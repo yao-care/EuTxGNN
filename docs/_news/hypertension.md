@@ -3,9 +3,9 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 63 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 64 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Bluthochdruck (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>63 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>64 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,9 +64,9 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (63)
+## Related News (64)
 
-### [Bluthochdruck: Diese Ursache wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+### [Diese Ursache für Bluthochdruck wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
 
 2026-11-24
 
@@ -143,6 +143,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95c
 2026-11-19
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+---
+
+### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
+
+2026-11-18
+
+Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 

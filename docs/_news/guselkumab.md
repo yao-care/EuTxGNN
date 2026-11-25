@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Guselkumab. 8 predicted indications."
 permalink: /news/guselkumab/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Guselkumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>314 news articles</strong>, with 8 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>317 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (314)
+## Related News (317)
+
+### [Adventskalender: Weniger Süßigkeiten für Kinder mit und ohne Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXZxTDVxc3E3ckZpRVZ1UlV4ejlVYW00anZQNlhuS2g0UllBaXlRMlFQa0xpaXExWmQ1eGk1UXFHdVhUQXF3aU16OHBFaFo3djBrb1J1cmpsUjlkMGdDdUVOcEZmNjJpa25KU0JCaTlvMmdzeUdhc21Qem95Wk1scUdGV1lvcm85dS1hczFrTnhLbWtFazNDUFJsR0lEU0N5ekg4eEVIcWtOSFNs?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXZxTDVxc3E3ckZpRVZ1UlV4ejlVYW00anZQNlhuS2g0UllBaXlRMlFQa0xpaXExWmQ1eGk1UXFHdVhUQXF3aU16OHBFaFo3djBrb1J1cmpsUjlkMGdDdUVOcEZmNjJpa25KU0JCaTlvMmdzeUdhc21Qem95Wk1scUdGV1lvcm85dS1hczFrTnhLbWtFazNDUFJsR0lEU0N5ekg4eEVIcWtOSFNs?oc=5)
+
+---
 
 ### [Luftverschmutzung verschlechtert bei Diabetes die Langzeitblutzuckerwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEg1dm5sdXFEQ3hXTGpWNTlZNE93TjdTRzUweXdvelFoTGZYZGxKNzVwX3pBSlZRN1c1dGxWX2t0T3ZsRXhOa2p1VF82bkdaVXNYYzI0Vmw0Y0dLZ01rWXN1bnp3NEZJWnJobUdaQzQyUlRzUUk5RmE5UHlHSERwdEliemxuYWFkRVlSR04xNXBtaExJMUZSQWdVaHVZOWpFejRQVnNmcEFna2h5S2tj?oc=5)
 
 2026-11-24 <span class="news-indication-tag">diabetes</span>
 
 Source: [Scinexx](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEg1dm5sdXFEQ3hXTGpWNTlZNE93TjdTRzUweXdvelFoTGZYZGxKNzVwX3pBSlZRN1c1dGxWX2t0T3ZsRXhOa2p1VF82bkdaVXNYYzI0Vmw0Y0dLZ01rWXN1bnp3NEZJWnJobUdaQzQyUlRzUUk5RmE5UHlHSERwdEliemxuYWFkRVlSR04xNXBtaExJMUZSQWdVaHVZOWpFejRQVnNmcEFna2h5S2tj?oc=5)
+
+---
+
+### [Was Schwangere über Gestationsdiabetes wissen sollten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycXl0d2lSNENoZEhHUDZLSTVhYlI2U3BJQWZaVU9heTZOdFJ4ZzRlaXhzWFhyRGhXWmQ3THlzQUpuVXN1RDlaYmRkcw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycXl0d2lSNENoZEhHUDZLSTVhYlI2U3BJQWZaVU9heTZOdFJ4ZzRlaXhzWFhyRGhXWmQ3THlzQUpuVXN1RDlaYmRkcw?oc=5)
+
+---
+
+### [Attribués à son diabète, ses symptômes cachaient un cancer du pancréas : Lynda, une Britannique, est morte deux heures seulement après son diagnostic - Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOVBLVVZLYTVHUlYxTzFWTmFhei1aNVRFQTBHV3dUSnRueVc2MFUtQU1pS2ZOaHhBekpnSVIxUXhFb2lVdE5MQ2lldUZsdzNoTXhaTTBkYXpCeU9rcmd5cFBjRGpTMkxjQWRyanlPRXE1NXd0WjNyTllEbG1HTk5LNjRPdEZRa3hEZlZuc0QxNkxkMDcxeDhVd3dVU3FoM2kwMDZ1YjQ1cmdCWlJTWW9SVlJZVU1fR3VWaGo5VVpZTzAtelE4TzJJU1R1LVpCV1psb0Z6VnR6R0otOWxNMVV2Ul9Kdml5OE9Gc08zbWMxUlBEbW45dnRwS2ZLTk8zUjRFR3NrZ2VLMmVrUUhuR0R4Yw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOVBLVVZLYTVHUlYxTzFWTmFhei1aNVRFQTBHV3dUSnRueVc2MFUtQU1pS2ZOaHhBekpnSVIxUXhFb2lVdE5MQ2lldUZsdzNoTXhaTTBkYXpCeU9rcmd5cFBjRGpTMkxjQWRyanlPRXE1NXd0WjNyTllEbG1HTk5LNjRPdEZRa3hEZlZuc0QxNkxkMDcxeDhVd3dVU3FoM2kwMDZ1YjQ1cmdCWlJTWW9SVlJZVU1fR3VWaGo5VVpZTzAtelE4TzJJU1R1LVpCV1psb0Z6VnR6R0otOWxNMVV2Ul9Kdml5OE9Gc08zbWMxUlBEbW45dnRwS2ZLTk8zUjRFR3NrZ2VLMmVrUUhuR0R4Yw?oc=5)
 
 ---
 
@@ -74,6 +98,14 @@ Source: [EntreMayores](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlNp
 
 ---
 
+### [Vorschau: aktiv und gesund • Prädiabetes - Geschmeidige Wirbelsäule - Powernap - ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTFBRcFRzcmxQaTQzc2piWlZHRFAzbENEbXFIakpVSkpHTU5EUFk3YUhjWkw3ODRSWHRyakZaM0ctS3lsVFRHNWFTNkY1c0xoMF83SGstVHdJMWtNRFd2d2UxY1N4UF9WLVpzQkNYbHdNMlVwZw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTFBRcFRzcmxQaTQzc2piWlZHRFAzbENEbXFIakpVSkpHTU5EUFk3YUhjWkw3ODRSWHRyakZaM0ctS3lsVFRHNWFTNkY1c0xoMF83SGstVHdJMWtNRFd2d2UxY1N4UF9WLVpzQkNYbHdNMlVwZw?oc=5)
+
+---
+
 ### [Neue Leitlinie zur Behandlung von Schwangerschaftsdiabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxNb2NpeHBXYkhIUW5QUF84ZzBvdG1pc0NNcTlZM3k1X0M5NWxCVDIzQU1XZzROLUVDWDgxMS1YOXdiVmtXSU9hdzhmbEZsSjg4bFJocXdiOHJYVWNjendyX3RrYjlTdFBRcEJkYmwwSThzelFEQmlkbUh1Mzl5V1g0OTlULWFMSFRzZVlKTTA3UkZJRFlLb3pEUEM1ekhfZw?oc=5)
 
 2026-11-24 <span class="news-indication-tag">diabetes mellitus</span>
@@ -90,7 +122,7 @@ Source: [esanum](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcDY3US0yan
 
 ---
 
-### [Diabetes: la mitad no logra un buen control glucémico](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzd6VEhsVV9xOVNpWlNHNE1tOHRlLURBM0N1Q2h5bk5Qc0RHSlhaUHJjYl9nT0R0eDdXSnhsTlRxcEZROVVKaFJSQzdySUwtellQRXZnSUUyczdTMFU0cGJ6Tk5nNzJrZmRzcTM3ZkplMlZTbzFaVUp3VHJQT0NrejhyZnh0VWlNNDN6S3U1WFpqMFNleHA3TW5qQ3JjSENxWkZ6V1c4VTNVc00wWkhRUEFmbw?oc=5)
+### [La mitad de las personas con diabetes no logra todavía un control glucémico adecuado](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzd6VEhsVV9xOVNpWlNHNE1tOHRlLURBM0N1Q2h5bk5Qc0RHSlhaUHJjYl9nT0R0eDdXSnhsTlRxcEZROVVKaFJSQzdySUwtellQRXZnSUUyczdTMFU0cGJ6Tk5nNzJrZmRzcTM3ZkplMlZTbzFaVUp3VHJQT0NrejhyZnh0VWlNNDN6S3U1WFpqMFNleHA3TW5qQ3JjSENxWkZ6V1c4VTNVc00wWkhRUEFmbw?oc=5)
 
 2026-11-23 <span class="news-indication-tag">diabetes</span>
 
@@ -143,14 +175,6 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVZVU0Zu
 2026-11-22 <span class="news-indication-tag">diabetes</span>
 
 Source: [TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
-
----
-
-### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
-
-2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
 ---
 

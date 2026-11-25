@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tasimelteon. 9 predicted indications."
 permalink: /news/tasimelteon/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Tasimelteon News
@@ -51,11 +51,11 @@ Source: [WEB.DE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUG
 
 ---
 
-### [DAK-Umfrage: Angst vor Krebs und Demenz sowie Herzinfarkt nimmt zu](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaW9QMlU5dTgxSjVmOHdTbWxOSThWb29ES2J1RWo3TENDUlgyRWZzY1F2YlUyTWhQZ3cxM3J5TTFwSjlQSnZzWnFJeXZXWGJMcEYzUkNtYkhnQ1BIYm5TMHhneExqNl9sNUpjOS11bjVXWmJldWZiQ2tpbjYyVVgwZFA2MzJZV0l5bE1EZWhUWTlsMVlabm9VZU94Uko0SFNtTG4xTE54N1o4QQ?oc=5)
+### [Neue Forschungsergebnisse könnten zirkadianen Subtyp der Depression stützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW5qeTAtM3lMWGdqWEtUdnlHeGFUOFQxeTVsSFdlTXAwOHdGZTlSdmh5MGtsb3UtZ2xyVE5UVzh0T3ZUQU1LQ2o3c19PZFl3NjByVmdqcEhUOGlLbWRLM2I2Qk9sUFlvblVNSmV6YzdQcjFxLTBVWklaY0tuSkxjcWh2c2tmZzFPNWk5STM1SW9ZWmlWd1JXZjFwWXJfRDBHUGt5RDFWTy1OVHhTZk1FNDBNZ3lKSEt0YXVGSUJkRWNJdFBhV29jcHJ5UDZWQUQwb0Fmc29rOF9Pb3FB?oc=5)
 
-2026-11-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span>
+2026-11-24 <span class="news-indication-tag">depression</span>
 
-Source: [STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaW9QMlU5dTgxSjVmOHdTbWxOSThWb29ES2J1RWo3TENDUlgyRWZzY1F2YlUyTWhQZ3cxM3J5TTFwSjlQSnZzWnFJeXZXWGJMcEYzUkNtYkhnQ1BIYm5TMHhneExqNl9sNUpjOS11bjVXWmJldWZiQ2tpbjYyVVgwZFA2MzJZV0l5bE1EZWhUWTlsMVlabm9VZU94Uko0SFNtTG4xTE54N1o4QQ?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW5qeTAtM3lMWGdqWEtUdnlHeGFUOFQxeTVsSFdlTXAwOHdGZTlSdmh5MGtsb3UtZ2xyVE5UVzh0T3ZUQU1LQ2o3c19PZFl3NjByVmdqcEhUOGlLbWRLM2I2Qk9sUFlvblVNSmV6YzdQcjFxLTBVWklaY0tuSkxjcWh2c2tmZzFPNWk5STM1SW9ZWmlWd1JXZjFwWXJfRDBHUGt5RDFWTy1OVHhTZk1FNDBNZ3lKSEt0YXVGSUJkRWNJdFBhV29jcHJ5UDZWQUQwb0Fmc29rOF9Pb3FB?oc=5)
 
 ---
 

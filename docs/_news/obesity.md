@@ -3,9 +3,9 @@ layout: default
 title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesità (obesity). 134 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 136 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # obesità (obesity) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about obesità (obesity)?">
-<strong>obesità (obesity)</strong> currently has <strong>134 news articles</strong> and 8 related drugs.
+<strong>obesità (obesity)</strong> currently has <strong>136 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “obesità” and lists 
 </ul>
 </div>
 
-## Related News (134)
+## Related News (136)
 
 ### [Glicemia alta, effetti benefici da camminate brevi e frequenti. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZW9hTnEyM01BalRnUmlwVHdCWmRVOVB0MjAzMTVDSV9WbTl6Z2lfUzVLMV9PVWR0aUE3SXZZdEJZMmJ1MUJyQTNBU0h5WXFyWUtTenFPT0RWWC1IUHpMbFc1S1AxdXkzNldJcnp1bmJ6bzVEd0RZeG9hVnQ4Nm8yTm9mNnlPaVl1YjUyMUYwY1V2QzJF?oc=5)
 
 2026-11-24
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZW9hTnEyM01BalRnUmlwVHdCWmRVOVB0MjAzMTVDSV9WbTl6Z2lfUzVLMV9PVWR0aUE3SXZZdEJZMmJ1MUJyQTNBU0h5WXFyWUtTenFPT0RWWC1IUHpMbFc1S1AxdXkzNldJcnp1bmJ6bzVEd0RZeG9hVnQ4Nm8yTm9mNnlPaVl1YjUyMUYwY1V2QzJF?oc=5)
+
+---
+
+### [Semaglutid bei Kindern mit Adipositas im Phase-3-Test](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXQzMHMyX1o1ZE9mQnRYemxfMlc3WW1Kc2ozTGdBejlDSGhqSl9TZDMwZU1NdVFsaVhQcUUyTlRlbHhSaDBoZGVOcXpLWmRRYmNMZE9ILVRFd3VhYlJ0d0Y1VVBFcjM5Q3FnNkVTOUxBbXI1OXpMZF9YMGRwc3RtQ3M2LVpyUUN2Y0dtWklSNW9EX3Fv?oc=5)
+
+2026-11-24
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXQzMHMyX1o1ZE9mQnRYemxfMlc3WW1Kc2ozTGdBejlDSGhqSl9TZDMwZU1NdVFsaVhQcUUyTlRlbHhSaDBoZGVOcXpLWmRRYmNMZE9ILVRFd3VhYlJ0d0Y1VVBFcjM5Q3FnNkVTOUxBbXI1OXpMZF9YMGRwc3RtQ3M2LVpyUUN2Y0dtWklSNW9EX3Fv?oc=5)
 
 ---
 
@@ -60,6 +68,14 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cU
 2026-11-23
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
+
+---
+
+### [Obesità, nuovi criteri diagnostici cambiano la classificazione dei pazienti](https://news.google.com/rss/articles/CBMiswFBVV95cUxONTA5dFhzMjBaMVNBenJXYXRpRmx2WXBUd3FnWTUwVUVRUDFoLWM5clgzMDBhWUFJU2tIb2RhQjdFRTl5c05NQTNUMEpLa0EtbjN1T2l2YXhab2YtZjZGOWdnOHozeFk3azQ4NTl3cWdtc1lUblI3T1NUX09oYnpnMWtYa0xBcmUyRkpGNnJpcVVfSlIwUkZpclNCTXoyT0xGSDdsYTI3NjhHdGU2VjVTdmdqaw?oc=5)
+
+2026-11-23
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMiswFBVV95cUxONTA5dFhzMjBaMVNBenJXYXRpRmx2WXBUd3FnWTUwVUVRUDFoLWM5clgzMDBhWUFJU2tIb2RhQjdFRTl5c05NQTNUMEpLa0EtbjN1T2l2YXhab2YtZjZGOWdnOHozeFk3azQ4NTl3cWdtc1lUblI3T1NUX09oYnpnMWtYa0xBcmUyRkpGNnJpcVVfSlIwUkZpclNCTXoyT0xGSDdsYTI3NjhHdGU2VjVTdmdqaw?oc=5)
 
 ---
 

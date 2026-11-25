@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dexmedetomidine Hydrochloride. 0 predicted indications."
 permalink: /news/dexmedetomidine-hydrochloride/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Dexmedetomidine Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>75 news articles</strong>, with 0 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>76 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,9 +29,9 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (75)
+## Related News (76)
 
-### [Bluthochdruck: Diese Ursache wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+### [Diese Ursache für Bluthochdruck wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
 
 2026-11-24 <span class="news-indication-tag">Bluthochdruck</span>
 
@@ -132,6 +132,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95c
 2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+---
+
+### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 

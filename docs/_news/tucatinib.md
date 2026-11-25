@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tucatinib. 0 predicted indications."
 permalink: /news/tucatinib/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Tucatinib News
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Tucatinib with the latest he
 
 ## Related News (117)
 
-### [Bluthochdruck: Diese Ursache wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
+### [Diese Ursache für Bluthochdruck wird häufig übersehen](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZOYS1PZXFBMWZlVWZpZTg3THlnVHBfdHBaVm5ya1V5N0ZiMkE1QmVwampjQUg0T3pGS3g2cmdDWVZNVG11cS1sd0NmVkZNeWktX3A3SDVtV1EzdEFHOHlrN214TnlLSzBHWkhNVnNZTEptTjRvOHJNbmxoLVpLa3BlbEtobVpCSklZUVc?oc=5)
 
 2026-11-24 <span class="news-indication-tag">Bluthochdruck</span>
 
@@ -122,7 +122,7 @@ Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2
 
 ### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
-2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">diabetes</span>
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
@@ -192,19 +192,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 
 ---
 
-### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
----
-
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 
 2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+---
+
+### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 
