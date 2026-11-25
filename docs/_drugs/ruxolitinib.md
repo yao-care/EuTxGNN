@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 542
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-25
 description: "Ruxolitinib: predicted new indication Uterine corpus perivascular epithelioid cell tumor (evidence level L5). Approved use: Myelofibrosis (disease-related splenomegaly or symptoms)…"
 monitor_inn: "Ruxolitinib"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **uterine corpus perivascular e
 | Predicted New Indication | Uterine corpus perivascular epithelioid cell tumor |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -76,6 +76,7 @@ Currently no related literature available.
 | EMEA/H/C/002464 | Jakavi | ruxolitinib phosphate | Valid |
 | EMEA/H/C/005843 | Opzelura | ruxolitinib | Valid |
 | EMEA/H/C/006618 | Ruxolitinib Viatris | ruxolitinib hemifumarate | Valid |
+| EMEA/H/C/006791 | Ruxolitinib Zentiva | ruxolitinib hemifumarate | Valid |
 
 <!-- licenses:end -->
 

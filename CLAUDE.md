@@ -700,3 +700,17 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 gate（`src/eutxgnn/regulatory/licenses.py` 第 5 項）擋「公開頁快照有程式表列，卻沒有市場段落或段落沒有程式表」；`PAGE_NOTE`（adapter 用同一份）放行新標題行。
 2026-11-24 全量量測：整頁沒有段落 11 頁（acetylsalicylic_acid、adalimumab、caspofungin、ganirelix、guanfacine、insulin_glulisine、lasmiditan、lomitapide、lonoctocog_alfa、loxapine、pegvaliase）、段落沒有表 2 頁（dantrolene、galcanezumab），共 13 頁補上；
 正文「表另由程式補上」的說明句 2 句以 `eu-lic-20261124c-*` 刪除；其他頁正文沒有跟新表矛盾的句子。checker 前後都是 0、gate exit 0。
+
+## 另一個酯的誤收排除、新集中許可補收接進每週排程（2026-11-25 第五輪）
+
+用戶 2026-11-25 決定（第五輪第 1、2 條）：
+- 1. 誤收排除：`scripts/rebuild_licenses_by_ingredient.py` 的 base() 把鹽類與酯類字樣一起拿掉（SALT 含 furoate、propionate），fluticasone furoate 與 fluticasone propionate 被當成同一成分、互相收進對方的證據包。
+  比照 CHTxGNN 第三輪：規則表 `config/bundle_record_exclusions.json`（每條附 reason、basis）＋`src/eutxgnn/regulatory/record_exclusions.py`（成分欄以「;」分隔，有一段符合 family、沒有一段符合 keep 就排除）＋`scripts/exclude_mismatched_records.py`（移到 tfda.excluded_records，附 excluded、excluded_reason、excluded_basis，total_matches 扣掉，可重複執行）；
+  rebuild（抽出 index／match_ids／make_record 共用）、`collectors/eufda.py` 照同一份規則不收；`.github/workflows/license-refresh.yml` 在 license_refresh 前先跑。
+  移出 11 筆、2 個證據包（都是公開頁）：fluticasone_furoate 的 4 筆 propionate 複方（Seffalair、Aerivio、Airexar、BroPair Spiromax）、fluticasone_propionate 的 7 筆 furoate（Avamys、Alisade、Relvar、Revinty、Trelegy、Elebrato、Temybric Ellipta；量測報告沒列到這頁）。
+  全量找同類：證據包每筆紀錄的成分跟本頁 INN「去鹽類後相同、鹽類／酯字樣不同」的組合全部列出逐組看，另一個酯只有 fluticasone；其餘是同一分子的鹽、溶劑合物或前驅藥（clopidogrel 各種鹽、tenofovir disoproxil 各種鹽、pemetrexed、paliperidone palmitate、abiraterone acetate 等），照收；mometasone 的 EMA 集中許可全是 furoate；量測工具標的 26 組（absent）逐組看過，只有 fluticasone_furoate 3 組 4 筆是錯的（l-lysine_hydrochloride 的 Maapliv 成分欄確有 L-lysine）。
+- 2. 新許可補收：`scripts/add_new_ema_licenses.py [--download]`（比照 DkTxGNN 第四輪）照 rebuild 同一套規則（含排除表）重算每個證據包對到的人用集中許可，records／excluded_records／veterinary_records 都沒有的補進 records（只加不刪；source、added；不設上限，同 rebuild；total_matches 同步加），比對落空的證據包不動；license-refresh.yml 在 license_refresh 前以 --download 跑（下載失敗不擋），有補收或排除就照常發新 Release。
+  重複計數查驗：用 11-06 重建用的報表跑是 0 筆、證據包 total_matches 全部＝紀錄數，所以不用回填。2026-11-25 報表補 3 筆、3 個證據包：ruxolitinib、ruxolitinib_phosphate＋Ruxolitinib Zentiva（006791）、tofacitinib＋Inijaq（006698），兩張都是 2026-11-12 核准；第二次跑 0 筆。
+  量測說的「新 20 筆」其餘 17 筆是 EMA 狀態 Opinion（意見已出、執委會尚未核准，例 Garzulys、Neuzafy、Adcomfo）或 Application withdrawn（從未核准），rebuild 規則本來就不收，核准後每週排程會補進來。
+- 頁面：4 頁概覽狀態列／張數列（sync_market_rows）、程式表（build_license_snapshot → sync_license_tables）由程式同步；證據包 local_regulatory 重算 4 個；正文沒有跟新事實矛盾的句子，沒有新查核紀錄；4 頁 last_modified_at 改 2026-11-25。證據包經 data-overlay 推進 Release。
+- 驗證：checker 全量前後都是 0、--row-status 0；gate exit 0；apply --check、rewrite_license_counts --check 0；exclude、add 第二次跑都 0 筆；rebuild --dry-run 用新報表對 fluticasone 兩頁不再改（只剩 sufentanil 的 KemSu 006395 變 Refused，照 add-only 規則保留、由狀態欄顯示）。

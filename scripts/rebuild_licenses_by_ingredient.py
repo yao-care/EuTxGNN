@@ -28,6 +28,9 @@ import openpyxl
 import requests
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "src"))
+from eutxgnn.regulatory import record_exclusions as RX  # noqa: E402
+
 BUNDLES = ROOT / "data/bundles"
 RAW = ROOT / "data/raw"
 XLSX = RAW / "ema_medicines_report.xlsx"
@@ -120,12 +123,8 @@ def load_ema(download):
     return rows
 
 
-def main(argv):
-    dry = "--dry-run" in argv
-    rep = argv[argv.index("--report") + 1] if "--report" in argv else None
-    only = [a for a in argv if not a.startswith("--") and a != rep]
-    rows = load_ema("--skip-download" not in argv)
-    allids = {str(r.get("EMA product number") or "").strip() for r in rows}
+def index(rows):
+    """EMA 報表列 → (prods, by_base)：人用、取得過許可的集中許可，依有效成分建索引（rebuild 與 add_new_ema_licenses.py 共用）"""
     prods, by_base = {}, {}
     for r in rows:
         lid = str(r.get("EMA product number") or "").strip()
@@ -138,6 +137,46 @@ def main(argv):
         prods[lid] = {"r": r, "n": len(ps), "status": st}
         for p in ps:
             by_base.setdefault(base(p), set()).add((lid, p != base(p)))
+    return prods, by_base
+
+
+def match_ids(page, b, prods, by_base):
+    """本頁依成分比對到的許可證號（已扣掉 config/bundle_record_exclusions.json 規則排除的另一個酯）；回傳 (key, ids)"""
+    inn = (b.get("drug") or {}).get("inn") or page.replace("_", " ")
+    ps = parts(inn)
+    key = base(ps[0]) if ps else ""
+    hit = set()
+    if key:
+        hit |= {lid for lid, _ in by_base.get(key, set())}
+        for v in acid_ate(key) - {key}:  # 「-ic acid」＝「-ate」只認鹽（alendronic acid＝sodium alendronate）
+            hit |= {lid for lid, salt in by_base.get(v, set()) if salt}
+    # 2026-11-25 第五輪（用戶決定）：furoate／propionate 等酯在 base() 被拿掉，另一個酯的許可要排除
+    hit = {lid for lid in hit if not RX.match(page, {"ingredients": prods[lid]["r"].get("Active substance")})}
+    return key, hit
+
+
+def order(prods, k):
+    p = prods[k]
+    return (p["status"] != "Authorised", p["n"] > 1, k)
+
+
+def make_record(prods, lid):
+    p = prods[lid]; r = p["r"]
+    return {"license_id": lid, "brand_name_zh": r.get("Name of medicine") or "", "brand_name_en": r.get("Name of medicine") or "",
+            "ingredients": str(r.get("Active substance") or ""), "indication": str(r.get("Therapeutic indication") or ""),
+            "dosage_form": "", "manufacturer": "", "license_holder": str(r.get("Marketing authorisation developer / applicant / holder") or ""),
+            "approval_date": str(r.get("Marketing authorisation date") or "")[:10], "expiry_date": "", "status": p["status"],
+            "atc_code": str(r.get("ATC code (human)") or ""), "kind": "single" if p["n"] == 1 else "combo",
+            "source": "EMA medicines report (centrally authorised medicines, human)"}
+
+
+def main(argv):
+    dry = "--dry-run" in argv
+    rep = argv[argv.index("--report") + 1] if "--report" in argv else None
+    only = [a for a in argv if not a.startswith("--") and a != rep]
+    rows = load_ema("--skip-download" not in argv)
+    allids = {str(r.get("EMA product number") or "").strip() for r in rows}
+    prods, by_base = index(rows)
     out, held, n_changed, n_found, n_empty = [], [], 0, 0, 0
     for f in sorted(BUNDLES.glob("*/drug_bundle.json")):
         page = f.parent.name
@@ -145,32 +184,14 @@ def main(argv):
             continue
         b = json.loads(f.read_text(encoding="utf-8"))
         reg = b.get("tfda") or {}
-        inn = (b.get("drug") or {}).get("inn") or page.replace("_", " ")
-        ps = parts(inn)
-        key = base(ps[0]) if ps else ""
-        hit = set()
-        if key:
-            hit |= {lid for lid, _ in by_base.get(key, set())}
-            for v in acid_ate(key) - {key}:  # 「-ic acid」＝「-ate」只認鹽（alendronic acid＝sodium alendronate）
-                hit |= {lid for lid, salt in by_base.get(v, set()) if salt}
+        key, hit = match_ids(page, b, prods, by_base)
         old_ids = sorted({str(x.get("license_id") or "").strip() for x in reg.get("records") or []} - {""})
         old_cur = sorted(set(old_ids) & set(prods))
         if not hit and old_cur:
             held.append(page)
             out.append(f"{page}\t{key}\t{reg.get('total_matches')}\t{len(old_ids)}\t-\tHELD\t{';'.join(old_cur[:10])}\t")
             continue
-        def order(k):
-            p = prods[k]
-            return (p["status"] != "Authorised", p["n"] > 1, k)
-        recs = []
-        for lid in sorted(hit, key=order):
-            p = prods[lid]; r = p["r"]
-            recs.append({"license_id": lid, "brand_name_zh": r.get("Name of medicine") or "", "brand_name_en": r.get("Name of medicine") or "",
-                         "ingredients": str(r.get("Active substance") or ""), "indication": str(r.get("Therapeutic indication") or ""),
-                         "dosage_form": "", "manufacturer": "", "license_holder": str(r.get("Marketing authorisation developer / applicant / holder") or ""),
-                         "approval_date": str(r.get("Marketing authorisation date") or "")[:10], "expiry_date": "", "status": p["status"],
-                         "atc_code": str(r.get("ATC code (human)") or ""), "kind": "single" if p["n"] == 1 else "combo",
-                         "source": "EMA medicines report (centrally authorised medicines, human)"})
+        recs = [make_record(prods, lid) for lid in sorted(hit, key=lambda k: order(prods, k))]
         new = dict(reg, found=bool(recs), records=recs, total_matches=len(recs),
                    rebuilt="2026-11-06 by ingredient (EMA medicines report, human centrally authorised medicines)")
         new_ids = [x["license_id"] for x in recs]

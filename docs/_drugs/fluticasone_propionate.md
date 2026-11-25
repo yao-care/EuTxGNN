@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 269
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-25
 description: "Fluticasone Propionate: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model produced candidates for Fluticasone Propionate, bu
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 2 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 6 of 11) |
-| Number of Authorizations | 11 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 1 of 4) |
+| Number of Authorizations | 4 (valid: 1) |
 
 ## Known uses among the model's candidates
 
@@ -77,16 +77,9 @@ The TxGNN deep-learning model produced candidates for Fluticasone Propionate, bu
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000770 | Avamys | fluticasone furoate | Valid |
-| EMEA/H/C/002673 | Relvar Ellipta | fluticasone furoate; vilanterol | Valid |
-| EMEA/H/C/002745 | Revinty Ellipta | fluticasone furoate; vilanterol trifenatate | Valid |
-| EMEA/H/C/004363 | Trelegy Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
-| EMEA/H/C/004781 | Elebrato Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
 | EMEA/H/C/004881 | Seffalair Spiromax | fluticasone propionate; salmeterol xinafoate | Valid |
-| EMEA/H/C/001019 | Alisade | fluticasone furoate | Lapsed |
 | EMEA/H/C/002752 | Aerivio Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
 | EMEA/H/C/004267 | Airexar Spiromax | salmeterol; fluticasone propionate | Withdrawn |
-| EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
 | EMEA/H/C/005591 | BroPair Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
 
 <!-- licenses:end -->

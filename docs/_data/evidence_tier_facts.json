@@ -1105,17 +1105,6 @@
     "x": 0
    },
    {
-    "t": "Fluticasone Furoate",
-    "u": "/drugs/fluticasone-furoate/",
-    "l": "L5",
-    "i": "atopic eczema",
-    "lt": 11,
-    "lv": 6,
-    "r": 3,
-    "rs": "Removed: \"Verification of current product availability, since the only EU authorization is cancelled\"",
-    "x": 0
-   },
-   {
     "t": "Insulin Glargine",
     "u": "/drugs/insulin-glargine/",
     "l": "L5",
@@ -1234,6 +1223,17 @@
     "lv": 5,
     "r": 2,
     "rs": "Removed: \"All four are single-ingredient etanercept products (the originator and biosimilars)\"",
+    "x": 0
+   },
+   {
+    "t": "Fluticasone Furoate",
+    "u": "/drugs/fluticasone-furoate/",
+    "l": "L5",
+    "i": "atopic eczema",
+    "lt": 7,
+    "lv": 5,
+    "r": 3,
+    "rs": "Removed: \"Verification of current product availability, since the only EU authorization is cancelled\"",
     "x": 0
    },
    {
@@ -1410,6 +1410,17 @@
     "lv": 4,
     "r": 1,
     "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "x": 0
+   },
+   {
+    "t": "Ruxolitinib",
+    "u": "/drugs/ruxolitinib/",
+    "l": "L5",
+    "i": "uterine corpus perivascular epithelioid cell tumor",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "Removed: \"Both EU authorisations are currently valid\"",
     "x": 0
    },
    {
@@ -1641,17 +1652,6 @@
     "lv": 3,
     "r": 1,
     "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
-    "x": 0
-   },
-   {
-    "t": "Ruxolitinib",
-    "u": "/drugs/ruxolitinib/",
-    "l": "L5",
-    "i": "uterine corpus perivascular epithelioid cell tumor",
-    "lt": 3,
-    "lv": 3,
-    "r": 2,
-    "rs": "Removed: \"Both EU authorisations are currently valid\"",
     "x": 0
    },
    {

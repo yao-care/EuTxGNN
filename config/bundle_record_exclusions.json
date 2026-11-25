@@ -1,0 +1,11 @@
+{
+  "_doc": "證據包收錯的品項（2026-11-25 第五輪，用戶決定；做法比照 CHTxGNN 第三輪）：scripts/rebuild_licenses_by_ingredient.py 依有效成分比對時把鹽類與酯類字樣一起拿掉（SALT 含 furoate、propionate），所以兩個不同的酯（fluticasone furoate 與 fluticasone propionate）被當成同一個成分，互相收進對方的證據包。規則：證據包名在 bundles 裡時，紀錄成分欄（EMA Active substance，以「;」分隔）有一段符合 family、卻沒有任何一段符合 keep，就從 tfda.records 移到 tfda.excluded_records（附 reason、basis、excluded 日期），total_matches 同步扣掉。scripts/exclude_mismatched_records.py 套用（可重複執行；每週 license-refresh.yml 在排程前先跑），rebuild_licenses_by_ingredient.py、scripts/add_new_ema_licenses.py 與 collectors/eufda.py 也照同一份規則不收。不收的另一類（照收）：同一分子的鹽類、溶劑合物或前驅藥（clopidogrel 各種鹽、tenofovir disoproxil 的 fumarate／maleate／phosphate／succinate、paliperidone palmitate、abiraterone acetate、pemetrexed 各種鹽）；mometasone 在 EMA 集中許可全是 furoate（Enerzair、Atectura 等的成分欄只寫 mometasone）。",
+  "rules": [
+    {"bundles": ["fluticasone_furoate"], "family": "^fluticasone", "keep": "^fluticasone furoate$",
+     "reason": "成分是 fluticasone propionate；fluticasone furoate 與 fluticasone propionate 是兩個不同的酯（INN 不同，劑量與效價不同，不互相轉換）",
+     "basis": "EMA medicines report（2026-11-25 下載）Active substance 欄：Seffalair Spiromax EMEA/H/C/004881、Aerivio Spiromax 002752、Airexar Spiromax 004267、BroPair Spiromax 005591 都是 salmeterol＋fluticasone propionate"},
+    {"bundles": ["fluticasone_propionate"], "family": "^fluticasone", "keep": "^fluticasone propionate$",
+     "reason": "成分是 fluticasone furoate；fluticasone propionate 與 fluticasone furoate 是兩個不同的酯（INN 不同，劑量與效價不同，不互相轉換）",
+     "basis": "EMA medicines report（2026-11-25 下載）Active substance 欄：Avamys EMEA/H/C/000770、Alisade 001019、Relvar Ellipta 002673、Revinty Ellipta 002745、Trelegy Ellipta 004363、Elebrato Ellipta 004781、Temybric Ellipta 005254 都是 fluticasone furoate（單方或與 vilanterol／umeclidinium 複方）"}
+  ]
+}

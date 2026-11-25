@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 268
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-25
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). Approved use: Treatment of the symptoms of allergic rhinitis in adults…"
 monitor_inn: "Fluticasone furoate"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but **no cli
 | Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 6 of 11) |
-| Number of Authorizations | 11 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 5 of 7) |
+| Number of Authorizations | 7 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,12 +85,8 @@ Currently no related clinical trials registered for atopic eczema.
 | EMEA/H/C/002745 | Revinty Ellipta | fluticasone furoate; vilanterol trifenatate | Valid |
 | EMEA/H/C/004363 | Trelegy Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
 | EMEA/H/C/004781 | Elebrato Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
-| EMEA/H/C/004881 | Seffalair Spiromax | fluticasone propionate; salmeterol xinafoate | Valid |
 | EMEA/H/C/001019 | Alisade | fluticasone furoate | Lapsed |
-| EMEA/H/C/002752 | Aerivio Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
-| EMEA/H/C/004267 | Airexar Spiromax | salmeterol; fluticasone propionate | Withdrawn |
 | EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
-| EMEA/H/C/005591 | BroPair Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
 
 <!-- licenses:end -->
 

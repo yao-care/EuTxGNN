@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 626
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-25
 description: "Tofacitinib: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model's candidates for Tofacitinib (score ≥ 0.99) that can be traced
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 
 ## Known uses among the model's candidates
 
@@ -77,6 +77,7 @@ The TxGNN model's candidates for Tofacitinib (score ≥ 0.99) that can be traced
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004214 | Xeljanz | tofacitinib | Valid |
+| EMEA/H/C/006698 | Inijaq | tofacitinib citrate | Valid |
 
 <!-- licenses:end -->
 
