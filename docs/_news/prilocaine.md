@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>67 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>66 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (67)
+## Related News (66)
 
 ### [Chronisch-obstruktive Lungenerkrankung: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen einer COPD vermeiden helfen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ1l6WXhfbFZ5b0psLUVud3F6anh1cHNJRkxmdFdNOFBUbEswRlZodklPSlk0anBTeDBSSU1tWVJqYXVXVG82TWE0UnhTUzFSLWRrZEVnbFB1cktacjNDcWxjcXZMNEF5V1Y3eS1sSk5zaUVaZGVsUGE4dTdmQ0FHS0xWVlV3THF2cks2OVEtYUNMT0E5a0ozanE3MDJZMDNOZ3RxampkVkxGLS15XzNTUGpTRGZPZFdpeVJvSW9nTkItZkZUbUNTUHFGaVQ0TXp5UEpKWDRHOU1WcFB0R0VoeVI0MlRRNzJ0VW9IZEo1akFSRDFkVmZILVdaY3FWdlJmcHpnV09nZzVsYkN2M2FpM29DYmZoQ2E5NjlkVEhpQkY4eHcwcHhLWWJrUnZCOUloMWc?oc=5)
 
@@ -54,7 +54,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMisgJBVV9
 
 ### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
-2026-11-24 <span class="news-indication-tag">emicrania</span>
+2026-11-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">emicrania</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
@@ -569,14 +569,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxO
 2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
----
-
-### [Vorhofflimmern erkennen: Was taugen Smartwatches und andere Wearables? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
 
 ---
 

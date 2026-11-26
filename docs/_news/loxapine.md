@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Loxapine. 9 predicted indications."
 permalink: /news/loxapine/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
 # Loxapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>39 news articles</strong>, with 9 predicted indications.
+<strong>Loxapine</strong> currently has <strong>38 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (38)
 
 ### [CAR-T-Zellen bei Multipler Sklerose: Vielversprechendes Prinzip mit ungewisser Zukunft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQblp5bXRhY1ZkZjdFOEVsdTQwanlRbjBrNGFlYVJTU01odWhBc2xBZVo2bk9GNHozQjhZOWg5VG44Y1MyVVM1Ujk4Y3FXMkpxTUptV2lnYlhVbFZyY2I2ZWF3ZlpaVWNEa24zMTBtZVltR25NMzJWUjF5Xzk1OXI2QzNYamVFWHZYVUQ4NFdDYS14YWJiMHBCNUZ2Y2V2b2FvVW5CR1l6MHpLZ1RkTXZYZFVuMUNqcTMtaHZEemcyeEZVX3Y2ek5wSUpkUHpKMVlNVmsybg?oc=5)
 
@@ -344,14 +344,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1hG
 2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
----
-
-### [Vorhofflimmern erkennen: Was taugen Smartwatches und andere Wearables? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
 
 ---
 

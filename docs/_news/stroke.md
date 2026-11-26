@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "AVC (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about AVC (stroke). 155 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 159 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-26
 ---
 
-# AVC (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about AVC (stroke)?">
-<strong>AVC (stroke)</strong> currently has <strong>155 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>159 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “AVC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,13 +37,29 @@ This page brings together the latest health news about “AVC” and lists the d
 </ul>
 </div>
 
-## Related News (155)
+## Related News (159)
+
+### [Herzinfarkt kommt nicht aus heiterem Himmel: Diese Werte unterscheiden sich schon 30 Jahre vorher - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
+
+2026-11-26
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
+
+---
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
 2026-11-25
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+---
+
+### [Colesterolo e aterosclerosi, quali sono i rischi e come prevenirli - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4WTR4OEZlWDR2Y0VVVkxUMm5mZ3RuaURWR3J5RVJVTUVZRGk3RmlxRDN6azRGYl9ibjVGWkRJb1ktWEEzMm5LNzF5ZzdBMnpXNWVYazdLZU9YTlhPc3JCRWVqcVVYTlVqMHlsSGFHQWZvMU5hRXlYWElhdkpYcktDN0dXb19VaVlzTlNUVENiVEhudmp3?oc=5)
+
+2026-11-25
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4WTR4OEZlWDR2Y0VVVkxUMm5mZ3RuaURWR3J5RVJVTUVZRGk3RmlxRDN6azRGYl9ibjVGWkRJb1ktWEEzMm5LNzF5ZzdBMnpXNWVYazdLZU9YTlhPc3JCRWVqcVVYTlVqMHlsSGFHQWZvMU5hRXlYWElhdkpYcktDN0dXb19VaVlzTlNUVENiVEhudmp3?oc=5)
 
 ---
 
@@ -111,19 +127,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5H
 
 ---
 
-### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
-
-2026-11-24
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
-
----
-
 ### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
 
 2026-11-24
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+---
+
+### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+2026-11-24
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
 
 ---
 
@@ -143,11 +159,27 @@ Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VV
 
 ---
 
+### [Caffè e fibrillazione atriale? Ecco la verità che non ti aspetti - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+2026-11-24
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+---
+
 ### [Colesterolo e stili di vita: approccio integrato per abbattere il rischio di ictus e infarto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
 
 2026-11-23
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+---
+
+### [Cardiovascular Risk Factors and Biomarkers in the Decades Prior to a Cardiovascular Event](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
+
+2026-11-23
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
 
 ---
 

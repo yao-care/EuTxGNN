@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Lumacaftor?">
-<strong>Lumacaftor</strong> currently has <strong>122 news articles</strong>, with 1 predicted indications.
+<strong>Lumacaftor</strong> currently has <strong>126 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (122)
+## Related News (126)
+
+### [Hypertension : cette huile naturelle pourrait faire baisser la tension artérielle en 20 jours](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">hypertension</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+---
+
+### [Antidepressiva bei Vätern: Studie sieht leicht erhöhtes Bluthochdruckrisiko bei Kindern](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+---
+
+### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+2026-11-26 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+---
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
@@ -61,7 +85,7 @@ Source: [El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3
 
 ### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
-2026-11-24 <span class="news-indication-tag">emicrania</span>
+2026-11-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">emicrania</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
@@ -80,6 +104,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZ
 2026-11-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+---
+
+### [Two common blood pressure pills discontinued in UK as DHSC issues warning - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
+
+2026-11-24 <span class="news-indication-tag">hypertension</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
 
 ---
 

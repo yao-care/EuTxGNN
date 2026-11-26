@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>231 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>239 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (231)
+## Related News (239)
+
+### [Hypertension : cette huile naturelle pourrait faire baisser la tension artérielle en 20 jours](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">hypertension</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+---
+
+### [Antidepressiva bei Vätern: Studie sieht leicht erhöhtes Bluthochdruckrisiko bei Kindern](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+---
+
+### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+2026-11-26 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+---
+
+### [Herzinfarkt kommt nicht aus heiterem Himmel: Diese Werte unterscheiden sich schon 30 Jahre vorher - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
+
+---
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
@@ -56,6 +88,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2
 2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+---
+
+### [Colesterolo e aterosclerosi, quali sono i rischi e come prevenirli - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4WTR4OEZlWDR2Y0VVVkxUMm5mZ3RuaURWR3J5RVJVTUVZRGk3RmlxRDN6azRGYl9ibjVGWkRJb1ktWEEzMm5LNzF5ZzdBMnpXNWVYazdLZU9YTlhPc3JCRWVqcVVYTlVqMHlsSGFHQWZvMU5hRXlYWElhdkpYcktDN0dXb19VaVlzTlNUVENiVEhudmp3?oc=5)
+
+2026-11-25 <span class="news-indication-tag">ictus</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4WTR4OEZlWDR2Y0VVVkxUMm5mZ3RuaURWR3J5RVJVTUVZRGk3RmlxRDN6azRGYl9ibjVGWkRJb1ktWEEzMm5LNzF5ZzdBMnpXNWVYazdLZU9YTlhPc3JCRWVqcVVYTlVqMHlsSGFHQWZvMU5hRXlYWElhdkpYcktDN0dXb19VaVlzTlNUVENiVEhudmp3?oc=5)
 
 ---
 
@@ -107,6 +147,14 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE
 
 ---
 
+### [Two common blood pressure pills discontinued in UK as DHSC issues warning - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
+
+2026-11-24 <span class="news-indication-tag">hypertension</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
+
+---
+
 ### [TWO common blood pressure tablets are discontinued in UK as DHSC issues urgent supply statement - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQekRhWEhadDQ4a3lTWC05cHpab0NaWmxxWDF4cE1Xby14Z1pqaXJpY25scDBtREFHUU9TWG1SZlp4aHdBOUd6ZXFqaTBXcWpfTGdFUEVOYlVmSlJWVXNEcUl2SWFRNmNjcXFzdEUtWThOOURiQzlMckw2WF9JZC0xcWoyOHhZeWs?oc=5)
 
 2026-11-24 <span class="news-indication-tag">hypertension</span>
@@ -147,19 +195,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5H
 
 ---
 
-### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
-
-2026-11-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
-
----
-
 ### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
 
 2026-11-24 <span class="news-indication-tag">AVC</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+---
+
+### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+2026-11-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
 
 ---
 
@@ -179,6 +227,14 @@ Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VV
 
 ---
 
+### [Caffè e fibrillazione atriale? Ecco la verità che non ti aspetti - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+---
+
 ### [Hipertensión pulmonar y cerebro: un vínculo inflamatorio](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2RWJ0M3I4VkhxSVhBVFU0VXp0UU40N3ZrSGtHb05YY050LVREVVhyVzNQcXVqcDdNbzZwZ0ludWVfSDZUbEw0czlsaWdRQ3ZtMnZyLXR3Tk00N3M0alRqSjhVeHdKVlJxbTRIUjF0X1hFc2N1RlhPMW53X1piNUdnVW0zdVhsNUdjbXJIN3pzb3dTcTluaHRjMnhLcTdrY1NTUUhiekVh?oc=5)
 
 2026-11-23 <span class="news-indication-tag">hipertensión</span>
@@ -192,6 +248,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2
 2026-11-23 <span class="news-indication-tag">ictus</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+---
+
+### [Cardiovascular Risk Factors and Biomarkers in the Decades Prior to a Cardiovascular Event](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
+
+2026-11-23 <span class="news-indication-tag">stroke</span>
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>70 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>71 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,11 +29,27 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (70)
+## Related News (71)
+
+### [Todo lo que debes saber sobre Wegovy: el medicamento contra la obesidad que ya se comercializa en España - National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
+
+2026-11-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
+
+---
+
+### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
+
+2026-11-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
+
+---
 
 ### [Ozempic-Like Drugs Have an Unexpected Effect on Sperm Quality, Scientists Discover](https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RvbGdOWllUQkJGV2Y2X0pGaHhLU0xUVGkzR2NLY3NObDhlbWZoUnJlWk9jQ000S2xmdUhpUmRHWkZYS0EtYXVrenhpOGNKX1NSMUdJRUdqZDFVOWo1SEp5SUVWNGxDSENwMktyZU55Wkp2S2VVUzhqRXVJVGg1ZURMQk93U3BnTTZIazI2VFVSZ0ZqRUIzTlVUR3VrUQ?oc=5)
 
-2026-11-24 <span class="news-drug-tag">Semaglutide</span>
+2026-11-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RvbGdOWllUQkJGV2Y2X0pGaHhLU0xUVGkzR2NLY3NObDhlbWZoUnJlWk9jQ000S2xmdUhpUmRHWkZYS0EtYXVrenhpOGNKX1NSMUdJRUdqZDFVOWo1SEp5SUVWNGxDSENwMktyZU55Wkp2S2VVUzhqRXVJVGg1ZURMQk93U3BnTTZIazI2VFVSZ0ZqRUIzTlVUR3VrUQ?oc=5)
 
@@ -580,14 +596,6 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMHVuOHh
 2026-10-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjVVNy1oRzNIdDVtNkxsQ1lQbVUtQXJtWTZoSXg3a0xOdVBjaGRmNk92Vy01ZHhsSnBJMjl2ME9mSElncjBYNnJwQlF5c0twQ2o4c1RQTkYzeEZZd0Y0d1R6VFAzMHRfaFBrakRCbXFmNzZOako3bEc1VEl6MEZmalJ0RnR1WTNKZ0ZOWEpCcVhONDdNYVZHN1ZIMjBDWFJuTzVBOTNVM1JmT2dzXzNHaU9LOFE4dXZvd3dCcFYwbE14a3NWcERfX1g5RmdxR00zV2o5cUZ4SzVmWTA2ZlZ1QjlLLXRELUE?oc=5)
-
----
-
-### [Weight-loss drugs linked to these deficiencies reported by users, research reveals - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
-
-2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
 
 ---
 

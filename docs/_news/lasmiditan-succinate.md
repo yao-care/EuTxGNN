@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>154 news articles</strong>, with 0 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>161 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,53 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (154)
+## Related News (161)
+
+### [Todo lo que debes saber sobre Wegovy: el medicamento contra la obesidad que ya se comercializa en España - National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
+
+2026-11-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
+
+---
+
+### [Del control lipídico a la medición de resultados y las nuevas terapias: las estrategias de los expertos para reducir el riesgo cardiovascular - Gaceta Médica](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVNMmpXeGx5UG1vaERTSzVTRFQtVFprd2pSbjUzNEhCWTJqUlUwZUlXSHdWM2lpNnI0a241b3VJdDZFMjRZcnZhNGQzYUhGWDN6UDlUTHY1Q3ZSM1JOa2tmNWVoaENqczF6MTMtdzB4Wi04YXZEZF82TVkyY2dEdjYwcEt3SVRRMUhaU3Vn?oc=5)
+
+2026-11-26 <span class="news-indication-tag">obesidad</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVNMmpXeGx5UG1vaERTSzVTRFQtVFprd2pSbjUzNEhCWTJqUlUwZUlXSHdWM2lpNnI0a241b3VJdDZFMjRZcnZhNGQzYUhGWDN6UDlUTHY1Q3ZSM1JOa2tmNWVoaENqczF6MTMtdzB4Wi04YXZEZF82TVkyY2dEdjYwcEt3SVRRMUhaU3Vn?oc=5)
+
+---
+
+### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP1-Rezeptoragonist helfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+
+---
+
+### [Glicemia, cinque minuti di cammino ogni ora possono valere più di una lunga passeggiata](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlRQeWhFNlRXTzhmV1RFUHRWbzJmc0EwSTVCS19ZQ1FPNnkteGRaUXJfT3RXNUROUjUtYkNZNXl0TUlYRThxZGdWUkUxYVYxMGpmazhjWF9LcXhqODVzV3BlaG1wTFU5Q1NidjlTRldGUkZnb0t4TkxMbklUX1ZOUDE4clBua1BMeU02VDhNVjZtT1ZBX1RIeWZ4cGxmSklUcEJPZk4wN0xJOVhua0dvWTNMeVZUQUFKTUE3OUk1THFBLTdhTHluVUQ1Zy1lTjBzMl8w?oc=5)
+
+2026-11-25 <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlRQeWhFNlRXTzhmV1RFUHRWbzJmc0EwSTVCS19ZQ1FPNnkteGRaUXJfT3RXNUROUjUtYkNZNXl0TUlYRThxZGdWUkUxYVYxMGpmazhjWF9LcXhqODVzV3BlaG1wTFU5Q1NidjlTRldGUkZnb0t4TkxMbklUX1ZOUDE4clBua1BMeU02VDhNVjZtT1ZBX1RIeWZ4cGxmSklUcEJPZk4wN0xJOVhua0dvWTNMeVZUQUFKTUE3OUk1THFBLTdhTHluVUQ1Zy1lTjBzMl8w?oc=5)
+
+---
 
 ### [L'onda dei 'giovani vecchi', i nati dopo il 2000 rischiano di invecchiare prima](https://news.google.com/rss/articles/CBMilwJBVV95cUxOYU82LTQwMUF2YkQ5TTl6b2N4dGZxMDlPR0ZqczRHaFNwOERQT3VGQ0xnOU1UaWg2MzJtLWtEWVF5SHFLazg0ZTYwTW9EN2FoMk15dGdYc1RrNEw4d0d4X3VzS1FjMGxWYk9JbEt3YnBUSjJ1a1NXSUxKT2FYaE5xVmJWX1N4ZEpVbkN4UzBCaFMyUklUZGFFNDlRRUZaNlUzYkxRSDZBeEpSSFpISUdLTUpmbnp6dE13N2M4bG9Ed1ZCaTM1Sm8zeTZJR08wd1AyVXpmR1hpaWpFM014UzhmRzJfZWNNanZERGdkWHZqZmhmd3A2eFRtSlpuSTgtWU1aWU10VktMV2ZvMHIzTnhMQmZSVXpJT2_SAZwCQVVfeXFMUFM2NHRrbFZMUzdhbVRBM29rN3FmX09lSE8wcGlOQXFzdzJxelZsTlBKM0lvNjZyT2d2Z1VocXVTbVk5YktrWFZYSzZQRi1YQ19NQjhXMl9wb3NNUjlEaUhsOTEzd3U3UlFGeWZ3dDJUekNKMGx3UG9ncy1OSU5YSlFSUE41WDQ5YlhuVTNpSmVfWHlGaWFkRkd4ZUpJOVYtWTZyV2ZXLU43UDZaYlFubl9WS1JzTVdXWGRsTXNXc0lJU2FFSDktV21kSUh0aGNhV01HVzlRbGRyclJSN3BkUDFNbWJ3Q2d4dFkzQzFFWThrbVgyZjNBSGZwSGYxdjJwdEJDaVlITjhzc05uMnJXRFN4RGZ6SDhTTjhIeDk?oc=5)
 
 2026-11-25 <span class="news-indication-tag">obesità</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMilwJBVV95cUxOYU82LTQwMUF2YkQ5TTl6b2N4dGZxMDlPR0ZqczRHaFNwOERQT3VGQ0xnOU1UaWg2MzJtLWtEWVF5SHFLazg0ZTYwTW9EN2FoMk15dGdYc1RrNEw4d0d4X3VzS1FjMGxWYk9JbEt3YnBUSjJ1a1NXSUxKT2FYaE5xVmJWX1N4ZEpVbkN4UzBCaFMyUklUZGFFNDlRRUZaNlUzYkxRSDZBeEpSSFpISUdLTUpmbnp6dE13N2M4bG9Ed1ZCaTM1Sm8zeTZJR08wd1AyVXpmR1hpaWpFM014UzhmRzJfZWNNanZERGdkWHZqZmhmd3A2eFRtSlpuSTgtWU1aWU10VktMV2ZvMHIzTnhMQmZSVXpJT2_SAZwCQVVfeXFMUFM2NHRrbFZMUzdhbVRBM29rN3FmX09lSE8wcGlOQXFzdzJxelZsTlBKM0lvNjZyT2d2Z1VocXVTbVk5YktrWFZYSzZQRi1YQ19NQjhXMl9wb3NNUjlEaUhsOTEzd3U3UlFGeWZ3dDJUekNKMGx3UG9ncy1OSU5YSlFSUE41WDQ5YlhuVTNpSmVfWHlGaWFkRkd4ZUpJOVYtWTZyV2ZXLU43UDZaYlFubl9WS1JzTVdXWGRsTXNXc0lJU2FFSDktV21kSUh0aGNhV01HVzlRbGRyclJSN3BkUDFNbWJ3Q2d4dFkzQzFFWThrbVgyZjNBSGZwSGYxdjJwdEJDaVlITjhzc05uMnJXRFN4RGZ6SDhTTjhIeDk?oc=5)
+
+---
+
+### [I nati dopo il 2000 rischiano di invecchiare prima. I motivi](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDNXaGltYjFpX3ludnNhYk1Nei14U2xNZGNxM1F1aDBsTVIwLW4tUXlBVFNWWHhNNWt1LV9wMkJoSExvVGlVUmdqVE5JNkJLQVJSY3JqUXZLN1J3OFZubXdsTG92d1VsREgxelVoSmtfQ2NNN25ZNHdNcXV3OGRiSk5EcnVXSGlzMkF30gGQAUFVX3lxTE1WOWhPOXZTTUVYTHFkYVhPVHRxNTBjOUtsc1RqY19IQzZtN3lfbzdrRmh3ajhQVC1LS0ZVNDF1Z3diVFMwSlRrb3ZlY014Uy1ibllLZVVQWlhjMXR6MjNBZE5WajEzejdXbVVYUDhHMlh0bHpTalNFSXBGaEFIalg4MFdwVlJJOWtGX1J6V0pSMw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">obesità</span>
+
+Source: [AGI](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDNXaGltYjFpX3ludnNhYk1Nei14U2xNZGNxM1F1aDBsTVIwLW4tUXlBVFNWWHhNNWt1LV9wMkJoSExvVGlVUmdqVE5JNkJLQVJSY3JqUXZLN1J3OFZubXdsTG92d1VsREgxelVoSmtfQ2NNN25ZNHdNcXV3OGRiSk5EcnVXSGlzMkF30gGQAUFVX3lxTE1WOWhPOXZTTUVYTHFkYVhPVHRxNTBjOUtsc1RqY19IQzZtN3lfbzdrRmh3ajhQVC1LS0ZVNDF1Z3diVFMwSlRrb3ZlY014Uy1ibllLZVVQWlhjMXR6MjNBZE5WajEzejdXbVVYUDhHMlh0bHpTalNFSXBGaEFIalg4MFdwVlJJOWtGX1J6V0pSMw?oc=5)
 
 ---
 
@@ -49,9 +89,17 @@ Source: [MARCA](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGVGVXFFbHE
 
 ### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
-2026-11-24 <span class="news-indication-tag">emicrania</span>
+2026-11-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">emicrania</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
+
+---
+
+### [Ozempic-Like Drugs Have an Unexpected Effect on Sperm Quality, Scientists Discover](https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RvbGdOWllUQkJGV2Y2X0pGaHhLU0xUVGkzR2NLY3NObDhlbWZoUnJlWk9jQ000S2xmdUhpUmRHWkZYS0EtYXVrenhpOGNKX1NSMUdJRUdqZDFVOWo1SEp5SUVWNGxDSENwMktyZU55Wkp2S2VVUzhqRXVJVGg1ZURMQk93U3BnTTZIazI2VFVSZ0ZqRUIzTlVUR3VrUQ?oc=5)
+
+2026-11-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RvbGdOWllUQkJGV2Y2X0pGaHhLU0xUVGkzR2NLY3NObDhlbWZoUnJlWk9jQ000S2xmdUhpUmRHWkZYS0EtYXVrenhpOGNKX1NSMUdJRUdqZDFVOWo1SEp5SUVWNGxDSENwMktyZU55Wkp2S2VVUzhqRXVJVGg1ZURMQk93U3BnTTZIazI2VFVSZ0ZqRUIzTlVUR3VrUQ?oc=5)
 
 ---
 
@@ -140,6 +188,14 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5b
 2026-11-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
 
 Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
+
+### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
 ---
 

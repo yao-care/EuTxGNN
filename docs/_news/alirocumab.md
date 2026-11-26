@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Alirocumab. 10 predicted indications."
 permalink: /news/alirocumab/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-26
 ---
 
 # Alirocumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [La enfermedad renal lleva a una persona a diálisis o trasplante cada 70 minutos en España](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHZMZXU2YS1POEhVc21TQ1pueXlPRnA2Wmd6LVRlb3NLSExYYjdMWHNFdlhqX0lEVWxXQlJvVGJLOGpwZUZyNy1SbjE0bGM4VTZJUE4zY2tMQXhQZUNLblBnWDhnMzBBb3A0cGF0SW00X001LXhFbmdwbzQzZEdCRXB1MnFoQVNyOGY4cWlkeDRtMHlTQjUzcUlxX0h5OEk4akNKWkRLNTREbVdsWmZOb0l0S1haaDZMTnc?oc=5)
+
+2026-11-25 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHZMZXU2YS1POEhVc21TQ1pueXlPRnA2Wmd6LVRlb3NLSExYYjdMWHNFdlhqX0lEVWxXQlJvVGJLOGpwZUZyNy1SbjE0bGM4VTZJUE4zY2tMQXhQZUNLblBnWDhnMzBBb3A0cGF0SW00X001LXhFbmdwbzQzZEdCRXB1MnFoQVNyOGY4cWlkeDRtMHlTQjUzcUlxX0h5OEk4akNKWkRLNTREbVdsWmZOb0l0S1haaDZMTnc?oc=5)
+
+---
 
 ### [Pruritus Common in Older Patients With Advanced CKD](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2FQeWZXSWRvd0Q4Y3ZOT1pXN3ZoY0wwaHluQlFBVndTMmZnUmRWVEVpazFDSVZRVGd1dXNkc2hyNVBudmVXWktnYWhjMGpJaDN0UkF1TWluMV9jYWlpeDU4cXl3SFJ2RFZGbXR5N2pfdURvcHo3T3hTQkF5T1BYWDhIbThiZFp5MDFxekdDWnVWRnM0ME9kQmF3X3J3b1BrcFhFWFplZURUU3Vpcjhr?oc=5)
 

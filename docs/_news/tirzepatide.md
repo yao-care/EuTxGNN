@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>45 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>46 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (46)
+
+### ['Game changer' 45p supp ended wine & chocolate cravings - I don't need Mounjaro - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2ducFJUeDBBNW9FY2RhLTRaRlY4YkVUY2VsNWlwUXhTaTFXT2t0dFdfZ0hGMUNPTXQtOWp2SUxNVm5LcVAtSmxTVnVld1EyUmxLZURZNV96MzFxNUxZWWdROVJFbnktZXRYa3V5NWhfYVJpZDV2SkxpN004YV9SbUw4Ukh1ZTVfOTdaZnJHYUNoM3RWOHk5TmpXSUVENURvYXc?oc=5)
+
+2026-11-25 <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2ducFJUeDBBNW9FY2RhLTRaRlY4YkVUY2VsNWlwUXhTaTFXT2t0dFdfZ0hGMUNPTXQtOWp2SUxNVm5LcVAtSmxTVnVld1EyUmxLZURZNV96MzFxNUxZWWdROVJFbnktZXRYa3V5NWhfYVJpZDV2SkxpN004YV9SbUw4Ukh1ZTVfOTdaZnJHYUNoM3RWOHk5TmpXSUVENURvYXc?oc=5)
+
+---
 
 ### [Espondiloartritis, la enfermedad inflamatoria que aparece a los 24 años y tarda años en diagnosticarse - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
 
 2026-11-25 <span class="news-indication-tag">artritis</span>
 
 Source: [El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
+
+---
+
+### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
+
+2026-11-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
 ---
 
@@ -381,14 +397,6 @@ Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV9
 2026-10-28 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
-
----
-
-### [Weight-loss drugs linked to these deficiencies reported by users, research reveals - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
-
-2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
 
 ---
 

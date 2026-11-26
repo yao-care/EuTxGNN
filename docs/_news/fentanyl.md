@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>33 news articles</strong>, with 2 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>32 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (32)
 
 ### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
-2026-11-24 <span class="news-indication-tag">emicrania</span>
+2026-11-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">emicrania</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
@@ -289,14 +289,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMd
 2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
----
-
-### [Vorhofflimmern erkennen: Was taugen Smartwatches und andere Wearables? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
 
 ---
 

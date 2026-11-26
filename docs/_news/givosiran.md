@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>81 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>85 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (81)
+## Related News (85)
+
+### [Hypertension : cette huile naturelle pourrait faire baisser la tension artérielle en 20 jours](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">hypertension</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+---
+
+### [Antidepressiva bei Vätern: Studie sieht leicht erhöhtes Bluthochdruckrisiko bei Kindern](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+---
+
+### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+2026-11-26 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+---
 
 ### [Patients in Wales wrongly told they were clear of serious infection after test error - South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVhUcDdlVWNTQzY1OVREdTlaRGM4VWNzNVRXNHA2Y3VveWtkZjNLTFRaQ2FpNVRmTVcwM2VzWTBCYkJpeTA5T2ZpR2tsSWJhSjBXbEQ3aWtaTnJDVWZ2MlVnVUtDSkZBWXpHNUY3aVd0SWxkQWNaT3BKc3QwMk1IbUxJWEk4aTNWY051aUNWQnNmS3dBSlc5LXNYVXlabVh0QnVKcVF3?oc=5)
 
@@ -72,6 +96,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZ
 2026-11-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+---
+
+### [Two common blood pressure pills discontinued in UK as DHSC issues warning - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
+
+2026-11-24 <span class="news-indication-tag">hypertension</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
 
 ---
 

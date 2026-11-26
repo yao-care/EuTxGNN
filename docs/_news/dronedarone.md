@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>171 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>174 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (171)
+## Related News (174)
+
+### [Herzinfarkt kommt nicht aus heiterem Himmel: Diese Werte unterscheiden sich schon 30 Jahre vorher - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
+
+---
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
 2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+---
+
+### [Colesterolo e aterosclerosi, quali sono i rischi e come prevenirli - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4WTR4OEZlWDR2Y0VVVkxUMm5mZ3RuaURWR3J5RVJVTUVZRGk3RmlxRDN6azRGYl9ibjVGWkRJb1ktWEEzMm5LNzF5ZzdBMnpXNWVYazdLZU9YTlhPc3JCRWVqcVVYTlVqMHlsSGFHQWZvMU5hRXlYWElhdkpYcktDN0dXb19VaVlzTlNUVENiVEhudmp3?oc=5)
+
+2026-11-25 <span class="news-indication-tag">ictus</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4WTR4OEZlWDR2Y0VVVkxUMm5mZ3RuaURWR3J5RVJVTUVZRGk3RmlxRDN6azRGYl9ibjVGWkRJb1ktWEEzMm5LNzF5ZzdBMnpXNWVYazdLZU9YTlhPc3JCRWVqcVVYTlVqMHlsSGFHQWZvMU5hRXlYWElhdkpYcktDN0dXb19VaVlzTlNUVENiVEhudmp3?oc=5)
 
 ---
 
@@ -115,19 +131,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5H
 
 ---
 
-### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
-
-2026-11-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
-
----
-
 ### [Crises cardiaques et AVC : une étude révèle des signaux d’alerte jusqu’à 30 ans avant](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
 
 2026-11-24 <span class="news-indication-tag">AVC</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGRoVHhBS0pyV3lBaUNRb3lRQTlPUS1ra3d6VlYybVBWR2YwUnhCQ2h3NXlFQ0ZqWERvbGtDMjRSQlJYcmhiQWpKQ1o3QWRFUWtsbk9yclNCQVFhcFc1ZjBuRDVFQjVJLTUxemhVTTJOVHFlZEYtVlNaNkdqRHVfVXFqbkhraUMtNW43eE8tQjZ0SmlxdE9ReG1FUzZTTzRKcmE3QlV2ZGpEWmNLMklEOGNOT2M0eTA?oc=5)
+
+---
+
+### [Signs of heart attack and stroke risk can appear years earlier - study](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
+
+2026-11-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTNfNVdGa2xyX1pmc1FoMndDSllubEhpRGpKMzdwU2pXUmV3U2cyUjJzcVljNVNWSjRka1lpM0FEeFN1aE9Ia3JCc0czV2VOLTJ0OFgtMmV2MjllcnB3TXZnenR0cWtKNmpNTHQ5OFZUMjNkcVVGZXlfX01obnMzS01ZMzBEbndpRzdCN0IzUTBZLUN3TEZWRzNkOEhSMXJVc2cybmNHVThmSUk3eWlOMnFR?oc=5)
 
 ---
 
@@ -147,11 +163,27 @@ Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VV
 
 ---
 
+### [Caffè e fibrillazione atriale? Ecco la verità che non ti aspetti - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">ictus</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+---
+
 ### [Colesterolo e stili di vita: approccio integrato per abbattere il rischio di ictus e infarto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
 
 2026-11-23 <span class="news-indication-tag">ictus</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+---
+
+### [Cardiovascular Risk Factors and Biomarkers in the Decades Prior to a Cardiovascular Event](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
+
+2026-11-23 <span class="news-indication-tag">stroke</span>
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZ2dnbE1yVVlJS1ZCSFhnMzU3OUVDX2NrekE5RUktc3FrMjhQY3Zza1Z0VDVRS0w0Q21DN3ZoNjdyTXJsd0hGY2hnbXJtMnpoSlEteUlHT2c0SENIdGIzbjFieTBGNnlVYlRvQkg3T1puakRrUnlz?oc=5)
 
 ---
 
@@ -1400,14 +1432,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxP
 2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFdxYkl4am82MnlPVDh5VXZkUUdrU2V3MnBkV3cwX1MyNXpCaFhBNTl3anBVYlFGR2VjYUlCZUE2WWZsRER3bTdqU2lteFNFVXdJNDlrZWxRMUU2N0ZNNFBiZ0tXVzl2aXNXWjRmaTJmbF9zOFFKbGtaWS1nNHpacHFLY194T2lfMnhVYVh5Vk1iejM4SXE1RFQ4bUlVYVk4aUtsT1lZMVh3bmNsSlNpZXlvdG93WDRZSWp3N2Q1bHRsdi1S?oc=5)
-
----
-
-### [Vorhofflimmern erkennen: Was taugen Smartwatches und andere Wearables? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
 
 ---
 

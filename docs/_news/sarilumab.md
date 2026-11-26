@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>63 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>64 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (63)
+## Related News (64)
+
+### [Der häufige Griff zu Chips und Co. im Teenageralter erhöht das CED-Risiko - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUJZclVPNi1HYmozRVN4SXpyWEFVT3VZTE13d3pyM2FZUWZHTUVZSXBkcnBFOThIcWV0eDk3TzRiUlg5S0pVVW13MUtudHZmZDJOM3B4OXBxOXBuTEExSVBSZi1DMm1lTW5xdE9mOHZScUxJbjBVcnBLUUpxbmxKYTZwcGhjVHUwTjhjN3gxeWJ6T3NlOFVNMlRKelo2aWY2UG5kbURR?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUJZclVPNi1HYmozRVN4SXpyWEFVT3VZTE13d3pyM2FZUWZHTUVZSXBkcnBFOThIcWV0eDk3TzRiUlg5S0pVVW13MUtudHZmZDJOM3B4OXBxOXBuTEExSVBSZi1DMm1lTW5xdE9mOHZScUxJbjBVcnBLUUpxbmxKYTZwcGhjVHUwTjhjN3gxeWJ6T3NlOFVNMlRKelo2aWY2UG5kbURR?oc=5)
+
+---
 
 ### [Espondiloartritis, la enfermedad inflamatoria que aparece a los 24 años y tarda años en diagnosticarse - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
 

@@ -39,7 +39,7 @@ This page combines the AI-predicted indications for Galcanezumab with the latest
 
 ### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
-2026-11-24 <span class="news-indication-tag">emicrania</span>
+2026-11-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">emicrania</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 

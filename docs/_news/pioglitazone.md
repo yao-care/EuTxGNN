@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Pioglitazone?">
-<strong>Pioglitazone</strong> currently has <strong>310 news articles</strong>, with 9 predicted indications.
+<strong>Pioglitazone</strong> currently has <strong>312 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Pioglitazone with the latest
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (310)
+## Related News (312)
+
+### [Aljaraque organiza una charla sobre prevención y control de la diabetes - Canalcosta Televisión](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHNWOHMyTTdXSnNuWmVBTEZTajVyalBqb1ZsRU5CUnJqbUREMzBlWktqVGdHX3FBTzNSYS1RY1U1dEZYVDQ4WjNDNWVNcE5zMFRHdDM4Z1cwc21Fb29hc0F3SkZEakJESEhNOHh6clJtRHJna1dkQnNzSmNxX3M3LWxvSHlDemJQZjJiZUNtRkZ2NEJWQ0NydEVremo?oc=5)
+
+2026-11-26 <span class="news-indication-tag">diabetes</span>
+
+Source: [Canalcosta Televisión](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHNWOHMyTTdXSnNuWmVBTEZTajVyalBqb1ZsRU5CUnJqbUREMzBlWktqVGdHX3FBTzNSYS1RY1U1dEZYVDQ4WjNDNWVNcE5zMFRHdDM4Z1cwc21Fb29hc0F3SkZEakJESEhNOHh6clJtRHJna1dkQnNzSmNxX3M3LWxvSHlDemJQZjJiZUNtRkZ2NEJWQ0NydEVremo?oc=5)
+
+---
+
+### [Gestationsdiabetes: Erhöhtes Risiko für Stoffwechsel und Herz - Medical Tribune](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFc2SWF5MVZOeUhKem92a2o1ZWNkQlF2TVFSaVkyb3o2Ykc0Snp0VFZEUmU2c2d2ZXdpay1pLXVnaHNuc05lV2d2NHBBbHZ1MFZmT0VnWXJxdWV3VVVIT1dtalpvNFpiMDZrS09vQ2tfSkY0MmtMaHpsSWFwSnMxU2tsZEwwM2Zpb0JZb3V6aGI4dWJBRHRDTktnZnNHT1ktdnh2cDFHS3hHbWtHVUFFLUIzLUpkVkxMeDI4T093?oc=5)
+
+2026-11-26 <span class="news-indication-tag">diabetes mellitus</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFc2SWF5MVZOeUhKem92a2o1ZWNkQlF2TVFSaVkyb3o2Ykc0Snp0VFZEUmU2c2d2ZXdpay1pLXVnaHNuc05lV2d2NHBBbHZ1MFZmT0VnWXJxdWV3VVVIT1dtalpvNFpiMDZrS09vQ2tfSkY0MmtMaHpsSWFwSnMxU2tsZEwwM2Zpb0JZb3V6aGI4dWJBRHRDTktnZnNHT1ktdnh2cDFHS3hHbWtHVUFFLUIzLUpkVkxMeDI4T093?oc=5)
+
+---
+
+### [Verkehrslärm geht aufs Herz – besonders in der Nacht](https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1lJR3h4N1lMbmg2R1lSYkV5S2ItSndzeVRteFIyOUgzUmk0dGdwc0lzOW16V0xBTS1PMzEweDB2aExQQnVkdU1BR0NhN1laZmFGLWI0MjQyNFFrYWZ1bm1rSW1vRHBwQ1psdmV1bWw5OGhTSUZNellLOVFkRndxNHlIaWw1aE5xRG1Nazd4SE4?oc=5)
+
+2026-11-26 <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1lJR3h4N1lMbmg2R1lSYkV5S2ItSndzeVRteFIyOUgzUmk0dGdwc0lzOW16V0xBTS1PMzEweDB2aExQQnVkdU1BR0NhN1laZmFGLWI0MjQyNFFrYWZ1bm1rSW1vRHBwQ1psdmV1bWw5OGhTSUZNellLOVFkRndxNHlIaWw1aE5xRG1Nazd4SE4?oc=5)
+
+---
+
+### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
+
+---
 
 ### [Studie: Verkehrslärm beeinträchtigt Herz-Kreislauf-Gesundheit](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEtxQ0lCNHFRMmdwUEx5cnFGQWI4M1hYZHdxRlZIQU1ISmJlck11dXBPQ0pBVG9kcTFWWWk5VVFOd0tSQkZMT1BVWXBCdmNtZzExemxkWHhLd2NLNkZzZlIxRW12MFFBanBUM2toYXZyN0c0eG5BWEY3VlNMWjJBVjdvVUk1RzV4QzhpQlln?oc=5)
 
@@ -72,14 +104,6 @@ Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxO
 2026-11-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQlZIOF9ybkF6eFJIbHlfNDZURDRNc1NTam8xSTNiQWExaUt3bjJvUUZHY2ZQaHN6N2tmWld1YXBENEpKVXF1ZEV0RndDMzRpeFB5Wlh1N2hhVjJNQ184TVBqVWZDLVVja2h2U3dzb09qWUhaZnp5X1pHd2loMTQxVXdOLWpuaHVCcHRwREVZZm40UDZXS3BjVE1ZNGt1V3ZkZ1JXa0F0b0dYb0NZb24xWWxfYXR3Y0NqdE5rN19scmxHN29iS2RSR1UxcXlsVQ?oc=5)
-
----
-
-### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
-
-2026-11-25 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
 
 ---
 
@@ -2512,14 +2536,6 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 2026-10-28 <span class="news-indication-tag">diabetes</span>
 
 Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
-
----
-
-### [Typ-2-Diabetes: Blutzuckersensor hilft auch ohne Insulin](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTlCa3MtcmhUWWdkbkxYWVRzMEprRE50VDBPLW5QcWs4QTFGV0RKbzZQdS0zUFJ3NzBqMFJjTjNmeERsc255OGVLRXJZVllYWWtLMHZraUxfU3hIOFFKaG8zamRDQWd5OHR5NFdLV2pHQUNIaTBTX1VfTFdrdzRjeVlyM3Awam94V0JyYTZ1YXlVNVVqR1E?oc=5)
-
-2026-10-27 <span class="news-indication-tag">diabetes</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTlCa3MtcmhUWWdkbkxYWVRzMEprRE50VDBPLW5QcWs4QTFGV0RKbzZQdS0zUFJ3NzBqMFJjTjNmeERsc255OGVLRXJZVllYWWtLMHZraUxfU3hIOFFKaG8zamRDQWd5OHR5NFdLV2pHQUNIaTBTX1VfTFdrdzRjeVlyM3Awam94V0JyYTZ1YXlVNVVqR1E?oc=5)
 
 ---
 

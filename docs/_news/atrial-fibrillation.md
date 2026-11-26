@@ -3,9 +3,9 @@ layout: default
 title: "Vorhofflimmern (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Vorhofflimmern (atrial fibrillation). 19 articles, 39 related drugs."
+description: "Health news about Vorhofflimmern (atrial fibrillation). 18 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-26
 ---
 
 # Vorhofflimmern (atrial fibrillation) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Vorhofflimmern (atrial fibrillation)?">
-<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>19 news articles</strong> and 39 related drugs.
+<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>18 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ This page brings together the latest health news about “Vorhofflimmern” and 
 </ul>
 </div>
 
-## Related News (19)
+## Related News (18)
 
 ### [Vorhofflimmern bei Frauen: Diese Symptome werden oft übersehen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
 
@@ -197,14 +197,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek
 2026-10-28
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
----
-
-### [Vorhofflimmern erkennen: Was taugen Smartwatches und andere Wearables? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
-
-2026-10-27
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
 
 ---
 

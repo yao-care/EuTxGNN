@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "hipertensión (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 66 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 70 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-26
 ---
 
-# hipertensión (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>66 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>70 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,7 +64,31 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (66)
+## Related News (70)
+
+### [Hypertension : cette huile naturelle pourrait faire baisser la tension artérielle en 20 jours](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+2026-11-26
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
+
+---
+
+### [Antidepressiva bei Vätern: Studie sieht leicht erhöhtes Bluthochdruckrisiko bei Kindern](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+2026-11-26
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNtTVB1QWhGNzFDTGRQeUI5YzZ2cnMzcVg5UGlmZ0lFSnNld2JhS3FJX0JQTGx5NTNfN1BLTVBBTnNYQzlWN05tWWtBVUtfSTdLNVdJU3FhSUlGbUljSTRzUHFGTWp3SDlXUGxSNkNqaTJLaEFFaFZVWlRRcTFfMmZHTjNvWDNiS1p1SC0zOGhKOTVMcTQ0eVZhOEV1ZGhNQy1ZT1lOVjduR3B3UFdiVEZaVVM4aFREMDdiSkJR?oc=5)
+
+---
+
+### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+2026-11-26
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+
+---
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
@@ -87,6 +111,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2VFZUZ
 2026-11-24
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSHZXM3dldmVNT2c2b01oZ2RCTG9udVFDZlNlcnROdG9IcTNhOUs5alFWeVpldVhRRy02cDVKOVNrYXpWUDhwNVVTN3pYamFkMXl4ZXF0SmpGSFcxQ3NVWldzX081MjVReHlRRVZTNG44ay1IUlE?oc=5)
+
+---
+
+### [Two common blood pressure pills discontinued in UK as DHSC issues warning - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
+
+2026-11-24
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVja283QUJFeG5acHdnSXBtUk1GSVo0aHNwa3lYbFNsaTNhZ2hfU3BfQjJrLXNMOHZHMGpBN1hrOWp2SFRrb1hjRjNxaHJ5c1h0WHpFWmhDU0tTU19SYS12NTJnZVluRFFUM3hpU2JBRWpjSjB4ZWJhY0tfYlp0bDMteFA2Mm8zazAtS0Nra9IBlAFBVV95cUxNVlNhQmN3R0JSUmZVNnhhYUVpYk5IcjR6blo1akZFLXk5RmtrR3FNNGZHb3V2Nk1sSFg0WGVmdWJZSUdOdmhpcUhUb1l2ODlNVThOeTk2OE1fcFJRZjFKOVlCLXhjVUdkQ004YVhqaVdjNVJ3X3I5Z0xlVHlZekRWU05qZ0M0MkNqa3N5aEdCcDF5dHcx?oc=5)
 
 ---
 

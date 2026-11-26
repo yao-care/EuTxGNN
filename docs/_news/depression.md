@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 47 articles, 7 related drugs."
+description: "Health news about dépression (depression). 48 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-26
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>47 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>48 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (47)
+## Related News (48)
+
+### [Alzheimer : la dépression pourrait être l’un des premiers signes](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXlqZGxJekh0RjlYNHZNZlhqTlJiak1zam9EMmh2MUFwZjNXMmRTUnU1VXpxTmpwZUpvUmZsZENCTE9nRlJXRUFzbHkyb0YyYmU2RDBhLTdQVWVVNnFITGFKUC1pcmRYNmg1bU5BT0FqOHdKWnhYYjM2aFVkbDc1aHZsRTIxM09NU3oyTg?oc=5)
+
+2026-11-26
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXlqZGxJekh0RjlYNHZNZlhqTlJiak1zam9EMmh2MUFwZjNXMmRTUnU1VXpxTmpwZUpvUmZsZENCTE9nRlJXRUFzbHkyb0YyYmU2RDBhLTdQVWVVNnFITGFKUC1pcmRYNmg1bU5BT0FqOHdKWnhYYjM2aFVkbDc1aHZsRTIxM09NU3oyTg?oc=5)
+
+---
 
 ### [Loved one’s depression may be early sign of deadly condition affecting one in 11 - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N3Q3NDNEcXAwYTNPdzluZXlENHpDYi1Sazk5M3FucUVIUG9NbGxnNXpYWlVwRWRtYU1vTUZRV2l5NXQzRVNFRTRjT0hORGlWZUtjMWEtM3FQSmZaNmpDUmloRXkteDRrSjhLeGh2dThVTGlmVkE0VE91MVZ1VDhfWkhLMkRyQ3ln?oc=5)
 
 2026-11-25
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N3Q3NDNEcXAwYTNPdzluZXlENHpDYi1Sazk5M3FucUVIUG9NbGxnNXpYWlVwRWRtYU1vTUZRV2l5NXQzRVNFRTRjT0hORGlWZUtjMWEtM3FQSmZaNmpDUmloRXkteDRrSjhLeGh2dThVTGlmVkE0VE91MVZ1VDhfWkhLMkRyQ3ln?oc=5)
+
+---
+
+### [The brain keeps the score: how trauma leaves molecular scars in cells](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWllBOW1TM3FIazFnVlhqWGFjZXFiOGp3dHMtYlNlV2dONTlENmZDaERYSzhFalRUdjFROE9DTlNzZmMxSGJJbDYyUVUzc0otRnNrTVR3dmpCTE1NdWhz?oc=5)
+
+2026-11-24
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWllBOW1TM3FIazFnVlhqWGFjZXFiOGp3dHMtYlNlV2dONTlENmZDaERYSzhFalRUdjFROE9DTlNzZmMxSGJJbDYyUVUzc0otRnNrTVR3dmpCTE1NdWhz?oc=5)
 
 ---
 
@@ -403,14 +419,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1
 2026-10-28
 
 Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmNVbXFGR3k4Sk56d0FZd25CbHo5aW1ScGVqQVd1NHlLNi01YXdxU3VvRDkwazdMYkZLZmhYUDlvOGp4bzVwZ1Vab3RRakp5T21VTm82NWFnZ2NPUGd4QTNQX0ltTzlNaFJocG5ZdVVHNFdNeGNjS3FseVgzdVQyNWNEVE1HenRNQng0?oc=5)
-
----
-
-### [¿Qué es el entrenamiento en compasión? Así ayuda en el tratamiento del cáncer - La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjlYbEtXLUNxN1JldC0wdjB1Z3lCcFZvODFDVW93VDI1RVpkemNwVThNUEdtRzFXcHdzdTM2WmEya1V4V1B0alNqSi0wQWJVWjRZUXZGUlZEMFFwaWJYdXh6R081OWxJcS1nX25YdTdmX244b25PRTRPR0RtblR0bFhzLXQtTU5YSGl2MWI2Zm10TWJTYldjeThSZ2t6M2dRR2xtaHpoMkNRSjZ2MUpUVXh0bkxJUkViZGRDOTVhN1_SAdQBQVVfeXFMTWZFbHhMeEhxSUFmMGdHUDR4QVMxWFZDQm5qb3RzdndDTG5RWUFGY1ZvY1FmMzc0RHVJbVFXTFBBNXNmWEFuZXpuR21NbDI5TXVpdDZYcjhzZ1R3aE9fb19nUlVLcEJCNzVLVnJKZWxFRFZNQUZPYXRHWVpjNGVrLUV4eG82WWh5XzVHTkdxRjdXV0VuVlp0c0pSSGZEd0o3dXZ3ZUxMblBUS202d1VjeEo3Rk9iOTNKQ2NFdkd3dElYQk1vMHUyWW45MVcyVjNOYnM1Mk4?oc=5)
-
-2026-10-27
-
-Source: [La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjlYbEtXLUNxN1JldC0wdjB1Z3lCcFZvODFDVW93VDI1RVpkemNwVThNUEdtRzFXcHdzdTM2WmEya1V4V1B0alNqSi0wQWJVWjRZUXZGUlZEMFFwaWJYdXh6R081OWxJcS1nX25YdTdmX244b25PRTRPR0RtblR0bFhzLXQtTU5YSGl2MWI2Zm10TWJTYldjeThSZ2t6M2dRR2xtaHpoMkNRSjZ2MUpUVXh0bkxJUkViZGRDOTVhN1_SAdQBQVVfeXFMTWZFbHhMeEhxSUFmMGdHUDR4QVMxWFZDQm5qb3RzdndDTG5RWUFGY1ZvY1FmMzc0RHVJbVFXTFBBNXNmWEFuZXpuR21NbDI5TXVpdDZYcjhzZ1R3aE9fb19nUlVLcEJCNzVLVnJKZWxFRFZNQUZPYXRHWVpjNGVrLUV4eG82WWh5XzVHTkdxRjdXV0VuVlp0c0pSSGZEd0o3dXZ3ZUxMblBUS202d1VjeEo3Rk9iOTNKQ2NFdkd3dElYQk1vMHUyWW45MVcyVjNOYnM1Mk4?oc=5)
 
 ---
 
