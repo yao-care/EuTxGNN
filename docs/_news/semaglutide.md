@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>69 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>70 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (69)
+## Related News (70)
 
 ### [Ozempic-Like Drugs Have an Unexpected Effect on Sperm Quality, Scientists Discover](https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RvbGdOWllUQkJGV2Y2X0pGaHhLU0xUVGkzR2NLY3NObDhlbWZoUnJlWk9jQ000S2xmdUhpUmRHWkZYS0EtYXVrenhpOGNKX1NSMUdJRUdqZDFVOWo1SEp5SUVWNGxDSENwMktyZU55Wkp2S2VVUzhqRXVJVGg1ZURMQk93U3BnTTZIazI2VFVSZ0ZqRUIzTlVUR3VrUQ?oc=5)
 
 2026-11-24 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RvbGdOWllUQkJGV2Y2X0pGaHhLU0xUVGkzR2NLY3NObDhlbWZoUnJlWk9jQ000S2xmdUhpUmRHWkZYS0EtYXVrenhpOGNKX1NSMUdJRUdqZDFVOWo1SEp5SUVWNGxDSENwMktyZU55Wkp2S2VVUzhqRXVJVGg1ZURMQk93U3BnTTZIazI2VFVSZ0ZqRUIzTlVUR3VrUQ?oc=5)
+
+---
+
+### [Ozempic, Wegovy, Mounjaro : derrière le succès de ces injections minceur, des dérives inquiétantes en France - Passeport Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUERMVmYtQUpGMWFsb2tfM0Y2eV8xc09LNWhiX01PZjlSbm9kcWs1dTJKOGY4UVl2RmhwNzV5VjJ1Y2RZdG56RkNfZHBrVm1qTGQ4R1RLLU1JMWp2ZnlNeTh1a3pYd2hGcThGMUNCMW1hSnc3WmpQV0kybVNybDFhNHZXMGp1czBiZm81VTZZVGNRa2FvemRqMU9xcUx0YjJfTDJTWnh6UkI?oc=5)
+
+2026-11-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Passeport Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUERMVmYtQUpGMWFsb2tfM0Y2eV8xc09LNWhiX01PZjlSbm9kcWs1dTJKOGY4UVl2RmhwNzV5VjJ1Y2RZdG56RkNfZHBrVm1qTGQ4R1RLLU1JMWp2ZnlNeTh1a3pYd2hGcThGMUNCMW1hSnc3WmpQV0kybVNybDFhNHZXMGp1czBiZm81VTZZVGNRa2FvemRqMU9xcUx0YjJfTDJTWnh6UkI?oc=5)
 
 ---
 

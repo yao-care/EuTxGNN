@@ -3,9 +3,9 @@ layout: default
 title: "asthme (asthma) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asthme (asthma). 6 articles, 47 related drugs."
+description: "Health news about asthme (asthma). 5 articles, 47 related drugs."
 permalink: /news/asthma/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # asthme (asthma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about asthme (asthma)?">
-<strong>asthme (asthma)</strong> currently has <strong>6 news articles</strong> and 47 related drugs.
+<strong>asthme (asthma)</strong> currently has <strong>5 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,15 +64,7 @@ This page brings together the latest health news about “asthme” and lists th
 </ul>
 </div>
 
-## Related News (6)
-
-### [I blamed my squeaky breathing, husky voice and dry cough on Covid but it was a death sentence at 48 - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
-
-2026-11-24
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5)
-
----
+## Related News (5)
 
 ### [Pourquoi l'orage aggrave l'asthme : l'humidité fait éclater les grains de pollen en fragments qui entrent dans les bronches](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
 

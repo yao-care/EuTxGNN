@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>290 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>293 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (290)
+## Related News (293)
+
+### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+---
+
+### [L'onda dei 'giovani vecchi', i nati dopo il 2000 rischiano di invecchiare prima](https://news.google.com/rss/articles/CBMilwJBVV95cUxOYU82LTQwMUF2YkQ5TTl6b2N4dGZxMDlPR0ZqczRHaFNwOERQT3VGQ0xnOU1UaWg2MzJtLWtEWVF5SHFLazg0ZTYwTW9EN2FoMk15dGdYc1RrNEw4d0d4X3VzS1FjMGxWYk9JbEt3YnBUSjJ1a1NXSUxKT2FYaE5xVmJWX1N4ZEpVbkN4UzBCaFMyUklUZGFFNDlRRUZaNlUzYkxRSDZBeEpSSFpISUdLTUpmbnp6dE13N2M4bG9Ed1ZCaTM1Sm8zeTZJR08wd1AyVXpmR1hpaWpFM014UzhmRzJfZWNNanZERGdkWHZqZmhmd3A2eFRtSlpuSTgtWU1aWU10VktMV2ZvMHIzTnhMQmZSVXpJT2_SAZwCQVVfeXFMUFM2NHRrbFZMUzdhbVRBM29rN3FmX09lSE8wcGlOQXFzdzJxelZsTlBKM0lvNjZyT2d2Z1VocXVTbVk5YktrWFZYSzZQRi1YQ19NQjhXMl9wb3NNUjlEaUhsOTEzd3U3UlFGeWZ3dDJUekNKMGx3UG9ncy1OSU5YSlFSUE41WDQ5YlhuVTNpSmVfWHlGaWFkRkd4ZUpJOVYtWTZyV2ZXLU43UDZaYlFubl9WS1JzTVdXWGRsTXNXc0lJU2FFSDktV21kSUh0aGNhV01HVzlRbGRyclJSN3BkUDFNbWJ3Q2d4dFkzQzFFWThrbVgyZjNBSGZwSGYxdjJwdEJDaVlITjhzc05uMnJXRFN4RGZ6SDhTTjhIeDk?oc=5)
+
+2026-11-25 <span class="news-indication-tag">obesità</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMilwJBVV95cUxOYU82LTQwMUF2YkQ5TTl6b2N4dGZxMDlPR0ZqczRHaFNwOERQT3VGQ0xnOU1UaWg2MzJtLWtEWVF5SHFLazg0ZTYwTW9EN2FoMk15dGdYc1RrNEw4d0d4X3VzS1FjMGxWYk9JbEt3YnBUSjJ1a1NXSUxKT2FYaE5xVmJWX1N4ZEpVbkN4UzBCaFMyUklUZGFFNDlRRUZaNlUzYkxRSDZBeEpSSFpISUdLTUpmbnp6dE13N2M4bG9Ed1ZCaTM1Sm8zeTZJR08wd1AyVXpmR1hpaWpFM014UzhmRzJfZWNNanZERGdkWHZqZmhmd3A2eFRtSlpuSTgtWU1aWU10VktMV2ZvMHIzTnhMQmZSVXpJT2_SAZwCQVVfeXFMUFM2NHRrbFZMUzdhbVRBM29rN3FmX09lSE8wcGlOQXFzdzJxelZsTlBKM0lvNjZyT2d2Z1VocXVTbVk5YktrWFZYSzZQRi1YQ19NQjhXMl9wb3NNUjlEaUhsOTEzd3U3UlFGeWZ3dDJUekNKMGx3UG9ncy1OSU5YSlFSUE41WDQ5YlhuVTNpSmVfWHlGaWFkRkd4ZUpJOVYtWTZyV2ZXLU43UDZaYlFubl9WS1JzTVdXWGRsTXNXc0lJU2FFSDktV21kSUh0aGNhV01HVzlRbGRyclJSN3BkUDFNbWJ3Q2d4dFkzQzFFWThrbVgyZjNBSGZwSGYxdjJwdEJDaVlITjhzc05uMnJXRFN4RGZ6SDhTTjhIeDk?oc=5)
+
+---
 
 ### [Infarctus, AVC : comment savoir si vous êtes à risque ?](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTFPNDBVaGM1Y25aT1l0Y3pHb282ZE42X19NVlpvUTZBc2t3ajJmMUxuQldZbzdLYTJBNjVNb3ZQZUNWdU56ZWVRc1lrV2FsOHlrNi01OHlacFFuSHQxY3dRYlk3YjJVTzJKU2lXckI5VUM1dVNCTGkyYzItVG5yMGM5UQ?oc=5)
 
@@ -56,6 +72,14 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBV
 2026-11-25 <span class="news-indication-tag">obesidad</span>
 
 Source: [MARCA](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGVGVXFFbHE4RTdqajFhY3hKXzc0VWt4YVJyWnNWWkhpYTNoUDh2ZThEaWpPQTVmR0Z4aFpXN1E4bGhNV2h3c1NoVi11cTUxQkRWMUV6NUxadmkzcVNQZmJKVC1iZWk4QXhOTkZwY1Q0SmxPNDVSaVFBal8ta1RHa3lmbW94aEQtWTl2MWMyRnhrcFZ0d3Y5NjYzUWUxTFlfQU5hcW1yMmN6WGRDb2RFQ1B2Z01lLXhzSWo1clpZeHJ0alY5MVpPWUpjYlVIYXk3SVdsdXRuX2dkalRkT2Y00gHfAUFVX3lxTE5oX1ZMcHk1eS1NSGt2dkpFZ25SMmFLWVA1QVlwU1ZuWnZNZnVYOXprS3JfQWwxYldYMllEZlM0ZDZsdi1xZGltMHFsNEo4RW5MOFh1d3FaalVyLWdpRXQzWm5VOURxSk50VEFMQjRMczJ5THRKcUV0U1ZrTml1UTE1Ylp3TVNJdVppNXRPd2ZNc216Y3hXMGJMbzFlQWN2Zkd3S0ZZS3B3aXBJcURPelN6SWMtZk5TNGJlZHVwcjJHSWRKLWVEY1NlZVdJbVkwdXpPcnBWaWcyZmtvTzZVc1k?oc=5)
+
+---
+
+### [Ozempic, Wegovy, Mounjaro : derrière le succès de ces injections minceur, des dérives inquiétantes en France - Passeport Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUERMVmYtQUpGMWFsb2tfM0Y2eV8xc09LNWhiX01PZjlSbm9kcWs1dTJKOGY4UVl2RmhwNzV5VjJ1Y2RZdG56RkNfZHBrVm1qTGQ4R1RLLU1JMWp2ZnlNeTh1a3pYd2hGcThGMUNCMW1hSnc3WmpQV0kybVNybDFhNHZXMGp1czBiZm81VTZZVGNRa2FvemRqMU9xcUx0YjJfTDJTWnh6UkI?oc=5)
+
+2026-11-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Passeport Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUERMVmYtQUpGMWFsb2tfM0Y2eV8xc09LNWhiX01PZjlSbm9kcWs1dTJKOGY4UVl2RmhwNzV5VjJ1Y2RZdG56RkNfZHBrVm1qTGQ4R1RLLU1JMWp2ZnlNeTh1a3pYd2hGcThGMUNCMW1hSnc3WmpQV0kybVNybDFhNHZXMGp1czBiZm81VTZZVGNRa2FvemRqMU9xcUx0YjJfTDJTWnh6UkI?oc=5)
 
 ---
 
@@ -184,6 +208,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZV
 2026-11-23 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [heise online](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanF4VVJ1UkZSR2tjdWZ2cERIYmVacmJqTlBpd29IcTR6aGRrNTI1OWNPTXljTktHMlFHdnJiaVhwamtVeTZFUXcycHB3TF9EMVB0Y3d1RENYekxiMV9leW5ma1htblAyNGZTS0dseVNQMXdmbFdoOW1ZSUljSWRPODZrX2wxdjNxUzNONGh2TjRkMW15MTZONDk0V190LWRZa3RSTE42alRQY19QNjVYdGdKMEtzUnQ2?oc=5)
+
+---
+
+### [The red-flag waist size that puts you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
 
 ---
 
@@ -504,14 +536,6 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTU
 2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
-
----
-
-### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
-
-2026-11-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
-
-Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 

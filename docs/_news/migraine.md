@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "migraña (migraine) News"
+title: "emicrania (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraña (migraine). 13 articles, 49 related drugs."
+description: "Health news about emicrania (migraine). 14 articles, 49 related drugs."
 permalink: /news/migraine/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
-# migraña (migraine) News
+# emicrania (migraine) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about migraña (migraine)?">
-<strong>migraña (migraine)</strong> currently has <strong>13 news articles</strong> and 49 related drugs.
+<p class="key-answer" data-question="What news is there about emicrania (migraine)?">
+<strong>emicrania (migraine)</strong> currently has <strong>14 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “migraña” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “emicrania” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -57,7 +57,15 @@ This page brings together the latest health news about “migraña” and lists 
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
+
+2026-11-24
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
+
+---
 
 ### [Menopausia y pérdida de materia gris cerebral](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
 

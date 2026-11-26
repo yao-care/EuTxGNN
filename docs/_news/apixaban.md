@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Apixaban. 1 predicted indications."
 permalink: /news/apixaban/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Apixaban News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Apixaban?">
-<strong>Apixaban</strong> currently has <strong>122 news articles</strong>, with 1 predicted indications.
+<strong>Apixaban</strong> currently has <strong>123 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,37 @@ This page combines the AI-predicted indications for Apixaban with the latest hea
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (122)
+## Related News (123)
+
+### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
+
+2026-11-25 <span class="news-indication-tag">heart disease</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
+
+---
+
+### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+---
 
 ### [Espondiloartritis, la enfermedad inflamatoria que aparece a los 24 años y tarda años en diagnosticarse - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
 
 2026-11-25 <span class="news-indication-tag">artritis</span>
 
 Source: [El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
+
+---
+
+### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
+
+2026-11-24 <span class="news-indication-tag">emicrania</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
 ---
 
@@ -240,14 +264,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
-
----
-
-### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
-
-2026-11-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
-
-Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 
@@ -1000,14 +1016,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2J
 2026-10-28 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
-
----
-
-### [Deutscher Psoriasis-Tag 2026 in Erlangen: Was die Forschung für den Alltag mit Schuppenflechte bringt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
-
-2026-10-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
 
 ---
 

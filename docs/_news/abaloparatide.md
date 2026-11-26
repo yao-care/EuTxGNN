@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abaloparatide. 4 predicted indications."
 permalink: /news/abaloparatide/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Abaloparatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>320 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>324 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (320)
+## Related News (324)
+
+### [Studie: Verkehrslärm beeinträchtigt Herz-Kreislauf-Gesundheit](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEtxQ0lCNHFRMmdwUEx5cnFGQWI4M1hYZHdxRlZIQU1ISmJlck11dXBPQ0pBVG9kcTFWWWk5VVFOd0tSQkZMT1BVWXBCdmNtZzExemxkWHhLd2NLNkZzZlIxRW12MFFBanBUM2toYXZyN0c0eG5BWEY3VlNMWjJBVjdvVUk1RzV4QzhpQlln?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEtxQ0lCNHFRMmdwUEx5cnFGQWI4M1hYZHdxRlZIQU1ISmJlck11dXBPQ0pBVG9kcTFWWWk5VVFOd0tSQkZMT1BVWXBCdmNtZzExemxkWHhLd2NLNkZzZlIxRW12MFFBanBUM2toYXZyN0c0eG5BWEY3VlNMWjJBVjdvVUk1RzV4QzhpQlln?oc=5)
+
+---
+
+### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+
+---
 
 ### [Diabetes und Luftverschmutzung: Wie Feinstaub den Stoffwechsel beeinflusst - Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxORUtkdXRNTDhsanB1Wm11YWU4N09RdzVNVjdoMVBwd2NTa3dZU3BYakNSeFM2YVprd1NQMGszQ0tDcy1ZVlpvWFBBR0NaLVduY0VudGFvTEdkLUhRMGZlSzBhQXhMUERIMmhPOUVsbmczTVlfWFFiRmJ6Y1prMlVycmlqY2ZpUUg3Um1TaDZZbWdOZjN3QzJCLXpBUkRNTzFKcmZSQQ?oc=5)
 
@@ -54,11 +70,27 @@ Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQ
 
 ---
 
+### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
+
+---
+
 ### [So früh wie möglich Organprotektion bei Typ-2-Diabetes angehen](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE1HNWRNYmhFdzBIMW5MZEdpRFA0bzNoNkVzZFZyR3RxNkRXVGxQZmkwX0J3RlFyZ2x3cU9neld5a3V0OExsTDhEbVR3a0k2SnZsM0ZrNkJxMmRoSHdfTGtkM3pscUFGVlBETEtpY0NqWmpvZm9NbU1sMEJjUDNoallQeXprb1ZIODJEaDBMbTZqMDF3MEo1VGRTY0U5cUJJN1hkdHpiUTA0M3hWcFl4OHpEX1pOUEVscEE?oc=5)
 
 2026-11-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE1HNWRNYmhFdzBIMW5MZEdpRFA0bzNoNkVzZFZyR3RxNkRXVGxQZmkwX0J3RlFyZ2x3cU9neld5a3V0OExsTDhEbVR3a0k2SnZsM0ZrNkJxMmRoSHdfTGtkM3pscUFGVlBETEtpY0NqWmpvZm9NbU1sMEJjUDNoallQeXprb1ZIODJEaDBMbTZqMDF3MEo1VGRTY0U5cUJJN1hkdHpiUTA0M3hWcFl4OHpEX1pOUEVscEE?oc=5)
+
+---
+
+### [Emicrania, la svolta dei farmaci intelligenti: attacchi dimezzati per 7 pazienti su dieci - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
+
+2026-11-24 <span class="news-indication-tag">emicrania</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllYmpfamJKaVktNDgtaG9ZT2FNejlueWIxdmp5YXlwUFp2ZGR5bnF2MXdTcnpJa3IxeWVRSHVSOXJOZm1HVTJTUFJHbXUweGFHM1REM21ySDZBSmZFWTlXcU9Sc0tWV0x0aVBmSlZOUXpfMUNhbkx2LV90UnZ3U0RMYVVZMUNSdW5jSjc3c1ZDekc5ZWhEbWJQY1o1M2d5RjBsdEZiQVBxS2tubWhyZUI1ajY?oc=5)
 
 ---
 

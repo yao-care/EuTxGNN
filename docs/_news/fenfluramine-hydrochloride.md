@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Fenfluramine Hydrochloride. 0 predicted indications."
 permalink: /news/fenfluramine-hydrochloride/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Fenfluramine Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>137 news articles</strong>, with 0 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>140 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,29 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (137)
+## Related News (140)
+
+### [L'onda dei 'giovani vecchi', i nati dopo il 2000 rischiano di invecchiare prima](https://news.google.com/rss/articles/CBMilwJBVV95cUxOYU82LTQwMUF2YkQ5TTl6b2N4dGZxMDlPR0ZqczRHaFNwOERQT3VGQ0xnOU1UaWg2MzJtLWtEWVF5SHFLazg0ZTYwTW9EN2FoMk15dGdYc1RrNEw4d0d4X3VzS1FjMGxWYk9JbEt3YnBUSjJ1a1NXSUxKT2FYaE5xVmJWX1N4ZEpVbkN4UzBCaFMyUklUZGFFNDlRRUZaNlUzYkxRSDZBeEpSSFpISUdLTUpmbnp6dE13N2M4bG9Ed1ZCaTM1Sm8zeTZJR08wd1AyVXpmR1hpaWpFM014UzhmRzJfZWNNanZERGdkWHZqZmhmd3A2eFRtSlpuSTgtWU1aWU10VktMV2ZvMHIzTnhMQmZSVXpJT2_SAZwCQVVfeXFMUFM2NHRrbFZMUzdhbVRBM29rN3FmX09lSE8wcGlOQXFzdzJxelZsTlBKM0lvNjZyT2d2Z1VocXVTbVk5YktrWFZYSzZQRi1YQ19NQjhXMl9wb3NNUjlEaUhsOTEzd3U3UlFGeWZ3dDJUekNKMGx3UG9ncy1OSU5YSlFSUE41WDQ5YlhuVTNpSmVfWHlGaWFkRkd4ZUpJOVYtWTZyV2ZXLU43UDZaYlFubl9WS1JzTVdXWGRsTXNXc0lJU2FFSDktV21kSUh0aGNhV01HVzlRbGRyclJSN3BkUDFNbWJ3Q2d4dFkzQzFFWThrbVgyZjNBSGZwSGYxdjJwdEJDaVlITjhzc05uMnJXRFN4RGZ6SDhTTjhIeDk?oc=5)
+
+2026-11-25 <span class="news-indication-tag">obesità</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMilwJBVV95cUxOYU82LTQwMUF2YkQ5TTl6b2N4dGZxMDlPR0ZqczRHaFNwOERQT3VGQ0xnOU1UaWg2MzJtLWtEWVF5SHFLazg0ZTYwTW9EN2FoMk15dGdYc1RrNEw4d0d4X3VzS1FjMGxWYk9JbEt3YnBUSjJ1a1NXSUxKT2FYaE5xVmJWX1N4ZEpVbkN4UzBCaFMyUklUZGFFNDlRRUZaNlUzYkxRSDZBeEpSSFpISUdLTUpmbnp6dE13N2M4bG9Ed1ZCaTM1Sm8zeTZJR08wd1AyVXpmR1hpaWpFM014UzhmRzJfZWNNanZERGdkWHZqZmhmd3A2eFRtSlpuSTgtWU1aWU10VktMV2ZvMHIzTnhMQmZSVXpJT2_SAZwCQVVfeXFMUFM2NHRrbFZMUzdhbVRBM29rN3FmX09lSE8wcGlOQXFzdzJxelZsTlBKM0lvNjZyT2d2Z1VocXVTbVk5YktrWFZYSzZQRi1YQ19NQjhXMl9wb3NNUjlEaUhsOTEzd3U3UlFGeWZ3dDJUekNKMGx3UG9ncy1OSU5YSlFSUE41WDQ5YlhuVTNpSmVfWHlGaWFkRkd4ZUpJOVYtWTZyV2ZXLU43UDZaYlFubl9WS1JzTVdXWGRsTXNXc0lJU2FFSDktV21kSUh0aGNhV01HVzlRbGRyclJSN3BkUDFNbWJ3Q2d4dFkzQzFFWThrbVgyZjNBSGZwSGYxdjJwdEJDaVlITjhzc05uMnJXRFN4RGZ6SDhTTjhIeDk?oc=5)
+
+---
 
 ### [La delgadez, un privilegio económico: los tratamientos farmacológicos contra la obesidad cuestan entre 118 y 446 euros al mes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGVGVXFFbHE4RTdqajFhY3hKXzc0VWt4YVJyWnNWWkhpYTNoUDh2ZThEaWpPQTVmR0Z4aFpXN1E4bGhNV2h3c1NoVi11cTUxQkRWMUV6NUxadmkzcVNQZmJKVC1iZWk4QXhOTkZwY1Q0SmxPNDVSaVFBal8ta1RHa3lmbW94aEQtWTl2MWMyRnhrcFZ0d3Y5NjYzUWUxTFlfQU5hcW1yMmN6WGRDb2RFQ1B2Z01lLXhzSWo1clpZeHJ0alY5MVpPWUpjYlVIYXk3SVdsdXRuX2dkalRkT2Y00gHfAUFVX3lxTE5oX1ZMcHk1eS1NSGt2dkpFZ25SMmFLWVA1QVlwU1ZuWnZNZnVYOXprS3JfQWwxYldYMllEZlM0ZDZsdi1xZGltMHFsNEo4RW5MOFh1d3FaalVyLWdpRXQzWm5VOURxSk50VEFMQjRMczJ5THRKcUV0U1ZrTml1UTE1Ylp3TVNJdVppNXRPd2ZNc216Y3hXMGJMbzFlQWN2Zkd3S0ZZS3B3aXBJcURPelN6SWMtZk5TNGJlZHVwcjJHSWRKLWVEY1NlZVdJbVkwdXpPcnBWaWcyZmtvTzZVc1k?oc=5)
 
 2026-11-25 <span class="news-indication-tag">obesidad</span>
 
 Source: [MARCA](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGVGVXFFbHE4RTdqajFhY3hKXzc0VWt4YVJyWnNWWkhpYTNoUDh2ZThEaWpPQTVmR0Z4aFpXN1E4bGhNV2h3c1NoVi11cTUxQkRWMUV6NUxadmkzcVNQZmJKVC1iZWk4QXhOTkZwY1Q0SmxPNDVSaVFBal8ta1RHa3lmbW94aEQtWTl2MWMyRnhrcFZ0d3Y5NjYzUWUxTFlfQU5hcW1yMmN6WGRDb2RFQ1B2Z01lLXhzSWo1clpZeHJ0alY5MVpPWUpjYlVIYXk3SVdsdXRuX2dkalRkT2Y00gHfAUFVX3lxTE5oX1ZMcHk1eS1NSGt2dkpFZ25SMmFLWVA1QVlwU1ZuWnZNZnVYOXprS3JfQWwxYldYMllEZlM0ZDZsdi1xZGltMHFsNEo4RW5MOFh1d3FaalVyLWdpRXQzWm5VOURxSk50VEFMQjRMczJ5THRKcUV0U1ZrTml1UTE1Ylp3TVNJdVppNXRPd2ZNc216Y3hXMGJMbzFlQWN2Zkd3S0ZZS3B3aXBJcURPelN6SWMtZk5TNGJlZHVwcjJHSWRKLWVEY1NlZVdJbVkwdXpPcnBWaWcyZmtvTzZVc1k?oc=5)
+
+---
+
+### [Ozempic, Wegovy, Mounjaro : derrière le succès de ces injections minceur, des dérives inquiétantes en France - Passeport Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUERMVmYtQUpGMWFsb2tfM0Y2eV8xc09LNWhiX01PZjlSbm9kcWs1dTJKOGY4UVl2RmhwNzV5VjJ1Y2RZdG56RkNfZHBrVm1qTGQ4R1RLLU1JMWp2ZnlNeTh1a3pYd2hGcThGMUNCMW1hSnc3WmpQV0kybVNybDFhNHZXMGp1czBiZm81VTZZVGNRa2FvemRqMU9xcUx0YjJfTDJTWnh6UkI?oc=5)
+
+2026-11-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Passeport Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUERMVmYtQUpGMWFsb2tfM0Y2eV8xc09LNWhiX01PZjlSbm9kcWs1dTJKOGY4UVl2RmhwNzV5VjJ1Y2RZdG56RkNfZHBrVm1qTGQ4R1RLLU1JMWp2ZnlNeTh1a3pYd2hGcThGMUNCMW1hSnc3WmpQV0kybVNybDFhNHZXMGp1czBiZm81VTZZVGNRa2FvemRqMU9xcUx0YjJfTDJTWnh6UkI?oc=5)
 
 ---
 
@@ -68,6 +84,14 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cU
 2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME0tZVNsQU9UV2NjQ1dwbDJ5dWVzSmFVRGVIZ0pQRHJOYlg3dEhET0h0SzZyM0F0SldwZEJLVGg3ZlN0OWljVXVIS0VzaVA1VUFnQ1Y1Qnppdm5ZZEhfdXBSS2lueUZ1TWF0NlNrRDVWWm14UWdIRDB2eTNLSzJBRFp1Um1DdHg4eG4zS1M2ZHJlN3pOZk4xX3oyUER4REVrWU44TlJHVU8tSjZHQkp2SzdvZFZWamlDMXk0REw1Ty01UTjSAb4BQVVfeXFMTWRQWkgydklIV2I2R2NMMkZadXFkaDFtM2N2T2dhZDY5ZTFqWjdVcHhFU0dGZTlWZ1llS3I1V0gxdGlqSE1ab2dpb3JyblUwaVdHcVoxWmlEaVkwRzZmMjRWUlhKLUhvNnhGbUFEdHcwRTI1N25hUXllOWNZS3RYWjFiTmMwWEJkNDh3Zy1lOXZnUnlTeU8wSEpTa1hOT1RKZUZ0MlRyUDR5RnBXVDdLWUw1RzUxWTlfU29mWnhadw?oc=5)
+
+---
+
+### [The red-flag waist size that puts you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tasimelteon. 9 predicted indications."
 permalink: /news/tasimelteon/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Tasimelteon News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>46 news articles</strong>, with 9 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>47 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (46)
+## Related News (47)
+
+### [Loved one’s depression may be early sign of deadly condition affecting one in 11 - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N3Q3NDNEcXAwYTNPdzluZXlENHpDYi1Sazk5M3FucUVIUG9NbGxnNXpYWlVwRWRtYU1vTUZRV2l5NXQzRVNFRTRjT0hORGlWZUtjMWEtM3FQSmZaNmpDUmloRXkteDRrSjhLeGh2dThVTGlmVkE0VE91MVZ1VDhfWkhLMkRyQ3ln?oc=5)
+
+2026-11-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N3Q3NDNEcXAwYTNPdzluZXlENHpDYi1Sazk5M3FucUVIUG9NbGxnNXpYWlVwRWRtYU1vTUZRV2l5NXQzRVNFRTRjT0hORGlWZUtjMWEtM3FQSmZaNmpDUmloRXkteDRrSjhLeGh2dThVTGlmVkE0VE91MVZ1VDhfWkhLMkRyQ3ln?oc=5)
+
+---
 
 ### [Hochfunktionale Depression: Warum sie lange unentdeckt bleibt](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzdNMUcyUGdjTWpRYThzLUNmRG13c19aUU51dmJvU25sTTVjX3hEN2NqN2NNZ0xuaG84ZlF4c1NFd3NSNzdkaUF2Um1STnROekFlWE1SZ21VRjFrbU9laEpWMVM4VTlpZzNIRGxxdEJfMWd1VzF4WDVhNEJRS3JEVFhHWEhkNDJycjg2WjNVZTV2cllkY0hhMENB?oc=5)
 

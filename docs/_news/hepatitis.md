@@ -3,9 +3,9 @@ layout: default
 title: "epatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about epatite (hepatitis). 14 articles, 25 related drugs."
+description: "Health news about epatite (hepatitis). 15 articles, 25 related drugs."
 permalink: /news/hepatitis/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
 # epatite (hepatitis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about epatite (hepatitis)?">
-<strong>epatite (hepatitis)</strong> currently has <strong>14 news articles</strong> and 25 related drugs.
+<strong>epatite (hepatitis)</strong> currently has <strong>15 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -50,7 +50,15 @@ This page brings together the latest health news about “epatite” and lists t
 </ul>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Patients in Wales wrongly told they were clear of serious infection after test error - South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVhUcDdlVWNTQzY1OVREdTlaRGM4VWNzNVRXNHA2Y3VveWtkZjNLTFRaQ2FpNVRmTVcwM2VzWTBCYkJpeTA5T2ZpR2tsSWJhSjBXbEQ3aWtaTnJDVWZ2MlVnVUtDSkZBWXpHNUY3aVd0SWxkQWNaT3BKc3QwMk1IbUxJWEk4aTNWY051aUNWQnNmS3dBSlc5LXNYVXlabVh0QnVKcVF3?oc=5)
+
+2026-11-25
+
+Source: [South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVhUcDdlVWNTQzY1OVREdTlaRGM4VWNzNVRXNHA2Y3VveWtkZjNLTFRaQ2FpNVRmTVcwM2VzWTBCYkJpeTA5T2ZpR2tsSWJhSjBXbEQ3aWtaTnJDVWZ2MlVnVUtDSkZBWXpHNUY3aVd0SWxkQWNaT3BKc3QwMk1IbUxJWEk4aTNWY051aUNWQnNmS3dBSlc5LXNYVXlabVh0QnVKcVF3?oc=5)
+
+---
 
 ### [La hepatitis B repunta en España y la C aún deja infecciones sin diagnosticar - Diario de Sevilla](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk5MbU9LQUpIbWN2NmlEdDdsYVJZNkpkOXRLdzZoY2RGQ2JPOVZHX0loRnpLN3lLSWhKNFF0SndYeU1HemM1OEFLNDFMUHIxVk93b2d5Rmdvejd0cm1mRXAtVXhYamFtTHhzYU95U2VPTnZ4UnBRb2UwNDRQQmN1T1ZIa1ZvdUgzemc2dzlORUR5bzF2b0VsQ3l30gGfAUFVX3lxTE1MWFhoZDVGb2x3WldMZUpCaFZqNk1hdmkyRHZoNjFzVl9kMjNhSlQyVzRrZkdzZTc1N19fbS1kTHUwZmRjYWdTZGt2THdQaWtkRU5fejQ3TE9qVzRtLS1VWW5zWUFzejdMZU5INk56Qjk4WWRDMlN0Y1NLWkNBMkRCaWc1VzN2S0hkYWo5Mk1DdlFNMzhzNjkwd3ctdnlxVQ?oc=5)
 

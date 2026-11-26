@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sofosbuvir. 8 predicted indications."
 permalink: /news/sofosbuvir/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
 # Sofosbuvir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Sofosbuvir?">
-<strong>Sofosbuvir</strong> currently has <strong>34 news articles</strong>, with 8 predicted indications.
+<strong>Sofosbuvir</strong> currently has <strong>35 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Sofosbuvir with the latest h
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (35)
+
+### [Patients in Wales wrongly told they were clear of serious infection after test error - South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVhUcDdlVWNTQzY1OVREdTlaRGM4VWNzNVRXNHA2Y3VveWtkZjNLTFRaQ2FpNVRmTVcwM2VzWTBCYkJpeTA5T2ZpR2tsSWJhSjBXbEQ3aWtaTnJDVWZ2MlVnVUtDSkZBWXpHNUY3aVd0SWxkQWNaT3BKc3QwMk1IbUxJWEk4aTNWY051aUNWQnNmS3dBSlc5LXNYVXlabVh0QnVKcVF3?oc=5)
+
+2026-11-25 <span class="news-indication-tag">hepatitis</span>
+
+Source: [South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVhUcDdlVWNTQzY1OVREdTlaRGM4VWNzNVRXNHA2Y3VveWtkZjNLTFRaQ2FpNVRmTVcwM2VzWTBCYkJpeTA5T2ZpR2tsSWJhSjBXbEQ3aWtaTnJDVWZ2MlVnVUtDSkZBWXpHNUY3aVd0SWxkQWNaT3BKc3QwMk1IbUxJWEk4aTNWY051aUNWQnNmS3dBSlc5LXNYVXlabVh0QnVKcVF3?oc=5)
+
+---
 
 ### [La hepatitis B repunta en España y la C aún deja infecciones sin diagnosticar - Diario de Sevilla](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk5MbU9LQUpIbWN2NmlEdDdsYVJZNkpkOXRLdzZoY2RGQ2JPOVZHX0loRnpLN3lLSWhKNFF0SndYeU1HemM1OEFLNDFMUHIxVk93b2d5Rmdvejd0cm1mRXAtVXhYamFtTHhzYU95U2VPTnZ4UnBRb2UwNDRQQmN1T1ZIa1ZvdUgzemc2dzlORUR5bzF2b0VsQ3l30gGfAUFVX3lxTE1MWFhoZDVGb2x3WldMZUpCaFZqNk1hdmkyRHZoNjFzVl9kMjNhSlQyVzRrZkdzZTc1N19fbS1kTHUwZmRjYWdTZGt2THdQaWtkRU5fejQ3TE9qVzRtLS1VWW5zWUFzejdMZU5INk56Qjk4WWRDMlN0Y1NLWkNBMkRCaWc1VzN2S0hkYWo5Mk1DdlFNMzhzNjkwd3ctdnlxVQ?oc=5)
 
