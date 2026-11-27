@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Zonisamide. 9 predicted indications."
 permalink: /news/zonisamide/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Zonisamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>51 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>50 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (51)
+## Related News (50)
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
@@ -53,7 +53,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
@@ -440,14 +440,6 @@ Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUD
 2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
----
-
-### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
-
-2026-10-28 <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
 ---
 

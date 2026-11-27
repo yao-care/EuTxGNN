@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Zinc. 0 predicted indications."
 permalink: /news/zinc/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # Zinc News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Zinc?">
-<strong>Zinc</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Zinc</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Zinc with the latest health 
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Defensas en invierno: qué aportan la vitamina C, el zinc y la vitamina D y cuándo tiene sentido suplementarlos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzl6dExPTmhmTE83bWFzSHRCMnA0ZTkxZ1dIWVNnRmZJei1nbzYwbjNkVmY1aHAtX19jd3ZKUElDLTVJalZkRjBTZ2xBRjRzWGhvWXBrRGNfcTBRTFNLWXMtZW9KbG9teFRRWUl5S3ZEN0t2Y0VlQTVlUUdjc2xGMGpNSWFHMnFqR09sc3hkTkpsVjVQSU11eXFYaDBUM1lGbnhrY0RWTWdjeHhwaGpzZjdyNmttM2h5RGM5YVpDQdIBxAFBVV95cUxNS0VMc3lHRTg3eWRUVlBwb2NjY1BpZlRtRVl0SjRKbFg4Si1FbnZlcHM2REY2YXRxclNnSl9JQndWTkJjUnBBN1M0c3dJYkdEdUlUanVucEJJem1LaWMyT0VmVWpLN0x6UkMtUjM5Y1V3QW5xN2twRFpkM2FOVXZqTXZ1T1pFVWxrd3FQMFFQM0JKZ2JtaWhzWjVXN3lNakc4NzlLSXN6ei1UNE9POGI4cVpQbGxfN0U5RHNWUWNFTVE1R2hZ?oc=5)
+
+2026-11-26 <span class="news-drug-tag">Zinc</span>
+
+Source: [Canarias7](https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzl6dExPTmhmTE83bWFzSHRCMnA0ZTkxZ1dIWVNnRmZJei1nbzYwbjNkVmY1aHAtX19jd3ZKUElDLTVJalZkRjBTZ2xBRjRzWGhvWXBrRGNfcTBRTFNLWXMtZW9KbG9teFRRWUl5S3ZEN0t2Y0VlQTVlUUdjc2xGMGpNSWFHMnFqR09sc3hkTkpsVjVQSU11eXFYaDBUM1lGbnhrY0RWTWdjeHhwaGpzZjdyNmttM2h5RGM5YVpDQdIBxAFBVV95cUxNS0VMc3lHRTg3eWRUVlBwb2NjY1BpZlRtRVl0SjRKbFg4Si1FbnZlcHM2REY2YXRxclNnSl9JQndWTkJjUnBBN1M0c3dJYkdEdUlUanVucEJJem1LaWMyT0VmVWpLN0x6UkMtUjM5Y1V3QW5xN2twRFpkM2FOVXZqTXZ1T1pFVWxrd3FQMFFQM0JKZ2JtaWhzWjVXN3lNakc4NzlLSXN6ei1UNE9POGI4cVpQbGxfN0U5RHNWUWNFTVE1R2hZ?oc=5)
+
+---
 
 ### [Una ingesta insuficiente de zinc incrementa el riesgo de enfermedades metabólicas e intestinales - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUMxeFdPekZBRzZNQ2JFWVF0MWRRbmVRejR1Vy15U3NiS3pFempta1hTTnlWWDhNQ0hmY1h0WF9XYkFoVlFMTXdVZ0FrMTlrMnVXb3MwdjJUVm9fUUR2UWszdm0xR2IxbVlWek82VmtmYkptWkFQcTFaRi13NE5uVjJVckFzNU81Z0VVUEFjeXJCNVN4Z0tGUTlqZE1mWkJ2Z1RwbVJqWC1TaldXMFhHdVhValdQQ242VGpxRkd0VnhQQdIBvAFBVV95cUxQRTJGWHQxZUlFdjdjSmJEZmlmQXdSb3lIZlVLdFE1b0Z4OC1oNkgzcmtZZk9fUUp4dmR0M0ViYWtiX1pPQ2d5YlppSzQzR2hzVzdNRFltSEgxU1p1U0lIVm9UUXBzQWx6NDFybzB3QXdBeXEya0JUbDlvbTFfY0dKV0l2ZFEtbzFXYUJtVUVzTDdHZS1wOG5WMC1uUWNnYlB4c3l5YU9TNVMxbXdFTFU2Vld6eGFBOTFrbjA3UA?oc=5)
 

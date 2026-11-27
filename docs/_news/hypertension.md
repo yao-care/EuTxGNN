@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about Bluthochdruck (hypertension). 70 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Bluthochdruck (hypertension) News
@@ -82,7 +82,7 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNt
 
 ---
 
-### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+### [¿Hipertensión infantil si el futuro padre tomaba antidepresivos?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
 
 2026-11-26
 

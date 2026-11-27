@@ -3,9 +3,9 @@ layout: default
 title: "cardiovascular disease (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 26 articles, 57 related drugs."
+description: "Health news about cardiovascular disease (heart disease). 25 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # cardiovascular disease (heart disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>26 news articles</strong> and 57 related drugs.
+<strong>cardiovascular disease (heart disease)</strong> currently has <strong>25 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,7 @@ This page brings together the latest health news about “cardiovascular disease
 </ul>
 </div>
 
-## Related News (26)
+## Related News (25)
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 
@@ -266,14 +266,6 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE52NkFySk
 2026-10-29
 
 Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
-
----
-
-### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
-
-2026-10-28
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
 ---
 

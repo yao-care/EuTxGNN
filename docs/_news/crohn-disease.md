@@ -3,9 +3,9 @@ layout: default
 title: "Morbus Crohn (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Morbus Crohn (crohn disease). 11 articles, 1 related drugs."
+description: "Health news about Morbus Crohn (crohn disease). 12 articles, 1 related drugs."
 permalink: /news/crohn-disease/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Morbus Crohn (crohn disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Morbus Crohn (crohn disease)?">
-<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
+<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “Morbus Crohn” and li
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Salzige Snacks im Teenageralter: Höheres Risiko für entzündliche Darmerkrankungen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXVzdm1CbDZxNkZXQmFlbndPZEktTDNtejNnVWt0N01BV0pObVdMbjVObndyR2JYWktDOXBWZlBpbk13WEhHSE8yaGNVWWpFaGt5a2FDLU5DOXFzaVJtdDJJMVZqeVJScUJyZExVLWpUaWVKc0tLYmdZZU9PeWVqbGhIRkplRkgyWm1PWkZqSktodmFTRUZ2VFh3VlJQbnNsVzloUE1TY1o1UXJ5akZ3VjFVUHJKVE1sLWVHaXMzZks5U0k?oc=5)
+
+2026-11-26
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXVzdm1CbDZxNkZXQmFlbndPZEktTDNtejNnVWt0N01BV0pObVdMbjVObndyR2JYWktDOXBWZlBpbk13WEhHSE8yaGNVWWpFaGt5a2FDLU5DOXFzaVJtdDJJMVZqeVJScUJyZExVLWpUaWVKc0tLYmdZZU9PeWVqbGhIRkplRkgyWm1PWkZqSktodmFTRUZ2VFh3VlJQbnNsVzloUE1TY1o1UXJ5akZ3VjFVUHJKVE1sLWVHaXMzZks5U0k?oc=5)
+
+---
 
 ### [Der häufige Griff zu Chips und Co. im Teenageralter erhöht das CED-Risiko - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUJZclVPNi1HYmozRVN4SXpyWEFVT3VZTE13d3pyM2FZUWZHTUVZSXBkcnBFOThIcWV0eDk3TzRiUlg5S0pVVW13MUtudHZmZDJOM3B4OXBxOXBuTEExSVBSZi1DMm1lTW5xdE9mOHZScUxJbjBVcnBLUUpxbmxKYTZwcGhjVHUwTjhjN3gxeWJ6T3NlOFVNMlRKelo2aWY2UG5kbURR?oc=5)
 

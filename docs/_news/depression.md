@@ -3,9 +3,9 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 48 articles, 7 related drugs."
+description: "Health news about dépression (depression). 49 articles, 7 related drugs."
 permalink: /news/depression/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # dépression (depression) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>48 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>49 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (48)
+## Related News (49)
+
+### [Depressione circadiana: cos’è, cosa succede al corpo e perché servono cure su misura - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjNMeGxFdlozSUFUV2dPdE9YMU8xcm5qakVXY2ExT091OWJlb3ppRDIwSWJVNVlldUJZejhCRlRrQUxmYU5UTGtWOXQ4RElid0U5VHN5TXk3QWoxZWwwUmxGNF9SRV9nWXpjYkNmb2FTZU5qQ29YRVpEcWdWcEM2dnhNUGl2MFVCY1dfNXFXeDFWdVA2MGZjUzk3YlRGTTlPc1RoZjJScHR1eEhHbnNYa2tuQjlXMG9m?oc=5)
+
+2026-11-26
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjNMeGxFdlozSUFUV2dPdE9YMU8xcm5qakVXY2ExT091OWJlb3ppRDIwSWJVNVlldUJZejhCRlRrQUxmYU5UTGtWOXQ4RElid0U5VHN5TXk3QWoxZWwwUmxGNF9SRV9nWXpjYkNmb2FTZU5qQ29YRVpEcWdWcEM2dnhNUGl2MFVCY1dfNXFXeDFWdVA2MGZjUzk3YlRGTTlPc1RoZjJScHR1eEhHbnNYa2tuQjlXMG9m?oc=5)
+
+---
 
 ### [Alzheimer : la dépression pourrait être l’un des premiers signes](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXlqZGxJekh0RjlYNHZNZlhqTlJiak1zam9EMmh2MUFwZjNXMmRTUnU1VXpxTmpwZUpvUmZsZENCTE9nRlJXRUFzbHkyb0YyYmU2RDBhLTdQVWVVNnFITGFKUC1pcmRYNmg1bU5BT0FqOHdKWnhYYjM2aFVkbDc1aHZsRTIxM09NU3oyTg?oc=5)
 

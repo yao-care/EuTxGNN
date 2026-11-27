@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Melatonin. 0 predicted indications."
 permalink: /news/melatonin/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Melatonin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>163 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>165 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (163)
+## Related News (165)
 
 ### [Darío Acuña-Castroviejo, doctor experto en sueño: "Tres segundos de luz blanca bloquean la producción de melatonina de noche y alteran el descanso" - El Confidencial](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWtYR1EtS1dsREpONlEyS3BTNU12WGRWbnh3a1I4RWdmQVhhN20zeFZpblRhZmpIZk1Qc3VkbzhSNW1PUlNPVUNLMmNzeVpHTC1Od3RNRlhiMzVTcDNoVlgyNjFyNWlRY0Rpa0F0Wm41TFRhYVlxV1BMeHB6dk1aeFc5aVVFcVZlV2Z1eXhyZ0ZYaUd1VE1STUdhUHotSGNhQm5WNHU3eUVSWE0?oc=5)
 
 2026-11-26 <span class="news-drug-tag">Melatonin</span>
 
 Source: [El Confidencial](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWtYR1EtS1dsREpONlEyS3BTNU12WGRWbnh3a1I4RWdmQVhhN20zeFZpblRhZmpIZk1Qc3VkbzhSNW1PUlNPVUNLMmNzeVpHTC1Od3RNRlhiMzVTcDNoVlgyNjFyNWlRY0Rpa0F0Wm41TFRhYVlxV1BMeHB6dk1aeFc5aVVFcVZlV2Z1eXhyZ0ZYaUd1VE1STUdhUHotSGNhQm5WNHU3eUVSWE0?oc=5)
+
+---
+
+### [L’onda dei “giovani vecchi”: i nati dopo il 2000 rischiano di invecchiare prima - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
+
+2026-11-26 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
 
 ---
 
@@ -48,6 +56,14 @@ Source: [National Geographic España](https://news.google.com/rss/articles/CBMi2
 
 ---
 
+### [Dormire poco e avere obesità, il rischio di demenza è più alto del 56%: lo studio su quasi 28mila persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTEhJcjRpdy1seWE4Q0EyeG04NnZuUy1seVhySFJ2UTNoRmc1OTJ2NFF4dG15WTZrZDlXSE9QdFJlUzBRT1BZZjNrWlFTeXZsenQzRWlLRTVQbUtnbjhSMzVoZTRWSW5xaVZMTmlzVzBzdmEzOTlSa0FzU3F6SmRIVFBYX0h6SDBlTXhlZDBDTUYxWWE0dlBobnFlbnF3VjVZVndweVpUdWxNVnM4TFBXN283bVNESWczeUtNWE1YbnJ6WlJMS29NOWhudnIxajVKNU00RjF5QVFaNVdCWEpITjZ3Mlc1cXpxbXBySW1Ba2pDU3NP?oc=5)
+
+2026-11-26 <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTEhJcjRpdy1seWE4Q0EyeG04NnZuUy1seVhySFJ2UTNoRmc1OTJ2NFF4dG15WTZrZDlXSE9QdFJlUzBRT1BZZjNrWlFTeXZsenQzRWlLRTVQbUtnbjhSMzVoZTRWSW5xaVZMTmlzVzBzdmEzOTlSa0FzU3F6SmRIVFBYX0h6SDBlTXhlZDBDTUYxWWE0dlBobnFlbnF3VjVZVndweVpUdWxNVnM4TFBXN283bVNESWczeUtNWE1YbnJ6WlJMS29NOWhudnIxajVKNU00RjF5QVFaNVdCWEpITjZ3Mlc1cXpxbXBySW1Ba2pDU3NP?oc=5)
+
+---
+
 ### [Del control lipídico a la medición de resultados y las nuevas terapias: las estrategias de los expertos para reducir el riesgo cardiovascular - Gaceta Médica](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVNMmpXeGx5UG1vaERTSzVTRFQtVFprd2pSbjUzNEhCWTJqUlUwZUlXSHdWM2lpNnI0a241b3VJdDZFMjRZcnZhNGQzYUhGWDN6UDlUTHY1Q3ZSM1JOa2tmNWVoaENqczF6MTMtdzB4Wi04YXZEZF82TVkyY2dEdjYwcEt3SVRRMUhaU3Vn?oc=5)
 
 2026-11-26 <span class="news-indication-tag">obesidad</span>
@@ -56,7 +72,7 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQj
 
 ---
 
-### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP1-Rezeptoragonist helfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP-1-Rezeptoragonist helfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
 
 2026-11-26 <span class="news-indication-tag">Adipositas</span>
 

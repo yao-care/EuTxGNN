@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Givosiran. 9 predicted indications."
 permalink: /news/givosiran/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Givosiran News
@@ -59,7 +59,7 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNt
 
 ---
 
-### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+### [¿Hipertensión infantil si el futuro padre tomaba antidepresivos?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
 
 2026-11-26 <span class="news-indication-tag">hipertensión</span>
 
@@ -77,7 +77,7 @@ Source: [South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUx
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 

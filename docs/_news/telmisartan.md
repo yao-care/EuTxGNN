@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Telmisartan News
@@ -43,6 +43,14 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ## Related News (239)
 
+### [Al cuore non si comanda. Ma quanto possiamo fare per metterlo meno a rischio](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZVV21vb3pld04xMm1Td0lCMGVkc0d1OFc2NDY4XzBLMTQtYXJIU2Q2Tk45bUZxTDhYZEpBTU9fUWl1WkJLd3J5d1B1UUhjcHNSZUM0eUFrZTJGOEdQMXVMS1JlLUY1UVJOR1J3RGNYVks1X1JLc2lwajlQLXBBd3Nwa2RqUTFZOTYtU2hoWDhzMmN2VGR4SFlkQ1hydXVHb19EakxDOGRFTkJnU0MyTGRHZ0oxeHlrWUJxSmlFOHdtWVVS?oc=5)
+
+2026-11-26 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZVV21vb3pld04xMm1Td0lCMGVkc0d1OFc2NDY4XzBLMTQtYXJIU2Q2Tk45bUZxTDhYZEpBTU9fUWl1WkJLd3J5d1B1UUhjcHNSZUM0eUFrZTJGOEdQMXVMS1JlLUY1UVJOR1J3RGNYVks1X1JLc2lwajlQLXBBd3Nwa2RqUTFZOTYtU2hoWDhzMmN2VGR4SFlkQ1hydXVHb19EakxDOGRFTkJnU0MyTGRHZ0oxeHlrWUJxSmlFOHdtWVVS?oc=5)
+
+---
+
 ### [Hypertension : cette huile naturelle pourrait faire baisser la tension artérielle en 20 jours](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
 
 2026-11-26 <span class="news-indication-tag">hypertension</span>
@@ -59,7 +67,7 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNt
 
 ---
 
-### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+### [¿Hipertensión infantil si el futuro padre tomaba antidepresivos?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
 
 2026-11-26 <span class="news-indication-tag">hipertensión</span>
 
@@ -85,7 +93,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
@@ -104,14 +112,6 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4
 2026-11-25 <span class="news-indication-tag">AVC</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTFPNDBVaGM1Y25aT1l0Y3pHb282ZE42X19NVlpvUTZBc2t3ajJmMUxuQldZbzdLYTJBNjVNb3ZQZUNWdU56ZWVRc1lrV2FsOHlrNi01OHlacFFuSHQxY3dRYlk3YjJVTzJKU2lXckI5VUM1dVNCTGkyYzItVG5yMGM5UQ?oc=5)
-
----
-
-### [Colesterolo, perché secondo gli esperti non basta abbassare i valori - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
-
-2026-11-25 <span class="news-indication-tag">ictus</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
 
 ---
 
@@ -189,7 +189,7 @@ Source: [Infobae](https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWNwaDJFe
 
 ### [Infarto e ictus, il rischio si costruisce 30 anni prima? Cosa rivela uno studio su 113mila persone](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
 
-2026-11-24 <span class="news-indication-tag">ictus</span>
+2026-11-24 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
 
@@ -232,6 +232,14 @@ Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VV
 2026-11-24 <span class="news-indication-tag">ictus</span>
 
 Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+---
+
+### [Early warning signs predict heart attack and stroke decades ahead](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
 
 ---
 
@@ -1944,14 +1952,6 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1Rw
 2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFdxYkl4am82MnlPVDh5VXZkUUdrU2V3MnBkV3cwX1MyNXpCaFhBNTl3anBVYlFGR2VjYUlCZUE2WWZsRER3bTdqU2lteFNFVXdJNDlrZWxRMUU2N0ZNNFBiZ0tXVzl2aXNXWjRmaTJmbF9zOFFKbGtaWS1nNHpacHFLY194T2lfMnhVYVh5Vk1iejM4SXE1RFQ4bUlVYVk4aUtsT1lZMVh3bmNsSlNpZXlvdG93WDRZSWp3N2Q1bHRsdi1S?oc=5)
-
----
-
-### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
-
-2026-10-28 <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
 ---
 

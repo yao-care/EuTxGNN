@@ -3,9 +3,9 @@ layout: default
 title: "enfermedad renal crónica (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad renal crónica (chronic kidney disease). 16 articles, 1 related drugs."
+description: "Health news about enfermedad renal crónica (chronic kidney disease). 19 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # enfermedad renal crónica (chronic kidney disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad renal crónica (chronic kidney disease)?">
-<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>16 news articles</strong> and 1 related drugs.
+<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>19 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page brings together the latest health news about “enfermedad renal crón
 </ul>
 </div>
 
-## Related News (16)
+## Related News (19)
+
+### [La insuficiencia cardiaca concentra la mitad de los costes de hospitalización cardiovascular en pacientes con enfermedad renal crónica](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUFdBVFBZOFVJaGFmemtGc1dDNjd3YTdTbjlFamhlQjAzYnc0RENLTkx5YllHYXVWa011Q05RQ19UblRaRmFZQmVwbHZGTEpDMVZ0SmZJaEdUQTN6dkhlSHo1TFhsV3VtN2liRGZEWk56Z2ZwNEpNclBFMm1PMDBqMndOSVVobXNPdzBHbGxkZ2w5MDRWWHBVbnM0VXFXOGx6NHl4TURxeVNDZHBhcFRfNWV3MTR3eWF6d2dBTlZneHJ1NlgzY1F2LWt1Z25tSW53YzVoLUpsLVk1dUljZDNnX05nQldMdTVLTEdCX25LZHNJMDBleEE?oc=5)
+
+2026-11-26
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUFdBVFBZOFVJaGFmemtGc1dDNjd3YTdTbjlFamhlQjAzYnc0RENLTkx5YllHYXVWa011Q05RQ19UblRaRmFZQmVwbHZGTEpDMVZ0SmZJaEdUQTN6dkhlSHo1TFhsV3VtN2liRGZEWk56Z2ZwNEpNclBFMm1PMDBqMndOSVVobXNPdzBHbGxkZ2w5MDRWWHBVbnM0VXFXOGx6NHl4TURxeVNDZHBhcFRfNWV3MTR3eWF6d2dBTlZneHJ1NlgzY1F2LWt1Z25tSW53YzVoLUpsLVk1dUljZDNnX05nQldMdTVLTEdCX25LZHNJMDBleEE?oc=5)
+
+---
+
+### [La enfermedad renal crónica supera los 69.700 pacientes en tratamiento renal sustitutivo en España - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWZ4QkE4OVlZSGhJWXFvMkVDbzZsOGlzYnZmdi12dGplZHBNbVhvYW9Ga3RpZkVuWF9kdXNiS2JiQ3lCLU9nbTd0ZjZXQjk4aENRQ21ibUxzRHExRnRpMEFzZDh1ZWxZT2V4YUFwaXNTY3lERGhfajV2aGRBYjVYdVlyTFdyNnRzNTRYUGVoVlJaUnZ5bFVza0NIYUw5VmV0bXJLV1FvSkdLeVVsbDl0V0VZQ1JiT25DQUQ5SURtRjbSAbsBQVVfeXFMTmctWU5mNVJDNmpOdHJMRDdMSE16SHdQdzFvcE85aEZfN1hwMXhseTI2VUFqTnFyVS1Saml4cVdhNDY4azcyaFU4QW5jakowYTBFU3BVem9jTXJxaGswaDdVd0hwYXd5ZDR3TG9LMzdKREU1R0lLOEVQVXFzUFZNLV9veWRRUFEyQXlZLXNqU1hWcW01aEtwdGwzRlNxMkxXNDNCdHo5b1JmYzFqVk54eHdJTVJ0bDhqblRUNA?oc=5)
+
+2026-11-26
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWZ4QkE4OVlZSGhJWXFvMkVDbzZsOGlzYnZmdi12dGplZHBNbVhvYW9Ga3RpZkVuWF9kdXNiS2JiQ3lCLU9nbTd0ZjZXQjk4aENRQ21ibUxzRHExRnRpMEFzZDh1ZWxZT2V4YUFwaXNTY3lERGhfajV2aGRBYjVYdVlyTFdyNnRzNTRYUGVoVlJaUnZ5bFVza0NIYUw5VmV0bXJLV1FvSkdLeVVsbDl0V0VZQ1JiT25DQUQ5SURtRjbSAbsBQVVfeXFMTmctWU5mNVJDNmpOdHJMRDdMSE16SHdQdzFvcE85aEZfN1hwMXhseTI2VUFqTnFyVS1Saml4cVdhNDY4azcyaFU4QW5jakowYTBFU3BVem9jTXJxaGswaDdVd0hwYXd5ZDR3TG9LMzdKREU1R0lLOEVQVXFzUFZNLV9veWRRUFEyQXlZLXNqU1hWcW01aEtwdGwzRlNxMkxXNDNCdHo5b1JmYzFqVk54eHdJTVJ0bDhqblRUNA?oc=5)
+
+---
 
 ### [La enfermedad renal lleva a una persona a diálisis o trasplante cada 70 minutos en España](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHZMZXU2YS1POEhVc21TQ1pueXlPRnA2Wmd6LVRlb3NLSExYYjdMWHNFdlhqX0lEVWxXQlJvVGJLOGpwZUZyNy1SbjE0bGM4VTZJUE4zY2tMQXhQZUNLblBnWDhnMzBBb3A0cGF0SW00X001LXhFbmdwbzQzZEdCRXB1MnFoQVNyOGY4cWlkeDRtMHlTQjUzcUlxX0h5OEk4akNKWkRLNTREbVdsWmZOb0l0S1haaDZMTnc?oc=5)
 
 2026-11-25
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHZMZXU2YS1POEhVc21TQ1pueXlPRnA2Wmd6LVRlb3NLSExYYjdMWHNFdlhqX0lEVWxXQlJvVGJLOGpwZUZyNy1SbjE0bGM4VTZJUE4zY2tMQXhQZUNLblBnWDhnMzBBb3A0cGF0SW00X001LXhFbmdwbzQzZEdCRXB1MnFoQVNyOGY4cWlkeDRtMHlTQjUzcUlxX0h5OEk4akNKWkRLNTREbVdsWmZOb0l0S1haaDZMTnc?oc=5)
+
+---
+
+### [Routine blood and urine tests detect silent kidney damage before symptoms](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVktGbmc4d0xXLW1HNXhtbFllQVJTbHhiWWs5ZzN0UkJSVUtlNEZrZ1RvME9TWDJleVg3dURQc3FFek01cVZ0RjUwZ2xPNHZ1Q0hFNkRtMEpNd2lnaktrR2ZheTNreWNlWldKMHRTRTlzMTVjV3F2RFdRNC1KcGRxSE0zcWZkWFRTZEQ4MWxsT3Y4TG16WjRSU3FWUTB0U09RRUg1N3lhakJvNXhwNnh6cjNYYk9xUURmaXRMTkxB?oc=5)
+
+2026-11-23
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVktGbmc4d0xXLW1HNXhtbFllQVJTbHhiWWs5ZzN0UkJSVUtlNEZrZ1RvME9TWDJleVg3dURQc3FFek01cVZ0RjUwZ2xPNHZ1Q0hFNkRtMEpNd2lnaktrR2ZheTNreWNlWldKMHRTRTlzMTVjV3F2RFdRNC1KcGRxSE0zcWZkWFRTZEQ4MWxsT3Y4TG16WjRSU3FWUTB0U09RRUg1N3lhakJvNXhwNnh6cjNYYk9xUURmaXRMTkxB?oc=5)
 
 ---
 

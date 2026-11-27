@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bupropion. 0 predicted indications."
 permalink: /news/bupropion/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Bupropion News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>147 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>149 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (147)
+## Related News (149)
+
+### [L’onda dei “giovani vecchi”: i nati dopo il 2000 rischiano di invecchiare prima - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
+
+2026-11-26 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
+
+---
 
 ### [Todo lo que debes saber sobre Wegovy: el medicamento contra la obesidad que ya se comercializa en España - National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
 
 2026-11-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
+
+---
+
+### [Dormire poco e avere obesità, il rischio di demenza è più alto del 56%: lo studio su quasi 28mila persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTEhJcjRpdy1seWE4Q0EyeG04NnZuUy1seVhySFJ2UTNoRmc1OTJ2NFF4dG15WTZrZDlXSE9QdFJlUzBRT1BZZjNrWlFTeXZsenQzRWlLRTVQbUtnbjhSMzVoZTRWSW5xaVZMTmlzVzBzdmEzOTlSa0FzU3F6SmRIVFBYX0h6SDBlTXhlZDBDTUYxWWE0dlBobnFlbnF3VjVZVndweVpUdWxNVnM4TFBXN283bVNESWczeUtNWE1YbnJ6WlJMS29NOWhudnIxajVKNU00RjF5QVFaNVdCWEpITjZ3Mlc1cXpxbXBySW1Ba2pDU3NP?oc=5)
+
+2026-11-26 <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTEhJcjRpdy1seWE4Q0EyeG04NnZuUy1seVhySFJ2UTNoRmc1OTJ2NFF4dG15WTZrZDlXSE9QdFJlUzBRT1BZZjNrWlFTeXZsenQzRWlLRTVQbUtnbjhSMzVoZTRWSW5xaVZMTmlzVzBzdmEzOTlSa0FzU3F6SmRIVFBYX0h6SDBlTXhlZDBDTUYxWWE0dlBobnFlbnF3VjVZVndweVpUdWxNVnM4TFBXN283bVNESWczeUtNWE1YbnJ6WlJMS29NOWhudnIxajVKNU00RjF5QVFaNVdCWEpITjZ3Mlc1cXpxbXBySW1Ba2pDU3NP?oc=5)
 
 ---
 
@@ -48,7 +64,7 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQj
 
 ---
 
-### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP1-Rezeptoragonist helfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP-1-Rezeptoragonist helfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
 
 2026-11-26 <span class="news-indication-tag">Adipositas</span>
 

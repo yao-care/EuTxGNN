@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abaloparatide. 4 predicted indications."
 permalink: /news/abaloparatide/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Abaloparatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>326 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>327 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (326)
+## Related News (327)
 
 ### [Aljaraque organiza una charla sobre prevención y control de la diabetes - Canalcosta Televisión](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHNWOHMyTTdXSnNuWmVBTEZTajVyalBqb1ZsRU5CUnJqbUREMzBlWktqVGdHX3FBTzNSYS1RY1U1dEZYVDQ4WjNDNWVNcE5zMFRHdDM4Z1cwc21Fb29hc0F3SkZEakJESEhNOHh6clJtRHJna1dkQnNzSmNxX3M3LWxvSHlDemJQZjJiZUNtRkZ2NEJWQ0NydEVremo?oc=5)
 
@@ -62,14 +62,6 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1lJR3h
 
 ---
 
-### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
-
-2026-11-25 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
-
----
-
 ### [Studie: Verkehrslärm beeinträchtigt Herz-Kreislauf-Gesundheit](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEtxQ0lCNHFRMmdwUEx5cnFGQWI4M1hYZHdxRlZIQU1ISmJlck11dXBPQ0pBVG9kcTFWWWk5VVFOd0tSQkZMT1BVWXBCdmNtZzExemxkWHhLd2NLNkZzZlIxRW12MFFBanBUM2toYXZyN0c0eG5BWEY3VlNMWjJBVjdvVUk1RzV4QzhpQlln?oc=5)
 
 2026-11-25 <span class="news-indication-tag">diabetes</span>
@@ -80,7 +72,7 @@ Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMijgFB
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
@@ -99,6 +91,14 @@ Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxO
 2026-11-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQlZIOF9ybkF6eFJIbHlfNDZURDRNc1NTam8xSTNiQWExaUt3bjJvUUZHY2ZQaHN6N2tmWld1YXBENEpKVXF1ZEV0RndDMzRpeFB5Wlh1N2hhVjJNQ184TVBqVWZDLVVja2h2U3dzb09qWUhaZnp5X1pHd2loMTQxVXdOLWpuaHVCcHRwREVZZm40UDZXS3BjVE1ZNGt1V3ZkZ1JXa0F0b0dYb0NZb24xWWxfYXR3Y0NqdE5rN19scmxHN29iS2RSR1UxcXlsVQ?oc=5)
+
+---
+
+### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
 
 ---
 
@@ -187,6 +187,14 @@ Source: [EntreMayores](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlNp
 2026-11-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
 
 Source: [diarioeuskadi.eus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkdxWGUyUWxKa3djM3JNclR3c3ljakN5MlJpTExsYzVzQjczbk1Ha3pITWtDWWc1VW02THBDcldfSVh0SVRSLVR3SjdYbTEzb0NZZHRNZ0lYUXhPakFzWTViTXpmRlJjS3JVNGNMdTZManRBZm80RnR6WEdjMUJUSVpsZW5XWTJ0Z29VZnNTTkZVVjVJQXdpZUhRdWk5MkhvNldmS2NkTG9Bc3lMd1FzNnZtQWJKZlZpdnN5OU9QcHkwU1A3elVSdF8wLWtITnE5V3hlQWM0YnFpU1ot?oc=5)
+
+---
+
+### [Infarto e ictus, il rischio si costruisce 30 anni prima? Cosa rivela uno studio su 113mila persone](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
 
 ---
 

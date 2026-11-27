@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>174 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>175 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (174)
+## Related News (175)
+
+### [Al cuore non si comanda. Ma quanto possiamo fare per metterlo meno a rischio](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZVV21vb3pld04xMm1Td0lCMGVkc0d1OFc2NDY4XzBLMTQtYXJIU2Q2Tk45bUZxTDhYZEpBTU9fUWl1WkJLd3J5d1B1UUhjcHNSZUM0eUFrZTJGOEdQMXVMS1JlLUY1UVJOR1J3RGNYVks1X1JLc2lwajlQLXBBd3Nwa2RqUTFZOTYtU2hoWDhzMmN2VGR4SFlkQ1hydXVHb19EakxDOGRFTkJnU0MyTGRHZ0oxeHlrWUJxSmlFOHdtWVVS?oc=5)
+
+2026-11-26 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZVV21vb3pld04xMm1Td0lCMGVkc0d1OFc2NDY4XzBLMTQtYXJIU2Q2Tk45bUZxTDhYZEpBTU9fUWl1WkJLd3J5d1B1UUhjcHNSZUM0eUFrZTJGOEdQMXVMS1JlLUY1UVJOR1J3RGNYVks1X1JLc2lwajlQLXBBd3Nwa2RqUTFZOTYtU2hoWDhzMmN2VGR4SFlkQ1hydXVHb19EakxDOGRFTkJnU0MyTGRHZ0oxeHlrWUJxSmlFOHdtWVVS?oc=5)
+
+---
 
 ### [Herzinfarkt kommt nicht aus heiterem Himmel: Diese Werte unterscheiden sich schon 30 Jahre vorher - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
 
@@ -53,7 +61,7 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV9
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
@@ -72,14 +80,6 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4
 2026-11-25 <span class="news-indication-tag">AVC</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTFPNDBVaGM1Y25aT1l0Y3pHb282ZE42X19NVlpvUTZBc2t3ajJmMUxuQldZbzdLYTJBNjVNb3ZQZUNWdU56ZWVRc1lrV2FsOHlrNi01OHlacFFuSHQxY3dRYlk3YjJVTzJKU2lXckI5VUM1dVNCTGkyYzItVG5yMGM5UQ?oc=5)
-
----
-
-### [Colesterolo, perché secondo gli esperti non basta abbassare i valori - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
-
-2026-11-25 <span class="news-indication-tag">ictus</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
 
 ---
 
@@ -125,7 +125,7 @@ Source: [Infobae](https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWNwaDJFe
 
 ### [Infarto e ictus, il rischio si costruisce 30 anni prima? Cosa rivela uno studio su 113mila persone](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
 
-2026-11-24 <span class="news-indication-tag">ictus</span>
+2026-11-24 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZW5HNEs4NHJRM1hkZ2d0eG1jaGVzLXZDNWJZVUJQbWw4X2psQVVMZDIzd0YyeWFPdGgxRThBSHFlZ01adldCUzR3MnJjNTF3QXlnV3ZoV3JQeU4zeTJUempsR2xpTEZ6TW43X2NLXzMxVmpxOGJXMml3MWFOOTlyZFFJSnQyQ19oV1hMbmJFeDhfbG5laDR4YVlXWi1CeXVOdmpsbVVhNndGYmZBdENFRzVyczU0V1R0Y1NRa3kyQ1hpZmlkc2M3WVB3b0J2TWJMRVpzNTNUcmdHb2pKd3ZSbVZSdklGcnZsZS11aQ?oc=5)
 
@@ -168,6 +168,14 @@ Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VV
 2026-11-24 <span class="news-indication-tag">ictus</span>
 
 Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+---
+
+### [Early warning signs predict heart attack and stroke decades ahead](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">stroke</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
 
 ---
 

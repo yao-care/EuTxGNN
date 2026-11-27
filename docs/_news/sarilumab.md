@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>64 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>65 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (64)
+## Related News (65)
+
+### [Salzige Snacks im Teenageralter: Höheres Risiko für entzündliche Darmerkrankungen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXVzdm1CbDZxNkZXQmFlbndPZEktTDNtejNnVWt0N01BV0pObVdMbjVObndyR2JYWktDOXBWZlBpbk13WEhHSE8yaGNVWWpFaGt5a2FDLU5DOXFzaVJtdDJJMVZqeVJScUJyZExVLWpUaWVKc0tLYmdZZU9PeWVqbGhIRkplRkgyWm1PWkZqSktodmFTRUZ2VFh3VlJQbnNsVzloUE1TY1o1UXJ5akZ3VjFVUHJKVE1sLWVHaXMzZks5U0k?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXVzdm1CbDZxNkZXQmFlbndPZEktTDNtejNnVWt0N01BV0pObVdMbjVObndyR2JYWktDOXBWZlBpbk13WEhHSE8yaGNVWWpFaGt5a2FDLU5DOXFzaVJtdDJJMVZqeVJScUJyZExVLWpUaWVKc0tLYmdZZU9PeWVqbGhIRkplRkgyWm1PWkZqSktodmFTRUZ2VFh3VlJQbnNsVzloUE1TY1o1UXJ5akZ3VjFVUHJKVE1sLWVHaXMzZks5U0k?oc=5)
+
+---
 
 ### [Der häufige Griff zu Chips und Co. im Teenageralter erhöht das CED-Risiko - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUJZclVPNi1HYmozRVN4SXpyWEFVT3VZTE13d3pyM2FZUWZHTUVZSXBkcnBFOThIcWV0eDk3TzRiUlg5S0pVVW13MUtudHZmZDJOM3B4OXBxOXBuTEExSVBSZi1DMm1lTW5xdE9mOHZScUxJbjBVcnBLUUpxbmxKYTZwcGhjVHUwTjhjN3gxeWJ6T3NlOFVNMlRKelo2aWY2UG5kbURR?oc=5)
 

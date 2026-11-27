@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tadalafil. 8 predicted indications."
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Tadalafil News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Tadalafil?">
-<strong>Tadalafil</strong> currently has <strong>125 news articles</strong>, with 8 predicted indications.
+<strong>Tadalafil</strong> currently has <strong>124 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Tadalafil with the latest he
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (125)
+## Related News (124)
 
 ### [Hypertension : cette huile naturelle pourrait faire baisser la tension artérielle en 20 jours](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
 
@@ -58,7 +58,7 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNt
 
 ---
 
-### [Antidepresivos en futuros padres se asocian a leve riesgo de hipertensión infantil](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
+### [¿Hipertensión infantil si el futuro padre tomaba antidepresivos?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVqX2lhM3VkODFKUWc3eXZOZ1dCNUpsS19qamRzV1NrMUdORkRsOWl1MGViclJxYXNuRDZVVlpQRWY3djc3U2VEX3dCMU9Lb1Y0MUkzdVl1NHNvTXlnSkdxN1FQRDRmS3IxdzZlZkZvS09xVnZNTC1FVnBlUWV3c0NiWDFqN3ZuWVFUeFNkSFEzbVNQUG1YMnFQVHpucEg3bmVqY2djejFTelJ0cVhReEhlT08tdmwy?oc=5)
 
 2026-11-26 <span class="news-indication-tag">hipertensión</span>
 
@@ -76,7 +76,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2
 
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
@@ -1031,14 +1031,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR
 2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
----
-
-### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
-
-2026-10-28 <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
 ---
 

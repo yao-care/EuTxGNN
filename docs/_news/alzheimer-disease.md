@@ -3,9 +3,9 @@ layout: default
 title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 61 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 62 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Alzheimer's (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>61 news articles</strong> and 16 related drugs.
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>62 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (61)
+## Related News (62)
+
+### [Inside the UK's most anticipated dementia trial that's edging closer to a cure | ITV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2JLcmNnVDRVc2F2NnR0WHlQMGZFWEJVWUNIVWVEY3ZiQkI4VjR3a1NicmRDTTJyTUlaYlVQM1VuTGhwdmdUSVZBSV9SVlBmTDNtSVBCM3JHaUdwZWlnaTBwWk9YV0lMNU5qell4ZklrdTJnRXVTNm12ZktZMklpYkJPZ3U4ek9FSDhOem51dm1zNFl5ZWI4cTBNQUZ0OTRUV3Bnei0zX2JKb0lqU2JIOVBR?oc=5)
+
+2026-11-25
+
+Source: [ITVX](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2JLcmNnVDRVc2F2NnR0WHlQMGZFWEJVWUNIVWVEY3ZiQkI4VjR3a1NicmRDTTJyTUlaYlVQM1VuTGhwdmdUSVZBSV9SVlBmTDNtSVBCM3JHaUdwZWlnaTBwWk9YV0lMNU5qell4ZklrdTJnRXVTNm12ZktZMklpYkJPZ3U4ek9FSDhOem51dm1zNFl5ZWI4cTBNQUZ0OTRUV3Bnei0zX2JKb0lqU2JIOVBR?oc=5)
+
+---
 
 ### [Loved one’s depression may be early sign of deadly condition affecting one in 11 - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N3Q3NDNEcXAwYTNPdzluZXlENHpDYi1Sazk5M3FucUVIUG9NbGxnNXpYWlVwRWRtYU1vTUZRV2l5NXQzRVNFRTRjT0hORGlWZUtjMWEtM3FQSmZaNmpDUmloRXkteDRrSjhLeGh2dThVTGlmVkE0VE91MVZ1VDhfWkhLMkRyQ3ln?oc=5)
 

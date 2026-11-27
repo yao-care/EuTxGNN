@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Opicapone. 0 predicted indications."
 permalink: /news/opicapone/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Opicapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>71 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>72 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (71)
+## Related News (72)
+
+### [Inside the UK's most anticipated dementia trial that's edging closer to a cure | ITV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2JLcmNnVDRVc2F2NnR0WHlQMGZFWEJVWUNIVWVEY3ZiQkI4VjR3a1NicmRDTTJyTUlaYlVQM1VuTGhwdmdUSVZBSV9SVlBmTDNtSVBCM3JHaUdwZWlnaTBwWk9YV0lMNU5qell4ZklrdTJnRXVTNm12ZktZMklpYkJPZ3U4ek9FSDhOem51dm1zNFl5ZWI4cTBNQUZ0OTRUV3Bnei0zX2JKb0lqU2JIOVBR?oc=5)
+
+2026-11-25 <span class="news-indication-tag">alzheimer disease</span>
+
+Source: [ITVX](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2JLcmNnVDRVc2F2NnR0WHlQMGZFWEJVWUNIVWVEY3ZiQkI4VjR3a1NicmRDTTJyTUlaYlVQM1VuTGhwdmdUSVZBSV9SVlBmTDNtSVBCM3JHaUdwZWlnaTBwWk9YV0lMNU5qell4ZklrdTJnRXVTNm12ZktZMklpYkJPZ3U4ek9FSDhOem51dm1zNFl5ZWI4cTBNQUZ0OTRUV3Bnei0zX2JKb0lqU2JIOVBR?oc=5)
+
+---
 
 ### [Loved one’s depression may be early sign of deadly condition affecting one in 11 - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N3Q3NDNEcXAwYTNPdzluZXlENHpDYi1Sazk5M3FucUVIUG9NbGxnNXpYWlVwRWRtYU1vTUZRV2l5NXQzRVNFRTRjT0hORGlWZUtjMWEtM3FQSmZaNmpDUmloRXkteDRrSjhLeGh2dThVTGlmVkE0VE91MVZ1VDhfWkhLMkRyQ3ln?oc=5)
 

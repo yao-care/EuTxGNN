@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 159 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 160 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>159 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>160 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (159)
+## Related News (160)
+
+### [Al cuore non si comanda. Ma quanto possiamo fare per metterlo meno a rischio](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZVV21vb3pld04xMm1Td0lCMGVkc0d1OFc2NDY4XzBLMTQtYXJIU2Q2Tk45bUZxTDhYZEpBTU9fUWl1WkJLd3J5d1B1UUhjcHNSZUM0eUFrZTJGOEdQMXVMS1JlLUY1UVJOR1J3RGNYVks1X1JLc2lwajlQLXBBd3Nwa2RqUTFZOTYtU2hoWDhzMmN2VGR4SFlkQ1hydXVHb19EakxDOGRFTkJnU0MyTGRHZ0oxeHlrWUJxSmlFOHdtWVVS?oc=5)
+
+2026-11-26
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZVV21vb3pld04xMm1Td0lCMGVkc0d1OFc2NDY4XzBLMTQtYXJIU2Q2Tk45bUZxTDhYZEpBTU9fUWl1WkJLd3J5d1B1UUhjcHNSZUM0eUFrZTJGOEdQMXVMS1JlLUY1UVJOR1J3RGNYVks1X1JLc2lwajlQLXBBd3Nwa2RqUTFZOTYtU2hoWDhzMmN2VGR4SFlkQ1hydXVHb19EakxDOGRFTkJnU0MyTGRHZ0oxeHlrWUJxSmlFOHdtWVVS?oc=5)
+
+---
 
 ### [Herzinfarkt kommt nicht aus heiterem Himmel: Diese Werte unterscheiden sich schon 30 Jahre vorher - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVBwV2JqZ3U1dWwxV2RBdHYyZ3dLc2JPdjNxYXZBMjNZUEltdFhyd21KZDk5UUgzQWlLbl8yc1JNUzZFcEZvM0JPZnRWREtFQ2stTTlfNzJxaUhkdzhidm5nVHhwZ3dVMXFtVEUtSEVueFFsTzBEU2dudXdqaU9YQmdYOVFEMGFhMWtZNWxkaXIwU0tqWkFSYWMwZGo3aFNMaE5ydmxwQ3hodw?oc=5)
 
@@ -68,14 +76,6 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1A0MzY4
 2026-11-25
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTFPNDBVaGM1Y25aT1l0Y3pHb282ZE42X19NVlpvUTZBc2t3ajJmMUxuQldZbzdLYTJBNjVNb3ZQZUNWdU56ZWVRc1lrV2FsOHlrNi01OHlacFFuSHQxY3dRYlk3YjJVTzJKU2lXckI5VUM1dVNCTGkyYzItVG5yMGM5UQ?oc=5)
-
----
-
-### [Colesterolo, perché secondo gli esperti non basta abbassare i valori - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
-
-2026-11-25
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVEwbmJfVUhDajk3Sng4OHJZRlRXUnBqLWpGM004ZHdaOUV6Vm9BUUtYSXpTaTFMQkstQWZyY1pobEtjUk5BOFZUV1lYajVsQXRTdWp5NW01VG9Pb1VBN0NsUDE1VmowSlo5azNvZlJPX1ptWEtxbWhQQU0ydlBJTnM3bnFIc3RhYTRzTXdfMVpuQk1aVGdrY3FDZ3JEc0Y3TXJMdWVKQi01ZEIwOV8yX0pvYWlGV2dPZ1pNZ0Vmdnloc1F1ci1MbU5wbF9Banc5S1VXNGZtc0FKYVpBbmQzT21PWllHeDFCWEVESNIBuwFBVV95cUxQRVUtVURfa2xZbmE3aWt6VXVmejhwZXlBdGRQeHV5cTN6ZXV1Q1RJZVFDOVNaQzBfeS1JUWphTGhNY2Z2Wkt0VWd4Vk90SVZOVldLd1NGSlUyNjRmMkRhN01MRW1kbzlBUzdURDh2aVFwbmdWZGlGVWppMUh2cWpWcnhmMEJuNW9UbHExLWZaZW1PdnkxdVd2RWxGUnZNMVBFaVloRTJmZ0FhWjRwWjRTYzdMbzVMakRiTWtN?oc=5)
 
 ---
 
@@ -164,6 +164,14 @@ Source: [AOL.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNTnUzald4VV
 2026-11-24
 
 Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTJaTVRFSlBycURwcWIyZU5NZElhem41ZjliSVgyZzRrRVJ3cWlpUFdPWWRjWW40UkRfN0Z3VmJ5dUViLVhKdFEzVGpOeEIyMDZMaUg1TnI4UjVMZWU1dUUwclFwT1V0ZGZMaHdPV2tjbWJxSklWTGRiaS1UcDBER1lmV0stY0ZoNGpobEhoT21PZGFrSDNQWHM5QmNZOGNsRXVfV05VQVVRTEdaT1JxcQ?oc=5)
+
+---
+
+### [Early warning signs predict heart attack and stroke decades ahead](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
+
+2026-11-23
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
 
 ---
 
