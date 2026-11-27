@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 62 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 64 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-27
 ---
 
-# Alzheimer's (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>62 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>64 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (62)
+## Related News (64)
+
+### [Heart doctor names early dementia symptom that starts in your ears and eyes - Daily Express](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWhVUDdNU050aHlBSXoyUGFNUWNpM2FCQ1hIeTNlUlVuVHlRQlB0Y1ZQekpUM1QycjRVcDlGamhRZE9TMF9PeDMtcVVlWmVlQjlOVjRmX0gwZzdod0NENVN3SkQxUDNnYXF6QU1fMWdKdW5SX28xN1JVU0R2RS1qNWtGVTFSbDlxb2YzbnZyNmdxd2NUblBVMnd1WGNkMUdVX0t5SHBSc0cxQ0Z5SmVJ0gG0AUFVX3lxTE95SFNwMThHUldhLWJZNzNDdS1CZmU5ajAtYWhuMUxucGZvcGYwTGhhLXU1MXdoWEM1Zzk3TkhfbUJJam16SVJTNTFXbjdKZnpZRXVVdHBNZU45ZzZ3WGl2UWwwZnVlZE5ZSUpkWTNNUzczZUEtajlMMThlRk9LNW4ycXp0OGxMSmdYVDVyOEtRd3dwcEpzenp5X3dCaFFZcWxOenlaNXlya1ZxcVFOUkZ2ZmtaTw?oc=5)
+
+2026-11-26
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWhVUDdNU050aHlBSXoyUGFNUWNpM2FCQ1hIeTNlUlVuVHlRQlB0Y1ZQekpUM1QycjRVcDlGamhRZE9TMF9PeDMtcVVlWmVlQjlOVjRmX0gwZzdod0NENVN3SkQxUDNnYXF6QU1fMWdKdW5SX28xN1JVU0R2RS1qNWtGVTFSbDlxb2YzbnZyNmdxd2NUblBVMnd1WGNkMUdVX0t5SHBSc0cxQ0Z5SmVJ0gG0AUFVX3lxTE95SFNwMThHUldhLWJZNzNDdS1CZmU5ajAtYWhuMUxucGZvcGYwTGhhLXU1MXdoWEM1Zzk3TkhfbUJJam16SVJTNTFXbjdKZnpZRXVVdHBNZU45ZzZ3WGl2UWwwZnVlZE5ZSUpkWTNNUzczZUEtajlMMThlRk9LNW4ycXp0OGxMSmdYVDVyOEtRd3dwcEpzenp5X3dCaFFZcWxOenlaNXlya1ZxcVFOUkZ2ZmtaTw?oc=5)
+
+---
 
 ### [Inside the UK's most anticipated dementia trial that's edging closer to a cure | ITV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2JLcmNnVDRVc2F2NnR0WHlQMGZFWEJVWUNIVWVEY3ZiQkI4VjR3a1NicmRDTTJyTUlaYlVQM1VuTGhwdmdUSVZBSV9SVlBmTDNtSVBCM3JHaUdwZWlnaTBwWk9YV0lMNU5qell4ZklrdTJnRXVTNm12ZktZMklpYkJPZ3U4ek9FSDhOem51dm1zNFl5ZWI4cTBNQUZ0OTRUV3Bnei0zX2JKb0lqU2JIOVBR?oc=5)
 
@@ -62,11 +70,19 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N
 
 ---
 
-### [Neurologist who diagnosed himself with Alzheimer's shares his little-known warning sign](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9VYU54cmlfUnNlVnpDZ1R0bl8xVVJqRkJnc1dSaGJ5eGdUa19LaGc2NHl4R3NpMzRFeExHR3VkaWV1aEFqLTN4aWUyRDdFaU80M29qdXYzbVg2RHI2WEtaZi1fS0dCX0pCbXhVTmtFMm9WdUZTTlhJVUZLRk1LeFNUQmNyZEhORXBfb2JUd2p4WHpF0gGaAUFVX3lxTFBhT3VfRGNJdXJIbUtwOXNNbzdVcENsaUZYUWgtSUl4ejZoT2ludk9vRm9jT0gtRWRBNS00V1IzSE00MVFyWExscmY3SmFEVldPbFFzdXI2dTNXbEcyQ1ZSMjFHdElJMV9SSy0tS2pjTE5VMW9Hd2dZSVBkREFpd1lIVXBNQXNpMFJrWkEtU2V0VzZZWHM3OGxobEE?oc=5)
+### [Later-born generations have better memory and lose it more slowly](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMTVNTnp5ZGF4WnJsWmNFdVlVdkxZcmlCZEw1Ym4xbTI0ZDdnaGMyTTc4NjdSc0RpblZTbEJzTDg3QlZHaUEyaUhDbmdmYWlYbmcwNXk5a0pCM0o1NjJr?oc=5)
+
+2026-11-25
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMTVNTnp5ZGF4WnJsWmNFdVlVdkxZcmlCZEw1Ym4xbTI0ZDdnaGMyTTc4NjdSc0RpblZTbEJzTDg3QlZHaUEyaUhDbmdmYWlYbmcwNXk5a0pCM0o1NjJr?oc=5)
+
+---
+
+### [Neurologist who diagnosed himself with Alzheimer's shares his little-known warning sign - The Mirror](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9VYU54cmlfUnNlVnpDZ1R0bl8xVVJqRkJnc1dSaGJ5eGdUa19LaGc2NHl4R3NpMzRFeExHR3VkaWV1aEFqLTN4aWUyRDdFaU80M29qdXYzbVg2RHI2WEtaZi1fS0dCX0pCbXhVTmtFMm9WdUZTTlhJVUZLRk1LeFNUQmNyZEhORXBfb2JUd2p4WHpF0gGaAUFVX3lxTFBhT3VfRGNJdXJIbUtwOXNNbzdVcENsaUZYUWgtSUl4ejZoT2ludk9vRm9jT0gtRWRBNS00V1IzSE00MVFyWExscmY3SmFEVldPbFFzdXI2dTNXbEcyQ1ZSMjFHdElJMV9SSy0tS2pjTE5VMW9Hd2dZSVBkREFpd1lIVXBNQXNpMFJrWkEtU2V0VzZZWHM3OGxobEE?oc=5)
 
 2026-11-23
 
-Source: [Mirror](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9VYU54cmlfUnNlVnpDZ1R0bl8xVVJqRkJnc1dSaGJ5eGdUa19LaGc2NHl4R3NpMzRFeExHR3VkaWV1aEFqLTN4aWUyRDdFaU80M29qdXYzbVg2RHI2WEtaZi1fS0dCX0pCbXhVTmtFMm9WdUZTTlhJVUZLRk1LeFNUQmNyZEhORXBfb2JUd2p4WHpF0gGaAUFVX3lxTFBhT3VfRGNJdXJIbUtwOXNNbzdVcENsaUZYUWgtSUl4ejZoT2ludk9vRm9jT0gtRWRBNS00V1IzSE00MVFyWExscmY3SmFEVldPbFFzdXI2dTNXbEcyQ1ZSMjFHdElJMV9SSy0tS2pjTE5VMW9Hd2dZSVBkREFpd1lIVXBNQXNpMFJrWkEtU2V0VzZZWHM3OGxobEE?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9VYU54cmlfUnNlVnpDZ1R0bl8xVVJqRkJnc1dSaGJ5eGdUa19LaGc2NHl4R3NpMzRFeExHR3VkaWV1aEFqLTN4aWUyRDdFaU80M29qdXYzbVg2RHI2WEtaZi1fS0dCX0pCbXhVTmtFMm9WdUZTTlhJVUZLRk1LeFNUQmNyZEhORXBfb2JUd2p4WHpF0gGaAUFVX3lxTFBhT3VfRGNJdXJIbUtwOXNNbzdVcENsaUZYUWgtSUl4ejZoT2ludk9vRm9jT0gtRWRBNS00V1IzSE00MVFyWExscmY3SmFEVldPbFFzdXI2dTNXbEcyQ1ZSMjFHdElJMV9SSy0tS2pjTE5VMW9Hd2dZSVBkREFpd1lIVXBNQXNpMFJrWkEtU2V0VzZZWHM3OGxobEE?oc=5)
 
 ---
 

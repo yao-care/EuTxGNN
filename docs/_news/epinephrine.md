@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Epinephrine. 3 predicted indications."
 permalink: /news/epinephrine/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Epinephrine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>34 news articles</strong>, with 3 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>35 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (35)
+
+### [COPD ohne Obstruktion: Relevanter als bislang gedacht - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
+
+2026-11-26 <span class="news-indication-tag">copd</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
+
+---
 
 ### [Chronisch-obstruktive Lungenerkrankung: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen einer COPD vermeiden helfen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ1l6WXhfbFZ5b0psLUVud3F6anh1cHNJRkxmdFdNOFBUbEswRlZodklPSlk0anBTeDBSSU1tWVJqYXVXVG82TWE0UnhTUzFSLWRrZEVnbFB1cktacjNDcWxjcXZMNEF5V1Y3eS1sSk5zaUVaZGVsUGE4dTdmQ0FHS0xWVlV3THF2cks2OVEtYUNMT0E5a0ozanE3MDJZMDNOZ3RxampkVkxGLS15XzNTUGpTRGZPZFdpeVJvSW9nTkItZkZUbUNTUHFGaVQ0TXp5UEpKWDRHOU1WcFB0R0VoeVI0MlRRNzJ0VW9IZEo1akFSRDFkVmZILVdaY3FWdlJmcHpnV09nZzVsYkN2M2FpM29DYmZoQ2E5NjlkVEhpQkY4eHcwcHhLWWJrUnZCOUloMWc?oc=5)
 

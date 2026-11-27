@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Tirzepatide News
@@ -50,7 +50,7 @@ Source: [El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3
 
 ### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
-2026-11-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
@@ -93,6 +93,14 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5b
 2026-11-23 <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbE5raERWeFBsUHIxcmYtZ2VoNHNOVHZUYWdpYlJUTm5xT2EyVWhjVDJsbm9YRUZieEVFZnhlMUJXRWRjdUx5a0llSlM5RmQwaUpWYnhSM0R1WmxWMHUyVzh6YUtqcGlScFgwbDEyaGM0Rm1kNlhvbkM1Z18tMXU5QWpMVndwbEp1X19wQTRTRzZ3QjM4V3Izb015akp2RUswc1VyNFUzNDhTbmFfV1FKdA?oc=5)
+
+---
+
+### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
 ---
 
@@ -389,14 +397,6 @@ Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbT
 2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
----
-
-### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Prilocaine. 10 predicted indications."
 permalink: /news/prilocaine/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Prilocaine News
@@ -43,6 +43,14 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 </div>
 
 ## Related News (66)
+
+### [COPD ohne Obstruktion: Relevanter als bislang gedacht - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
+
+2026-11-26 <span class="news-indication-tag">copd</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
+
+---
 
 ### [Chronisch-obstruktive Lungenerkrankung: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen einer COPD vermeiden helfen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ1l6WXhfbFZ5b0psLUVud3F6anh1cHNJRkxmdFdNOFBUbEswRlZodklPSlk0anBTeDBSSU1tWVJqYXVXVG82TWE0UnhTUzFSLWRrZEVnbFB1cktacjNDcWxjcXZMNEF5V1Y3eS1sSk5zaUVaZGVsUGE4dTdmQ0FHS0xWVlV3THF2cks2OVEtYUNMT0E5a0ozanE3MDJZMDNOZ3RxampkVkxGLS15XzNTUGpTRGZPZFdpeVJvSW9nTkItZkZUbUNTUHFGaVQ0TXp5UEpKWDRHOU1WcFB0R0VoeVI0MlRRNzJ0VW9IZEo1akFSRDFkVmZILVdaY3FWdlJmcHpnV09nZzVsYkN2M2FpM29DYmZoQ2E5NjlkVEhpQkY4eHcwcHhLWWJrUnZCOUloMWc?oc=5)
 
@@ -561,14 +569,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMd
 2026-10-30 <span class="news-indication-tag">asthma</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjJpc01FMjNCanlWUGR5V2FTVExRRE5tWHNtSUFibjRfNy1QUGlfZUNZN0xReGRZb2pTTC1HYk5lbHBrMXlaVXNvMWk4a3p2bFd6SWk5ZnRPbUtZcVFtSU05ZHBvMDU2YjUzUk1FNkRHSVhXckpLNng5MkJ4YUhIRlY1ZmxMZXNuYzNVSXN5eWxfRzB1RFY5XzEtak90WTVORnBSRQ?oc=5)
-
----
-
-### [Vorhofflimmern: Bei wem muss vor einer Operation die Antikoagulation pausiert werden?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
 
 ---
 

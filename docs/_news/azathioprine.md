@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Azathioprine News
@@ -40,6 +40,14 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 </div>
 
 ## Related News (21)
+
+### [Colitis ulcerosa: Oraler IL-23-Rezeptorblocker zeigt Wirksamkeit in Phase-2b-Studie](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXJybXNyN19JRkJ5dGhPbGt6bTgxd04zLXlSZk9HTU1MMVBYSU5DMFgtWjl1SWVPLXdyZWdhMjk0bUxwdW02eXFkQ2RkblQ2emREUUd6Vko1akRlUlRoeGxfWjRHc3ZBNlpfZjBaTy1lOVBydVJTYWZyVzNfOGZEOENrcExMZS1MWFFSSEVTUkdacndjUUdoTHFsaFIzVXlTaUs2Rk1lcjVTQ05zaGxxQVpPb0tocnhONjhEcnlZRWtvb3dCSWdXaFNiZnpjYlgteUU1US1LalNwbmUtTHY0WmFhcC0tQQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">colitis ulcerosa</span>
+
+Source: [Aerzteblatt.de](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXJybXNyN19JRkJ5dGhPbGt6bTgxd04zLXlSZk9HTU1MMVBYSU5DMFgtWjl1SWVPLXdyZWdhMjk0bUxwdW02eXFkQ2RkblQ2emREUUd6Vko1akRlUlRoeGxfWjRHc3ZBNlpfZjBaTy1lOVBydVJTYWZyVzNfOGZEOENrcExMZS1MWFFSSEVTUkdacndjUUdoTHFsaFIzVXlTaUs2Rk1lcjVTQ05zaGxxQVpPb0tocnhONjhEcnlZRWtvb3dCSWdXaFNiZnpjYlgteUU1US1LalNwbmUtTHY0WmFhcC0tQQ?oc=5)
+
+---
 
 ### [Espondiloartritis, la enfermedad inflamatoria que aparece a los 24 años y tarda años en diagnosticarse - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
 
@@ -198,14 +206,6 @@ Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbT
 2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
----
-
-### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
 ---
 

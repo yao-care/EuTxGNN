@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>149 news articles</strong>, with 0 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>154 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (149)
+## Related News (154)
 
-### [L’onda dei “giovani vecchi”: i nati dopo il 2000 rischiano di invecchiare prima - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
+### [La obesidad condiciona la fertilidad, reduce las posibilidades de éxito de los tratamientos de reproducción asistida y aumenta los riesgos durante el embarazo - Salud a Diario](https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlZvbDB2bGFMYjB0WHBrdTFOcXZsZGJzSTlqVmZZVEZmX05IZHAwWmxmWEdVcFRscGdjd2l5cGF2N0JQWTE0Sk5CbWl2cGI1VXFQeFNUdllvMWVsWmlEQnh1aV9CbDJHdkw1N01HOUpadS1RYWtELXd6djU4Z1Q3aEFYeUF0TDhxcHZyLW1tSUFXS2ctcGtrUDVXN1htemxoOG1XcWY2TVZQdHZna1U4VUsyVW9wNzJXQnZMaTQtV2RfQ0piTFFjSTJ4ZWpiV3FJYk5tbFZXc3FKclNIazRRMFJDNldwY29ETi16dTloeklLOXVKTzhPWlNNOEhHZzBRLU9jdG5DWGtJNXV3VU1IVi1GdGh6RlJxSXJoRTZhajJLOTBpWV9r?oc=5)
 
-2026-11-26 <span class="news-indication-tag">obesità</span>
+2026-11-27 <span class="news-indication-tag">obesidad</span>
 
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlZvbDB2bGFMYjB0WHBrdTFOcXZsZGJzSTlqVmZZVEZmX05IZHAwWmxmWEdVcFRscGdjd2l5cGF2N0JQWTE0Sk5CbWl2cGI1VXFQeFNUdllvMWVsWmlEQnh1aV9CbDJHdkw1N01HOUpadS1RYWtELXd6djU4Z1Q3aEFYeUF0TDhxcHZyLW1tSUFXS2ctcGtrUDVXN1htemxoOG1XcWY2TVZQdHZna1U4VUsyVW9wNzJXQnZMaTQtV2RfQ0piTFFjSTJ4ZWpiV3FJYk5tbFZXc3FKclNIazRRMFJDNldwY29ETi16dTloeklLOXVKTzhPWlNNOEhHZzBRLU9jdG5DWGtJNXV3VU1IVi1GdGh6RlJxSXJoRTZhajJLOTBpWV9r?oc=5)
+
+---
+
+### [INFO RADIO FRANCE. À l'occasion du Black Friday, des centaines d'annonces proposant des faux médicaments anti-obésité fleurissent sur internet](https://news.google.com/rss/articles/CBMiogJBVV95cUxNQmxOUWVQLUNnbE91SG1wTVBxZmZxWU1jZlh4RTBKQU5nR1dpYWR5UzNnOXVhajBrcUNtN3FyaG00UzJ0X2l3UGFsRjFtRnZsUllLNUFEWGhYTjNiUkxBVVJEMkl5U2hzWDcwQ0FkVkxyT0Y1R0tuNVBVTjVnM2M1cVpoZndqXy04ZG1PdTJQYUJFN1VxN0w1RXE5alp4RzBnNGxDdGFmZmdWOHd6eXRsOXdIYkh1VHVOMUEyWGNoMEVDa0Z1VjNHTnktMlAzWFVkX0hHVkNvS2xfcl9RWlBPT2tiS1ZlVFd6WHNOSGlkTHpzaXZQTjNYOHVGYTVldDRfRnp0cEdyaXR0Zk05UkNKNXBxZmZ0LWdjelRlYXEzc1BWUQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMiogJBVV95cUxNQmxOUWVQLUNnbE91SG1wTVBxZmZxWU1jZlh4RTBKQU5nR1dpYWR5UzNnOXVhajBrcUNtN3FyaG00UzJ0X2l3UGFsRjFtRnZsUllLNUFEWGhYTjNiUkxBVVJEMkl5U2hzWDcwQ0FkVkxyT0Y1R0tuNVBVTjVnM2M1cVpoZndqXy04ZG1PdTJQYUJFN1VxN0w1RXE5alp4RzBnNGxDdGFmZmdWOHd6eXRsOXdIYkh1VHVOMUEyWGNoMEVDa0Z1VjNHTnktMlAzWFVkX0hHVkNvS2xfcl9RWlBPT2tiS1ZlVFd6WHNOSGlkTHpzaXZQTjNYOHVGYTVldDRfRnp0cEdyaXR0Zk05UkNKNXBxZmZ0LWdjelRlYXEzc1BWUQ?oc=5)
+
+---
+
+### [Hacia una estrategia nacional de abordaje de la obesidad: el plan de expertos y pacientes para el nuevo Gobierno](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTBMSTItNUEwZnlXdjNLODU5cW1Ob1BSZG02TVNIbG45bnpMd1FGeHlDOFlMYW9Ybmo5RTdhUjJCaF9nMnNWa09RWlNuck9mV2VOY0hQVkJLdFdMdkhCZE9BTTlFYVFaUEFUczAxV1J1eF9CRFF5a1cyMllmc2dGOGlKRlFXRmpyWnFpRlAzamt5OUZtUDlndEFsZTRHOUU5SERfUXhITXJoTGs?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTBMSTItNUEwZnlXdjNLODU5cW1Ob1BSZG02TVNIbG45bnpMd1FGeHlDOFlMYW9Ybmo5RTdhUjJCaF9nMnNWa09RWlNuck9mV2VOY0hQVkJLdFdMdkhCZE9BTTlFYVFaUEFUczAxV1J1eF9CRFF5a1cyMllmc2dGOGlKRlFXRmpyWnFpRlAzamt5OUZtUDlndEFsZTRHOUU5SERfUXhITXJoTGs?oc=5)
+
+---
+
+### [El consumo de ultraprocesados se vincula con un mayor riesgo de obesidad, diabetes y enfermedades cardiovasculares - Radio Televisión Canaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0swUWt4V0dXeWFpbnNkcEpFOVc0MUk3UXQtMF9rMmV5aFF5WTFFOXhCRm1oUVptZmk4Zk5EQ3NnSk9TZVFNaV9vQmdEOE1YX2lTY2w1RldxS0VxYTV0cHlUdXNfYmRWcnptczY2ZWpHNUc2a3o4T2tka1Z1NmFfRUV3dkllNGpZUkhBOUhIaWQ5STJ5b1VQc2hqVUg4bko4RTByX2Y5N0JkclBwaTFlYTZxM3c5YXpMcUNXd2pfX1B4SllqOUE?oc=5)
+
+2026-11-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Radio Televisión Canaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0swUWt4V0dXeWFpbnNkcEpFOVc0MUk3UXQtMF9rMmV5aFF5WTFFOXhCRm1oUVptZmk4Zk5EQ3NnSk9TZVFNaV9vQmdEOE1YX2lTY2w1RldxS0VxYTV0cHlUdXNfYmRWcnptczY2ZWpHNUc2a3o4T2tka1Z1NmFfRUV3dkllNGpZUkhBOUhIaWQ5STJ5b1VQc2hqVUg4bko4RTByX2Y5N0JkclBwaTFlYTZxM3c5YXpMcUNXd2pfX1B4SllqOUE?oc=5)
 
 ---
 
@@ -45,6 +69,14 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW
 2026-11-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
+
+---
+
+### [L’onda dei “giovani vecchi”: i nati dopo il 2000 rischiano di invecchiare prima - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
+
+2026-11-26 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
 
 ---
 
@@ -64,11 +96,11 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQj
 
 ---
 
-### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP-1-Rezeptoragonist helfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP-1-Rezeptoragonist helfen?](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
 
 2026-11-26 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
 
 ---
 
@@ -77,6 +109,14 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2
 2026-11-25 <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlRQeWhFNlRXTzhmV1RFUHRWbzJmc0EwSTVCS19ZQ1FPNnkteGRaUXJfT3RXNUROUjUtYkNZNXl0TUlYRThxZGdWUkUxYVYxMGpmazhjWF9LcXhqODVzV3BlaG1wTFU5Q1NidjlTRldGUkZnb0t4TkxMbklUX1ZOUDE4clBua1BMeU02VDhNVjZtT1ZBX1RIeWZ4cGxmSklUcEJPZk4wN0xJOVhua0dvWTNMeVZUQUFKTUE3OUk1THFBLTdhTHluVUQ1Zy1lTjBzMl8w?oc=5)
+
+---
+
+### [Novo Nordisk: Semaglutid-Erfolg bei Kindern, Frehemgo-Zulassung und DKK-15-Mio. NAION-Ausgleich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVYxOWpOR0tzdXNwUVV2X1FRV0hzemh3d2MteFdQdWRaWDBaVjhDeDBWZGU2WHJYZzBteEU1RVpyWHlCNW5SS1dOVC1LdXJmQU9sT3ZqNUJNaGg3QUJZM0V6SXZDSjBWY0pwb0Y2ZjdxVEFmTHY4cUUzQ01sUHpzY3p1ZHRTYVMySi1jdnR4c1QtMERpcDlmUlZxdVl5T3RzTllkR2dqcndIaUJPbVVzWGNSQ0ZsX1lSNWV1a1RTTUhjZw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">Adipositas</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVYxOWpOR0tzdXNwUVV2X1FRV0hzemh3d2MteFdQdWRaWDBaVjhDeDBWZGU2WHJYZzBteEU1RVpyWHlCNW5SS1dOVC1LdXJmQU9sT3ZqNUJNaGg3QUJZM0V6SXZDSjBWY0pwb0Y2ZjdxVEFmTHY4cUUzQ01sUHpzY3p1ZHRTYVMySi1jdnR4c1QtMERpcDlmUlZxdVl5T3RzTllkR2dqcndIaUJPbVVzWGNSQ0ZsX1lSNWV1a1RTTUhjZw?oc=5)
 
 ---
 
@@ -178,7 +218,7 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5b
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-indication-tag">obesity</span>
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 

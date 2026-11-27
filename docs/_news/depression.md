@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 49 articles, 7 related drugs."
+description: "Health news about dépression (depression). 48 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>49 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>48 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (49)
+## Related News (48)
+
+### ["J'ai vraiment l'impression de pouvoir aller mieux" : des champignons hallucinogènes testés pour guérir dépression et addiction](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVXFxUVQ3MlZrVWZveW42U0pQblV2MUVRakp0RnE0RWdRQVBGZURIYl9mN0VBbVc1TXZXdHp3WmJwMUlURlFoczNjVTZDSjR1SVlDQjRlOS05bFhLbGY2djVMekEwQ0Z0Q1hZaWpJeVRvY2dyOEc5cTAtRy01SjBRNVgwdDdocnB6QjZ6dnR0QzFBRmE3OUJHdEF6RUU0aGM1Yjd5MjdxNllZMnNxYVlJNDdXTHctNFdmbEhVMUFNbDJJTlpLUDhJTm9ScUhXbEpJQmctcFB6Q1BxcnJvbFZJRGVZVmhjOXJqUlNycC00ZDRaUTRIam1OR0hCWDlTTGw3bmVzWVFXYXVvT2x4OElpMXJLVUhfMG1wRlRfYldDTk80c2tfazZHTjI3NTVzdw?oc=5)
+
+2026-11-27
+
+Source: [Franceinfo](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVXFxUVQ3MlZrVWZveW42U0pQblV2MUVRakp0RnE0RWdRQVBGZURIYl9mN0VBbVc1TXZXdHp3WmJwMUlURlFoczNjVTZDSjR1SVlDQjRlOS05bFhLbGY2djVMekEwQ0Z0Q1hZaWpJeVRvY2dyOEc5cTAtRy01SjBRNVgwdDdocnB6QjZ6dnR0QzFBRmE3OUJHdEF6RUU0aGM1Yjd5MjdxNllZMnNxYVlJNDdXTHctNFdmbEhVMUFNbDJJTlpLUDhJTm9ScUhXbEpJQmctcFB6Q1BxcnJvbFZJRGVZVmhjOXJqUlNycC00ZDRaUTRIam1OR0hCWDlTTGw3bmVzWVFXYXVvT2x4OElpMXJLVUhfMG1wRlRfYldDTk80c2tfazZHTjI3NTVzdw?oc=5)
+
+---
 
 ### [Depressione circadiana: cos’è, cosa succede al corpo e perché servono cure su misura - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjNMeGxFdlozSUFUV2dPdE9YMU8xcm5qakVXY2ExT091OWJlb3ppRDIwSWJVNVlldUJZejhCRlRrQUxmYU5UTGtWOXQ4RElid0U5VHN5TXk3QWoxZWwwUmxGNF9SRV9nWXpjYkNmb2FTZU5qQ29YRVpEcWdWcEM2dnhNUGl2MFVCY1dfNXFXeDFWdVA2MGZjUzk3YlRGTTlPc1RoZjJScHR1eEhHbnNYa2tuQjlXMG9m?oc=5)
 
@@ -411,22 +419,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVc0
 2026-10-29
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
-
----
-
-### [Single dose of fast-acting psychedelic nasal spray shows promise for stubborn depression - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
-
-2026-10-28
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
-
----
-
-### [Innere Uhr aus dem Takt: Neuer Subtyp der Depression? - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmNVbXFGR3k4Sk56d0FZd25CbHo5aW1ScGVqQVd1NHlLNi01YXdxU3VvRDkwazdMYkZLZmhYUDlvOGp4bzVwZ1Vab3RRakp5T21VTm82NWFnZ2NPUGd4QTNQX0ltTzlNaFJocG5ZdVVHNFdNeGNjS3FseVgzdVQyNWNEVE1HenRNQng0?oc=5)
-
-2026-10-28
-
-Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmNVbXFGR3k4Sk56d0FZd25CbHo5aW1ScGVqQVd1NHlLNi01YXdxU3VvRDkwazdMYkZLZmhYUDlvOGp4bzVwZ1Vab3RRakp5T21VTm82NWFnZ2NPUGd4QTNQX0ltTzlNaFJocG5ZdVVHNFdNeGNjS3FseVgzdVQyNWNEVE1HenRNQng0?oc=5)
 
 ---
 

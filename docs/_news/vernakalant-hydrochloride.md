@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Vernakalant Hydrochloride?">
-<strong>Vernakalant Hydrochloride</strong> currently has <strong>322 news articles</strong>, with 0 predicted indications.
+<strong>Vernakalant Hydrochloride</strong> currently has <strong>323 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,47 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 <p><a href="{{ '/drugs/vernakalant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (322)
+## Related News (323)
+
+### [La obesidad condiciona la fertilidad, reduce las posibilidades de éxito de los tratamientos de reproducción asistida y aumenta los riesgos durante el embarazo - Salud a Diario](https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlZvbDB2bGFMYjB0WHBrdTFOcXZsZGJzSTlqVmZZVEZmX05IZHAwWmxmWEdVcFRscGdjd2l5cGF2N0JQWTE0Sk5CbWl2cGI1VXFQeFNUdllvMWVsWmlEQnh1aV9CbDJHdkw1N01HOUpadS1RYWtELXd6djU4Z1Q3aEFYeUF0TDhxcHZyLW1tSUFXS2ctcGtrUDVXN1htemxoOG1XcWY2TVZQdHZna1U4VUsyVW9wNzJXQnZMaTQtV2RfQ0piTFFjSTJ4ZWpiV3FJYk5tbFZXc3FKclNIazRRMFJDNldwY29ETi16dTloeklLOXVKTzhPWlNNOEhHZzBRLU9jdG5DWGtJNXV3VU1IVi1GdGh6RlJxSXJoRTZhajJLOTBpWV9r?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlZvbDB2bGFMYjB0WHBrdTFOcXZsZGJzSTlqVmZZVEZmX05IZHAwWmxmWEdVcFRscGdjd2l5cGF2N0JQWTE0Sk5CbWl2cGI1VXFQeFNUdllvMWVsWmlEQnh1aV9CbDJHdkw1N01HOUpadS1RYWtELXd6djU4Z1Q3aEFYeUF0TDhxcHZyLW1tSUFXS2ctcGtrUDVXN1htemxoOG1XcWY2TVZQdHZna1U4VUsyVW9wNzJXQnZMaTQtV2RfQ0piTFFjSTJ4ZWpiV3FJYk5tbFZXc3FKclNIazRRMFJDNldwY29ETi16dTloeklLOXVKTzhPWlNNOEhHZzBRLU9jdG5DWGtJNXV3VU1IVi1GdGh6RlJxSXJoRTZhajJLOTBpWV9r?oc=5)
+
+---
+
+### [Caffè, ictus e infarto: a fare la differenza, nel bene e nel male, è il numero di tazzine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeWFDOUVpVGtyVDNVejJuMHg3ZGtTRENaX2htUWl3S1NiZUVWZ0k4emxSQkFOd3BlVmdfRjR1b1hreThTSkJ6dUJEOGlMS1VTbTB4NjFPNDRIY3dXSmlmZ05pVWVjbS0yQzNzU3JGdnJqWGJpdUJHT2Nab0VjdS1DaGhEcDVJZm93NGNid1JyYUsyNjFyZmdKaUZmVjJlMDNLY3pybkdWc0VYVGRkdFBleWprazQzZWhlckVGb3R3cUFOSmxlRHJXemNhaWQ5ejBTY3c?oc=5)
+
+2026-11-27 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeWFDOUVpVGtyVDNVejJuMHg3ZGtTRENaX2htUWl3S1NiZUVWZ0k4emxSQkFOd3BlVmdfRjR1b1hreThTSkJ6dUJEOGlMS1VTbTB4NjFPNDRIY3dXSmlmZ05pVWVjbS0yQzNzU3JGdnJqWGJpdUJHT2Nab0VjdS1DaGhEcDVJZm93NGNid1JyYUsyNjFyZmdKaUZmVjJlMDNLY3pybkdWc0VYVGRkdFBleWprazQzZWhlckVGb3R3cUFOSmxlRHJXemNhaWQ5ejBTY3c?oc=5)
+
+---
+
+### [INFO RADIO FRANCE. À l'occasion du Black Friday, des centaines d'annonces proposant des faux médicaments anti-obésité fleurissent sur internet](https://news.google.com/rss/articles/CBMiogJBVV95cUxNQmxOUWVQLUNnbE91SG1wTVBxZmZxWU1jZlh4RTBKQU5nR1dpYWR5UzNnOXVhajBrcUNtN3FyaG00UzJ0X2l3UGFsRjFtRnZsUllLNUFEWGhYTjNiUkxBVVJEMkl5U2hzWDcwQ0FkVkxyT0Y1R0tuNVBVTjVnM2M1cVpoZndqXy04ZG1PdTJQYUJFN1VxN0w1RXE5alp4RzBnNGxDdGFmZmdWOHd6eXRsOXdIYkh1VHVOMUEyWGNoMEVDa0Z1VjNHTnktMlAzWFVkX0hHVkNvS2xfcl9RWlBPT2tiS1ZlVFd6WHNOSGlkTHpzaXZQTjNYOHVGYTVldDRfRnp0cEdyaXR0Zk05UkNKNXBxZmZ0LWdjelRlYXEzc1BWUQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMiogJBVV95cUxNQmxOUWVQLUNnbE91SG1wTVBxZmZxWU1jZlh4RTBKQU5nR1dpYWR5UzNnOXVhajBrcUNtN3FyaG00UzJ0X2l3UGFsRjFtRnZsUllLNUFEWGhYTjNiUkxBVVJEMkl5U2hzWDcwQ0FkVkxyT0Y1R0tuNVBVTjVnM2M1cVpoZndqXy04ZG1PdTJQYUJFN1VxN0w1RXE5alp4RzBnNGxDdGFmZmdWOHd6eXRsOXdIYkh1VHVOMUEyWGNoMEVDa0Z1VjNHTnktMlAzWFVkX0hHVkNvS2xfcl9RWlBPT2tiS1ZlVFd6WHNOSGlkTHpzaXZQTjNYOHVGYTVldDRfRnp0cEdyaXR0Zk05UkNKNXBxZmZ0LWdjelRlYXEzc1BWUQ?oc=5)
+
+---
+
+### [Hacia una estrategia nacional de abordaje de la obesidad: el plan de expertos y pacientes para el nuevo Gobierno](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTBMSTItNUEwZnlXdjNLODU5cW1Ob1BSZG02TVNIbG45bnpMd1FGeHlDOFlMYW9Ybmo5RTdhUjJCaF9nMnNWa09RWlNuck9mV2VOY0hQVkJLdFdMdkhCZE9BTTlFYVFaUEFUczAxV1J1eF9CRFF5a1cyMllmc2dGOGlKRlFXRmpyWnFpRlAzamt5OUZtUDlndEFsZTRHOUU5SERfUXhITXJoTGs?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTBMSTItNUEwZnlXdjNLODU5cW1Ob1BSZG02TVNIbG45bnpMd1FGeHlDOFlMYW9Ybmo5RTdhUjJCaF9nMnNWa09RWlNuck9mV2VOY0hQVkJLdFdMdkhCZE9BTTlFYVFaUEFUczAxV1J1eF9CRFF5a1cyMllmc2dGOGlKRlFXRmpyWnFpRlAzamt5OUZtUDlndEFsZTRHOUU5SERfUXhITXJoTGs?oc=5)
+
+---
+
+### [El consumo de ultraprocesados se vincula con un mayor riesgo de obesidad, diabetes y enfermedades cardiovasculares - Radio Televisión Canaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0swUWt4V0dXeWFpbnNkcEpFOVc0MUk3UXQtMF9rMmV5aFF5WTFFOXhCRm1oUVptZmk4Zk5EQ3NnSk9TZVFNaV9vQmdEOE1YX2lTY2w1RldxS0VxYTV0cHlUdXNfYmRWcnptczY2ZWpHNUc2a3o4T2tka1Z1NmFfRUV3dkllNGpZUkhBOUhIaWQ5STJ5b1VQc2hqVUg4bko4RTByX2Y5N0JkclBwaTFlYTZxM3c5YXpMcUNXd2pfX1B4SllqOUE?oc=5)
+
+2026-11-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Radio Televisión Canaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0swUWt4V0dXeWFpbnNkcEpFOVc0MUk3UXQtMF9rMmV5aFF5WTFFOXhCRm1oUVptZmk4Zk5EQ3NnSk9TZVFNaV9vQmdEOE1YX2lTY2w1RldxS0VxYTV0cHlUdXNfYmRWcnptczY2ZWpHNUc2a3o4T2tka1Z1NmFfRUV3dkllNGpZUkhBOUhIaWQ5STJ5b1VQc2hqVUg4bko4RTByX2Y5N0JkclBwaTFlYTZxM3c5YXpMcUNXd2pfX1B4SllqOUE?oc=5)
+
+---
 
 ### [Al cuore non si comanda. Ma quanto possiamo fare per metterlo meno a rischio](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZVV21vb3pld04xMm1Td0lCMGVkc0d1OFc2NDY4XzBLMTQtYXJIU2Q2Tk45bUZxTDhYZEpBTU9fUWl1WkJLd3J5d1B1UUhjcHNSZUM0eUFrZTJGOEdQMXVMS1JlLUY1UVJOR1J3RGNYVks1X1JLc2lwajlQLXBBd3Nwa2RqUTFZOTYtU2hoWDhzMmN2VGR4SFlkQ1hydXVHb19EakxDOGRFTkJnU0MyTGRHZ0oxeHlrWUJxSmlFOHdtWVVS?oc=5)
 
@@ -39,19 +79,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZV
 
 ---
 
-### [L’onda dei “giovani vecchi”: i nati dopo il 2000 rischiano di invecchiare prima - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
-
-2026-11-26 <span class="news-indication-tag">obesità</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
-
----
-
 ### [Todo lo que debes saber sobre Wegovy: el medicamento contra la obesidad que ya se comercializa en España - National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
 
 2026-11-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmdvVThfT24wOEV6NXVBci15Y0ZzeExoc1BUUjNJYy1wUnI0c2F2OHEzRTZBdWtERnNaelBqekNDRXo4MVZ5bHRlZ2I0SV9INVdRTExGSDRmTGtQcVlzUVNNdGRqWW0tUVU1bUF4ME5BVjk2T21HT1dIR21PLUFZaV9EelVxbVE1NmhrczNVZUh5aER6MkFlUWctdXA5WndmVGFhQXZyLUNWaFNMSmhOZWVuNVhnMWdLb29zRnZONW5NaXFaUllzZ2pnWkZpRmtndDdxZUl6akRORGc?oc=5)
+
+---
+
+### [L’onda dei “giovani vecchi”: i nati dopo il 2000 rischiano di invecchiare prima - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
+
+2026-11-26 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWdtY1UxQTNTbktnOFlNaVVxU29GaXIwWmx3SzNBSWFaX1JPRnNtU2pBSkR3VG41bk0wRFYzSU1pME5KVWNFdDc4OXo4a0VzbFBhRlBjejgwaGpLZWwzRnZoZ3RGTmpNREFYSGM3c0dhUHE4LW5XM3FHNWk1a1NlMWQ5OUl0X1c3ZTREM3pSS1RTNXZTeDR5MWx4MnVuU1Rocmp3U1hn?oc=5)
 
 ---
 
@@ -79,11 +119,11 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQj
 
 ---
 
-### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP-1-Rezeptoragonist helfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+### [Schlafapnoe bei Adipositas: Kann auch ein oraler GLP-1-Rezeptoragonist helfen?](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
 
 2026-11-26 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2ZqcHZsY3NkbjRSMFNpVDlSTkFTV29YMFQ4SDFONDYxdU1VamV2UFcyYmx1cWEyMWx6Z1h6aWZTTTA2eXJwU1pJblVXRy1VUUdabDZ1akdoT2hMNDJGUjRMUV9ObF8tclVjMG15X0stQUZydFhMUDNSdThfSUY4T0tVRzRmMzI5SDB1Q2ZFWU5RTENIVWVESm8xR1dYWHBKcE5vb1R5VDItSG9XNGc?oc=5)
 
 ---
 
@@ -95,9 +135,17 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlRQ
 
 ---
 
+### [Novo Nordisk: Semaglutid-Erfolg bei Kindern, Frehemgo-Zulassung und DKK-15-Mio. NAION-Ausgleich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVYxOWpOR0tzdXNwUVV2X1FRV0hzemh3d2MteFdQdWRaWDBaVjhDeDBWZGU2WHJYZzBteEU1RVpyWHlCNW5SS1dOVC1LdXJmQU9sT3ZqNUJNaGg3QUJZM0V6SXZDSjBWY0pwb0Y2ZjdxVEFmTHY4cUUzQ01sUHpzY3p1ZHRTYVMySi1jdnR4c1QtMERpcDlmUlZxdVl5T3RzTllkR2dqcndIaUJPbVVzWGNSQ0ZsX1lSNWV1a1RTTUhjZw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">Adipositas</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVYxOWpOR0tzdXNwUVV2X1FRV0hzemh3d2MteFdQdWRaWDBaVjhDeDBWZGU2WHJYZzBteEU1RVpyWHlCNW5SS1dOVC1LdXJmQU9sT3ZqNUJNaGg3QUJZM0V6SXZDSjBWY0pwb0Y2ZjdxVEFmTHY4cUUzQ01sUHpzY3p1ZHRTYVMySi1jdnR4c1QtMERpcDlmUlZxdVl5T3RzTllkR2dqcndIaUJPbVVzWGNSQ0ZsX1lSNWV1a1RTTUhjZw?oc=5)
+
+---
+
 ### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
+2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
@@ -369,7 +417,7 @@ Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlRE
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-indication-tag">obesity</span>
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
@@ -2564,46 +2612,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
-
----
-
-### [Un ensayo clínico de Philips rebasa los 320 pacientes para analizar nuevas vías de atención al ictus](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ictus</span>
-
-Source: [Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
-
----
-
-### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
----
-
-### [Un modelo internacional para el ictus isquémico busca ahorrar minutos vitales en el hospital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ictus</span>
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
-
----
-
-### [Vorhofflimmern: Bei wem muss vor einer Operation die Antikoagulation pausiert werden?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
----
-
-### [Impfungen helfen: So gefährlich sind Corona und Grippe für das Herz](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFdxYkl4am82MnlPVDh5VXZkUUdrU2V3MnBkV3cwX1MyNXpCaFhBNTl3anBVYlFGR2VjYUlCZUE2WWZsRER3bTdqU2lteFNFVXdJNDlrZWxRMUU2N0ZNNFBiZ0tXVzl2aXNXWjRmaTJmbF9zOFFKbGtaWS1nNHpacHFLY194T2lfMnhVYVh5Vk1iejM4SXE1RFQ4bUlVYVk4aUtsT1lZMVh3bmNsSlNpZXlvdG93WDRZSWp3N2Q1bHRsdi1S?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [BILD](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFdxYkl4am82MnlPVDh5VXZkUUdrU2V3MnBkV3cwX1MyNXpCaFhBNTl3anBVYlFGR2VjYUlCZUE2WWZsRER3bTdqU2lteFNFVXdJNDlrZWxRMUU2N0ZNNFBiZ0tXVzl2aXNXWjRmaTJmbF9zOFFKbGtaWS1nNHpacHFLY194T2lfMnhVYVh5Vk1iejM4SXE1RFQ4bUlVYVk4aUtsT1lZMVh3bmNsSlNpZXlvdG93WDRZSWp3N2Q1bHRsdi1S?oc=5)
 
 ---
 

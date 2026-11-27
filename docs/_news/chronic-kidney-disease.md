@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad renal crónica (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad renal crónica (chronic kidney disease). 19 articles, 1 related drugs."
+description: "Health news about enfermedad renal crónica (chronic kidney disease). 20 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad renal crónica (chronic kidney disease)?">
-<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>19 news articles</strong> and 1 related drugs.
+<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>20 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “enfermedad renal crón
 </ul>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [El mayor estudio sobre enfermedad renal crónica en España pone de relieve su impacto económico y la carga que supone para el sistema sanitario](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlAwZEh3TzFPN3Rpd19wS2g3R2RQM2J0YmEwSmwwZi1Jc2M5cXQ0TzVKd2FJSzlzZFRVYm16eEh0ZE93bU16ZE9RYl9NRmZPT2pzazdMc2QzSXUwamc3S3N1Rks3V2NUWmxVXzc4dExSQWVaNXZKSlBDYlNvLWExelJXVW1SalBLYXRYbW5fWS1pcDVNWjdZdFlRdmZMM3BMZTFHVTJBcDc4ZnF4YlNQWFpGVndkcGZ3dEdiWkV4Yk5DTk9Kc0NwaFllMWwtUHZ1cXdvaWk1UlB1RlZTTVV0ZllyS3V0V0x2S09ySHl5OWE3SWlHTnI4?oc=5)
+
+2026-11-27
+
+Source: [Servimedia](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlAwZEh3TzFPN3Rpd19wS2g3R2RQM2J0YmEwSmwwZi1Jc2M5cXQ0TzVKd2FJSzlzZFRVYm16eEh0ZE93bU16ZE9RYl9NRmZPT2pzazdMc2QzSXUwamc3S3N1Rks3V2NUWmxVXzc4dExSQWVaNXZKSlBDYlNvLWExelJXVW1SalBLYXRYbW5fWS1pcDVNWjdZdFlRdmZMM3BMZTFHVTJBcDc4ZnF4YlNQWFpGVndkcGZ3dEdiWkV4Yk5DTk9Kc0NwaFllMWwtUHZ1cXdvaWk1UlB1RlZTTVV0ZllyS3V0V0x2S09ySHl5OWE3SWlHTnI4?oc=5)
+
+---
 
 ### [La insuficiencia cardiaca concentra la mitad de los costes de hospitalización cardiovascular en pacientes con enfermedad renal crónica](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUFdBVFBZOFVJaGFmemtGc1dDNjd3YTdTbjlFamhlQjAzYnc0RENLTkx5YllHYXVWa011Q05RQ19UblRaRmFZQmVwbHZGTEpDMVZ0SmZJaEdUQTN6dkhlSHo1TFhsV3VtN2liRGZEWk56Z2ZwNEpNclBFMm1PMDBqMndOSVVobXNPdzBHbGxkZ2w5MDRWWHBVbnM0VXFXOGx6NHl4TURxeVNDZHBhcFRfNWV3MTR3eWF6d2dBTlZneHJ1NlgzY1F2LWt1Z25tSW53YzVoLUpsLVk1dUljZDNnX05nQldMdTVLTEdCX25LZHNJMDBleEE?oc=5)
 

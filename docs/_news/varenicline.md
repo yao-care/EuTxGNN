@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>84 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>85 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (84)
+## Related News (85)
+
+### [Après 60 ans, cet exercice immobile de quelques minutes serait l'un des plus efficaces contre l'hypertension, selon les cardiologues - La Provence](https://news.google.com/rss/articles/CBMilAJBVV95cUxNRWtOVWlPazc1dTVVQ1FhWHQzSG9FWlh5WFN1MllJSk9LbVRRc1ZySmladlM1R0w4WGFoYkdYMmk0X2QydWV3TmJmcFNtOTJJZ1I4ZFMySnpBNldMdFphWV9pd3dDcklaMFlxQjZXVFVCdVotdmhtU2M0R0ZKbld4Z2xVTFlkMTVXODdZdGI1OEpJNDJZMUo3cjFIZERLR19Sb2NqbTRLSGJ3MWxsMVo1X09WVmxaRDhsWTlYNlJWZWFvQng2ZXhmVVV1cGdBVXhzc1hmQ0VrTzZDdDdZbEFoT0JDVmF0aDRsYWhQbG5EVnZQSExfWjhOSzA5SzRaN3piNU1sLTN6VXgzbnNkSkVnd0dOVlE?oc=5)
+
+2026-11-27 <span class="news-indication-tag">hypertension</span>
+
+Source: [La Provence](https://news.google.com/rss/articles/CBMilAJBVV95cUxNRWtOVWlPazc1dTVVQ1FhWHQzSG9FWlh5WFN1MllJSk9LbVRRc1ZySmladlM1R0w4WGFoYkdYMmk0X2QydWV3TmJmcFNtOTJJZ1I4ZFMySnpBNldMdFphWV9pd3dDcklaMFlxQjZXVFVCdVotdmhtU2M0R0ZKbld4Z2xVTFlkMTVXODdZdGI1OEpJNDJZMUo3cjFIZERLR19Sb2NqbTRLSGJ3MWxsMVo1X09WVmxaRDhsWTlYNlJWZWFvQng2ZXhmVVV1cGdBVXhzc1hmQ0VrTzZDdDdZbEFoT0JDVmF0aDRsYWhQbG5EVnZQSExfWjhOSzA5SzRaN3piNU1sLTN6VXgzbnNkSkVnd0dOVlE?oc=5)
+
+---
 
 ### [Hypertension : cette huile naturelle pourrait faire baisser la tension artérielle en 20 jours](https://news.google.com/rss/articles/CBMikwFBVV95cUxOclNYRU9YbE1Fd2tBTS1uSnRxRHE3aHpNeTBvSkxpa20wOEFBZ1BQelNhY09rTy1kcl9PVDJCN0dHbFVVSGxWbXVYWkkyVjJDQXBfcnI0M1lYQkJZYk02SHpXYkFHeWh0bllsWjB0T3ZpaDJOZFIzRlVDcjcyTkxPVk1ZSUJNV244TW1xbzlqMXZONDQ?oc=5)
 
@@ -68,11 +76,19 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVVq
 
 ---
 
-### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+### [23 medicines in short supply as two common blood pressure tablets discontinued - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHAxVi1hNTdMbVFFcS1QdlBGTVAtVW5iZFVpcFBGYkVxMVVuQ2hNcS1xbGlCbS1STU4zeF9iMURRamhkaWdpaEMtTzA2NDFqeFJHc2tvS29hT19iaTIwZ2wtZzlBUlVqOVh6dVhXZ0tpS0tLMUdSM3dCRnNGVWc2MlRnaw?oc=5)
 
-2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
+2026-11-26 <span class="news-indication-tag">hypertension</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHAxVi1hNTdMbVFFcS1QdlBGTVAtVW5iZFVpcFBGYkVxMVVuQ2hNcS1xbGlCbS1STU4zeF9iMURRamhkaWdpaEMtTzA2NDFqeFJHc2tvS29hT19iaTIwZ2wtZzlBUlVqOVh6dVhXZ0tpS0tLMUdSM3dCRnNGVWc2MlRnaw?oc=5)
+
+---
+
+### [Peppermint oil significantly lowers blood pressure in just 20 days - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZGJCQmV6Y040Y0N2MGhWMkJpWms2SmZzem43RUVTRlRLR2plWklQaVIteGxKb1pldGY2OGpBUk1YLVpRVFEzd3NBUDBZRnNhdjRlcVhUcGJRZWZGV2xjTnZzZjlEd2JxLTdLNVdBTQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZGJCQmV6Y040Y0N2MGhWMkJpWms2SmZzem43RUVTRlRLR2plWklQaVIteGxKb1pldGY2OGpBUk1YLVpRVFEzd3NBUDBZRnNhdjRlcVhUcGJRZWZGV2xjTnZzZjlEd2JxLTdLNVdBTQ?oc=5)
 
 ---
 
@@ -705,14 +721,6 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdEY0RV
 2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
-
----
-
-### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
 
 ---
 

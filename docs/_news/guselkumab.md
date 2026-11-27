@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>327 news articles</strong>, with 8 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>328 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (327)
+## Related News (328)
+
+### [Forschung weist auf langfristige Gesundheitsrisiken bei Gestationsdiabetes hin - Biermann Medizin](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHhRZWdDMWlOYzNzbHBJbjQ4ZDhBVGY4bFp3TnV0N1JIYmpsdWpzWDBoZU41N3Fod2c5ME93SUFJRjdIelNqWG9nckMwbUNXbnBFMDF3OWpSM0Y5bHRUZ1VhT0VNRGdCYWtOR1I1UEw1Q0N5bE93bTdKOVJUbVJ2dE1VWTdIUQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">diabetes mellitus</span>
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHhRZWdDMWlOYzNzbHBJbjQ4ZDhBVGY4bFp3TnV0N1JIYmpsdWpzWDBoZU41N3Fod2c5ME93SUFJRjdIelNqWG9nckMwbUNXbnBFMDF3OWpSM0Y5bHRUZ1VhT0VNRGdCYWtOR1I1UEw1Q0N5bE93bTdKOVJUbVJ2dE1VWTdIUQ?oc=5)
+
+---
+
+### [El consumo de ultraprocesados se vincula con un mayor riesgo de obesidad, diabetes y enfermedades cardiovasculares - Radio Televisión Canaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0swUWt4V0dXeWFpbnNkcEpFOVc0MUk3UXQtMF9rMmV5aFF5WTFFOXhCRm1oUVptZmk4Zk5EQ3NnSk9TZVFNaV9vQmdEOE1YX2lTY2w1RldxS0VxYTV0cHlUdXNfYmRWcnptczY2ZWpHNUc2a3o4T2tka1Z1NmFfRUV3dkllNGpZUkhBOUhIaWQ5STJ5b1VQc2hqVUg4bko4RTByX2Y5N0JkclBwaTFlYTZxM3c5YXpMcUNXd2pfX1B4SllqOUE?oc=5)
+
+2026-11-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Radio Televisión Canaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0swUWt4V0dXeWFpbnNkcEpFOVc0MUk3UXQtMF9rMmV5aFF5WTFFOXhCRm1oUVptZmk4Zk5EQ3NnSk9TZVFNaV9vQmdEOE1YX2lTY2w1RldxS0VxYTV0cHlUdXNfYmRWcnptczY2ZWpHNUc2a3o4T2tka1Z1NmFfRUV3dkllNGpZUkhBOUhIaWQ5STJ5b1VQc2hqVUg4bko4RTByX2Y5N0JkclBwaTFlYTZxM3c5YXpMcUNXd2pfX1B4SllqOUE?oc=5)
+
+---
 
 ### [Aljaraque organiza una charla sobre prevención y control de la diabetes - Canalcosta Televisión](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHNWOHMyTTdXSnNuWmVBTEZTajVyalBqb1ZsRU5CUnJqbUREMzBlWktqVGdHX3FBTzNSYS1RY1U1dEZYVDQ4WjNDNWVNcE5zMFRHdDM4Z1cwc21Fb29hc0F3SkZEakJESEhNOHh6clJtRHJna1dkQnNzSmNxX3M3LWxvSHlDemJQZjJiZUNtRkZ2NEJWQ0NydEVremo?oc=5)
 
@@ -58,6 +74,14 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivgFBVV95cUxOa
 
 ---
 
+### [Colitis ulcerosa: Oraler IL-23-Rezeptorblocker zeigt Wirksamkeit in Phase-2b-Studie](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXJybXNyN19JRkJ5dGhPbGt6bTgxd04zLXlSZk9HTU1MMVBYSU5DMFgtWjl1SWVPLXdyZWdhMjk0bUxwdW02eXFkQ2RkblQ2emREUUd6Vko1akRlUlRoeGxfWjRHc3ZBNlpfZjBaTy1lOVBydVJTYWZyVzNfOGZEOENrcExMZS1MWFFSSEVTUkdacndjUUdoTHFsaFIzVXlTaUs2Rk1lcjVTQ05zaGxxQVpPb0tocnhONjhEcnlZRWtvb3dCSWdXaFNiZnpjYlgteUU1US1LalNwbmUtTHY0WmFhcC0tQQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">colitis ulcerosa</span>
+
+Source: [Aerzteblatt.de](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXJybXNyN19JRkJ5dGhPbGt6bTgxd04zLXlSZk9HTU1MMVBYSU5DMFgtWjl1SWVPLXdyZWdhMjk0bUxwdW02eXFkQ2RkblQ2emREUUd6Vko1akRlUlRoeGxfWjRHc3ZBNlpfZjBaTy1lOVBydVJTYWZyVzNfOGZEOENrcExMZS1MWFFSSEVTUkdacndjUUdoTHFsaFIzVXlTaUs2Rk1lcjVTQ05zaGxxQVpPb0tocnhONjhEcnlZRWtvb3dCSWdXaFNiZnpjYlgteUU1US1LalNwbmUtTHY0WmFhcC0tQQ?oc=5)
+
+---
+
 ### [Verkehrslärm geht aufs Herz – besonders in der Nacht](https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1lJR3h4N1lMbmg2R1lSYkV5S2ItSndzeVRteFIyOUgzUmk0dGdwc0lzOW16V0xBTS1PMzEweDB2aExQQnVkdU1BR0NhN1laZmFGLWI0MjQyNFFrYWZ1bm1rSW1vRHBwQ1psdmV1bWw5OGhTSUZNellLOVFkRndxNHlIaWw1aE5xRG1Nazd4SE4?oc=5)
 
 2026-11-26 <span class="news-indication-tag">diabetes</span>
@@ -71,14 +95,6 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1lJR3h
 2026-11-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEtxQ0lCNHFRMmdwUEx5cnFGQWI4M1hYZHdxRlZIQU1ISmJlck11dXBPQ0pBVG9kcTFWWWk5VVFOd0tSQkZMT1BVWXBCdmNtZzExemxkWHhLd2NLNkZzZlIxRW12MFFBanBUM2toYXZyN0c0eG5BWEY3VlNMWjJBVjdvVUk1RzV4QzhpQlln?oc=5)
-
----
-
-### [Urgent cold-weather warning as plummeting temperatures increase risk of heart attack & stroke - 4 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
-
-2026-11-25 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQLS0zYkZCWlhSdTBEOFJFdVlEVEptdl9Sa0RsQ2ctdkNRUV9ZNXE1X3dRa2pmczYtczE3aGl6NldHbkNvN3RsWDBVaWJBeUUxR19lQzVlOGxtaDVMTEliNEtkQlQ0bTdUcXppbUhmREVndUZfYUpXcHB2NVBKWlpnVUtXdzQ?oc=5)
 
 ---
 
@@ -100,7 +116,7 @@ Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQ
 
 ### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">diabète</span>
 
 Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
 
@@ -111,6 +127,14 @@ Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV9
 2026-11-25 <span class="news-indication-tag">colitis ulcerosa</span>
 
 Source: [Infobae](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVURfNXd6MGFxYjNKckZUamYyZV9yaWNVV1Vmdi15M1htS2hyRGlhQ1R2cldkbFR5OUsxN0E4cl9UWlpzRHBpYTZfb1N3MnhlTEhYS0lObFlsMHNRMjBXSjNXcmgxQldvSEFZTWVrSlhSOGszelJkelNEZHVUb3htcHdfOExpV0l2VnNHbnM2UWpkcGRTcEhSOFRrdkRQcFV2dWxOT2lqVFgzbnF5UW1JMmNYM1JiODM1VTJNSWo1VEhveVd6dU00cnRJQ2lwUE54VVJLY09RVkpBckdQS3NsSUktelJGa0xpTlZOU1NaRkRQclo2T2RhOHJR0gGUAkFVX3lxTE5fVHZ2dElXUVNsOF9JMEdxclE4a2V5OFpDWE83c0ozd0Fxa3hzUVZYNGliTWlUQUs0dHFHZUwtejhyNVpqNlFaaXFCZmEzMS0wbHI1UmM1cnN4NGxrUTczRDVydWxJdmdpLTNTMEJmdmJCRUJ0TVZfQnNtU0lKcW0yeE1LRUNEVGliWWYzUS1MeU5hZzFIMTBMb3BLb2JmU0hLWk5JTjNENE1Bd29oM2JHV3REQ1hTV2IxZlJvclR3YkZtZllNdzVTb1ZrZThDSzIxN1hqVVZ1RW9yQU5wWTdWV3N5THJyZUUwZFJjTDBTZm0xcnRvOHlOWFY0UmNVZ1VyVXZMLWs5Q2hVeHBLZWRDaVMyVA?oc=5)
+
+---
+
+### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
 ---
 
@@ -159,6 +183,14 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3hJTUNi
 2026-11-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 Source: [Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOVBLVVZLYTVHUlYxTzFWTmFhei1aNVRFQTBHV3dUSnRueVc2MFUtQU1pS2ZOaHhBekpnSVIxUXhFb2lVdE5MQ2lldUZsdzNoTXhaTTBkYXpCeU9rcmd5cFBjRGpTMkxjQWRyanlPRXE1NXd0WjNyTllEbG1HTk5LNjRPdEZRa3hEZlZuc0QxNkxkMDcxeDhVd3dVU3FoM2kwMDZ1YjQ1cmdCWlJTWW9SVlJZVU1fR3VWaGo5VVpZTzAtelE4TzJJU1R1LVpCV1psb0Z6VnR6R0otOWxNMVV2Ul9Kdml5OE9Gc08zbWMxUlBEbW45dnRwS2ZLTk8zUjRFR3NrZ2VLMmVrUUhuR0R4Yw?oc=5)
+
+---
+
+### [Diabetes und Luftverschmutzung: Neue Studie zeigt Zusammenhang mit schlechteren Stoffwechselwerten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
 
 ---
 
@@ -2631,30 +2663,6 @@ Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV9
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
-
----
-
-### [Implantat baut überschüssige Glukose bei Typ-2-Diabetes ab](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
-
----
-
-### [Diabetes: Experten warnen vor oft übersehenen Folgen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlSalV1N3cyMXpNTWMwcjRZeE1qamxCS2FUZ1llQm03ZlVZbktNQUhjUjAyMWtteFR4R29wSVNibjFwbDd3Y1lkS3kxSk02NTg1OV9SVW9xUTFIWVFsVnVZdDIxZ0R4X0x3eWt3LUNTQjQ2TFdtNGZJaG5oWmcyYWpibC0zNXFNbmcydnFTdkxUb29XM3lHa1REYUI4VXBSdWJUMDNBUXFtMEpBZl9VclR0WlhKck5yY1NtczBZRGlkdWw5WkF0R1k?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlSalV1N3cyMXpNTWMwcjRZeE1qamxCS2FUZ1llQm03ZlVZbktNQUhjUjAyMWtteFR4R29wSVNibjFwbDd3Y1lkS3kxSk02NTg1OV9SVW9xUTFIWVFsVnVZdDIxZ0R4X0x3eWt3LUNTQjQ2TFdtNGZJaG5oWmcyYWpibC0zNXFNbmcydnFTdkxUb29XM3lHa1REYUI4VXBSdWJUMDNBUXFtMEpBZl9VclR0WlhKck5yY1NtczBZRGlkdWw5WkF0R1k?oc=5)
-
----
-
-### [Kardiometabolische Therapien bei Lebererkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
 
 ---
 

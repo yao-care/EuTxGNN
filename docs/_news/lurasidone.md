@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lurasidone. 9 predicted indications."
 permalink: /news/lurasidone/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Lurasidone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Lurasidone?">
-<strong>Lurasidone</strong> currently has <strong>38 news articles</strong>, with 9 predicted indications.
+<strong>Lurasidone</strong> currently has <strong>37 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Lurasidone with the latest h
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (37)
 
 ### [CAR-T-Zellen bei Multipler Sklerose: Vielversprechendes Prinzip mit ungewisser Zukunft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQblp5bXRhY1ZkZjdFOEVsdTQwanlRbjBrNGFlYVJTU01odWhBc2xBZVo2bk9GNHozQjhZOWg5VG44Y1MyVVM1Ujk4Y3FXMkpxTUptV2lnYlhVbFZyY2I2ZWF3ZlpaVWNEa24zMTBtZVltR25NMzJWUjF5Xzk1OXI2QzNYamVFWHZYVUQ4NFdDYS14YWJiMHBCNUZ2Y2V2b2FvVW5CR1l6MHpLZ1RkTXZYZFVuMUNqcTMtaHZEemcyeEZVX3Y2ek5wSUpkUHpKMVlNVmsybg?oc=5)
 
@@ -336,14 +336,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek
 2026-10-30 <span class="news-indication-tag">sclerosi multipla</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1hGTFllc1lrYmJnS3Q4c1hTeWJhMEV3SkxmanV0RkUyaHd1dURlZGxUc2tRUzE0S2MxVFJ2b0hwdE11eGxwMzJvSFVVY3VDZFdTZkFUc3gybnh1TlFZckJoMzJzZm82RFhkOUtGcHVnZUNWMjY2UC11eWJIUmhrSHhrLUo4ZkZtM0FTX0IyU1EzNG5Wa2Voams5VEhRQU1RRnNsM3VlRG15NVJybGp5OGIyTWxFYU0xU2prSTc4NXZtdGcxdl9YNWkzVWE0bXc?oc=5)
-
----
-
-### [Vorhofflimmern: Bei wem muss vor einer Operation die Antikoagulation pausiert werden?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
 
 ---
 

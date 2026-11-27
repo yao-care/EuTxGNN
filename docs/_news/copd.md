@@ -3,9 +3,9 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 29 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 30 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # EPOC (copd) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>29 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>30 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (29)
+## Related News (30)
+
+### [COPD ohne Obstruktion: Relevanter als bislang gedacht - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
+
+2026-11-26
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
+
+---
 
 ### [Chronisch-obstruktive Lungenerkrankung: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen einer COPD vermeiden helfen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ1l6WXhfbFZ5b0psLUVud3F6anh1cHNJRkxmdFdNOFBUbEswRlZodklPSlk0anBTeDBSSU1tWVJqYXVXVG82TWE0UnhTUzFSLWRrZEVnbFB1cktacjNDcWxjcXZMNEF5V1Y3eS1sSk5zaUVaZGVsUGE4dTdmQ0FHS0xWVlV3THF2cks2OVEtYUNMT0E5a0ozanE3MDJZMDNOZ3RxampkVkxGLS15XzNTUGpTRGZPZFdpeVJvSW9nTkItZkZUbUNTUHFGaVQ0TXp5UEpKWDRHOU1WcFB0R0VoeVI0MlRRNzJ0VW9IZEo1akFSRDFkVmZILVdaY3FWdlJmcHpnV09nZzVsYkN2M2FpM29DYmZoQ2E5NjlkVEhpQkY4eHcwcHhLWWJrUnZCOUloMWc?oc=5)
 
