@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>65 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>68 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (65)
+## Related News (68)
+
+### [COPD beeinträchtigt unbemerkt die Lungenfunktion und erhöht so das Sterberisiko.](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">copd</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+---
+
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
 
 ### [Salzige Snacks im Teenageralter: Höheres Risiko für entzündliche Darmerkrankungen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXVzdm1CbDZxNkZXQmFlbndPZEktTDNtejNnVWt0N01BV0pObVdMbjVObndyR2JYWktDOXBWZlBpbk13WEhHSE8yaGNVWWpFaGt5a2FDLU5DOXFzaVJtdDJJMVZqeVJScUJyZExVLWpUaWVKc0tLYmdZZU9PeWVqbGhIRkplRkgyWm1PWkZqSktodmFTRUZ2VFh3VlJQbnNsVzloUE1TY1o1UXJ5akZ3VjFVUHJKVE1sLWVHaXMzZks5U0k?oc=5)
 
@@ -45,6 +61,14 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwwFBVV9
 2026-11-26 <span class="news-indication-tag">Morbus Crohn</span>
 
 Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUJZclVPNi1HYmozRVN4SXpyWEFVT3VZTE13d3pyM2FZUWZHTUVZSXBkcnBFOThIcWV0eDk3TzRiUlg5S0pVVW13MUtudHZmZDJOM3B4OXBxOXBuTEExSVBSZi1DMm1lTW5xdE9mOHZScUxJbjBVcnBLUUpxbmxKYTZwcGhjVHUwTjhjN3gxeWJ6T3NlOFVNMlRKelo2aWY2UG5kbURR?oc=5)
+
+---
+
+### [Morbus Crohn: Schädigen salzige Snacks in jungen Jahren den Darm? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxQS21qY0lSdnBXVjdoSGFrOWxDbUh5U1BfcnZyUVQxckxPcGl1NnppRjJJZlJBb0wxQ2NpZTlHcGdVWGMwcDZNMmh5dHdhQlJkRm0wd3JzcnlYTFVRd3VaeTlsRVJVR1oyZjJMMDFHSnlGaU9qTmlwY0FsNEwzUWdJMUJaeHpma0R3VmlJT2pHdlhRSTJ3Z1FfdmFlcHNLOHJOM3c?oc=5)
+
+2026-11-26 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxQS21qY0lSdnBXVjdoSGFrOWxDbUh5U1BfcnZyUVQxckxPcGl1NnppRjJJZlJBb0wxQ2NpZTlHcGdVWGMwcDZNMmh5dHdhQlJkRm0wd3JzcnlYTFVRd3VaeTlsRVJVR1oyZjJMMDFHSnlGaU9qTmlwY0FsNEwzUWdJMUJaeHpma0R3VmlJT2pHdlhRSTJ3Z1FfdmFlcHNLOHJOM3c?oc=5)
 
 ---
 

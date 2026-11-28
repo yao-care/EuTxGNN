@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 64 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 66 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
-# dementia (alzheimer disease) News
+# Alzheimer's (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>64 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>66 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,31 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (64)
+## Related News (66)
+
+### [Missing Maryland man with Alzheimer’s found in Philadelphia playing a piano - The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGRwaUJHWjJYVEw4OTBmNjU2N2FqeGpjWVdIaWhqa01ORVdpU3JIZHdCTk9RSldmeG1sUnlBU2w4WkdCTDByNHgwM0VLU0o1bFJXeVp1YXhaRENwS2lVVEY4N0w1d3lRQXlTQUQ3TU1KVnVJWlhYVG94YlVudmtlWmFVSU85S0dxRUo2SHpjSjR2SHhQTUdSckZ1aG1IeV9pWGFrQUl4SVE0TE9MNDZsYXBn?oc=5)
+
+2026-11-27
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGRwaUJHWjJYVEw4OTBmNjU2N2FqeGpjWVdIaWhqa01ORVdpU3JIZHdCTk9RSldmeG1sUnlBU2w4WkdCTDByNHgwM0VLU0o1bFJXeVp1YXhaRENwS2lVVEY4N0w1d3lRQXlTQUQ3TU1KVnVJWlhYVG94YlVudmtlWmFVSU85S0dxRUo2SHpjSjR2SHhQTUdSckZ1aG1IeV9pWGFrQUl4SVE0TE9MNDZsYXBn?oc=5)
+
+---
+
+### [One type of physical activity is linked to a 20% higher dementia risk - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE12em9DLWlnTkZqcWVaMmRsWUt3SEdKckR5bzV2UnFxNkktQXYxOEU0Y1JpSmh0bXBYSk9oc2V0NTFWVXhzd1kwczFQd09EUlVYQ2dzWk1MZU43X1VJdTlDbmhKdnZpenRCZVJVamVZNA?oc=5)
+
+2026-11-27
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE12em9DLWlnTkZqcWVaMmRsWUt3SEdKckR5bzV2UnFxNkktQXYxOEU0Y1JpSmh0bXBYSk9oc2V0NTFWVXhzd1kwczFQd09EUlVYQ2dzWk1MZU43X1VJdTlDbmhKdnZpenRCZVJVamVZNA?oc=5)
+
+---
+
+### [What to do at every age to stay sharp and stave off dementia - The i Paper](https://news.google.com/rss/articles/CBMia0FVX3lxTE5hQllyeUJFTmRiRm9NYURERkdYemp3OWsybzFELW43aEpRTlJ5RHNIU1NVdUZuRGZlZThLWEJ4SVFMMDEtX3NRSlRaRmFYTldBblZVbG5OQ3VnRGhma3E5VjJXUnZpRVZqdWk0?oc=5)
+
+2026-11-27
+
+Source: [The i Paper](https://news.google.com/rss/articles/CBMia0FVX3lxTE5hQllyeUJFTmRiRm9NYURERkdYemp3OWsybzFELW43aEpRTlJ5RHNIU1NVdUZuRGZlZThLWEJ4SVFMMDEtX3NRSlRaRmFYTldBblZVbG5OQ3VnRGhma3E5VjJXUnZpRVZqdWk0?oc=5)
+
+---
 
 ### [Heart doctor names early dementia symptom that starts in your ears and eyes - Daily Express](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWhVUDdNU050aHlBSXoyUGFNUWNpM2FCQ1hIeTNlUlVuVHlRQlB0Y1ZQekpUM1QycjRVcDlGamhRZE9TMF9PeDMtcVVlWmVlQjlOVjRmX0gwZzdod0NENVN3SkQxUDNnYXF6QU1fMWdKdW5SX28xN1JVU0R2RS1qNWtGVTFSbDlxb2YzbnZyNmdxd2NUblBVMnd1WGNkMUdVX0t5SHBSc0cxQ0Z5SmVJ0gG0AUFVX3lxTE95SFNwMThHUldhLWJZNzNDdS1CZmU5ajAtYWhuMUxucGZvcGYwTGhhLXU1MXdoWEM1Zzk3TkhfbUJJam16SVJTNTFXbjdKZnpZRXVVdHBNZU45ZzZ3WGl2UWwwZnVlZE5ZSUpkWTNNUzczZUEtajlMMThlRk9LNW4ycXp0OGxMSmdYVDVyOEtRd3dwcEpzenp5X3dCaFFZcWxOenlaNXlya1ZxcVFOUkZ2ZmtaTw?oc=5)
 
@@ -547,14 +571,6 @@ Source: [HuffPost UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFl5a
 2026-11-02
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXBtbTc0OE1HOGJjN2k2N1FDeF9aSXBNVEdIWktHX3N1YUp3OFVzdGlUc1d2WHZvcXNyOUFkSGJwT1FPQlZnZUhhcnZjcDh3SzZ3TFdBMVc4NXBvaElPTUhpTVdqUWdjUGVPclpvQ3R5OXJoT0oyQm1leDlQSlVwWUoteTEwcmlUUlJFYjl2WHVXcGl1TC1CeGNCY1VvSkVmaGc?oc=5)
-
----
-
-### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
-
-2026-10-29
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 
 ---
 

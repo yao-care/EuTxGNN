@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Diflunisal. 8 predicted indications."
 permalink: /news/diflunisal/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Diflunisal News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Diflunisal?">
-<strong>Diflunisal</strong> currently has <strong>18 news articles</strong>, with 8 predicted indications.
+<strong>Diflunisal</strong> currently has <strong>19 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Diflunisal with the latest h
 <p><a href="{{ '/drugs/diflunisal/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (19)
+
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
 
 ### [Espondiloartritis, la enfermedad inflamatoria que aparece a los 24 años y tarda años en diagnosticarse - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
 

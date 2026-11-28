@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lumacaftor. 1 predicted indications."
 permalink: /news/lumacaftor/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Lumacaftor News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Lumacaftor?">
-<strong>Lumacaftor</strong> currently has <strong>126 news articles</strong>, with 1 predicted indications.
+<strong>Lumacaftor</strong> currently has <strong>130 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,39 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (126)
+## Related News (130)
+
+### [Cannabiskonsum: Studie warnt vor Herzerkrankungen und Schlaganfällen - mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+---
+
+### [Hope for millions as cheap 6p supplement found to slash 'silent killer' high blood pressure in DAYS - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3ZhTV9tQTY4WjAxaERTM0JNWGlpMlctZVVtOW9RMmdtZm5ESjA3SXFBcHJWblctX2w4R0ZQWThnNlgxVlp3SkowUzJaaHRuR1k3REVHMkdMVk53aHB6enZrUnkyTkU2dXJ6ZDA2NnFETHFFT1hUUkpKYTZRMjJINlV2d2lBQWV6?oc=5)
+
+2026-11-27 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3ZhTV9tQTY4WjAxaERTM0JNWGlpMlctZVVtOW9RMmdtZm5ESjA3SXFBcHJWblctX2w4R0ZQWThnNlgxVlp3SkowUzJaaHRuR1k3REVHMkdMVk53aHB6enZrUnkyTkU2dXJ6ZDA2NnFETHFFT1hUUkpKYTZRMjJINlV2d2lBQWV6?oc=5)
+
+---
+
+### [UK drug ‘crisis’ as 23 medications hit by shortages - full list - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0gtTG51TVVJX3l3T0VrdFFvOEZjWkxCR05ZUjlQdmRHXzFHUGhONUlua0pBbWdtYlY3aXk2eTIwWmN3ZGZpRU1ieHpTTGNTUDcwdmpQeS16LTZUUWptcm1UdFJMM2hGSERya3RxV01YNHZDWHlRN0dUR1pKOUFqN19FM2VHM1V3elVkY0N6TdIBlAFBVV95cUxQQnBhc3ZnSzVaX25lS2RQSHFGZ0NMWVo0Ul9JcTZ2aUlHYmFyTVk1NmFIUUdzb1NZV01HTWRQWkxZNU9iOXVRUjAxeExCU1BxY1MzVnhfaEZnRElZU3FRcVVMd3loeWN2V1ZLLUdhM2F0SFdaUjVvN2w0WDFsVVU2VjJac3ZSbVU1dnBBSTAtRDRZVjJm?oc=5)
+
+2026-11-27 <span class="news-indication-tag">hypertension</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0gtTG51TVVJX3l3T0VrdFFvOEZjWkxCR05ZUjlQdmRHXzFHUGhONUlua0pBbWdtYlY3aXk2eTIwWmN3ZGZpRU1ieHpTTGNTUDcwdmpQeS16LTZUUWptcm1UdFJMM2hGSERya3RxV01YNHZDWHlRN0dUR1pKOUFqN19FM2VHM1V3elVkY0N6TdIBlAFBVV95cUxQQnBhc3ZnSzVaX25lS2RQSHFGZ0NMWVo0Ul9JcTZ2aUlHYmFyTVk1NmFIUUdzb1NZV01HTWRQWkxZNU9iOXVRUjAxeExCU1BxY1MzVnhfaEZnRElZU3FRcVVMd3loeWN2V1ZLLUdhM2F0SFdaUjVvN2w0WDFsVVU2VjJac3ZSbVU1dnBBSTAtRDRZVjJm?oc=5)
+
+---
+
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
 
 ### [Après 60 ans, cet exercice immobile de quelques minutes serait l'un des plus efficaces contre l'hypertension, selon les cardiologues - La Provence](https://news.google.com/rss/articles/CBMilAJBVV95cUxNRWtOVWlPazc1dTVVQ1FhWHQzSG9FWlh5WFN1MllJSk9LbVRRc1ZySmladlM1R0w4WGFoYkdYMmk0X2QydWV3TmJmcFNtOTJJZ1I4ZFMySnpBNldMdFphWV9pd3dDcklaMFlxQjZXVFVCdVotdmhtU2M0R0ZKbld4Z2xVTFlkMTVXODdZdGI1OEpJNDJZMUo3cjFIZERLR19Sb2NqbTRLSGJ3MWxsMVo1X09WVmxaRDhsWTlYNlJWZWFvQng2ZXhmVVV1cGdBVXhzc1hmQ0VrTzZDdDdZbEFoT0JDVmF0aDRsYWhQbG5EVnZQSExfWjhOSzA5SzRaN3piNU1sLTN6VXgzbnNkSkVnd0dOVlE?oc=5)
 

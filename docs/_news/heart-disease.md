@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "cardiovascular disease (heart disease) News"
+title: "Herzerkrankung (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 25 articles, 57 related drugs."
+description: "Health news about Herzerkrankung (heart disease). 26 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
-# cardiovascular disease (heart disease) News
+# Herzerkrankung (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>25 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about Herzerkrankung (heart disease)?">
+<strong>Herzerkrankung (heart disease)</strong> currently has <strong>26 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Herzerkrankung” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -67,7 +67,15 @@ This page brings together the latest health news about “cardiovascular disease
 </ul>
 </div>
 
-## Related News (25)
+## Related News (26)
+
+### [Cannabiskonsum: Studie warnt vor Herzerkrankungen und Schlaganfällen - mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+2026-11-27
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+---
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 

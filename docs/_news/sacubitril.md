@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sacubitril. 5 predicted indications."
 permalink: /news/sacubitril/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Sacubitril News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>331 news articles</strong>, with 5 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>333 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,31 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (331)
+## Related News (333)
+
+### [El uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+---
+
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
+
+### [Congreso SEMI: El internista, un cortafuegos frente al cáncer, el VIH y los trastornos mentales en el paciente con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEZpUjJRR2VtazhkMHdxVjkxSXlzWmZncHF4OHE2SkN5QnRoajhPaDFQbm5OQ1VBZWExN3RyemdkZDJBeXZOSjJxZTc5Xy1WS0oxOF9pVmN3S004NEVGbjktLWFiZlM1c3FYR2xacmljal9KXzl2ell4TkgwYXpsQnNxSkJOem9mUWR3REVyWmgyZnROOTVlOVVQU3UwRkRRaTNrcXp0Q2ZrWTcxdzcxOFRDQkloUFMz0gGzAUFVX3lxTE9PWENjLV9KN2ItSXlHWUxMOGtJWWFWNEwzSEpBazJObkRZLWVvMlNIQ29FSHIzc0dTQzdLSFU0UWNCeURraFdJRG1mWFdFeEtkNERIdDR5b1B6MkczQnlZMUpKeXF6Q0hiS3hCaGItcjJSdXhqSUJQRTY0a1RoNE9tOS1JYXExM0dNRlBOMkhzT1VZbks4bjl0SUlBanptajM4Ym10Q3o0OEYwYW1yX3dPQTRz?oc=5)
+
+2026-11-27 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEZpUjJRR2VtazhkMHdxVjkxSXlzWmZncHF4OHE2SkN5QnRoajhPaDFQbm5OQ1VBZWExN3RyemdkZDJBeXZOSjJxZTc5Xy1WS0oxOF9pVmN3S004NEVGbjktLWFiZlM1c3FYR2xacmljal9KXzl2ell4TkgwYXpsQnNxSkJOem9mUWR3REVyWmgyZnROOTVlOVVQU3UwRkRRaTNrcXp0Q2ZrWTcxdzcxOFRDQkloUFMz0gGzAUFVX3lxTE9PWENjLV9KN2ItSXlHWUxMOGtJWWFWNEwzSEpBazJObkRZLWVvMlNIQ29FSHIzc0dTQzdLSFU0UWNCeURraFdJRG1mWFdFeEtkNERIdDR5b1B6MkczQnlZMUpKeXF6Q0hiS3hCaGItcjJSdXhqSUJQRTY0a1RoNE9tOS1JYXExM0dNRlBOMkhzT1VZbks4bjl0SUlBanptajM4Ym10Q3o0OEYwYW1yX3dPQTRz?oc=5)
+
+---
 
 ### [Forschung weist auf langfristige Gesundheitsrisiken bei Gestationsdiabetes hin - Biermann Medizin](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHhRZWdDMWlOYzNzbHBJbjQ4ZDhBVGY4bFp3TnV0N1JIYmpsdWpzWDBoZU41N3Fod2c5ME93SUFJRjdIelNqWG9nckMwbUNXbnBFMDF3OWpSM0Y5bHRUZ1VhT0VNRGdCYWtOR1I1UEw1Q0N5bE93bTdKOVJUbVJ2dE1VWTdIUQ?oc=5)
 
@@ -103,14 +127,6 @@ Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQ
 
 ---
 
-### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
-
-2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">diabète</span>
-
-Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
-
----
-
 ### [Espondiloartritis, la enfermedad inflamatoria que aparece a los 24 años y tarda años en diagnosticarse - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
 
 2026-11-25 <span class="news-indication-tag">artritis</span>
@@ -121,7 +137,7 @@ Source: [El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3
 
 ### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
@@ -175,11 +191,11 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOV
 
 ---
 
-### [Diabetes und Luftverschmutzung: Neue Studie zeigt Zusammenhang mit schlechteren Stoffwechselwerten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
+### [Diabetes und Luftverschmutzung: Neue Studie zeigt Zusammenhang mit schlechteren Stoffwechselwerten - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
 
 2026-11-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
+Source: [idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
 
 ---
 

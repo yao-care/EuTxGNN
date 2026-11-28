@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Inebilizumab. 0 predicted indications."
 permalink: /news/inebilizumab/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Inebilizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Inebilizumab?">
-<strong>Inebilizumab</strong> currently has <strong>854 news articles</strong>, with 0 predicted indications.
+<strong>Inebilizumab</strong> currently has <strong>860 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,61 @@ This page combines the AI-predicted indications for Inebilizumab with the latest
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (854)
+## Related News (860)
+
+### [El uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+---
+
+### [La couverture vaccinale des adolescents contre le papillomavirus reste loin de l'objectif, après une campagne 2025-2026 au bilan stable selon Santé publique France](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeURjNnEtYks0cmxWcUM3dXpqNGJjVDZ3TW42SERFazcwNks0V1pTQTFPWjhzTnd0X1pQQ1V6TDAxLVZaX0huNWd2WkVMRFV5TDBhaEE3QWlUbWxDNFpWYTFDUmpFdU5NbE05N3dCVFhoSi11SmZrM0Z0VGVBRnp4bEJ2YVAtMWowcEZKZ0FFZ0o0UTNqZG82NmsxNUpmdWdxRkd2QUhDRzFDa3h6ZFdTUDB3U1FuUl9LLWpIQmJDT2VPcU5PM2NCTkpfTHlxRDZNNHM5Y3dVWUt3enZqUGw0WjBfR0FrVHFjOVEybUhocTRfaGVKa2w0bXo5Q3dabHJ6Umkta2JuOVlCQnROR0twU2YyWFVyUUZpRlFncFF6aGE2Q0oxdWFpMGVVVDNnbF9WWUg0aVpOR3dvV00?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeURjNnEtYks0cmxWcUM3dXpqNGJjVDZ3TW42SERFazcwNks0V1pTQTFPWjhzTnd0X1pQQ1V6TDAxLVZaX0huNWd2WkVMRFV5TDBhaEE3QWlUbWxDNFpWYTFDUmpFdU5NbE05N3dCVFhoSi11SmZrM0Z0VGVBRnp4bEJ2YVAtMWowcEZKZ0FFZ0o0UTNqZG82NmsxNUpmdWdxRkd2QUhDRzFDa3h6ZFdTUDB3U1FuUl9LLWpIQmJDT2VPcU5PM2NCTkpfTHlxRDZNNHM5Y3dVWUt3enZqUGw0WjBfR0FrVHFjOVEybUhocTRfaGVKa2w0bXo5Q3dabHJ6Umkta2JuOVlCQnROR0twU2YyWFVyUUZpRlFncFF6aGE2Q0oxdWFpMGVVVDNnbF9WWUg0aVpOR3dvV00?oc=5)
+
+---
+
+### [Scientists ‘reprogramme’ immune system to fight melanoma - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZvaGtzWVg5LUtZcFBOWjd6bE5XMDNoc2pLanI2blJ1MnlOVm93c21JR1F5SDRZZlk4ODZsaHpzc1IwTWFpdU9GbnhRMkd3ZjlqWWVwclo5M0ZHOThMRTQ3b1ZVa28wZURzWlVOQ1ZZd2lhN2FqdWFNR1ZTbHBZYVEtTHRKaDdrT2dWNlpzT2RqeEx5aUpoQ3Vjak9iQ0VEQ0E?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZvaGtzWVg5LUtZcFBOWjd6bE5XMDNoc2pLanI2blJ1MnlOVm93c21JR1F5SDRZZlk4ODZsaHpzc1IwTWFpdU9GbnhRMkd3ZjlqWWVwclo5M0ZHOThMRTQ3b1ZVa28wZURzWlVOQ1ZZd2lhN2FqdWFNR1ZTbHBZYVEtTHRKaDdrT2dWNlpzT2RqeEx5aUpoQ3Vjak9iQ0VEQ0E?oc=5)
+
+---
+
+### [Estos nanorrobots aprenden a cruzar la frontera del cerebro: son capaces de llevar medicamentos hasta él - National Geographic España](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1VUdkRIUDB5dUJ3Q3U0SzdkQmNQX0ZiSldOd09iN3BSRzVXcXVyR09TRW9STVNHLUpLbkZUQWFKQ01xTzdzUjJEVTVBMHNCR1dyamhjMEdCbDVZNTJqUHBzdkdCU0tDVW9OeHM5czhleE5PUTJqaHBLWGtaQUtmcjhEcVlYMVdYaHFYMDR2TTFKMTJPVkdlSnQ1ME9BZzVkSHc?oc=5)
+
+2026-11-27 <span class="news-indication-tag">tumor</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1VUdkRIUDB5dUJ3Q3U0SzdkQmNQX0ZiSldOd09iN3BSRzVXcXVyR09TRW9STVNHLUpLbkZUQWFKQ01xTzdzUjJEVTVBMHNCR1dyamhjMEdCbDVZNTJqUHBzdkdCU0tDVW9OeHM5czhleE5PUTJqaHBLWGtaQUtmcjhEcVlYMVdYaHFYMDR2TTFKMTJPVkdlSnQ1ME9BZzVkSHc?oc=5)
+
+---
 
 ### [Inician el desarrollo clínico de un nuevo agente epigenético en tumores sólidos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFJyNkUtMXFBMDB6aXUzY2EtV1dJS1RDOVlHME5xQURRcS13N2UzR0tEQktORi11eWhlTnpzZ1c3N2VHX0RPSENCQkZENFdISUV0em5qaG5mQW9way15Z3N2dlJJMGJfeVV4M0Nfc1dKLVNJVXgyT082WURtUGktbkpCTjd6RmZqRWxmRmI0TUZCbG01RUZVZEs0U0VfZVZXNlJuVmFTY0ZVTTVtb1pyQ2JCNUNHb1pYcTRIV0kySlfSAbsBQVVfeXFMTnFURzhkSjRMUXIyLTcwM1BVbnZOTFVZTnNxNXNxZ2lpdV9OU1JTV0ZZckVYYkNROTZ4eGJWYnlxbTJhNl9SWGZxWXFRWkxkSVRjdVY5RGMxZVNiV0FwU29QbHpVVzVuV1ZfeEQ3V05VY29pMjAwZ3NEQlV6T19FSHVLNzNUd1gzZ01mY01nMmQ0b1hKaGtqOEFPc09VT0t2aDMyQjYwSmljNTl1bUhNSXJHMVBoaDNDNjlxOA?oc=5)
 
 2026-11-27 <span class="news-indication-tag">tumor</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFJyNkUtMXFBMDB6aXUzY2EtV1dJS1RDOVlHME5xQURRcS13N2UzR0tEQktORi11eWhlTnpzZ1c3N2VHX0RPSENCQkZENFdISUV0em5qaG5mQW9way15Z3N2dlJJMGJfeVV4M0Nfc1dKLVNJVXgyT082WURtUGktbkpCTjd6RmZqRWxmRmI0TUZCbG01RUZVZEs0U0VfZVZXNlJuVmFTY0ZVTTVtb1pyQ2JCNUNHb1pYcTRIV0kySlfSAbsBQVVfeXFMTnFURzhkSjRMUXIyLTcwM1BVbnZOTFVZTnNxNXNxZ2lpdV9OU1JTV0ZZckVYYkNROTZ4eGJWYnlxbTJhNl9SWGZxWXFRWkxkSVRjdVY5RGMxZVNiV0FwU29QbHpVVzVuV1ZfeEQ3V05VY29pMjAwZ3NEQlV6T19FSHVLNzNUd1gzZ01mY01nMmQ0b1hKaGtqOEFPc09VT0t2aDMyQjYwSmljNTl1bUhNSXJHMVBoaDNDNjlxOA?oc=5)
+
+---
+
+### [Congreso SEMI: El internista, un cortafuegos frente al cáncer, el VIH y los trastornos mentales en el paciente con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEZpUjJRR2VtazhkMHdxVjkxSXlzWmZncHF4OHE2SkN5QnRoajhPaDFQbm5OQ1VBZWExN3RyemdkZDJBeXZOSjJxZTc5Xy1WS0oxOF9pVmN3S004NEVGbjktLWFiZlM1c3FYR2xacmljal9KXzl2ell4TkgwYXpsQnNxSkJOem9mUWR3REVyWmgyZnROOTVlOVVQU3UwRkRRaTNrcXp0Q2ZrWTcxdzcxOFRDQkloUFMz0gGzAUFVX3lxTE9PWENjLV9KN2ItSXlHWUxMOGtJWWFWNEwzSEpBazJObkRZLWVvMlNIQ29FSHIzc0dTQzdLSFU0UWNCeURraFdJRG1mWFdFeEtkNERIdDR5b1B6MkczQnlZMUpKeXF6Q0hiS3hCaGItcjJSdXhqSUJQRTY0a1RoNE9tOS1JYXExM0dNRlBOMkhzT1VZbks4bjl0SUlBanptajM4Ym10Q3o0OEYwYW1yX3dPQTRz?oc=5)
+
+2026-11-27 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEZpUjJRR2VtazhkMHdxVjkxSXlzWmZncHF4OHE2SkN5QnRoajhPaDFQbm5OQ1VBZWExN3RyemdkZDJBeXZOSjJxZTc5Xy1WS0oxOF9pVmN3S004NEVGbjktLWFiZlM1c3FYR2xacmljal9KXzl2ell4TkgwYXpsQnNxSkJOem9mUWR3REVyWmgyZnROOTVlOVVQU3UwRkRRaTNrcXp0Q2ZrWTcxdzcxOFRDQkloUFMz0gGzAUFVX3lxTE9PWENjLV9KN2ItSXlHWUxMOGtJWWFWNEwzSEpBazJObkRZLWVvMlNIQ29FSHIzc0dTQzdLSFU0UWNCeURraFdJRG1mWFdFeEtkNERIdDR5b1B6MkczQnlZMUpKeXF6Q0hiS3hCaGItcjJSdXhqSUJQRTY0a1RoNE9tOS1JYXExM0dNRlBOMkhzT1VZbks4bjl0SUlBanptajM4Ym10Q3o0OEYwYW1yX3dPQTRz?oc=5)
+
+---
+
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE85V3RpWXBnc2wxQTdDaFdpQmxYZTlISmpzZUtZal83SjZob0VOUjFHeTRJbHRQc0JReU53eEp0eUIweVI5YThxdTA5QkdPT196YzM0R3Y1Y1JOdFg2Rk1LYjBpMlR5VFpXNmJYZWd6TG54ZGtmTW9pcWNQUmtWdw?oc=5)
 
 ---
 
@@ -61,6 +109,14 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnJ
 2026-11-27 <span class="news-indication-tag">diabetes mellitus</span>
 
 Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHhRZWdDMWlOYzNzbHBJbjQ4ZDhBVGY4bFp3TnV0N1JIYmpsdWpzWDBoZU41N3Fod2c5ME93SUFJRjdIelNqWG9nckMwbUNXbnBFMDF3OWpSM0Y5bHRUZ1VhT0VNRGdCYWtOR1I1UEw1Q0N5bE93bTdKOVJUbVJ2dE1VWTdIUQ?oc=5)
+
+---
+
+### [La actualidad de Cuerpos especiales - viernes, 27 de noviembre de 2026](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSzRpZG8wcEFoNHVVSXdmc2Zjdno1X3RNV2FMcjVFWHlMZGExV3pHclgyb0pDTjVQWl80Y2tKWUU1cU02NGJ3Qm90aFlfcllzaUhrS0Vad2lDMHgzVjl3R25FRnF3Wk14TDZZbXRfTV9sZE1DQzJhVGIyaWYwbFExODhVenQxMTZaZm0xWWRXRGcwb0hvcTN1ZVMwbXI5ZGZIYy1PcUpwN0xTQzkwcV9fTXR0djdnZ2hBdDJMblRHVmU3ejA1cU14NWMyOE9RRGY5YUdqdkg3UzFMdkRlcGJJeHNQcVNwTUNWeWpNQWNVd9IB7wFBVV95cUxOZ3NNNjFTdmlsWEszNkRwaDVUVDd4TU05eERaSG5CakwxV29EZ3dNWE15RmN2WmJiZlMtVHJ6NFEzM3B6UmQySml0bl9xYmlJcGViLU5qNVFDM01EMHp4emVwSWZSRzNCZEszOGppem0wWlp1Nm43ZG5PM21pSlZLQzF3RElOeEc3WHY4S1dSdklrUHZnNkNubEFQcTh4N3RuczdfRHlqRlFYZUI1STQtSlNvVXJ4NlNsai1lT2NnVTZxek0xbUlyelVGWDloanAzMUJrMXZzaXd0d2lubUdCMEgwTzlkby1lbXFaVW9OSQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">tumor</span>
+
+Source: [EuropaFM](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSzRpZG8wcEFoNHVVSXdmc2Zjdno1X3RNV2FMcjVFWHlMZGExV3pHclgyb0pDTjVQWl80Y2tKWUU1cU02NGJ3Qm90aFlfcllzaUhrS0Vad2lDMHgzVjl3R25FRnF3Wk14TDZZbXRfTV9sZE1DQzJhVGIyaWYwbFExODhVenQxMTZaZm0xWWRXRGcwb0hvcTN1ZVMwbXI5ZGZIYy1PcUpwN0xTQzkwcV9fTXR0djdnZ2hBdDJMblRHVmU3ejA1cU14NWMyOE9RRGY5YUdqdkg3UzFMdkRlcGJJeHNQcVNwTUNWeWpNQWNVd9IB7wFBVV95cUxOZ3NNNjFTdmlsWEszNkRwaDVUVDd4TU05eERaSG5CakwxV29EZ3dNWE15RmN2WmJiZlMtVHJ6NFEzM3B6UmQySml0bl9xYmlJcGViLU5qNVFDM01EMHp4emVwSWZSRzNCZEszOGppem0wWlp1Nm43ZG5PM21pSlZLQzF3RElOeEc3WHY4S1dSdklrUHZnNkNubEFQcTh4N3RuczdfRHlqRlFYZUI1STQtSlNvVXJ4NlNsai1lT2NnVTZxek0xbUlyelVGWDloanAzMUJrMXZzaXd0d2lubUdCMEgwTzlkby1lbXFaVW9OSQ?oc=5)
 
 ---
 
@@ -322,7 +378,7 @@ Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQ
 
 ### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
 
-2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">diabète</span>
+2026-11-25 <span class="news-indication-tag">cancer</span>
 
 Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
 
@@ -346,7 +402,7 @@ Source: [Infobae](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVURfNXd6M
 
 ### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
@@ -464,11 +520,11 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOV
 
 ---
 
-### [Diabetes und Luftverschmutzung: Neue Studie zeigt Zusammenhang mit schlechteren Stoffwechselwerten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
+### [Diabetes und Luftverschmutzung: Neue Studie zeigt Zusammenhang mit schlechteren Stoffwechselwerten - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
 
 2026-11-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
+Source: [idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
 
 ---
 
@@ -6853,14 +6909,6 @@ Source: [EL PAÍS](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWJDOUdV
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
-
----
-
-### [Micro-ictus silenti, il rischio sale se si eccede con alimenti ultraprocessati - la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
-
-2026-10-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
 
 ---
 

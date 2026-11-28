@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ziconotide. 9 predicted indications."
 permalink: /news/ziconotide/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Ziconotide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>168 news articles</strong>, with 9 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>171 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (168)
+## Related News (171)
+
+### [La mayoría de las personas con obesidad se culpa por no perder peso - El Correo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN05oM2VWZmtXSmtSVkdJYkpRU3JteEgxS0JMOS1zdWtZenZOU1RsODBjcmNvQ1NzVjZaejQ5T3dGQjl3NHc2V0J4WTNVYml4ODVFcHQzUFZXZzd1Rk9RS0Z5ZjhvcHRNUWtrWG1LNGo2NVFiRy10cUxJVWhnM1JWNmc1ZEd5a3BQMjU4Z0lqaVlaRHp5NEdjVWk0Vi0tZlo3UFlLXzBrRdIBrAFBVV95cUxQREpSTXozcVU2b1M0ZkUtVnAxa1dqaHcxQkRnU1ZrcmI2S2x1Q0FxVGhYZzR6TDRPMGlVdDRZa0hFbFEzczhpOHMtLTFPRV9hTGx3bWJYRUg2WXczQUxNdzRVQVlwZEQ0SGlCcFFXSllmNmJVekdRT2pNNWtkZmdaUFZ2ZWhHTGw1UmdVZUFtVnIxMFpQbmlBRWt2VFRSNXBVM1pDNjJIcjljTTZG?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [El Correo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN05oM2VWZmtXSmtSVkdJYkpRU3JteEgxS0JMOS1zdWtZenZOU1RsODBjcmNvQ1NzVjZaejQ5T3dGQjl3NHc2V0J4WTNVYml4ODVFcHQzUFZXZzd1Rk9RS0Z5ZjhvcHRNUWtrWG1LNGo2NVFiRy10cUxJVWhnM1JWNmc1ZEd5a3BQMjU4Z0lqaVlaRHp5NEdjVWk0Vi0tZlo3UFlLXzBrRdIBrAFBVV95cUxQREpSTXozcVU2b1M0ZkUtVnAxa1dqaHcxQkRnU1ZrcmI2S2x1Q0FxVGhYZzR6TDRPMGlVdDRZa0hFbFEzczhpOHMtLTFPRV9hTGx3bWJYRUg2WXczQUxNdzRVQVlwZEQ0SGlCcFFXSllmNmJVekdRT2pNNWtkZmdaUFZ2ZWhHTGw1UmdVZUFtVnIxMFpQbmlBRWt2VFRSNXBVM1pDNjJIcjljTTZG?oc=5)
+
+---
+
+### [El uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+---
+
+### [La obesidad puede ocultar una pérdida de músculo y fuerza que aumenta el riesgo de fragilidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX21yd1B3ZUs3ZnI1bG1uMmRUUmlrUEJ6blk3SU1pcHZCRXhneV9Gb2NxM0x0TGJuWTBBUjE5bm53cTdTdXhCQ3BEWXpKQjNxR19hRDNWVW9QLW1DcWxFcksxeVlLNXljT2JHekJ3WVFMbnJSVDY3Z3FzV2Z3YVpSckZ1c2Z2Y3dvTWZDYU10aF81NzlIM3lPNEVqbGU5bzZVVmQ4em1SaFVnNVNnSkJwUTdOeGlDQmg0R20yWVlpenrSAbsBQVVfeXFMTlUxVDl4MHl4QmhjUmtlT2swV1RlNUYxTFViVVF2anZ0X0NENzVnckNuT1pxbWlqV085ejktZ2FnaV9FdVNBU1VEY0tqMjhvcExhbnRhemxoWDBFdEpTX1NVSXJTTmcyTmExNnFjWnFicWVnVUNENnF3dmlpTWl1aEJPUldjc0VtN1p0NXRXVmVjX0FreTZQTlJUZ1RHNUIzRGZFbHF6NzBSbVhpcmVPbm1BRmlVcUZaVGZrWQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX21yd1B3ZUs3ZnI1bG1uMmRUUmlrUEJ6blk3SU1pcHZCRXhneV9Gb2NxM0x0TGJuWTBBUjE5bm53cTdTdXhCQ3BEWXpKQjNxR19hRDNWVW9QLW1DcWxFcksxeVlLNXljT2JHekJ3WVFMbnJSVDY3Z3FzV2Z3YVpSckZ1c2Z2Y3dvTWZDYU10aF81NzlIM3lPNEVqbGU5bzZVVmQ4em1SaFVnNVNnSkJwUTdOeGlDQmg0R20yWVlpenrSAbsBQVVfeXFMTlUxVDl4MHl4QmhjUmtlT2swV1RlNUYxTFViVVF2anZ0X0NENzVnckNuT1pxbWlqV085ejktZ2FnaV9FdVNBU1VEY0tqMjhvcExhbnRhemxoWDBFdEpTX1NVSXJTTmcyTmExNnFjWnFicWVnVUNENnF3dmlpTWl1aEJPUldjc0VtN1p0NXRXVmVjX0FreTZQTlJUZ1RHNUIzRGZFbHF6NzBSbVhpcmVPbm1BRmlVcUZaVGZrWQ?oc=5)
+
+---
 
 ### [La obesidad condiciona la fertilidad, reduce las posibilidades de éxito de los tratamientos de reproducción asistida y aumenta los riesgos durante el embarazo - Salud a Diario](https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlZvbDB2bGFMYjB0WHBrdTFOcXZsZGJzSTlqVmZZVEZmX05IZHAwWmxmWEdVcFRscGdjd2l5cGF2N0JQWTE0Sk5CbWl2cGI1VXFQeFNUdllvMWVsWmlEQnh1aV9CbDJHdkw1N01HOUpadS1RYWtELXd6djU4Z1Q3aEFYeUF0TDhxcHZyLW1tSUFXS2ctcGtrUDVXN1htemxoOG1XcWY2TVZQdHZna1U4VUsyVW9wNzJXQnZMaTQtV2RfQ0piTFFjSTJ4ZWpiV3FJYk5tbFZXc3FKclNIazRRMFJDNldwY29ETi16dTloeklLOXVKTzhPWlNNOEhHZzBRLU9jdG5DWGtJNXV3VU1IVi1GdGh6RlJxSXJoRTZhajJLOTBpWV9r?oc=5)
 
@@ -261,7 +285,7 @@ Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlRE
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-11-23 <span class="news-indication-tag">obesity</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 

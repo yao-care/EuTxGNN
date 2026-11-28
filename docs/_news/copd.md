@@ -3,9 +3,9 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 30 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 31 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # EPOC (copd) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>30 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>31 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (30)
+## Related News (31)
+
+### [COPD beeinträchtigt unbemerkt die Lungenfunktion und erhöht so das Sterberisiko.](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+2026-11-27
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+---
 
 ### [COPD ohne Obstruktion: Relevanter als bislang gedacht - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
 

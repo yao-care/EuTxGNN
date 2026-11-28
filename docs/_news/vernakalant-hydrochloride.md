@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vernakalant Hydrochloride. 0 predicted indications."
 permalink: /news/vernakalant-hydrochloride/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Vernakalant Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Vernakalant Hydrochloride?">
-<strong>Vernakalant Hydrochloride</strong> currently has <strong>323 news articles</strong>, with 0 predicted indications.
+<strong>Vernakalant Hydrochloride</strong> currently has <strong>324 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,31 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 <p><a href="{{ '/drugs/vernakalant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (323)
+## Related News (324)
+
+### [La mayoría de las personas con obesidad se culpa por no perder peso - El Correo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN05oM2VWZmtXSmtSVkdJYkpRU3JteEgxS0JMOS1zdWtZenZOU1RsODBjcmNvQ1NzVjZaejQ5T3dGQjl3NHc2V0J4WTNVYml4ODVFcHQzUFZXZzd1Rk9RS0Z5ZjhvcHRNUWtrWG1LNGo2NVFiRy10cUxJVWhnM1JWNmc1ZEd5a3BQMjU4Z0lqaVlaRHp5NEdjVWk0Vi0tZlo3UFlLXzBrRdIBrAFBVV95cUxQREpSTXozcVU2b1M0ZkUtVnAxa1dqaHcxQkRnU1ZrcmI2S2x1Q0FxVGhYZzR6TDRPMGlVdDRZa0hFbFEzczhpOHMtLTFPRV9hTGx3bWJYRUg2WXczQUxNdzRVQVlwZEQ0SGlCcFFXSllmNmJVekdRT2pNNWtkZmdaUFZ2ZWhHTGw1UmdVZUFtVnIxMFpQbmlBRWt2VFRSNXBVM1pDNjJIcjljTTZG?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [El Correo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN05oM2VWZmtXSmtSVkdJYkpRU3JteEgxS0JMOS1zdWtZenZOU1RsODBjcmNvQ1NzVjZaejQ5T3dGQjl3NHc2V0J4WTNVYml4ODVFcHQzUFZXZzd1Rk9RS0Z5ZjhvcHRNUWtrWG1LNGo2NVFiRy10cUxJVWhnM1JWNmc1ZEd5a3BQMjU4Z0lqaVlaRHp5NEdjVWk0Vi0tZlo3UFlLXzBrRdIBrAFBVV95cUxQREpSTXozcVU2b1M0ZkUtVnAxa1dqaHcxQkRnU1ZrcmI2S2x1Q0FxVGhYZzR6TDRPMGlVdDRZa0hFbFEzczhpOHMtLTFPRV9hTGx3bWJYRUg2WXczQUxNdzRVQVlwZEQ0SGlCcFFXSllmNmJVekdRT2pNNWtkZmdaUFZ2ZWhHTGw1UmdVZUFtVnIxMFpQbmlBRWt2VFRSNXBVM1pDNjJIcjljTTZG?oc=5)
+
+---
+
+### [El uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+---
+
+### [La obesidad puede ocultar una pérdida de músculo y fuerza que aumenta el riesgo de fragilidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX21yd1B3ZUs3ZnI1bG1uMmRUUmlrUEJ6blk3SU1pcHZCRXhneV9Gb2NxM0x0TGJuWTBBUjE5bm53cTdTdXhCQ3BEWXpKQjNxR19hRDNWVW9QLW1DcWxFcksxeVlLNXljT2JHekJ3WVFMbnJSVDY3Z3FzV2Z3YVpSckZ1c2Z2Y3dvTWZDYU10aF81NzlIM3lPNEVqbGU5bzZVVmQ4em1SaFVnNVNnSkJwUTdOeGlDQmg0R20yWVlpenrSAbsBQVVfeXFMTlUxVDl4MHl4QmhjUmtlT2swV1RlNUYxTFViVVF2anZ0X0NENzVnckNuT1pxbWlqV085ejktZ2FnaV9FdVNBU1VEY0tqMjhvcExhbnRhemxoWDBFdEpTX1NVSXJTTmcyTmExNnFjWnFicWVnVUNENnF3dmlpTWl1aEJPUldjc0VtN1p0NXRXVmVjX0FreTZQTlJUZ1RHNUIzRGZFbHF6NzBSbVhpcmVPbm1BRmlVcUZaVGZrWQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX21yd1B3ZUs3ZnI1bG1uMmRUUmlrUEJ6blk3SU1pcHZCRXhneV9Gb2NxM0x0TGJuWTBBUjE5bm53cTdTdXhCQ3BEWXpKQjNxR19hRDNWVW9QLW1DcWxFcksxeVlLNXljT2JHekJ3WVFMbnJSVDY3Z3FzV2Z3YVpSckZ1c2Z2Y3dvTWZDYU10aF81NzlIM3lPNEVqbGU5bzZVVmQ4em1SaFVnNVNnSkJwUTdOeGlDQmg0R20yWVlpenrSAbsBQVVfeXFMTlUxVDl4MHl4QmhjUmtlT2swV1RlNUYxTFViVVF2anZ0X0NENzVnckNuT1pxbWlqV085ejktZ2FnaV9FdVNBU1VEY0tqMjhvcExhbnRhemxoWDBFdEpTX1NVSXJTTmcyTmExNnFjWnFicWVnVUNENnF3dmlpTWl1aEJPUldjc0VtN1p0NXRXVmVjX0FreTZQTlJUZ1RHNUIzRGZFbHF6NzBSbVhpcmVPbm1BRmlVcUZaVGZrWQ?oc=5)
+
+---
 
 ### [La obesidad condiciona la fertilidad, reduce las posibilidades de éxito de los tratamientos de reproducción asistida y aumenta los riesgos durante el embarazo - Salud a Diario](https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlZvbDB2bGFMYjB0WHBrdTFOcXZsZGJzSTlqVmZZVEZmX05IZHAwWmxmWEdVcFRscGdjd2l5cGF2N0JQWTE0Sk5CbWl2cGI1VXFQeFNUdllvMWVsWmlEQnh1aV9CbDJHdkw1N01HOUpadS1RYWtELXd6djU4Z1Q3aEFYeUF0TDhxcHZyLW1tSUFXS2ctcGtrUDVXN1htemxoOG1XcWY2TVZQdHZna1U4VUsyVW9wNzJXQnZMaTQtV2RfQ0piTFFjSTJ4ZWpiV3FJYk5tbFZXc3FKclNIazRRMFJDNldwY29ETi16dTloeklLOXVKTzhPWlNNOEhHZzBRLU9jdG5DWGtJNXV3VU1IVi1GdGh6RlJxSXJoRTZhajJLOTBpWV9r?oc=5)
 
@@ -417,7 +441,7 @@ Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlRE
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-11-23 <span class="news-indication-tag">obesity</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
@@ -2596,22 +2620,6 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95c
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
-
----
-
-### [Micro-ictus silenti, il rischio sale se si eccede con alimenti ultraprocessati - la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
-
-2026-10-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
-
----
-
-### [El ensayo We-trust supera los 320 pacientes para evaluar un nuevo circuito de atención al ictus isquémico agudo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ictus</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
 
 ---
 

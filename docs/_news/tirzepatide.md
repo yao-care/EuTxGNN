@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Tirzepatide News
@@ -32,6 +32,14 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (46)
 
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
+
 ### ['Game changer' 45p supp ended wine & chocolate cravings - I don't need Mounjaro - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2ducFJUeDBBNW9FY2RhLTRaRlY4YkVUY2VsNWlwUXhTaTFXT2t0dFdfZ0hGMUNPTXQtOWp2SUxNVm5LcVAtSmxTVnVld1EyUmxLZURZNV96MzFxNUxZWWdROVJFbnktZXRYa3V5NWhfYVJpZDV2SkxpN004YV9SbUw4Ukh1ZTVfOTdaZnJHYUNoM3RWOHk5TmpXSUVENURvYXc?oc=5)
 
 2026-11-25 <span class="news-drug-tag">Tirzepatide</span>
@@ -45,14 +53,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2ducFJUe
 2026-11-25 <span class="news-indication-tag">artritis</span>
 
 Source: [El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1F1eVRpSkkxOUx2eHpCX3J6SFI0SG5FdTVZZFZNS25Ub0FHejNiRFh1WVFUempOQkdpYTZ6dEJ2R3Y5MU50YmREY3h4b0gyM2ltcEZBcC10QlJBaW1pbEtmY19GVWFiMzVjNFpWNl92d3pJdXFsNXhkcjJsZFJxR0dZQTNKTE0xUUxnYVg3VV9vU0VmdGFqYU96ZjRhM1NoQ3U3QW51R2hJaFNialFNYThadlFOVnEyUzdkSDFubTV2eXU1VEg2bUE1YXFiNkV6QXFFTl8zOVo5a2ZZZFhv0gHkAUFVX3lxTE9QeDUtRjBxSGx2N0o4dVY3YWRyckFreUstRnA4M05DOURPUVNMWWdHbURwQW5haUhnbkFMbzhxQ3lBQXRudHhKN2h4ZXk0VXFrNlhTNDlyQVpjQm9wYkFXaUx6SHlIcndybXBsYTQ1dGswN1hrWDgyWi1KM1ZCME1RUG9HcnZxamJRcy1tQlpjSlZ3NHFYMHJMSXRLaTE2M0ZPb2x2enFIV0ZPLXJCcUQ1ejdjQlkwZmZUMmF1Z2xISFZyQVJUWUV0QUJ2WGtTdHJKSkFycmV6d3hXWnh2bWw1QWpZeg?oc=5)
-
----
-
-### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
-
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
 ---
 
@@ -98,7 +98,7 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbE5r
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-11-23 <span class="news-indication-tag">obesity</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 

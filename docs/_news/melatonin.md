@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Melatonin. 0 predicted indications."
 permalink: /news/melatonin/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Melatonin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>171 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>175 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,39 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (171)
+## Related News (175)
+
+### [La mayoría de las personas con obesidad se culpa por no perder peso - El Correo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN05oM2VWZmtXSmtSVkdJYkpRU3JteEgxS0JMOS1zdWtZenZOU1RsODBjcmNvQ1NzVjZaejQ5T3dGQjl3NHc2V0J4WTNVYml4ODVFcHQzUFZXZzd1Rk9RS0Z5ZjhvcHRNUWtrWG1LNGo2NVFiRy10cUxJVWhnM1JWNmc1ZEd5a3BQMjU4Z0lqaVlaRHp5NEdjVWk0Vi0tZlo3UFlLXzBrRdIBrAFBVV95cUxQREpSTXozcVU2b1M0ZkUtVnAxa1dqaHcxQkRnU1ZrcmI2S2x1Q0FxVGhYZzR6TDRPMGlVdDRZa0hFbFEzczhpOHMtLTFPRV9hTGx3bWJYRUg2WXczQUxNdzRVQVlwZEQ0SGlCcFFXSllmNmJVekdRT2pNNWtkZmdaUFZ2ZWhHTGw1UmdVZUFtVnIxMFpQbmlBRWt2VFRSNXBVM1pDNjJIcjljTTZG?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [El Correo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN05oM2VWZmtXSmtSVkdJYkpRU3JteEgxS0JMOS1zdWtZenZOU1RsODBjcmNvQ1NzVjZaejQ5T3dGQjl3NHc2V0J4WTNVYml4ODVFcHQzUFZXZzd1Rk9RS0Z5ZjhvcHRNUWtrWG1LNGo2NVFiRy10cUxJVWhnM1JWNmc1ZEd5a3BQMjU4Z0lqaVlaRHp5NEdjVWk0Vi0tZlo3UFlLXzBrRdIBrAFBVV95cUxQREpSTXozcVU2b1M0ZkUtVnAxa1dqaHcxQkRnU1ZrcmI2S2x1Q0FxVGhYZzR6TDRPMGlVdDRZa0hFbFEzczhpOHMtLTFPRV9hTGx3bWJYRUg2WXczQUxNdzRVQVlwZEQ0SGlCcFFXSllmNmJVekdRT2pNNWtkZmdaUFZ2ZWhHTGw1UmdVZUFtVnIxMFpQbmlBRWt2VFRSNXBVM1pDNjJIcjljTTZG?oc=5)
+
+---
+
+### [El uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+---
+
+### [La obesidad puede ocultar una pérdida de músculo y fuerza que aumenta el riesgo de fragilidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX21yd1B3ZUs3ZnI1bG1uMmRUUmlrUEJ6blk3SU1pcHZCRXhneV9Gb2NxM0x0TGJuWTBBUjE5bm53cTdTdXhCQ3BEWXpKQjNxR19hRDNWVW9QLW1DcWxFcksxeVlLNXljT2JHekJ3WVFMbnJSVDY3Z3FzV2Z3YVpSckZ1c2Z2Y3dvTWZDYU10aF81NzlIM3lPNEVqbGU5bzZVVmQ4em1SaFVnNVNnSkJwUTdOeGlDQmg0R20yWVlpenrSAbsBQVVfeXFMTlUxVDl4MHl4QmhjUmtlT2swV1RlNUYxTFViVVF2anZ0X0NENzVnckNuT1pxbWlqV085ejktZ2FnaV9FdVNBU1VEY0tqMjhvcExhbnRhemxoWDBFdEpTX1NVSXJTTmcyTmExNnFjWnFicWVnVUNENnF3dmlpTWl1aEJPUldjc0VtN1p0NXRXVmVjX0FreTZQTlJUZ1RHNUIzRGZFbHF6NzBSbVhpcmVPbm1BRmlVcUZaVGZrWQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX21yd1B3ZUs3ZnI1bG1uMmRUUmlrUEJ6blk3SU1pcHZCRXhneV9Gb2NxM0x0TGJuWTBBUjE5bm53cTdTdXhCQ3BEWXpKQjNxR19hRDNWVW9QLW1DcWxFcksxeVlLNXljT2JHekJ3WVFMbnJSVDY3Z3FzV2Z3YVpSckZ1c2Z2Y3dvTWZDYU10aF81NzlIM3lPNEVqbGU5bzZVVmQ4em1SaFVnNVNnSkJwUTdOeGlDQmg0R20yWVlpenrSAbsBQVVfeXFMTlUxVDl4MHl4QmhjUmtlT2swV1RlNUYxTFViVVF2anZ0X0NENzVnckNuT1pxbWlqV085ejktZ2FnaV9FdVNBU1VEY0tqMjhvcExhbnRhemxoWDBFdEpTX1NVSXJTTmcyTmExNnFjWnFicWVnVUNENnF3dmlpTWl1aEJPUldjc0VtN1p0NXRXVmVjX0FreTZQTlJUZ1RHNUIzRGZFbHF6NzBSbVhpcmVPbm1BRmlVcUZaVGZrWQ?oc=5)
+
+---
+
+### [Darío Acuña-Castroviejo, experto en sueño: “Solo tres segundos de luz blanca bastan para alterar el descanso” - Diario AS](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVFFQnIyUnRhZ3NPZ2N0TjFCSEhOMGppcjNDTHZlUkp3NmRlT1g3ZVNVSXJKWnp1Q1FZQTFnSXpvNVp1VXVROWlhSDdQdVVoaHNHdkNoSWZvNFlXY2VxcjRYak5iTXRzNFl4TUhhbXFoQ0FRZE91eXpUZUlnNUlOTDVOLTZQcUNTbHlSekR5U0sxdHNqcnEzY1VpUVVwSFRNS3VETktvdURHNUttLUhNMXluWGtRbGkzaURlRGNPcEVGXzlQU0tTV2JrNEp2d1p5cGYtTWh3Z1RfeFVZYWFGMNIB9AFBVV95cUxNR01wVG1zWl9wLWtTZkZ6cVFJN1JSLWRiUXVmOHNESHFqVkYtWi1FZFRoY3JXbUVmVlZBQ2I3WXlSMV83UnRaSTZ2UHJkMV91TUdYYm9tODE4bmZ4bzJsb3NnaFVtQkpZTGpyOGtzQk1pVXFSNU5jclZscW5rQ2JaZ3p0ZTBSaU12SkxaY3VvZ3VzYUkxUXBOV2pWV1hXZFBZQmpzWnRNN2phSmd6cnZBaE5aNENZa3FyZVd0VThrRkM1QUhmV0s4cjZGbGVtaThNb3hSTzJkUDBoa3NOTWZHYUxlaEVKSjNsVTU2TVptbHAxZUFW?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Melatonin</span>
+
+Source: [Diario AS](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVFFQnIyUnRhZ3NPZ2N0TjFCSEhOMGppcjNDTHZlUkp3NmRlT1g3ZVNVSXJKWnp1Q1FZQTFnSXpvNVp1VXVROWlhSDdQdVVoaHNHdkNoSWZvNFlXY2VxcjRYak5iTXRzNFl4TUhhbXFoQ0FRZE91eXpUZUlnNUlOTDVOLTZQcUNTbHlSekR5U0sxdHNqcnEzY1VpUVVwSFRNS3VETktvdURHNUttLUhNMXluWGtRbGkzaURlRGNPcEVGXzlQU0tTV2JrNEp2d1p5cGYtTWh3Z1RfeFVZYWFGMNIB9AFBVV95cUxNR01wVG1zWl9wLWtTZkZ6cVFJN1JSLWRiUXVmOHNESHFqVkYtWi1FZFRoY3JXbUVmVlZBQ2I3WXlSMV83UnRaSTZ2UHJkMV91TUdYYm9tODE4bmZ4bzJsb3NnaFVtQkpZTGpyOGtzQk1pVXFSNU5jclZscW5rQ2JaZ3p0ZTBSaU12SkxaY3VvZ3VzYUkxUXBOV2pWV1hXZFBZQmpzWnRNN2phSmd6cnZBaE5aNENZa3FyZVd0VThrRkM1QUhmV0s4cjZGbGVtaThNb3hSTzJkUDBoa3NOTWZHYUxlaEVKSjNsVTU2TVptbHAxZUFW?oc=5)
+
+---
 
 ### [Darío Acuña-Castroviejo, experto en sueño: “Solo tres segundos de luz blanca bastan para alterar el descanso” - Diario AS](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVFFQnIyUnRhZ3NPZ2N0TjFCSEhOMGppcjNDTHZlUkp3NmRlT1g3ZVNVSXJKWnp1Q1FZQTFnSXpvNVp1VXVROWlhSDdQdVVoaHNHdkNoSWZvNFlXY2VxcjRYak5iTXRzNFl4TUhhbXFoQ0FRZE91eXpUZUlnNUlOTDVOLTZQcUNTbHlSekR5U0sxdHNqcnEzY1VpUVVwSFRNS3VETktvdURHNUttLUhNMXluWGtRbGkzaURlRGNPcEVGXzlQU0tTV2JrNEp2d1p5cGYtTWh3Z1RfeFVZYWFGMA?oc=5)
 
@@ -266,7 +298,7 @@ Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlRE
 
 ### [GLP-1 weight-loss drugs could change far more than waistlines, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 
-2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-11-23 <span class="news-indication-tag">obesity</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3pZdy1WRUc4b2Ric2llc25LOUZQeFljZmQ5TzY2Q2I2WUJHcFJ6b01iZG0wbXliZldWZC1PMVdHbVoyQ095VktPR0pQaGNiZGxBRWE0M1pOdEFHOVAtRklFRXdnV3FBUTZCRGl3X25EYXQ1SXhfekp3QjlmeTdoM1hvcmRWMXliRVFXblpxRTR0UXctQmdTMDluOFZpeEVIVEQ0WjczMTdmZ0dtUmJsbVFJQjZPQzd2VXVGM1J3cFBKQQ?oc=5)
 

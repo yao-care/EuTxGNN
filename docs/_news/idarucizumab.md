@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Idarucizumab. 0 predicted indications."
 permalink: /news/idarucizumab/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Idarucizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>48 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>50 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (48)
+## Related News (50)
+
+### [COPD beeinträchtigt unbemerkt die Lungenfunktion und erhöht so das Sterberisiko.](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">copd</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+---
+
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
 
 ### [COPD ohne Obstruktion: Relevanter als bislang gedacht - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
 

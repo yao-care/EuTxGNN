@@ -3,9 +3,9 @@ layout: default
 title: "enfermedad renal crónica (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad renal crónica (chronic kidney disease). 20 articles, 1 related drugs."
+description: "Health news about enfermedad renal crónica (chronic kidney disease). 21 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # enfermedad renal crónica (chronic kidney disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad renal crónica (chronic kidney disease)?">
-<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>20 news articles</strong> and 1 related drugs.
+<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>21 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “enfermedad renal crón
 </ul>
 </div>
 
-## Related News (20)
+## Related News (21)
+
+### [Foamy urine or puffy eyes after waking up? When these everyday changes could be a warning sign that your kidneys need attention, doctors explain - The Times of India](https://news.google.com/rss/articles/CBMitAJBVV95cUxNLUp0aWNXRzhOMXY5eElqbkZZeU5jeExld0ExNGo0RDFBWHlKQUNNdk5JdjA2d1dGRmY3cUJsZUwzRk9WM1Rxd2FSOGJybUlVRWJtTGZQRVF6U2RVdWFKcXRpSTZmMy00RGFnUnd1ZlJsMk1iaWR3TjhhbDB0b0VLZDJteTkyZGNhbFIzZVdWOVgwdEpDbFpnMk13TGdsbFBQRE9KOFQ3eFBTc2RSWXk0a3plOGpzT0FaQ2NwUmNUVkhlMURabXVEUkZrNVVmUklKNG9KbXBmdVRtdFdlWlBFZmJGaUFkaUc0eGpzajZGVmRRRFpELV9UOFNjeUV6N2FjRG9IUW9jMHZxTnlWZjhrT0lTZEhJdHJNNEVTQV9LNm1oTEJYRWxjSlEzcE4tdUZrSnlvNtIBvAJBVV95cUxQR0MxZU5WZjV4LVVsdU52eTZueWM3ZlJwYmRaT2JPTkpyNlM3VnhwSlMzeDYxNXAxMjgxbU05S2RTMFVzTDhwTjkzSThqcHNSLUtCWTBmR0MwcUFaeEhRRVJZdy1udDZaVGs5SjJYM1VBSDlVbFU1ZUk5UDBYQlJvYzRNZFA0VzVkUV91aFB6LWtFT21xOVp5TnpEVWw5TTdPRjNIQUR3M2Uxd0xac2EwLVhFLXk4OHVpeEFTZTdQdDQyVHFjOTBLWTJXN1E4SnZLMnJ1eHJLRGNNTVFtUUxmcW0ycEJtaWhZUDRhWEo2TlJlNzhwdmwxTHNoNzlGTzFEYWtxNl9tWFhmZVJxY1R1TFpfNm5KcFlYWnFhNjZHS0FaQ05QRi1hbFFZTUk2c294NEhORjRrbmZMb3JF?oc=5)
+
+2026-11-27
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMitAJBVV95cUxNLUp0aWNXRzhOMXY5eElqbkZZeU5jeExld0ExNGo0RDFBWHlKQUNNdk5JdjA2d1dGRmY3cUJsZUwzRk9WM1Rxd2FSOGJybUlVRWJtTGZQRVF6U2RVdWFKcXRpSTZmMy00RGFnUnd1ZlJsMk1iaWR3TjhhbDB0b0VLZDJteTkyZGNhbFIzZVdWOVgwdEpDbFpnMk13TGdsbFBQRE9KOFQ3eFBTc2RSWXk0a3plOGpzT0FaQ2NwUmNUVkhlMURabXVEUkZrNVVmUklKNG9KbXBmdVRtdFdlWlBFZmJGaUFkaUc0eGpzajZGVmRRRFpELV9UOFNjeUV6N2FjRG9IUW9jMHZxTnlWZjhrT0lTZEhJdHJNNEVTQV9LNm1oTEJYRWxjSlEzcE4tdUZrSnlvNtIBvAJBVV95cUxQR0MxZU5WZjV4LVVsdU52eTZueWM3ZlJwYmRaT2JPTkpyNlM3VnhwSlMzeDYxNXAxMjgxbU05S2RTMFVzTDhwTjkzSThqcHNSLUtCWTBmR0MwcUFaeEhRRVJZdy1udDZaVGs5SjJYM1VBSDlVbFU1ZUk5UDBYQlJvYzRNZFA0VzVkUV91aFB6LWtFT21xOVp5TnpEVWw5TTdPRjNIQUR3M2Uxd0xac2EwLVhFLXk4OHVpeEFTZTdQdDQyVHFjOTBLWTJXN1E4SnZLMnJ1eHJLRGNNTVFtUUxmcW0ycEJtaWhZUDRhWEo2TlJlNzhwdmwxTHNoNzlGTzFEYWtxNl9tWFhmZVJxY1R1TFpfNm5KcFlYWnFhNjZHS0FaQ05QRi1hbFFZTUk2c294NEhORjRrbmZMb3JF?oc=5)
+
+---
 
 ### [El mayor estudio sobre enfermedad renal crónica en España pone de relieve su impacto económico y la carga que supone para el sistema sanitario](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlAwZEh3TzFPN3Rpd19wS2g3R2RQM2J0YmEwSmwwZi1Jc2M5cXQ0TzVKd2FJSzlzZFRVYm16eEh0ZE93bU16ZE9RYl9NRmZPT2pzazdMc2QzSXUwamc3S3N1Rks3V2NUWmxVXzc4dExSQWVaNXZKSlBDYlNvLWExelJXVW1SalBLYXRYbW5fWS1pcDVNWjdZdFlRdmZMM3BMZTFHVTJBcDc4ZnF4YlNQWFpGVndkcGZ3dEdiWkV4Yk5DTk9Kc0NwaFllMWwtUHZ1cXdvaWk1UlB1RlZTTVV0ZllyS3V0V0x2S09ySHl5OWE3SWlHTnI4?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Glucarpidase. 10 predicted indications."
 permalink: /news/glucarpidase/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Glucarpidase News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Glucarpidase?">
-<strong>Glucarpidase</strong> currently has <strong>313 news articles</strong>, with 10 predicted indications.
+<strong>Glucarpidase</strong> currently has <strong>314 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Glucarpidase with the latest
 <p><a href="{{ '/drugs/glucarpidase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (313)
+## Related News (314)
+
+### [El uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGNKbWNxYzYyTU9DNmRpcEFFUXRQckFkekFHN0hwUHhGQnM1S05Qc3lYbElReDNVSnVwNUwzUFAwR1NhbzhNVzBtOTNLSmtGV1AybnlmeFA2UU9TUElWczNMMUV5V2JtR3Vpb3ZJN0lZU1FCSnMzcTlIandYcHkwcnZVaC0yeFlNQlRfdk9WMERLQ1VyZkl3TE9hS1VGNlhOSmFiRXhxalg1TEcwUGozNHRUWndjYXJHeDFxcVVSVXNMX3NicVBSdFBRYU51WEpTSl91SXR4WQ?oc=5)
+
+---
+
+### [Congreso SEMI: El internista, un cortafuegos frente al cáncer, el VIH y los trastornos mentales en el paciente con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEZpUjJRR2VtazhkMHdxVjkxSXlzWmZncHF4OHE2SkN5QnRoajhPaDFQbm5OQ1VBZWExN3RyemdkZDJBeXZOSjJxZTc5Xy1WS0oxOF9pVmN3S004NEVGbjktLWFiZlM1c3FYR2xacmljal9KXzl2ell4TkgwYXpsQnNxSkJOem9mUWR3REVyWmgyZnROOTVlOVVQU3UwRkRRaTNrcXp0Q2ZrWTcxdzcxOFRDQkloUFMz0gGzAUFVX3lxTE9PWENjLV9KN2ItSXlHWUxMOGtJWWFWNEwzSEpBazJObkRZLWVvMlNIQ29FSHIzc0dTQzdLSFU0UWNCeURraFdJRG1mWFdFeEtkNERIdDR5b1B6MkczQnlZMUpKeXF6Q0hiS3hCaGItcjJSdXhqSUJQRTY0a1RoNE9tOS1JYXExM0dNRlBOMkhzT1VZbks4bjl0SUlBanptajM4Ym10Q3o0OEYwYW1yX3dPQTRz?oc=5)
+
+2026-11-27 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEZpUjJRR2VtazhkMHdxVjkxSXlzWmZncHF4OHE2SkN5QnRoajhPaDFQbm5OQ1VBZWExN3RyemdkZDJBeXZOSjJxZTc5Xy1WS0oxOF9pVmN3S004NEVGbjktLWFiZlM1c3FYR2xacmljal9KXzl2ell4TkgwYXpsQnNxSkJOem9mUWR3REVyWmgyZnROOTVlOVVQU3UwRkRRaTNrcXp0Q2ZrWTcxdzcxOFRDQkloUFMz0gGzAUFVX3lxTE9PWENjLV9KN2ItSXlHWUxMOGtJWWFWNEwzSEpBazJObkRZLWVvMlNIQ29FSHIzc0dTQzdLSFU0UWNCeURraFdJRG1mWFdFeEtkNERIdDR5b1B6MkczQnlZMUpKeXF6Q0hiS3hCaGItcjJSdXhqSUJQRTY0a1RoNE9tOS1JYXExM0dNRlBOMkhzT1VZbks4bjl0SUlBanptajM4Ym10Q3o0OEYwYW1yX3dPQTRz?oc=5)
+
+---
 
 ### [Forschung weist auf langfristige Gesundheitsrisiken bei Gestationsdiabetes hin - Biermann Medizin](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHhRZWdDMWlOYzNzbHBJbjQ4ZDhBVGY4bFp3TnV0N1JIYmpsdWpzWDBoZU41N3Fod2c5ME93SUFJRjdIelNqWG9nckMwbUNXbnBFMDF3OWpSM0Y5bHRUZ1VhT0VNRGdCYWtOR1I1UEw1Q0N5bE93bTdKOVJUbVJ2dE1VWTdIUQ?oc=5)
 
@@ -108,17 +124,9 @@ Source: [FAZ](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWp2NFJ1bGhFQ
 
 ---
 
-### [Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
-
-2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">diabète</span>
-
-Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5)
-
----
-
 ### [Keeping Weight Off During and After GLP-1 Treatment](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
-2026-11-25 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxOODhqVEFuMmdDbV9XSlByUi1yRHNLaUdic1pUcG00bTNkM29qSFFQbVR0M1kyUlI1VjZPLUJmaWQ3cUpnOG0yQUgtLTd0MlRNdGpPWnkwS1V0VzhrSVM4MlVQVjk2TXBoSzJLOTBEYmtYbkFpYTBLN010eWRUaUpLWjRMVDZIZVJoeUxmUWNOV2dPMHBwRGtQVnk1N19sUQ?oc=5)
 
@@ -172,11 +180,11 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWZqOV
 
 ---
 
-### [Diabetes und Luftverschmutzung: Neue Studie zeigt Zusammenhang mit schlechteren Stoffwechselwerten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
+### [Diabetes und Luftverschmutzung: Neue Studie zeigt Zusammenhang mit schlechteren Stoffwechselwerten - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
 
 2026-11-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
+Source: [idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NWI1bEp6VGVBYXVDWm50Wm9lQjMxYUtFYVBwWmJBLWNLM2hQSUVqdS15OE5kWld4TFF6X0NSSVpkX3pnS1VmT3RhUQ?oc=5)
 
 ---
 

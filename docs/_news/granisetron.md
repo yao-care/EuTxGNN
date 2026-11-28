@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Granisetron. 10 predicted indications."
 permalink: /news/granisetron/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Granisetron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>47 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>48 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (47)
+## Related News (48)
+
+### [COPD beeinträchtigt unbemerkt die Lungenfunktion und erhöht so das Sterberisiko.](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">copd</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjhoSDliTnhkQ1Q4MHFXaEMxcVNkV3c1Q2k1cVYxOWxuVzhxSUcyTml4UmJNQzJoVDQweVdZMnZsaE96QkV5NnlMa1RSMWgwbmU3cW9RcXUzVms0NHNKN09CN1BXeXNKZ2VSTWY2alJCVW5va1hPMnJ1Zy1oWXBiZTgtdGJubjFaUGNiTVhMZw?oc=5)
+
+---
 
 ### [COPD ohne Obstruktion: Relevanter als bislang gedacht - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJNQ2xYY1pjRUx5VG9McmNLQWV3dDhPaktrRVdielBQdlo1Ulo0VXg2a1NUNVJFZnd5WXdUcU9iUEtoeEZYUnBWbzJRbzUtNkdZU1Fnc05JcGV3MGVvb0NoNDlyRENkM0NXR1RpdEU2ZzhJODJZQXQxcW5TTVRENl9KdlZZRU1wdlpYeDBxV1pSOFptZ1JfNzhZUzltYzNhVUY4?oc=5)
 

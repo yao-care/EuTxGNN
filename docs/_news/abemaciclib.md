@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>43 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>45 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (45)
+
+### [Cannabiskonsum: Studie warnt vor Herzerkrankungen und Schlaganfällen - mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+---
+
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 

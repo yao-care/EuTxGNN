@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Agomelatine. 7 predicted indications."
 permalink: /news/agomelatine/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Agomelatine News
@@ -75,7 +75,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUVuVVd6N
 
 ### [The brain keeps the score: how trauma leaves molecular scars in cells](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWllBOW1TM3FIazFnVlhqWGFjZXFiOGp3dHMtYlNlV2dONTlENmZDaERYSzhFalRUdjFROE9DTlNzZmMxSGJJbDYyUVUzc0otRnNrTVR3dmpCTE1NdWhz?oc=5)
 
-2026-11-24 <span class="news-indication-tag">depression</span>
+2026-11-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depression</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWllBOW1TM3FIazFnVlhqWGFjZXFiOGp3dHMtYlNlV2dONTlENmZDaERYSzhFalRUdjFROE9DTlNzZmMxSGJJbDYyUVUzc0otRnNrTVR3dmpCTE1NdWhz?oc=5)
 

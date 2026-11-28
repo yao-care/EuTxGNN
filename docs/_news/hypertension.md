@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "hipertensión (hypertension) News"
+title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 71 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 73 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
-# hipertensión (hypertension) News
+# high blood pressure (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>71 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
+<strong>high blood pressure (hypertension)</strong> currently has <strong>73 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,7 +64,23 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (71)
+## Related News (73)
+
+### [Hope for millions as cheap 6p supplement found to slash 'silent killer' high blood pressure in DAYS - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3ZhTV9tQTY4WjAxaERTM0JNWGlpMlctZVVtOW9RMmdtZm5ESjA3SXFBcHJWblctX2w4R0ZQWThnNlgxVlp3SkowUzJaaHRuR1k3REVHMkdMVk53aHB6enZrUnkyTkU2dXJ6ZDA2NnFETHFFT1hUUkpKYTZRMjJINlV2d2lBQWV6?oc=5)
+
+2026-11-27
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3ZhTV9tQTY4WjAxaERTM0JNWGlpMlctZVVtOW9RMmdtZm5ESjA3SXFBcHJWblctX2w4R0ZQWThnNlgxVlp3SkowUzJaaHRuR1k3REVHMkdMVk53aHB6enZrUnkyTkU2dXJ6ZDA2NnFETHFFT1hUUkpKYTZRMjJINlV2d2lBQWV6?oc=5)
+
+---
+
+### [UK drug ‘crisis’ as 23 medications hit by shortages - full list - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0gtTG51TVVJX3l3T0VrdFFvOEZjWkxCR05ZUjlQdmRHXzFHUGhONUlua0pBbWdtYlY3aXk2eTIwWmN3ZGZpRU1ieHpTTGNTUDcwdmpQeS16LTZUUWptcm1UdFJMM2hGSERya3RxV01YNHZDWHlRN0dUR1pKOUFqN19FM2VHM1V3elVkY0N6TdIBlAFBVV95cUxQQnBhc3ZnSzVaX25lS2RQSHFGZ0NMWVo0Ul9JcTZ2aUlHYmFyTVk1NmFIUUdzb1NZV01HTWRQWkxZNU9iOXVRUjAxeExCU1BxY1MzVnhfaEZnRElZU3FRcVVMd3loeWN2V1ZLLUdhM2F0SFdaUjVvN2w0WDFsVVU2VjJac3ZSbVU1dnBBSTAtRDRZVjJm?oc=5)
+
+2026-11-27
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0gtTG51TVVJX3l3T0VrdFFvOEZjWkxCR05ZUjlQdmRHXzFHUGhONUlua0pBbWdtYlY3aXk2eTIwWmN3ZGZpRU1ieHpTTGNTUDcwdmpQeS16LTZUUWptcm1UdFJMM2hGSERya3RxV01YNHZDWHlRN0dUR1pKOUFqN19FM2VHM1V3elVkY0N6TdIBlAFBVV95cUxQQnBhc3ZnSzVaX25lS2RQSHFGZ0NMWVo0Ul9JcTZ2aUlHYmFyTVk1NmFIUUdzb1NZV01HTWRQWkxZNU9iOXVRUjAxeExCU1BxY1MzVnhfaEZnRElZU3FRcVVMd3loeWN2V1ZLLUdhM2F0SFdaUjVvN2w0WDFsVVU2VjJac3ZSbVU1dnBBSTAtRDRZVjJm?oc=5)
+
+---
 
 ### [Après 60 ans, cet exercice immobile de quelques minutes serait l'un des plus efficaces contre l'hypertension, selon les cardiologues - La Provence](https://news.google.com/rss/articles/CBMilAJBVV95cUxNRWtOVWlPazc1dTVVQ1FhWHQzSG9FWlh5WFN1MllJSk9LbVRRc1ZySmladlM1R0w4WGFoYkdYMmk0X2QydWV3TmJmcFNtOTJJZ1I4ZFMySnpBNldMdFphWV9pd3dDcklaMFlxQjZXVFVCdVotdmhtU2M0R0ZKbld4Z2xVTFlkMTVXODdZdGI1OEpJNDJZMUo3cjFIZERLR19Sb2NqbTRLSGJ3MWxsMVo1X09WVmxaRDhsWTlYNlJWZWFvQng2ZXhmVVV1cGdBVXhzc1hmQ0VrTzZDdDdZbEFoT0JDVmF0aDRsYWhQbG5EVnZQSExfWjhOSzA5SzRaN3piNU1sLTN6VXgzbnNkSkVnd0dOVlE?oc=5)
 

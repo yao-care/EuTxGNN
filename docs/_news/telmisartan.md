@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>239 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>240 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (239)
+## Related News (240)
+
+### [Cannabiskonsum: Studie warnt vor Herzerkrankungen und Schlaganfällen - mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+---
+
+### [Hope for millions as cheap 6p supplement found to slash 'silent killer' high blood pressure in DAYS - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3ZhTV9tQTY4WjAxaERTM0JNWGlpMlctZVVtOW9RMmdtZm5ESjA3SXFBcHJWblctX2w4R0ZQWThnNlgxVlp3SkowUzJaaHRuR1k3REVHMkdMVk53aHB6enZrUnkyTkU2dXJ6ZDA2NnFETHFFT1hUUkpKYTZRMjJINlV2d2lBQWV6?oc=5)
+
+2026-11-27 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3ZhTV9tQTY4WjAxaERTM0JNWGlpMlctZVVtOW9RMmdtZm5ESjA3SXFBcHJWblctX2w4R0ZQWThnNlgxVlp3SkowUzJaaHRuR1k3REVHMkdMVk53aHB6enZrUnkyTkU2dXJ6ZDA2NnFETHFFT1hUUkpKYTZRMjJINlV2d2lBQWV6?oc=5)
+
+---
+
+### [UK drug ‘crisis’ as 23 medications hit by shortages - full list - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0gtTG51TVVJX3l3T0VrdFFvOEZjWkxCR05ZUjlQdmRHXzFHUGhONUlua0pBbWdtYlY3aXk2eTIwWmN3ZGZpRU1ieHpTTGNTUDcwdmpQeS16LTZUUWptcm1UdFJMM2hGSERya3RxV01YNHZDWHlRN0dUR1pKOUFqN19FM2VHM1V3elVkY0N6TdIBlAFBVV95cUxQQnBhc3ZnSzVaX25lS2RQSHFGZ0NMWVo0Ul9JcTZ2aUlHYmFyTVk1NmFIUUdzb1NZV01HTWRQWkxZNU9iOXVRUjAxeExCU1BxY1MzVnhfaEZnRElZU3FRcVVMd3loeWN2V1ZLLUdhM2F0SFdaUjVvN2w0WDFsVVU2VjJac3ZSbVU1dnBBSTAtRDRZVjJm?oc=5)
+
+2026-11-27 <span class="news-indication-tag">hypertension</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0gtTG51TVVJX3l3T0VrdFFvOEZjWkxCR05ZUjlQdmRHXzFHUGhONUlua0pBbWdtYlY3aXk2eTIwWmN3ZGZpRU1ieHpTTGNTUDcwdmpQeS16LTZUUWptcm1UdFJMM2hGSERya3RxV01YNHZDWHlRN0dUR1pKOUFqN19FM2VHM1V3elVkY0N6TdIBlAFBVV95cUxQQnBhc3ZnSzVaX25lS2RQSHFGZ0NMWVo0Ul9JcTZ2aUlHYmFyTVk1NmFIUUdzb1NZV01HTWRQWkxZNU9iOXVRUjAxeExCU1BxY1MzVnhfaEZnRElZU3FRcVVMd3loeWN2V1ZLLUdhM2F0SFdaUjVvN2w0WDFsVVU2VjJac3ZSbVU1dnBBSTAtRDRZVjJm?oc=5)
+
+---
 
 ### [Caffè, ictus e infarto: a fare la differenza, nel bene e nel male, è il numero di tazzine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeWFDOUVpVGtyVDNVejJuMHg3ZGtTRENaX2htUWl3S1NiZUVWZ0k4emxSQkFOd3BlVmdfRjR1b1hreThTSkJ6dUJEOGlMS1VTbTB4NjFPNDRIY3dXSmlmZ05pVWVjbS0yQzNzU3JGdnJqWGJpdUJHT2Nab0VjdS1DaGhEcDVJZm93NGNid1JyYUsyNjFyZmdKaUZmVjJlMDNLY3pybkdWc0VYVGRkdFBleWprazQzZWhlckVGb3R3cUFOSmxlRHJXemNhaWQ5ejBTY3c?oc=5)
 
@@ -1936,22 +1960,6 @@ Source: [Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlc
 2026-10-29 <span class="news-indication-tag">ictus</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPMUh5emxQa3VjcmtLRHV1VDdieXZ6cWpSb3IzV2JQaGNvSnFLR3dvM1RidXlreWcyRkNybTFMbThjVXpLY1cyYmNHREc0STQ3OGc2aU5WY3R0bW9jYjZHZ0tFdy0tZk04eEZ1a0NndGlxS2xTcGp4RWtXWlh2MHlORlNzMTZQTGxLMENMWnpGdUdTSXd5dm1zU3dsaG1BTHRKRVlKbWJnR09qSFRfcE42Z2UxUWNnUjY2eFdEUzc4blF6NXZPTS1oM3FEY255TUMxUFg5ZDRTMndSOGNuSW44OXRTU1A4TVh6dVVsb2N0YUNUNFM0YUJYc0Mxd2FzVWozajBXdDQ0aDVSRl9CS0NjRWFTb3JWakFZcnd5ZzdmR2xRUWUwR1lOdTZORTh3UDjSAbQCQVVfeXFMT3BCU2tfN3NMWFY0QzMwRWZNWTZnQnZNZ1I0QnZ3YW9FX25kNkRBOC1nSGxSR1R4alc1WGhBeGZLTGUtLXpyaEp6bUh1c05DbXdYWGxBOUZHUGdGT2lhYjI2Zk9CSVBrV0cybkJubmg4T0tTTXlReFo4YzJFZmJYWUhUdkFfR1dMTUZoUTlHYnNXYjUzNlNudVFnUkxpNjBsS1l3WDhMbDhLbTFpQWRSMzBZbGptaURIQmlZSWhzcjdSQlRFTFBkeWxHRjBJcFdndG9FRGZrY2pMX3dyUjhVN3dKeE1WZEhJNm5MX2d4MmZfQkktMG9JajFYenpZTXN3QW5UVmcwd0w5Q1FJSWtmQTVEcFFzYllybEhHdEJkcXpOUEFWMldhZmY2eDdTMEhUQm1kNUk?oc=5)
-
----
-
-### [Micro-ictus silenti, il rischio sale se si eccede con alimenti ultraprocessati - la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
-
-2026-10-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
-
----
-
-### [El ensayo We-trust supera los 320 pacientes para evaluar un nuevo circuito de atención al ictus isquémico agudo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ictus</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
 
 ---
 

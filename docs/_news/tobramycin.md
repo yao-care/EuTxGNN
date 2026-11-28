@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tobramycin. 10 predicted indications."
 permalink: /news/tobramycin/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Tobramycin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Tobramycin?">
-<strong>Tobramycin</strong> currently has <strong>25 news articles</strong>, with 10 predicted indications.
+<strong>Tobramycin</strong> currently has <strong>26 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Tobramycin with the latest h
 <p><a href="{{ '/drugs/tobramycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (25)
+## Related News (26)
+
+### [Cannabiskonsum: Studie warnt vor Herzerkrankungen und Schlaganfällen - mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXZrMEYwYmlnbk1jWWsydTU4SVFTSnhYQTY1MTA5NGdBYTV3aDZRbFJzcl8tTC1ic01uak1waVFQRkhHNjRGclRLNnVaZlpjNWwxMUJheGZMRkFMdXgtTExYTkRTRko4OHhFaThzeHUzMDBoaUE2emRSSXUtNkpkcndKMXpvbUVrdFp4TQ?oc=5)
+
+---
 
 ### [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TEViX2Vac2ZvQXFZV2VuN0UtT1ZoeDd1d1VBS2E5b3QzYURRWWRuUG5vc2FMTEVDdDRVUUZGVEo0ZzI4NDZfYU5ZWVJ3VkJCY3dvZ084Q21yeXZ4Q1pn?oc=5)
 

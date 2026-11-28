@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Azathioprine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>21 news articles</strong>, with 7 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>22 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (22)
+
+### [Il mio medico: salute muscolare, artrite, nuove terapie e sana alimentazione](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+2026-11-27 <span class="news-indication-tag">artrite</span>
+
+Source: [Tv2000](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnMyWGhETE83d0tmU3JXVjJJN1dxNk80ZjNsNEZfaFlOZ2tEdlk0VUxjakRTbm16Q1pWTFN1dzRBOEM3X3R1OW9MaGk1dTZfZkg3UElUN1R5SkJsNzMtYjFVeUx6WWdrZnBhWHFtYlhLN3FiQU0xUFNNaTJSMTJyTnJIOTA1NGstOVdzcHBxemw5LW9sSG44LXJMVWdWVlVuU3hGQ3dyZlR1U1VlUVVIbUhDZU5PSjBrSmI4d25R?oc=5)
+
+---
 
 ### [Colitis ulcerosa: Oraler IL-23-Rezeptorblocker zeigt Wirksamkeit in Phase-2b-Studie](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXJybXNyN19JRkJ5dGhPbGt6bTgxd04zLXlSZk9HTU1MMVBYSU5DMFgtWjl1SWVPLXdyZWdhMjk0bUxwdW02eXFkQ2RkblQ2emREUUd6Vko1akRlUlRoeGxfWjRHc3ZBNlpfZjBaTy1lOVBydVJTYWZyVzNfOGZEOENrcExMZS1MWFFSSEVTUkdacndjUUdoTHFsaFIzVXlTaUs2Rk1lcjVTQ05zaGxxQVpPb0tocnhONjhEcnlZRWtvb3dCSWdXaFNiZnpjYlgteUU1US1LalNwbmUtTHY0WmFhcC0tQQ?oc=5)
 
